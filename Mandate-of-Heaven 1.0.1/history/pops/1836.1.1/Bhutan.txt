@@ -1,0 +1,62 @@
+1329 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 512
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 112
+	}
+	bureaucrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 20
+	}
+	officers = {
+		culture = tibetan
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 307
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1394
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 306
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 922
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 202
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 24784
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 5440
+	}
+}

@@ -1,0 +1,5 @@
+owner = KAR
+controller = KAR
+add_core = KAR
+trade_goods = tea
+life_rating = 32

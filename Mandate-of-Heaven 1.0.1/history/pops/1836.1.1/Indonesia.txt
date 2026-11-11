@@ -1,0 +1,1798 @@
+1398 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1040
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 55150
+	}
+}
+1399 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 3600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 3984
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 12540
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 3050
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 248300
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 620
+	}
+}
+1400 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 450
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 44000
+	}
+}
+1401 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 900
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 750
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 69700
+	}
+	labourers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1950
+	}
+}
+1402 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 640
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 550
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 46150
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+}
+1403 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1850
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 6950
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1550
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 125625
+	}
+}
+1404 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 250
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 640
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1750
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 350
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 32250
+	}
+}
+1405 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 250
+	}
+	officers = {
+		culture = austronesian
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 56250
+	}
+}
+1406 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4900
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 71650
+	}
+}
+1407 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1280
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3900
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 70300
+	}
+}
+1408 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1300
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1680
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 5900
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1150
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 111200
+	}
+}
+1409 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 3300
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 3680
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 13500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2950
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 242150
+	}
+}
+1410 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 816
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3100
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 650
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 54920
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 420
+	}
+}
+1411 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 480
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1400
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 31300
+	}
+}
+1413 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 5250
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 2000
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 5080
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 32325
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 16850
+	}
+	labourers = {
+		culture = austronesian
+		religion = placeholder
+		size = 438500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 55178
+	}
+	craftsmen = {
+		culture = austronesian
+		religion = placeholder
+		size = 5622
+	}
+}
+1414 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 900
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1360
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4550
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 85450
+	}
+}
+1415 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 2200
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 3480
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 12100
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2550
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 213075
+	}
+}
+1416 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2080
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 6750
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1375
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 134225
+	}
+}
+1417 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 2850
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 4280
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 14000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 11650
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 247825
+	}
+}
+1418 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 2725
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 4240
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 13000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 11800
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 242925
+	}
+}
+1419 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1120
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 850
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 82850
+	}
+}
+1420 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1850
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2720
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 8750
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1600
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 163100
+	}
+}
+1421 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1500
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2040
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 6500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2300
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 112625
+	}
+}
+1422 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 43900
+	}
+}
+1423 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1360
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4600
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 84150
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 100
+	}
+}
+1424 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 560
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1600
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 29250
+	}
+}
+1425 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 550
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 880
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2400
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 450
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 37850
+	}
+	labourers = {
+		culture = austronesian
+		religion = placeholder
+		size = 6200
+	}
+}
+1426 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 650
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1280
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 780
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 68200
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 70
+	}
+}
+1427 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 850
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2320
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3800
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 69200
+	}
+}
+1428 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 560
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 31150
+	}
+}
+1429 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 960
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 55100
+	}
+}
+1430 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1400
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1680
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 6000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 102050
+	}
+}
+1431 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1120
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 64300
+	}
+}
+1432 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 650
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1040
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 3200
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 650
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 58850
+	}
+}
+1433 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1350
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2160
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 6400
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1350
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 117550
+	}
+}
+1434 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 46000
+	}
+}
+1435 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 46000
+	}
+}
+1436 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 22050
+	}
+}
+1437 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 22050
+	}
+}
+1438 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2480
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 8100
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 5100
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 142800
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1500
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 125
+	}
+	officers = {
+		culture = austronesian
+		religion = placeholder
+		size = 200
+	}
+}
+1439 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1000
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1360
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4400
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 80850
+	}
+}
+1440 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1400
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1920
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 5900
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 112300
+	}
+}
+1441 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3000
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 4560
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 14400
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2700
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 278250
+	}
+}
+1442 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 1000
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1760
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 5000
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 90700
+	}
+}
+1443 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 561
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 62
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 168
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 12429
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 1381
+	}
+}
+1444 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 71
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 23
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 129
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 300
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 100
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 71
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 23
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 6221
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 2073
+	}
+}
+1445 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 117
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 261
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 34
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 552
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 75
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 201
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 27
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 10182
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 745
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 1380
+	}
+}
+1446 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 262
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 171
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 106
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 682
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 447
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 277
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 116
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 75
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 47
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 12459
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 8205
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 5065
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 123
+	}
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 81
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 50
+	}
+}
+1447 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 325
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 488
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1600
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 325
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 27525
+	}
+}
+1448 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 120
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 100
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 8355
+	}
+}
+1449 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 450
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 850
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 9450
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 250
+	}
+	officers = {
+		culture = austronesian
+		religion = placeholder
+		size = 75
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 300
+	}
+}
+1450 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 175
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 188
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 150
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 12850
+	}
+}
+1451 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 450
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 900
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 16350
+	}
+}
+1452 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 22575
+	}
+}
+1453 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 1800
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 3450
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 60300
+	}
+}
+1454 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 1350
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 1912
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 6000
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 119175
+	}
+}
+1560 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 1200
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 1575
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 4500
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 97350
+	}
+}
+2576 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 130
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 272
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 130
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 8120
+	}
+}
+3254 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 900
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1360
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 4550
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 85450
+	}
+}

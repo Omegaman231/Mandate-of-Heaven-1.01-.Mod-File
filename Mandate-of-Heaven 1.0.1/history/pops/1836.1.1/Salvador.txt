@@ -1,0 +1,64 @@
+2191 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 225
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 150
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 380
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 3350
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 11100
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 31400
+	}
+}
+2192 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 250
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 450
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 2200
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 2450
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 37400
+	}
+}

@@ -1,0 +1,162 @@
+army = {
+	name = "Mongol Army 1"
+	location = 2678
+	regiment = {
+		name = "1. Mongol Regiment"
+		type = hussar
+		home = 1488
+	}
+	regiment = {
+		name = "2. Mongol Regiment"
+		type = hussar
+		home = 1063
+	}
+	regiment = {
+		name = "3. Mongol Regiment"
+		type = hussar
+		home = 1469
+	}
+	regiment = {
+		name = "4. Mongol Regiment"
+		type = hussar
+		home = 1599
+	}
+	regiment = {
+		name = "5. Mongol Regiment"
+		type = hussar
+		home = 2678
+	}
+	regiment = {
+		name = "6. Mongol Regiment"
+		type = hussar
+		home = 2608
+	}
+	regiment = {
+		name = "7. Mongol Regiment"
+		type = artillery
+		home = 1595
+	}
+	regiment = {
+		name = "8. Mongol Regiment"
+		type = artillery
+		home = 2679
+	}
+	regiment = {
+		name = "9. Mongol Regiment"
+		type = artillery
+		home = 1002
+	}
+	regiment = {
+		name = "10. Mongol Regiment"
+		type = artillery
+		home = 1077
+	}
+}
+army = {
+	name = "Mongol Army 2"
+	location = 2698
+	regiment = {
+		name = "11. Mongol Regiment"
+		type = hussar
+		home = 1075
+	}
+	regiment = {
+		name = "12. Mongol Regiment"
+		type = hussar
+		home = 1067
+	}
+	regiment = {
+		name = "13. Mongol Regiment"
+		type = hussar
+		home = 1068
+	}
+	regiment = {
+		name = "14. Mongol Regiment"
+		type = hussar
+		home = 1535
+	}
+	regiment = {
+		name = "15. Mongol Regiment"
+		type = hussar
+		home = 1466
+	}
+	regiment = {
+		name = "16. Mongol Regiment"
+		type = hussar
+		home = 1465
+	}
+	regiment = {
+		name = "17. Mongol Regiment"
+		type = artillery
+		home = 1534
+	}
+	regiment = {
+		name = "18. Mongol Regiment"
+		type = artillery
+		home = 1596
+	}
+	regiment = {
+		name = "19. Mongol Regiment"
+		type = artillery
+		home = 1600
+	}
+	regiment = {
+		name = "20. Mongol Regiment"
+		type = artillery
+		home = 1488
+	}
+}
+army = {
+	name = "Mongol Army 3"
+	location = 2608
+	regiment = {
+		name = "21. Mongol Regiment"
+		type = hussar
+		home = 1063
+	}
+	regiment = {
+		name = "22. Mongol Regiment"
+		type = hussar
+		home = 1469
+	}
+	regiment = {
+		name = "23. Mongol Regiment"
+		type = hussar
+		home = 1599
+	}
+	regiment = {
+		name = "24. Mongol Regiment"
+		type = hussar
+		home = 2678
+	}
+	regiment = {
+		name = "25. Mongol Regiment"
+		type = hussar
+		home = 2608
+	}
+	regiment = {
+		name = "26. Mongol Regiment"
+		type = hussar
+		home = 1595
+	}
+	regiment = {
+		name = "27. Mongol Regiment"
+		type = artillery
+		home = 2679
+	}
+	regiment = {
+		name = "28. Mongol Regiment"
+		type = artillery
+		home = 1488
+	}
+	regiment = {
+		name = "29. Mongol Regiment"
+		type = artillery
+		home = 1063
+	}
+	regiment = {
+		name = "30. Mongol Regiment"
+		type = artillery
+		home = 1469
+	}
+}

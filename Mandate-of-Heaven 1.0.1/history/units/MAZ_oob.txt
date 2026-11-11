@@ -1,0 +1,19 @@
+army = {
+	name = "Mazunite Army 1"
+	location = 1166
+	regiment = {
+		name = "1. Mazunite Regiment"
+		type = irregular
+		home = 1166
+	}
+	regiment = {
+		name = "2. Mazunite Regiment"
+		type = irregular
+		home = 1166
+	}
+	regiment = {
+		name = "3. Mazunite Regiment"
+		type = infantry
+		home = 1171
+	}
+}

@@ -1,0 +1,140 @@
+1977 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1750
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4000
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1000
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 92250
+	}
+}
+1978 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 500
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 1750
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 36500
+	}
+}
+1980 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 6375
+	}
+}
+1981 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 400
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 7300
+	}
+}
+2624 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1500
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 400
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 3250
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1000
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 73500
+	}
+}

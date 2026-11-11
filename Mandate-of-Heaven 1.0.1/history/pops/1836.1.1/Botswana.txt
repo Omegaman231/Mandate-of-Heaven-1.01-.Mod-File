@@ -1,0 +1,140 @@
+2074 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 191
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 222
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 541
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 62891
+	}
+}
+2075 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 40
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 105
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 152
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 76
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 2788
+	}
+}
+2076 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 56
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 216
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 230
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 4186
+	}
+}
+2077 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 56
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 2746
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 216
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 230
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 57186
+	}
+}
+2574 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 76
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 148
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 309
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 133
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 58662
+	}
+}

@@ -1,0 +1,17 @@
+203 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 109
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 826
+	}
+}

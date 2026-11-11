@@ -1,0 +1,44 @@
+1955 = {
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 125
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 55
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2630
+	}
+}
+1973 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 300
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 350
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 31500
+	}
+}

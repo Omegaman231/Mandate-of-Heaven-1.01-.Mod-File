@@ -1,0 +1,405 @@
+1808 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1220
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 3150
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 2730
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 64150
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 450
+	}
+}
+1809 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 550
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1700
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 1350
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 30000
+	}
+}
+1810 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 984
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 216
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 697
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 153
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2870
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 630
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 1107
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 243
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 51742
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 11358
+	}
+}
+1811 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 1016
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 223
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 615
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 135
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 2870
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 630
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 1074
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 235
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 51824
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 11376
+	}
+}
+1812 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 615
+	}
+	aristocrats = {
+		culture = berber
+		religion = placeholder
+		size = 135
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 369
+	}
+	clergymen = {
+		culture = berber
+		religion = placeholder
+		size = 81
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 1476
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 324
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 1025
+	}
+	soldiers = {
+		culture = berber
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 30955
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 6795
+	}
+}
+1813 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 164
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 36
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 41
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 2972
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 652
+	}
+}
+1814 = {
+	aristocrats = {
+		culture = berber
+		religion = placeholder
+		size = 164
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 36
+	}
+	clergymen = {
+		culture = berber
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 451
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 99
+	}
+	soldiers = {
+		culture = berber
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 8220
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 1804
+	}
+}
+1815 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 2300
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 1250
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 6300
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 3550
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 102900
+	}
+}
+1816 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 1840
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 1000
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 3900
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 1060
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 88200
+	}
+}
+1817 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 123
+	}
+	aristocrats = {
+		culture = berber
+		religion = placeholder
+		size = 27
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = berber
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 369
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 81
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 82
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 6703
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 1471
+	}
+}

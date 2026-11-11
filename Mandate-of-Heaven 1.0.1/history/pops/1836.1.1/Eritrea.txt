@@ -1,0 +1,153 @@
+1848 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 430
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 229
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1150
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 229
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 20843
+	}
+}
+1849 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 143
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 172
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 402
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 79
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 7245
+	}
+}
+1850 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 117
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 329
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 72
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6011
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1319
+	}
+}
+1851 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 187
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 41
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 141
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 30
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 518
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 113
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 117
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 9406
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 2064
+	}
+}

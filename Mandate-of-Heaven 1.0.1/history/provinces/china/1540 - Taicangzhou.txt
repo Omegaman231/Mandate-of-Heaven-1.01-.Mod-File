@@ -1,0 +1,16 @@
+owner = CHU
+controller = CHU
+add_core = CHU
+trade_goods = tea
+life_rating = 32
+naval_base = 1
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+}

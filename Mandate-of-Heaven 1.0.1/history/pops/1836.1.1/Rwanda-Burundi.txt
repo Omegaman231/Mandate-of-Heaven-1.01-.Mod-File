@@ -1,0 +1,149 @@
+2034 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2009
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 441
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 20
+	}
+	officers = {
+		culture = kongolese
+		religion = placeholder
+		size = 102
+	}
+	officers = {
+		culture = swahili
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1435
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 315
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 5084
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1116
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1025
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 92824
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 20376
+	}
+}
+2035 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1640
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 360
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 609
+	}
+	officers = {
+		culture = swahili
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1187
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 260
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 441
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 4224
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 927
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 1569
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 9848
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 186
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 315
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 67835
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 16866
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 28532
+	}
+}

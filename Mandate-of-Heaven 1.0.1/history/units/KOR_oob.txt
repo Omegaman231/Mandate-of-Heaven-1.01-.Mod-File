@@ -1,0 +1,200 @@
+army = {
+	name = "Joseon Army 1"
+	location = 1624
+	regiment = {
+		name = "1. Joseon Regiment"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "2. Joseon Regiment"
+		type = infantry
+		home = 1624
+	}
+	regiment = {
+		name = "3. Joseon Regiment"
+		type = infantry
+		home = 1619
+	}
+	regiment = {
+		name = "4. Joseon Regiment"
+		type = infantry
+		home = 1620
+	}
+	regiment = {
+		name = "5. Joseon Regiment"
+		type = hussar
+		home = 1633
+	}
+	regiment = {
+		name = "6. Joseon Regiment"
+		type = artillery
+		home = 1634
+	}
+	regiment = {
+		name = "7. Joseon Regiment"
+		type = artillery
+		home = 1637
+	}
+	regiment = {
+		name = "8. Joseon Regiment"
+		type = artillery
+		home = 1621
+	}
+	regiment = {
+		name = "9. Joseon Regiment"
+		type = artillery
+		home = 1622
+	}
+	regiment = {
+		name = "10. Joseon Regiment"
+		type = artillery
+		home = 1636
+	}
+}
+army = {
+	name = "Joseon Army 2"
+	location = 1619
+	regiment = {
+		name = "11. Joseon Regiment"
+		type = infantry
+		home = 1627
+	}
+	regiment = {
+		name = "12. Joseon Regiment"
+		type = infantry
+		home = 3285
+	}
+	regiment = {
+		name = "13. Joseon Regiment"
+		type = infantry
+		home = 1628
+	}
+	regiment = {
+		name = "14. Joseon Regiment"
+		type = infantry
+		home = 1635
+	}
+	regiment = {
+		name = "15. Joseon Regiment"
+		type = hussar
+		home = 1632
+	}
+	regiment = {
+		name = "16. Joseon Regiment"
+		type = artillery
+		home = 1629
+	}
+	regiment = {
+		name = "17. Joseon Regiment"
+		type = artillery
+		home = 1479
+	}
+	regiment = {
+		name = "18. Joseon Regiment"
+		type = artillery
+		home = 1624
+	}
+	regiment = {
+		name = "19. Joseon Regiment"
+		type = artillery
+		home = 1619
+	}
+	regiment = {
+		name = "20. Joseon Regiment"
+		type = artillery
+		home = 1479
+	}
+}
+navy = {
+	name = "Joseon Fleet"
+	location = 1479
+	ship = {
+		name = "Joseon 1"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Joseon Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Joseon Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Turtle Ship"
+		type = ironclad
+	}
+	ship = {
+		name = "Turtle Ship"
+		type = ironclad
+	}
+}

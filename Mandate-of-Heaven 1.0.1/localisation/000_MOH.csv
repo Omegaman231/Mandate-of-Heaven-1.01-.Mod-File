@@ -1,0 +1,1200 @@
+roman_annexation_title;Reabsorb the Regna Foederata;;;;;;;;;;;;;x
+roman_annexation_desc;The client kings have taken Roman gold for centuries. The Consistorium proposes to end the fiction and govern their lands directly as provinces of the Empire.;;;;;;;;;;;;;x
+qin_accept_ne_chinese_title;Embrace the North-Eastern Chinese;;;;;;;;;;;;;x
+qin_accept_ne_chinese_desc;We now hold one of the ancient capitals of the North-Eastern Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+zha_accept_nw_chinese_title;Embrace the North-Western Chinese;;;;;;;;;;;;;x
+zha_accept_nw_chinese_desc;We now hold one of the ancient capitals of the North-Western Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+zha_accept_south_chinese_title;Embrace the Southern Chinese;;;;;;;;;;;;;x
+zha_accept_south_chinese_desc;We now hold one of the ancient capitals of the Southern Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+chu_accept_ne_chinese_title;Embrace the North-Eastern Chinese;;;;;;;;;;;;;x
+chu_accept_ne_chinese_desc;We now hold one of the ancient capitals of the North-Eastern Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+chu_accept_nw_chinese_title;Embrace the North-Western Chinese;;;;;;;;;;;;;x
+chu_accept_nw_chinese_desc;We now hold one of the ancient capitals of the North-Western Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+min_accept_ne_chinese_title;Embrace the North-Eastern Chinese;;;;;;;;;;;;;x
+min_accept_ne_chinese_desc;We now hold one of the ancient capitals of the North-Eastern Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+min_accept_nw_chinese_title;Embrace the North-Western Chinese;;;;;;;;;;;;;x
+min_accept_nw_chinese_desc;We now hold one of the ancient capitals of the North-Western Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+min_accept_south_chinese_title;Embrace the Southern Chinese;;;;;;;;;;;;;x
+min_accept_south_chinese_desc;We now hold one of the ancient capitals of the Southern Chinese. Their scholars and officials can be brought into our service as equals.;;;;;;;;;;;;;x
+form_china_title;Claim the Mandate of Heaven;;;;;;;;;;;;;x
+form_china_desc;Beijing, Chengdu, Hangzhou, Luoyang, Nanjing and Xi'an answer to one throne. The age of the rival Mandates is over.;;;;;;;;;;;;;x
+mon_northern_union_title;The Northern Union;;;;;;;;;;;;;x
+mon_northern_union_desc;With the old enemy's capital in our hands, the peoples of the steppe and the forest can be ruled as one.;;;;;;;;;;;;;x
+man_northern_union_title;The Northern Union;;;;;;;;;;;;;x
+man_northern_union_desc;With the old enemy's capital in our hands, the peoples of the steppe and the forest can be ruled as one.;;;;;;;;;;;;;x
+form_deccan_empire_title;Proclaim the Deccan Empire;;;;;;;;;;;;;x
+form_deccan_empire_desc;Delhi has fallen to the armies of the south. Karnata-Malwa is no longer a regional kingdom but the paramount power of the subcontinent.;;;;;;;;;;;;;x
+form_bharat_title;Unite Bharat;;;;;;;;;;;;;x
+form_bharat_desc;From the Five Rivers to the southern cape, the subcontinent answers to a single crown.;;;;;;;;;;;;;x
+form_hindustan_title;Proclaim Hindustan;;;;;;;;;;;;;x
+form_hindustan_desc;The governorates of Punjab and Bengal are no more, and their lands are ruled directly from Delhi.;;;;;;;;;;;;;x
+ROM;Imperium Romanum;;;;;;;;;;;;;x
+ROM_ADJ;Roman;;;;;;;;;;;;;x
+PAL;Palmyra;;;;;;;;;;;;;x
+PAL_ADJ;Palmyrene;;;;;;;;;;;;;x
+BEL;Belgica;;;;;;;;;;;;;x
+BEL_ADJ;Belgic;;;;;;;;;;;;;x
+GAL;Gallia;;;;;;;;;;;;;x
+GAL_ADJ;Gallic;;;;;;;;;;;;;x
+GER;Raetia-Noricum;;;;;;;;;;;;;x
+GER_ADJ;Raetian;;;;;;;;;;;;;x
+PAN;Pannonia;;;;;;;;;;;;;x
+PAN_ADJ;Pannonian;;;;;;;;;;;;;x
+DAC;Dacia;;;;;;;;;;;;;x
+DAC_ADJ;Dacian;;;;;;;;;;;;;x
+MOE;Moesia;;;;;;;;;;;;;x
+MOE_ADJ;Moesian;;;;;;;;;;;;;x
+BRI;Britannia;;;;;;;;;;;;;x
+BRI_ADJ;Britannic;;;;;;;;;;;;;x
+HIS;Hispania;;;;;;;;;;;;;x
+HIS_ADJ;Hispanic;;;;;;;;;;;;;x
+TUR;Turkmenia;;;;;;;;;;;;;x
+TUR_ADJ;Turkmen;;;;;;;;;;;;;x
+PER;Eranshahr;;;;;;;;;;;;;x
+PER_ADJ;Eranian;;;;;;;;;;;;;x
+ARB;Arabia;;;;;;;;;;;;;x
+ARB_ADJ;Arabian;;;;;;;;;;;;;x
+MAZ;Mazun;;;;;;;;;;;;;x
+MAZ_ADJ;Mazunite;;;;;;;;;;;;;x
+DEL;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_ADJ;Delhian;;;;;;;;;;;;;x
+PEN;Punjab;;;;;;;;;;;;;x
+PEN_ADJ;Punjabi;;;;;;;;;;;;;x
+BEN;Bengal;;;;;;;;;;;;;x
+BEN_ADJ;Bengali;;;;;;;;;;;;;x
+GUJ;Gujarata;;;;;;;;;;;;;x
+GUJ_ADJ;Gujarati;;;;;;;;;;;;;x
+KAR;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_ADJ;Karnatan;;;;;;;;;;;;;x
+TAM;Tamilakam;;;;;;;;;;;;;x
+TAM_ADJ;Tamil;;;;;;;;;;;;;x
+QIN;Qin;;;;;;;;;;;;;x
+QIN_ADJ;Qin;;;;;;;;;;;;;x
+ZHA;Zhao;;;;;;;;;;;;;x
+ZHA_ADJ;Zhao;;;;;;;;;;;;;x
+CHU;Chu;;;;;;;;;;;;;x
+CHU_ADJ;Chu;;;;;;;;;;;;;x
+MIN;Nanyue;;;;;;;;;;;;;x
+MIN_ADJ;Nanyue;;;;;;;;;;;;;x
+KOR;Joseon;;;;;;;;;;;;;x
+KOR_ADJ;Joseon;;;;;;;;;;;;;x
+JAP;Yamato;;;;;;;;;;;;;x
+JAP_ADJ;Yamato;;;;;;;;;;;;;x
+MAN;Manchuria;;;;;;;;;;;;;x
+MAN_ADJ;Manchu;;;;;;;;;;;;;x
+MON;Mongolia;;;;;;;;;;;;;x
+MON_ADJ;Mongol;;;;;;;;;;;;;x
+TIB;Tibet;;;;;;;;;;;;;x
+TIB_ADJ;Tibetan;;;;;;;;;;;;;x
+DIA;Dian;;;;;;;;;;;;;x
+DIA_ADJ;Dian;;;;;;;;;;;;;x
+THA;Siam;;;;;;;;;;;;;x
+THA_ADJ;Siamese;;;;;;;;;;;;;x
+CHA;Champa;;;;;;;;;;;;;x
+CHA_ADJ;Cham;;;;;;;;;;;;;x
+VIE;Dai Viet;;;;;;;;;;;;;x
+VIE_ADJ;Vietnamese;;;;;;;;;;;;;x
+NUS;Nusantara;;;;;;;;;;;;;x
+NUS_ADJ;Nusantaran;;;;;;;;;;;;;x
+AKU;Aksum;;;;;;;;;;;;;x
+AKU_ADJ;Aksumite;;;;;;;;;;;;;x
+NUB;Nubia;;;;;;;;;;;;;x
+NUB_ADJ;Nubian;;;;;;;;;;;;;x
+WAG;Wagadu;;;;;;;;;;;;;x
+WAG_ADJ;Wagadu;;;;;;;;;;;;;x
+KAN;Kanem;;;;;;;;;;;;;x
+KAN_ADJ;Kanembu;;;;;;;;;;;;;x
+KON;Kongo;;;;;;;;;;;;;x
+KON_ADJ;Kongolese;;;;;;;;;;;;;x
+ZIM;Zimbabwe;;;;;;;;;;;;;x
+ZIM_ADJ;Zimbabwean;;;;;;;;;;;;;x
+ZEN;Zengba;;;;;;;;;;;;;x
+ZEN_ADJ;Zengba;;;;;;;;;;;;;x
+MEL;Melainadu;;;;;;;;;;;;;x
+MEL_ADJ;Melainadu;;;;;;;;;;;;;x
+RAN;Rantau;;;;;;;;;;;;;x
+RAN_ADJ;Rantau;;;;;;;;;;;;;x
+MEX;Mexica;;;;;;;;;;;;;x
+MEX_ADJ;Mexica;;;;;;;;;;;;;x
+MAY;Maya;;;;;;;;;;;;;x
+MAY_ADJ;Mayan;;;;;;;;;;;;;x
+INC;Tawantinsuyu;;;;;;;;;;;;;x
+INC_ADJ;Inca;;;;;;;;;;;;;x
+MUI;Muisca;;;;;;;;;;;;;x
+MUI_ADJ;Muisca;;;;;;;;;;;;;x
+MIS;Mississippian;;;;;;;;;;;;;x
+MIS_ADJ;Mississippian;;;;;;;;;;;;;x
+HAU;Haudenosaunee;;;;;;;;;;;;;x
+HAU_ADJ;Haudenosaunee;;;;;;;;;;;;;x
+PUE;Pueblo;;;;;;;;;;;;;x
+PUE_ADJ;Puebloan;;;;;;;;;;;;;x
+RAJ;Rajputana;;;;;;;;;;;;;x
+RAJ_ADJ;Rajput;;;;;;;;;;;;;x
+ORI;Orissa;;;;;;;;;;;;;x
+ORI_ADJ;Oriya;;;;;;;;;;;;;x
+CHI;China;;;;;;;;;;;;;x
+CHI_ADJ;Chinese;;;;;;;;;;;;;x
+DEC;Deccan Empire;;;;;;;;;;;;;x
+DEC_ADJ;Deccani;;;;;;;;;;;;;x
+BHA;Bharat;;;;;;;;;;;;;x
+BHA_ADJ;Bharati;;;;;;;;;;;;;x
+HIN;Hindustan;;;;;;;;;;;;;x
+HIN_ADJ;Hindustani;;;;;;;;;;;;;x
+greco_roman;Greco-Roman;;;;;;;;;;;;;x
+eastern_roman;Eastern Roman;;;;;;;;;;;;;x
+romano_celtic;Romano-Celtic;;;;;;;;;;;;;x
+germano_slavic;Germano-Slavic;;;;;;;;;;;;;x
+persian;Persian;;;;;;;;;;;;;x
+sogdian;Turkic;;;;;;;;;;;;;x
+arab;Arab;;;;;;;;;;;;;x
+berber;Berber;;;;;;;;;;;;;x
+hindustani;Hindustani;;;;;;;;;;;;;x
+punjabi;Punjabi;;;;;;;;;;;;;x
+bengali;Bengali;;;;;;;;;;;;;x
+gujarati;Gujarati;;;;;;;;;;;;;x
+marathi;Marathi;;;;;;;;;;;;;x
+tamil;Tamil;;;;;;;;;;;;;x
+kannada;Kannada;;;;;;;;;;;;;x
+ne_chinese;North-Eastern Chinese;;;;;;;;;;;;;x
+nw_chinese;North-Western Chinese;;;;;;;;;;;;;x
+south_chinese;Southern Chinese;;;;;;;;;;;;;x
+yue;Yue;;;;;;;;;;;;;x
+korean;Korean;;;;;;;;;;;;;x
+japanese;Japanese;;;;;;;;;;;;;x
+tungusic;Manchurian;;;;;;;;;;;;;x
+mongolic;Mongolic;;;;;;;;;;;;;x
+tibetan;Tibetan;;;;;;;;;;;;;x
+siberian;Siberian;;;;;;;;;;;;;x
+siamese;Siamese;;;;;;;;;;;;;x
+austroasiatic;Austroasiatic;;;;;;;;;;;;;x
+austronesian;Austronesian;;;;;;;;;;;;;x
+burman;Burman;;;;;;;;;;;;;x
+ethiopian;Ethiopian;;;;;;;;;;;;;x
+nubian;Nubian;;;;;;;;;;;;;x
+soninke;Soninke;;;;;;;;;;;;;x
+kanuri;Kanuri;;;;;;;;;;;;;x
+kongolese;Kongolese;;;;;;;;;;;;;x
+shona;Shona;;;;;;;;;;;;;x
+swahili;Swahili;;;;;;;;;;;;;x
+nahua;Nahua;;;;;;;;;;;;;x
+maya;Maya;;;;;;;;;;;;;x
+quechua;Quechua;;;;;;;;;;;;;x
+muisca;Muisca;;;;;;;;;;;;;x
+amazonian;Amazonian;;;;;;;;;;;;;x
+mississippian;Mississippian;;;;;;;;;;;;;x
+iroquoian;Iroquoian;;;;;;;;;;;;;x
+pueblo;Puebloan;;;;;;;;;;;;;x
+algonquian;Algonquian;;;;;;;;;;;;;x
+aboriginal;Aboriginal;;;;;;;;;;;;;x
+polynesian;Polynesian;;;;;;;;;;;;;x
+polar_bears;Polar Bears;;;;;;;;;;;;;x
+roman;Roman;;;;;;;;;;;;;x
+barbarian;Barbarian;;;;;;;;;;;;;x
+iranian;Iranian;;;;;;;;;;;;;x
+afroasiatic;Afroasiatic;;;;;;;;;;;;;x
+indo_aryan;Indo-Aryan;;;;;;;;;;;;;x
+dravidian;Dravidian;;;;;;;;;;;;;x
+sinic;Chinese;;;;;;;;;;;;;x
+korean_group;Korean;;;;;;;;;;;;;x
+japanese_group;Japanese;;;;;;;;;;;;;x
+northern;Northern Peoples;;;;;;;;;;;;;x
+southeast_asian;Southeast Asian;;;;;;;;;;;;;x
+nilotic;Nilotic;;;;;;;;;;;;;x
+sahelian;Sahelian;;;;;;;;;;;;;x
+bantu;Bantu;;;;;;;;;;;;;x
+mesoamerican;Mesoamerican;;;;;;;;;;;;;x
+andean;Andean;;;;;;;;;;;;;x
+north_american;North American;;;;;;;;;;;;;x
+oceanic;Oceanic;;;;;;;;;;;;;x
+bears;Bears;;;;;;;;;;;;;x
+PROV860;Constantinople;;;;;;;;;;;;;x
+ROM_conservative;Optimates;;;;;;;;;;;;;x
+ROM_reactionary;Antiquani;;;;;;;;;;;;;x
+ROM_liberal;Moderni;;;;;;;;;;;;;x
+ROM_socialist;Plebeian League;;;;;;;;;;;;;x
+ROM_communist;Communes;;;;;;;;;;;;;x
+ROM_fascist;Fasces;;;;;;;;;;;;;x
+PAL_conservative;Conservatives;;;;;;;;;;;;;x
+PAL_reactionary;Reactionaries;;;;;;;;;;;;;x
+PAL_liberal;Liberals;;;;;;;;;;;;;x
+PAL_socialist;Socialists;;;;;;;;;;;;;x
+PAL_communist;Communists;;;;;;;;;;;;;x
+PAL_fascist;Fascists;;;;;;;;;;;;;x
+BEL_conservative;Conservatives;;;;;;;;;;;;;x
+BEL_reactionary;Reactionaries;;;;;;;;;;;;;x
+BEL_liberal;Liberals;;;;;;;;;;;;;x
+BEL_socialist;Socialists;;;;;;;;;;;;;x
+BEL_communist;Communists;;;;;;;;;;;;;x
+BEL_fascist;Fascists;;;;;;;;;;;;;x
+GAL_conservative;Conservatives;;;;;;;;;;;;;x
+GAL_reactionary;Reactionaries;;;;;;;;;;;;;x
+GAL_liberal;Liberals;;;;;;;;;;;;;x
+GAL_socialist;Socialists;;;;;;;;;;;;;x
+GAL_communist;Communists;;;;;;;;;;;;;x
+GAL_fascist;Fascists;;;;;;;;;;;;;x
+GER_conservative;Conservatives;;;;;;;;;;;;;x
+GER_reactionary;Reactionaries;;;;;;;;;;;;;x
+GER_liberal;Liberals;;;;;;;;;;;;;x
+GER_socialist;Socialists;;;;;;;;;;;;;x
+GER_communist;Communists;;;;;;;;;;;;;x
+GER_fascist;Fascists;;;;;;;;;;;;;x
+PAN_conservative;Conservatives;;;;;;;;;;;;;x
+PAN_reactionary;Reactionaries;;;;;;;;;;;;;x
+PAN_liberal;Liberals;;;;;;;;;;;;;x
+PAN_socialist;Socialists;;;;;;;;;;;;;x
+PAN_communist;Communists;;;;;;;;;;;;;x
+PAN_fascist;Fascists;;;;;;;;;;;;;x
+DAC_conservative;Conservatives;;;;;;;;;;;;;x
+DAC_reactionary;Reactionaries;;;;;;;;;;;;;x
+DAC_liberal;Liberals;;;;;;;;;;;;;x
+DAC_socialist;Socialists;;;;;;;;;;;;;x
+DAC_communist;Communists;;;;;;;;;;;;;x
+DAC_fascist;Fascists;;;;;;;;;;;;;x
+MOE_conservative;Conservatives;;;;;;;;;;;;;x
+MOE_reactionary;Reactionaries;;;;;;;;;;;;;x
+MOE_liberal;Liberals;;;;;;;;;;;;;x
+MOE_socialist;Socialists;;;;;;;;;;;;;x
+MOE_communist;Communists;;;;;;;;;;;;;x
+MOE_fascist;Fascists;;;;;;;;;;;;;x
+BRI_conservative;Conservatives;;;;;;;;;;;;;x
+BRI_reactionary;Reactionaries;;;;;;;;;;;;;x
+BRI_liberal;Liberals;;;;;;;;;;;;;x
+BRI_socialist;Socialists;;;;;;;;;;;;;x
+BRI_communist;Communists;;;;;;;;;;;;;x
+BRI_fascist;Fascists;;;;;;;;;;;;;x
+HIS_conservative;Conservatives;;;;;;;;;;;;;x
+HIS_reactionary;Reactionaries;;;;;;;;;;;;;x
+HIS_liberal;Liberals;;;;;;;;;;;;;x
+HIS_socialist;Socialists;;;;;;;;;;;;;x
+HIS_communist;Communists;;;;;;;;;;;;;x
+HIS_fascist;Fascists;;;;;;;;;;;;;x
+TUR_conservative;Conservatives;;;;;;;;;;;;;x
+TUR_reactionary;Reactionaries;;;;;;;;;;;;;x
+TUR_liberal;Liberals;;;;;;;;;;;;;x
+TUR_socialist;Socialists;;;;;;;;;;;;;x
+TUR_communist;Communists;;;;;;;;;;;;;x
+TUR_fascist;Fascists;;;;;;;;;;;;;x
+PER_conservative;Conservatives;;;;;;;;;;;;;x
+PER_reactionary;Reactionaries;;;;;;;;;;;;;x
+PER_liberal;Liberals;;;;;;;;;;;;;x
+PER_socialist;Socialists;;;;;;;;;;;;;x
+PER_communist;Communists;;;;;;;;;;;;;x
+PER_fascist;Fascists;;;;;;;;;;;;;x
+ARB_conservative;Conservatives;;;;;;;;;;;;;x
+ARB_reactionary;Reactionaries;;;;;;;;;;;;;x
+ARB_liberal;Liberals;;;;;;;;;;;;;x
+ARB_socialist;Socialists;;;;;;;;;;;;;x
+ARB_communist;Communists;;;;;;;;;;;;;x
+ARB_fascist;Fascists;;;;;;;;;;;;;x
+MAZ_conservative;Conservatives;;;;;;;;;;;;;x
+MAZ_reactionary;Reactionaries;;;;;;;;;;;;;x
+MAZ_liberal;Liberals;;;;;;;;;;;;;x
+MAZ_socialist;Socialists;;;;;;;;;;;;;x
+MAZ_communist;Communists;;;;;;;;;;;;;x
+MAZ_fascist;Fascists;;;;;;;;;;;;;x
+DEL_conservative;Conservatives;;;;;;;;;;;;;x
+DEL_reactionary;Reactionaries;;;;;;;;;;;;;x
+DEL_liberal;Liberals;;;;;;;;;;;;;x
+DEL_socialist;Socialists;;;;;;;;;;;;;x
+DEL_communist;Communists;;;;;;;;;;;;;x
+DEL_fascist;Fascists;;;;;;;;;;;;;x
+PEN_conservative;Conservatives;;;;;;;;;;;;;x
+PEN_reactionary;Reactionaries;;;;;;;;;;;;;x
+PEN_liberal;Liberals;;;;;;;;;;;;;x
+PEN_socialist;Socialists;;;;;;;;;;;;;x
+PEN_communist;Communists;;;;;;;;;;;;;x
+PEN_fascist;Fascists;;;;;;;;;;;;;x
+BEN_conservative;Conservatives;;;;;;;;;;;;;x
+BEN_reactionary;Reactionaries;;;;;;;;;;;;;x
+BEN_liberal;Liberals;;;;;;;;;;;;;x
+BEN_socialist;Socialists;;;;;;;;;;;;;x
+BEN_communist;Communists;;;;;;;;;;;;;x
+BEN_fascist;Fascists;;;;;;;;;;;;;x
+GUJ_conservative;Conservatives;;;;;;;;;;;;;x
+GUJ_reactionary;Reactionaries;;;;;;;;;;;;;x
+GUJ_liberal;Liberals;;;;;;;;;;;;;x
+GUJ_socialist;Socialists;;;;;;;;;;;;;x
+GUJ_communist;Communists;;;;;;;;;;;;;x
+GUJ_fascist;Fascists;;;;;;;;;;;;;x
+KAR_conservative;Conservatives;;;;;;;;;;;;;x
+KAR_reactionary;Reactionaries;;;;;;;;;;;;;x
+KAR_liberal;Liberals;;;;;;;;;;;;;x
+KAR_socialist;Socialists;;;;;;;;;;;;;x
+KAR_communist;Communists;;;;;;;;;;;;;x
+KAR_fascist;Fascists;;;;;;;;;;;;;x
+TAM_conservative;Conservatives;;;;;;;;;;;;;x
+TAM_reactionary;Reactionaries;;;;;;;;;;;;;x
+TAM_liberal;Liberals;;;;;;;;;;;;;x
+TAM_socialist;Socialists;;;;;;;;;;;;;x
+TAM_communist;Communists;;;;;;;;;;;;;x
+TAM_fascist;Fascists;;;;;;;;;;;;;x
+QIN_conservative;Conservatives;;;;;;;;;;;;;x
+QIN_reactionary;Reactionaries;;;;;;;;;;;;;x
+QIN_liberal;Liberals;;;;;;;;;;;;;x
+QIN_socialist;Socialists;;;;;;;;;;;;;x
+QIN_communist;Communists;;;;;;;;;;;;;x
+QIN_fascist;Fascists;;;;;;;;;;;;;x
+ZHA_conservative;Conservatives;;;;;;;;;;;;;x
+ZHA_reactionary;Reactionaries;;;;;;;;;;;;;x
+ZHA_liberal;Liberals;;;;;;;;;;;;;x
+ZHA_socialist;Socialists;;;;;;;;;;;;;x
+ZHA_communist;Communists;;;;;;;;;;;;;x
+ZHA_fascist;Fascists;;;;;;;;;;;;;x
+CHU_conservative;Conservatives;;;;;;;;;;;;;x
+CHU_reactionary;Reactionaries;;;;;;;;;;;;;x
+CHU_liberal;Liberals;;;;;;;;;;;;;x
+CHU_socialist;Socialists;;;;;;;;;;;;;x
+CHU_communist;Communists;;;;;;;;;;;;;x
+CHU_fascist;Fascists;;;;;;;;;;;;;x
+MIN_conservative;Conservatives;;;;;;;;;;;;;x
+MIN_reactionary;Reactionaries;;;;;;;;;;;;;x
+MIN_liberal;Liberals;;;;;;;;;;;;;x
+MIN_socialist;Socialists;;;;;;;;;;;;;x
+MIN_communist;Communists;;;;;;;;;;;;;x
+MIN_fascist;Fascists;;;;;;;;;;;;;x
+KOR_conservative;Conservatives;;;;;;;;;;;;;x
+KOR_reactionary;Reactionaries;;;;;;;;;;;;;x
+KOR_liberal;Liberals;;;;;;;;;;;;;x
+KOR_socialist;Socialists;;;;;;;;;;;;;x
+KOR_communist;Communists;;;;;;;;;;;;;x
+KOR_fascist;Fascists;;;;;;;;;;;;;x
+JAP_conservative;Conservatives;;;;;;;;;;;;;x
+JAP_reactionary;Reactionaries;;;;;;;;;;;;;x
+JAP_liberal;Liberals;;;;;;;;;;;;;x
+JAP_socialist;Socialists;;;;;;;;;;;;;x
+JAP_communist;Communists;;;;;;;;;;;;;x
+JAP_fascist;Fascists;;;;;;;;;;;;;x
+MAN_conservative;Conservatives;;;;;;;;;;;;;x
+MAN_reactionary;Reactionaries;;;;;;;;;;;;;x
+MAN_liberal;Liberals;;;;;;;;;;;;;x
+MAN_socialist;Socialists;;;;;;;;;;;;;x
+MAN_communist;Communists;;;;;;;;;;;;;x
+MAN_fascist;Fascists;;;;;;;;;;;;;x
+MON_conservative;Conservatives;;;;;;;;;;;;;x
+MON_reactionary;Reactionaries;;;;;;;;;;;;;x
+MON_liberal;Liberals;;;;;;;;;;;;;x
+MON_socialist;Socialists;;;;;;;;;;;;;x
+MON_communist;Communists;;;;;;;;;;;;;x
+MON_fascist;Fascists;;;;;;;;;;;;;x
+TIB_conservative;Conservatives;;;;;;;;;;;;;x
+TIB_reactionary;Reactionaries;;;;;;;;;;;;;x
+TIB_liberal;Liberals;;;;;;;;;;;;;x
+TIB_socialist;Socialists;;;;;;;;;;;;;x
+TIB_communist;Communists;;;;;;;;;;;;;x
+TIB_fascist;Fascists;;;;;;;;;;;;;x
+DIA_conservative;Conservatives;;;;;;;;;;;;;x
+DIA_reactionary;Reactionaries;;;;;;;;;;;;;x
+DIA_liberal;Liberals;;;;;;;;;;;;;x
+DIA_socialist;Socialists;;;;;;;;;;;;;x
+DIA_communist;Communists;;;;;;;;;;;;;x
+DIA_fascist;Fascists;;;;;;;;;;;;;x
+THA_conservative;Conservatives;;;;;;;;;;;;;x
+THA_reactionary;Reactionaries;;;;;;;;;;;;;x
+THA_liberal;Liberals;;;;;;;;;;;;;x
+THA_socialist;Socialists;;;;;;;;;;;;;x
+THA_communist;Communists;;;;;;;;;;;;;x
+THA_fascist;Fascists;;;;;;;;;;;;;x
+CHA_conservative;Conservatives;;;;;;;;;;;;;x
+CHA_reactionary;Reactionaries;;;;;;;;;;;;;x
+CHA_liberal;Liberals;;;;;;;;;;;;;x
+CHA_socialist;Socialists;;;;;;;;;;;;;x
+CHA_communist;Communists;;;;;;;;;;;;;x
+CHA_fascist;Fascists;;;;;;;;;;;;;x
+VIE_conservative;Conservatives;;;;;;;;;;;;;x
+VIE_reactionary;Reactionaries;;;;;;;;;;;;;x
+VIE_liberal;Liberals;;;;;;;;;;;;;x
+VIE_socialist;Socialists;;;;;;;;;;;;;x
+VIE_communist;Communists;;;;;;;;;;;;;x
+VIE_fascist;Fascists;;;;;;;;;;;;;x
+NUS_conservative;Conservatives;;;;;;;;;;;;;x
+NUS_reactionary;Reactionaries;;;;;;;;;;;;;x
+NUS_liberal;Liberals;;;;;;;;;;;;;x
+NUS_socialist;Socialists;;;;;;;;;;;;;x
+NUS_communist;Communists;;;;;;;;;;;;;x
+NUS_fascist;Fascists;;;;;;;;;;;;;x
+AKU_conservative;Conservatives;;;;;;;;;;;;;x
+AKU_reactionary;Reactionaries;;;;;;;;;;;;;x
+AKU_liberal;Liberals;;;;;;;;;;;;;x
+AKU_socialist;Socialists;;;;;;;;;;;;;x
+AKU_communist;Communists;;;;;;;;;;;;;x
+AKU_fascist;Fascists;;;;;;;;;;;;;x
+NUB_conservative;Conservatives;;;;;;;;;;;;;x
+NUB_reactionary;Reactionaries;;;;;;;;;;;;;x
+NUB_liberal;Liberals;;;;;;;;;;;;;x
+NUB_socialist;Socialists;;;;;;;;;;;;;x
+NUB_communist;Communists;;;;;;;;;;;;;x
+NUB_fascist;Fascists;;;;;;;;;;;;;x
+WAG_conservative;Conservatives;;;;;;;;;;;;;x
+WAG_reactionary;Reactionaries;;;;;;;;;;;;;x
+WAG_liberal;Liberals;;;;;;;;;;;;;x
+WAG_socialist;Socialists;;;;;;;;;;;;;x
+WAG_communist;Communists;;;;;;;;;;;;;x
+WAG_fascist;Fascists;;;;;;;;;;;;;x
+KAN_conservative;Conservatives;;;;;;;;;;;;;x
+KAN_reactionary;Reactionaries;;;;;;;;;;;;;x
+KAN_liberal;Liberals;;;;;;;;;;;;;x
+KAN_socialist;Socialists;;;;;;;;;;;;;x
+KAN_communist;Communists;;;;;;;;;;;;;x
+KAN_fascist;Fascists;;;;;;;;;;;;;x
+KON_conservative;Conservatives;;;;;;;;;;;;;x
+KON_reactionary;Reactionaries;;;;;;;;;;;;;x
+KON_liberal;Liberals;;;;;;;;;;;;;x
+KON_socialist;Socialists;;;;;;;;;;;;;x
+KON_communist;Communists;;;;;;;;;;;;;x
+KON_fascist;Fascists;;;;;;;;;;;;;x
+ZIM_conservative;Conservatives;;;;;;;;;;;;;x
+ZIM_reactionary;Reactionaries;;;;;;;;;;;;;x
+ZIM_liberal;Liberals;;;;;;;;;;;;;x
+ZIM_socialist;Socialists;;;;;;;;;;;;;x
+ZIM_communist;Communists;;;;;;;;;;;;;x
+ZIM_fascist;Fascists;;;;;;;;;;;;;x
+ZEN_conservative;Conservatives;;;;;;;;;;;;;x
+ZEN_reactionary;Reactionaries;;;;;;;;;;;;;x
+ZEN_liberal;Liberals;;;;;;;;;;;;;x
+ZEN_socialist;Socialists;;;;;;;;;;;;;x
+ZEN_communist;Communists;;;;;;;;;;;;;x
+ZEN_fascist;Fascists;;;;;;;;;;;;;x
+MEL_conservative;Conservatives;;;;;;;;;;;;;x
+MEL_reactionary;Reactionaries;;;;;;;;;;;;;x
+MEL_liberal;Liberals;;;;;;;;;;;;;x
+MEL_socialist;Socialists;;;;;;;;;;;;;x
+MEL_communist;Communists;;;;;;;;;;;;;x
+MEL_fascist;Fascists;;;;;;;;;;;;;x
+RAN_conservative;Conservatives;;;;;;;;;;;;;x
+RAN_reactionary;Reactionaries;;;;;;;;;;;;;x
+RAN_liberal;Liberals;;;;;;;;;;;;;x
+RAN_socialist;Socialists;;;;;;;;;;;;;x
+RAN_communist;Communists;;;;;;;;;;;;;x
+RAN_fascist;Fascists;;;;;;;;;;;;;x
+MEX_conservative;Conservatives;;;;;;;;;;;;;x
+MEX_reactionary;Reactionaries;;;;;;;;;;;;;x
+MEX_liberal;Liberals;;;;;;;;;;;;;x
+MEX_socialist;Socialists;;;;;;;;;;;;;x
+MEX_communist;Communists;;;;;;;;;;;;;x
+MEX_fascist;Fascists;;;;;;;;;;;;;x
+MAY_conservative;Conservatives;;;;;;;;;;;;;x
+MAY_reactionary;Reactionaries;;;;;;;;;;;;;x
+MAY_liberal;Liberals;;;;;;;;;;;;;x
+MAY_socialist;Socialists;;;;;;;;;;;;;x
+MAY_communist;Communists;;;;;;;;;;;;;x
+MAY_fascist;Fascists;;;;;;;;;;;;;x
+INC_conservative;Conservatives;;;;;;;;;;;;;x
+INC_reactionary;Reactionaries;;;;;;;;;;;;;x
+INC_liberal;Liberals;;;;;;;;;;;;;x
+INC_socialist;Socialists;;;;;;;;;;;;;x
+INC_communist;Communists;;;;;;;;;;;;;x
+INC_fascist;Fascists;;;;;;;;;;;;;x
+MUI_conservative;Conservatives;;;;;;;;;;;;;x
+MUI_reactionary;Reactionaries;;;;;;;;;;;;;x
+MUI_liberal;Liberals;;;;;;;;;;;;;x
+MUI_socialist;Socialists;;;;;;;;;;;;;x
+MUI_communist;Communists;;;;;;;;;;;;;x
+MUI_fascist;Fascists;;;;;;;;;;;;;x
+MIS_conservative;Conservatives;;;;;;;;;;;;;x
+MIS_reactionary;Reactionaries;;;;;;;;;;;;;x
+MIS_liberal;Liberals;;;;;;;;;;;;;x
+MIS_socialist;Socialists;;;;;;;;;;;;;x
+MIS_communist;Communists;;;;;;;;;;;;;x
+MIS_fascist;Fascists;;;;;;;;;;;;;x
+HAU_conservative;Conservatives;;;;;;;;;;;;;x
+HAU_reactionary;Reactionaries;;;;;;;;;;;;;x
+HAU_liberal;Liberals;;;;;;;;;;;;;x
+HAU_socialist;Socialists;;;;;;;;;;;;;x
+HAU_communist;Communists;;;;;;;;;;;;;x
+HAU_fascist;Fascists;;;;;;;;;;;;;x
+PUE_conservative;Conservatives;;;;;;;;;;;;;x
+PUE_reactionary;Reactionaries;;;;;;;;;;;;;x
+PUE_liberal;Liberals;;;;;;;;;;;;;x
+PUE_socialist;Socialists;;;;;;;;;;;;;x
+PUE_communist;Communists;;;;;;;;;;;;;x
+PUE_fascist;Fascists;;;;;;;;;;;;;x
+RAJ_conservative;Conservatives;;;;;;;;;;;;;x
+RAJ_reactionary;Reactionaries;;;;;;;;;;;;;x
+RAJ_liberal;Liberals;;;;;;;;;;;;;x
+RAJ_socialist;Socialists;;;;;;;;;;;;;x
+RAJ_communist;Communists;;;;;;;;;;;;;x
+RAJ_fascist;Fascists;;;;;;;;;;;;;x
+ORI_conservative;Conservatives;;;;;;;;;;;;;x
+ORI_reactionary;Reactionaries;;;;;;;;;;;;;x
+ORI_liberal;Liberals;;;;;;;;;;;;;x
+ORI_socialist;Socialists;;;;;;;;;;;;;x
+ORI_communist;Communists;;;;;;;;;;;;;x
+ORI_fascist;Fascists;;;;;;;;;;;;;x
+CHI_conservative;Conservatives;;;;;;;;;;;;;x
+CHI_reactionary;Reactionaries;;;;;;;;;;;;;x
+CHI_liberal;Liberals;;;;;;;;;;;;;x
+CHI_socialist;Socialists;;;;;;;;;;;;;x
+CHI_communist;Communists;;;;;;;;;;;;;x
+CHI_fascist;Fascists;;;;;;;;;;;;;x
+DEC_conservative;Conservatives;;;;;;;;;;;;;x
+DEC_reactionary;Reactionaries;;;;;;;;;;;;;x
+DEC_liberal;Liberals;;;;;;;;;;;;;x
+DEC_socialist;Socialists;;;;;;;;;;;;;x
+DEC_communist;Communists;;;;;;;;;;;;;x
+DEC_fascist;Fascists;;;;;;;;;;;;;x
+BHA_conservative;Conservatives;;;;;;;;;;;;;x
+BHA_reactionary;Reactionaries;;;;;;;;;;;;;x
+BHA_liberal;Liberals;;;;;;;;;;;;;x
+BHA_socialist;Socialists;;;;;;;;;;;;;x
+BHA_communist;Communists;;;;;;;;;;;;;x
+BHA_fascist;Fascists;;;;;;;;;;;;;x
+HIN_conservative;Conservatives;;;;;;;;;;;;;x
+HIN_reactionary;Reactionaries;;;;;;;;;;;;;x
+HIN_liberal;Liberals;;;;;;;;;;;;;x
+HIN_socialist;Socialists;;;;;;;;;;;;;x
+HIN_communist;Communists;;;;;;;;;;;;;x
+HIN_fascist;Fascists;;;;;;;;;;;;;x
+MOH_BOOKMARK;The Mandate of Heaven;;;;;;;;;;;;;x
+MOH_BOOKMARK_DESC;1836. Rome endures, unchanged for fifteen centuries. Beyond Persia the industrial East is dividing the world: four Chinese Mandates, the merchant fleets of Tamilakam and Nanyue, and a Delhi Sultanate holding its governorates together by force.;;;;;;;;;;;;;x
+PROV919;New Palmyra;;;;;;;;;;;;;x
+PROV1745;Memphis;;;;;;;;;;;;;x
+PROV1725;Carthago;;;;;;;;;;;;;x
+palmyra_retake_home_title;Retake Our Home;;;;;;;;;;;;;x
+palmyra_retake_home_desc;Palmyra, the city that gave our realm its name, must be ours again. Restoring it will draw settlers back to the oasis, and every Syrian will know whose land this is.;;;;;;;;;;;;;x
+ROM_proletarian_dictatorship;Imperium Romanum;;;;;;;;;;;;;x
+ROM_presidential_dictatorship;Imperium Romanum;;;;;;;;;;;;;x
+ROM_bourgeois_dictatorship;Imperium Romanum;;;;;;;;;;;;;x
+ROM_fascist_dictatorship;Imperium Romanum;;;;;;;;;;;;;x
+ROM_absolute_monarchy;Imperium Romanum;;;;;;;;;;;;;x
+ROM_prussian_constitutionalism;Imperium Romanum;;;;;;;;;;;;;x
+ROM_hms_government;Imperium Romanum;;;;;;;;;;;;;x
+ROM_democracy;Imperium Romanum;;;;;;;;;;;;;x
+ROM_theocracy;Imperium Romanum;;;;;;;;;;;;;x
+ROM_merchant_republic;Imperium Romanum;;;;;;;;;;;;;x
+PAL_proletarian_dictatorship;Palmyra;;;;;;;;;;;;;x
+PAL_presidential_dictatorship;Palmyra;;;;;;;;;;;;;x
+PAL_bourgeois_dictatorship;Palmyra;;;;;;;;;;;;;x
+PAL_fascist_dictatorship;Palmyra;;;;;;;;;;;;;x
+PAL_absolute_monarchy;Palmyra;;;;;;;;;;;;;x
+PAL_prussian_constitutionalism;Palmyra;;;;;;;;;;;;;x
+PAL_hms_government;Palmyra;;;;;;;;;;;;;x
+PAL_democracy;Palmyra;;;;;;;;;;;;;x
+PAL_theocracy;Palmyra;;;;;;;;;;;;;x
+PAL_merchant_republic;Palmyra;;;;;;;;;;;;;x
+BEL_proletarian_dictatorship;Belgica;;;;;;;;;;;;;x
+BEL_presidential_dictatorship;Belgica;;;;;;;;;;;;;x
+BEL_bourgeois_dictatorship;Belgica;;;;;;;;;;;;;x
+BEL_fascist_dictatorship;Belgica;;;;;;;;;;;;;x
+BEL_absolute_monarchy;Belgica;;;;;;;;;;;;;x
+BEL_prussian_constitutionalism;Belgica;;;;;;;;;;;;;x
+BEL_hms_government;Belgica;;;;;;;;;;;;;x
+BEL_democracy;Belgica;;;;;;;;;;;;;x
+BEL_theocracy;Belgica;;;;;;;;;;;;;x
+BEL_merchant_republic;Belgica;;;;;;;;;;;;;x
+GAL_proletarian_dictatorship;Gallia;;;;;;;;;;;;;x
+GAL_presidential_dictatorship;Gallia;;;;;;;;;;;;;x
+GAL_bourgeois_dictatorship;Gallia;;;;;;;;;;;;;x
+GAL_fascist_dictatorship;Gallia;;;;;;;;;;;;;x
+GAL_absolute_monarchy;Gallia;;;;;;;;;;;;;x
+GAL_prussian_constitutionalism;Gallia;;;;;;;;;;;;;x
+GAL_hms_government;Gallia;;;;;;;;;;;;;x
+GAL_democracy;Gallia;;;;;;;;;;;;;x
+GAL_theocracy;Gallia;;;;;;;;;;;;;x
+GAL_merchant_republic;Gallia;;;;;;;;;;;;;x
+GER_proletarian_dictatorship;Raetia-Noricum;;;;;;;;;;;;;x
+GER_presidential_dictatorship;Raetia-Noricum;;;;;;;;;;;;;x
+GER_bourgeois_dictatorship;Raetia-Noricum;;;;;;;;;;;;;x
+GER_fascist_dictatorship;Raetia-Noricum;;;;;;;;;;;;;x
+GER_absolute_monarchy;Raetia-Noricum;;;;;;;;;;;;;x
+GER_prussian_constitutionalism;Raetia-Noricum;;;;;;;;;;;;;x
+GER_hms_government;Raetia-Noricum;;;;;;;;;;;;;x
+GER_democracy;Raetia-Noricum;;;;;;;;;;;;;x
+GER_theocracy;Raetia-Noricum;;;;;;;;;;;;;x
+GER_merchant_republic;Raetia-Noricum;;;;;;;;;;;;;x
+PAN_proletarian_dictatorship;Pannonia;;;;;;;;;;;;;x
+PAN_presidential_dictatorship;Pannonia;;;;;;;;;;;;;x
+PAN_bourgeois_dictatorship;Pannonia;;;;;;;;;;;;;x
+PAN_fascist_dictatorship;Pannonia;;;;;;;;;;;;;x
+PAN_absolute_monarchy;Pannonia;;;;;;;;;;;;;x
+PAN_prussian_constitutionalism;Pannonia;;;;;;;;;;;;;x
+PAN_hms_government;Pannonia;;;;;;;;;;;;;x
+PAN_democracy;Pannonia;;;;;;;;;;;;;x
+PAN_theocracy;Pannonia;;;;;;;;;;;;;x
+PAN_merchant_republic;Pannonia;;;;;;;;;;;;;x
+DAC_proletarian_dictatorship;Dacia;;;;;;;;;;;;;x
+DAC_presidential_dictatorship;Dacia;;;;;;;;;;;;;x
+DAC_bourgeois_dictatorship;Dacia;;;;;;;;;;;;;x
+DAC_fascist_dictatorship;Dacia;;;;;;;;;;;;;x
+DAC_absolute_monarchy;Dacia;;;;;;;;;;;;;x
+DAC_prussian_constitutionalism;Dacia;;;;;;;;;;;;;x
+DAC_hms_government;Dacia;;;;;;;;;;;;;x
+DAC_democracy;Dacia;;;;;;;;;;;;;x
+DAC_theocracy;Dacia;;;;;;;;;;;;;x
+DAC_merchant_republic;Dacia;;;;;;;;;;;;;x
+MOE_proletarian_dictatorship;Moesia;;;;;;;;;;;;;x
+MOE_presidential_dictatorship;Moesia;;;;;;;;;;;;;x
+MOE_bourgeois_dictatorship;Moesia;;;;;;;;;;;;;x
+MOE_fascist_dictatorship;Moesia;;;;;;;;;;;;;x
+MOE_absolute_monarchy;Moesia;;;;;;;;;;;;;x
+MOE_prussian_constitutionalism;Moesia;;;;;;;;;;;;;x
+MOE_hms_government;Moesia;;;;;;;;;;;;;x
+MOE_democracy;Moesia;;;;;;;;;;;;;x
+MOE_theocracy;Moesia;;;;;;;;;;;;;x
+MOE_merchant_republic;Moesia;;;;;;;;;;;;;x
+BRI_proletarian_dictatorship;Britannia;;;;;;;;;;;;;x
+BRI_presidential_dictatorship;Britannia;;;;;;;;;;;;;x
+BRI_bourgeois_dictatorship;Britannia;;;;;;;;;;;;;x
+BRI_fascist_dictatorship;Britannia;;;;;;;;;;;;;x
+BRI_absolute_monarchy;Britannia;;;;;;;;;;;;;x
+BRI_prussian_constitutionalism;Britannia;;;;;;;;;;;;;x
+BRI_hms_government;Britannia;;;;;;;;;;;;;x
+BRI_democracy;Britannia;;;;;;;;;;;;;x
+BRI_theocracy;Britannia;;;;;;;;;;;;;x
+BRI_merchant_republic;Britannia;;;;;;;;;;;;;x
+HIS_proletarian_dictatorship;Hispania;;;;;;;;;;;;;x
+HIS_presidential_dictatorship;Hispania;;;;;;;;;;;;;x
+HIS_bourgeois_dictatorship;Hispania;;;;;;;;;;;;;x
+HIS_fascist_dictatorship;Hispania;;;;;;;;;;;;;x
+HIS_absolute_monarchy;Hispania;;;;;;;;;;;;;x
+HIS_prussian_constitutionalism;Hispania;;;;;;;;;;;;;x
+HIS_hms_government;Hispania;;;;;;;;;;;;;x
+HIS_democracy;Hispania;;;;;;;;;;;;;x
+HIS_theocracy;Hispania;;;;;;;;;;;;;x
+HIS_merchant_republic;Hispania;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship;Turkmenia;;;;;;;;;;;;;x
+TUR_presidential_dictatorship;Turkmenia;;;;;;;;;;;;;x
+TUR_bourgeois_dictatorship;Turkmenia;;;;;;;;;;;;;x
+TUR_fascist_dictatorship;Turkmenia;;;;;;;;;;;;;x
+TUR_absolute_monarchy;Turkmenia;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;Turkmenia;;;;;;;;;;;;;x
+TUR_hms_government;Turkmenia;;;;;;;;;;;;;x
+TUR_democracy;Turkmenia;;;;;;;;;;;;;x
+TUR_theocracy;Turkmenia;;;;;;;;;;;;;x
+TUR_merchant_republic;Turkmenia;;;;;;;;;;;;;x
+PER_proletarian_dictatorship;Eranshahr;;;;;;;;;;;;;x
+PER_presidential_dictatorship;Eranshahr;;;;;;;;;;;;;x
+PER_bourgeois_dictatorship;Eranshahr;;;;;;;;;;;;;x
+PER_fascist_dictatorship;Eranshahr;;;;;;;;;;;;;x
+PER_absolute_monarchy;Eranshahr;;;;;;;;;;;;;x
+PER_prussian_constitutionalism;Eranshahr;;;;;;;;;;;;;x
+PER_hms_government;Eranshahr;;;;;;;;;;;;;x
+PER_democracy;Eranshahr;;;;;;;;;;;;;x
+PER_theocracy;Eranshahr;;;;;;;;;;;;;x
+PER_merchant_republic;Eranshahr;;;;;;;;;;;;;x
+ARB_proletarian_dictatorship;Arabia;;;;;;;;;;;;;x
+ARB_presidential_dictatorship;Arabia;;;;;;;;;;;;;x
+ARB_bourgeois_dictatorship;Arabia;;;;;;;;;;;;;x
+ARB_fascist_dictatorship;Arabia;;;;;;;;;;;;;x
+ARB_absolute_monarchy;Arabia;;;;;;;;;;;;;x
+ARB_prussian_constitutionalism;Arabia;;;;;;;;;;;;;x
+ARB_hms_government;Arabia;;;;;;;;;;;;;x
+ARB_democracy;Arabia;;;;;;;;;;;;;x
+ARB_theocracy;Arabia;;;;;;;;;;;;;x
+ARB_merchant_republic;Arabia;;;;;;;;;;;;;x
+MAZ_proletarian_dictatorship;Mazun;;;;;;;;;;;;;x
+MAZ_presidential_dictatorship;Mazun;;;;;;;;;;;;;x
+MAZ_bourgeois_dictatorship;Mazun;;;;;;;;;;;;;x
+MAZ_fascist_dictatorship;Mazun;;;;;;;;;;;;;x
+MAZ_absolute_monarchy;Mazun;;;;;;;;;;;;;x
+MAZ_prussian_constitutionalism;Mazun;;;;;;;;;;;;;x
+MAZ_hms_government;Mazun;;;;;;;;;;;;;x
+MAZ_democracy;Mazun;;;;;;;;;;;;;x
+MAZ_theocracy;Mazun;;;;;;;;;;;;;x
+MAZ_merchant_republic;Mazun;;;;;;;;;;;;;x
+DEL_proletarian_dictatorship;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_presidential_dictatorship;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_bourgeois_dictatorship;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_fascist_dictatorship;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_absolute_monarchy;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_prussian_constitutionalism;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_hms_government;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_democracy;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_theocracy;Delhi Sultanate;;;;;;;;;;;;;x
+DEL_merchant_republic;Delhi Sultanate;;;;;;;;;;;;;x
+PEN_proletarian_dictatorship;Punjab;;;;;;;;;;;;;x
+PEN_presidential_dictatorship;Punjab;;;;;;;;;;;;;x
+PEN_bourgeois_dictatorship;Punjab;;;;;;;;;;;;;x
+PEN_fascist_dictatorship;Punjab;;;;;;;;;;;;;x
+PEN_absolute_monarchy;Punjab;;;;;;;;;;;;;x
+PEN_prussian_constitutionalism;Punjab;;;;;;;;;;;;;x
+PEN_hms_government;Punjab;;;;;;;;;;;;;x
+PEN_democracy;Punjab;;;;;;;;;;;;;x
+PEN_theocracy;Punjab;;;;;;;;;;;;;x
+PEN_merchant_republic;Punjab;;;;;;;;;;;;;x
+BEN_proletarian_dictatorship;Bengal;;;;;;;;;;;;;x
+BEN_presidential_dictatorship;Bengal;;;;;;;;;;;;;x
+BEN_bourgeois_dictatorship;Bengal;;;;;;;;;;;;;x
+BEN_fascist_dictatorship;Bengal;;;;;;;;;;;;;x
+BEN_absolute_monarchy;Bengal;;;;;;;;;;;;;x
+BEN_prussian_constitutionalism;Bengal;;;;;;;;;;;;;x
+BEN_hms_government;Bengal;;;;;;;;;;;;;x
+BEN_democracy;Bengal;;;;;;;;;;;;;x
+BEN_theocracy;Bengal;;;;;;;;;;;;;x
+BEN_merchant_republic;Bengal;;;;;;;;;;;;;x
+GUJ_proletarian_dictatorship;Gujarata;;;;;;;;;;;;;x
+GUJ_presidential_dictatorship;Gujarata;;;;;;;;;;;;;x
+GUJ_bourgeois_dictatorship;Gujarata;;;;;;;;;;;;;x
+GUJ_fascist_dictatorship;Gujarata;;;;;;;;;;;;;x
+GUJ_absolute_monarchy;Gujarata;;;;;;;;;;;;;x
+GUJ_prussian_constitutionalism;Gujarata;;;;;;;;;;;;;x
+GUJ_hms_government;Gujarata;;;;;;;;;;;;;x
+GUJ_democracy;Gujarata;;;;;;;;;;;;;x
+GUJ_theocracy;Gujarata;;;;;;;;;;;;;x
+GUJ_merchant_republic;Gujarata;;;;;;;;;;;;;x
+KAR_proletarian_dictatorship;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_presidential_dictatorship;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_bourgeois_dictatorship;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_fascist_dictatorship;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_absolute_monarchy;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_prussian_constitutionalism;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_hms_government;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_democracy;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_theocracy;Karnata-Malwa;;;;;;;;;;;;;x
+KAR_merchant_republic;Karnata-Malwa;;;;;;;;;;;;;x
+TAM_proletarian_dictatorship;Tamilakam;;;;;;;;;;;;;x
+TAM_presidential_dictatorship;Tamilakam;;;;;;;;;;;;;x
+TAM_bourgeois_dictatorship;Tamilakam;;;;;;;;;;;;;x
+TAM_fascist_dictatorship;Tamilakam;;;;;;;;;;;;;x
+TAM_absolute_monarchy;Tamilakam;;;;;;;;;;;;;x
+TAM_prussian_constitutionalism;Tamilakam;;;;;;;;;;;;;x
+TAM_hms_government;Tamilakam;;;;;;;;;;;;;x
+TAM_democracy;Tamilakam;;;;;;;;;;;;;x
+TAM_theocracy;Tamilakam;;;;;;;;;;;;;x
+TAM_merchant_republic;Tamilakam;;;;;;;;;;;;;x
+QIN_proletarian_dictatorship;Qin;;;;;;;;;;;;;x
+QIN_presidential_dictatorship;Qin;;;;;;;;;;;;;x
+QIN_bourgeois_dictatorship;Qin;;;;;;;;;;;;;x
+QIN_fascist_dictatorship;Qin;;;;;;;;;;;;;x
+QIN_absolute_monarchy;Qin;;;;;;;;;;;;;x
+QIN_prussian_constitutionalism;Qin;;;;;;;;;;;;;x
+QIN_hms_government;Qin;;;;;;;;;;;;;x
+QIN_democracy;Qin;;;;;;;;;;;;;x
+QIN_theocracy;Qin;;;;;;;;;;;;;x
+QIN_merchant_republic;Qin;;;;;;;;;;;;;x
+ZHA_proletarian_dictatorship;Zhao;;;;;;;;;;;;;x
+ZHA_presidential_dictatorship;Zhao;;;;;;;;;;;;;x
+ZHA_bourgeois_dictatorship;Zhao;;;;;;;;;;;;;x
+ZHA_fascist_dictatorship;Zhao;;;;;;;;;;;;;x
+ZHA_absolute_monarchy;Zhao;;;;;;;;;;;;;x
+ZHA_prussian_constitutionalism;Zhao;;;;;;;;;;;;;x
+ZHA_hms_government;Zhao;;;;;;;;;;;;;x
+ZHA_democracy;Zhao;;;;;;;;;;;;;x
+ZHA_theocracy;Zhao;;;;;;;;;;;;;x
+ZHA_merchant_republic;Zhao;;;;;;;;;;;;;x
+CHU_proletarian_dictatorship;Chu;;;;;;;;;;;;;x
+CHU_presidential_dictatorship;Chu;;;;;;;;;;;;;x
+CHU_bourgeois_dictatorship;Chu;;;;;;;;;;;;;x
+CHU_fascist_dictatorship;Chu;;;;;;;;;;;;;x
+CHU_absolute_monarchy;Chu;;;;;;;;;;;;;x
+CHU_prussian_constitutionalism;Chu;;;;;;;;;;;;;x
+CHU_hms_government;Chu;;;;;;;;;;;;;x
+CHU_democracy;Chu;;;;;;;;;;;;;x
+CHU_theocracy;Chu;;;;;;;;;;;;;x
+CHU_merchant_republic;Chu;;;;;;;;;;;;;x
+MIN_proletarian_dictatorship;Nanyue;;;;;;;;;;;;;x
+MIN_presidential_dictatorship;Nanyue;;;;;;;;;;;;;x
+MIN_bourgeois_dictatorship;Nanyue;;;;;;;;;;;;;x
+MIN_fascist_dictatorship;Nanyue;;;;;;;;;;;;;x
+MIN_absolute_monarchy;Nanyue;;;;;;;;;;;;;x
+MIN_prussian_constitutionalism;Nanyue;;;;;;;;;;;;;x
+MIN_hms_government;Nanyue;;;;;;;;;;;;;x
+MIN_democracy;Nanyue;;;;;;;;;;;;;x
+MIN_theocracy;Nanyue;;;;;;;;;;;;;x
+MIN_merchant_republic;Nanyue;;;;;;;;;;;;;x
+KOR_proletarian_dictatorship;Joseon;;;;;;;;;;;;;x
+KOR_presidential_dictatorship;Joseon;;;;;;;;;;;;;x
+KOR_bourgeois_dictatorship;Joseon;;;;;;;;;;;;;x
+KOR_fascist_dictatorship;Joseon;;;;;;;;;;;;;x
+KOR_absolute_monarchy;Joseon;;;;;;;;;;;;;x
+KOR_prussian_constitutionalism;Joseon;;;;;;;;;;;;;x
+KOR_hms_government;Joseon;;;;;;;;;;;;;x
+KOR_democracy;Joseon;;;;;;;;;;;;;x
+KOR_theocracy;Joseon;;;;;;;;;;;;;x
+KOR_merchant_republic;Joseon;;;;;;;;;;;;;x
+JAP_proletarian_dictatorship;Yamato;;;;;;;;;;;;;x
+JAP_presidential_dictatorship;Yamato;;;;;;;;;;;;;x
+JAP_bourgeois_dictatorship;Yamato;;;;;;;;;;;;;x
+JAP_fascist_dictatorship;Yamato;;;;;;;;;;;;;x
+JAP_absolute_monarchy;Yamato;;;;;;;;;;;;;x
+JAP_prussian_constitutionalism;Yamato;;;;;;;;;;;;;x
+JAP_hms_government;Yamato;;;;;;;;;;;;;x
+JAP_democracy;Yamato;;;;;;;;;;;;;x
+JAP_theocracy;Yamato;;;;;;;;;;;;;x
+JAP_merchant_republic;Yamato;;;;;;;;;;;;;x
+MAN_proletarian_dictatorship;Manchuria;;;;;;;;;;;;;x
+MAN_presidential_dictatorship;Manchuria;;;;;;;;;;;;;x
+MAN_bourgeois_dictatorship;Manchuria;;;;;;;;;;;;;x
+MAN_fascist_dictatorship;Manchuria;;;;;;;;;;;;;x
+MAN_absolute_monarchy;Manchuria;;;;;;;;;;;;;x
+MAN_prussian_constitutionalism;Manchuria;;;;;;;;;;;;;x
+MAN_hms_government;Manchuria;;;;;;;;;;;;;x
+MAN_democracy;Manchuria;;;;;;;;;;;;;x
+MAN_theocracy;Manchuria;;;;;;;;;;;;;x
+MAN_merchant_republic;Manchuria;;;;;;;;;;;;;x
+MON_proletarian_dictatorship;Mongolia;;;;;;;;;;;;;x
+MON_presidential_dictatorship;Mongolia;;;;;;;;;;;;;x
+MON_bourgeois_dictatorship;Mongolia;;;;;;;;;;;;;x
+MON_fascist_dictatorship;Mongolia;;;;;;;;;;;;;x
+MON_absolute_monarchy;Mongolia;;;;;;;;;;;;;x
+MON_prussian_constitutionalism;Mongolia;;;;;;;;;;;;;x
+MON_hms_government;Mongolia;;;;;;;;;;;;;x
+MON_democracy;Mongolia;;;;;;;;;;;;;x
+MON_theocracy;Mongolia;;;;;;;;;;;;;x
+MON_merchant_republic;Mongolia;;;;;;;;;;;;;x
+TIB_proletarian_dictatorship;Tibet;;;;;;;;;;;;;x
+TIB_presidential_dictatorship;Tibet;;;;;;;;;;;;;x
+TIB_bourgeois_dictatorship;Tibet;;;;;;;;;;;;;x
+TIB_fascist_dictatorship;Tibet;;;;;;;;;;;;;x
+TIB_absolute_monarchy;Tibet;;;;;;;;;;;;;x
+TIB_prussian_constitutionalism;Tibet;;;;;;;;;;;;;x
+TIB_hms_government;Tibet;;;;;;;;;;;;;x
+TIB_democracy;Tibet;;;;;;;;;;;;;x
+TIB_theocracy;Tibet;;;;;;;;;;;;;x
+TIB_merchant_republic;Tibet;;;;;;;;;;;;;x
+DIA_proletarian_dictatorship;Dian;;;;;;;;;;;;;x
+DIA_presidential_dictatorship;Dian;;;;;;;;;;;;;x
+DIA_bourgeois_dictatorship;Dian;;;;;;;;;;;;;x
+DIA_fascist_dictatorship;Dian;;;;;;;;;;;;;x
+DIA_absolute_monarchy;Dian;;;;;;;;;;;;;x
+DIA_prussian_constitutionalism;Dian;;;;;;;;;;;;;x
+DIA_hms_government;Dian;;;;;;;;;;;;;x
+DIA_democracy;Dian;;;;;;;;;;;;;x
+DIA_theocracy;Dian;;;;;;;;;;;;;x
+DIA_merchant_republic;Dian;;;;;;;;;;;;;x
+THA_proletarian_dictatorship;Siam;;;;;;;;;;;;;x
+THA_presidential_dictatorship;Siam;;;;;;;;;;;;;x
+THA_bourgeois_dictatorship;Siam;;;;;;;;;;;;;x
+THA_fascist_dictatorship;Siam;;;;;;;;;;;;;x
+THA_absolute_monarchy;Siam;;;;;;;;;;;;;x
+THA_prussian_constitutionalism;Siam;;;;;;;;;;;;;x
+THA_hms_government;Siam;;;;;;;;;;;;;x
+THA_democracy;Siam;;;;;;;;;;;;;x
+THA_theocracy;Siam;;;;;;;;;;;;;x
+THA_merchant_republic;Siam;;;;;;;;;;;;;x
+CHA_proletarian_dictatorship;Champa;;;;;;;;;;;;;x
+CHA_presidential_dictatorship;Champa;;;;;;;;;;;;;x
+CHA_bourgeois_dictatorship;Champa;;;;;;;;;;;;;x
+CHA_fascist_dictatorship;Champa;;;;;;;;;;;;;x
+CHA_absolute_monarchy;Champa;;;;;;;;;;;;;x
+CHA_prussian_constitutionalism;Champa;;;;;;;;;;;;;x
+CHA_hms_government;Champa;;;;;;;;;;;;;x
+CHA_democracy;Champa;;;;;;;;;;;;;x
+CHA_theocracy;Champa;;;;;;;;;;;;;x
+CHA_merchant_republic;Champa;;;;;;;;;;;;;x
+VIE_proletarian_dictatorship;Dai Viet;;;;;;;;;;;;;x
+VIE_presidential_dictatorship;Dai Viet;;;;;;;;;;;;;x
+VIE_bourgeois_dictatorship;Dai Viet;;;;;;;;;;;;;x
+VIE_fascist_dictatorship;Dai Viet;;;;;;;;;;;;;x
+VIE_absolute_monarchy;Dai Viet;;;;;;;;;;;;;x
+VIE_prussian_constitutionalism;Dai Viet;;;;;;;;;;;;;x
+VIE_hms_government;Dai Viet;;;;;;;;;;;;;x
+VIE_democracy;Dai Viet;;;;;;;;;;;;;x
+VIE_theocracy;Dai Viet;;;;;;;;;;;;;x
+VIE_merchant_republic;Dai Viet;;;;;;;;;;;;;x
+NUS_proletarian_dictatorship;Nusantara;;;;;;;;;;;;;x
+NUS_presidential_dictatorship;Nusantara;;;;;;;;;;;;;x
+NUS_bourgeois_dictatorship;Nusantara;;;;;;;;;;;;;x
+NUS_fascist_dictatorship;Nusantara;;;;;;;;;;;;;x
+NUS_absolute_monarchy;Nusantara;;;;;;;;;;;;;x
+NUS_prussian_constitutionalism;Nusantara;;;;;;;;;;;;;x
+NUS_hms_government;Nusantara;;;;;;;;;;;;;x
+NUS_democracy;Nusantara;;;;;;;;;;;;;x
+NUS_theocracy;Nusantara;;;;;;;;;;;;;x
+NUS_merchant_republic;Nusantara;;;;;;;;;;;;;x
+AKU_proletarian_dictatorship;Aksum;;;;;;;;;;;;;x
+AKU_presidential_dictatorship;Aksum;;;;;;;;;;;;;x
+AKU_bourgeois_dictatorship;Aksum;;;;;;;;;;;;;x
+AKU_fascist_dictatorship;Aksum;;;;;;;;;;;;;x
+AKU_absolute_monarchy;Aksum;;;;;;;;;;;;;x
+AKU_prussian_constitutionalism;Aksum;;;;;;;;;;;;;x
+AKU_hms_government;Aksum;;;;;;;;;;;;;x
+AKU_democracy;Aksum;;;;;;;;;;;;;x
+AKU_theocracy;Aksum;;;;;;;;;;;;;x
+AKU_merchant_republic;Aksum;;;;;;;;;;;;;x
+NUB_proletarian_dictatorship;Nubia;;;;;;;;;;;;;x
+NUB_presidential_dictatorship;Nubia;;;;;;;;;;;;;x
+NUB_bourgeois_dictatorship;Nubia;;;;;;;;;;;;;x
+NUB_fascist_dictatorship;Nubia;;;;;;;;;;;;;x
+NUB_absolute_monarchy;Nubia;;;;;;;;;;;;;x
+NUB_prussian_constitutionalism;Nubia;;;;;;;;;;;;;x
+NUB_hms_government;Nubia;;;;;;;;;;;;;x
+NUB_democracy;Nubia;;;;;;;;;;;;;x
+NUB_theocracy;Nubia;;;;;;;;;;;;;x
+NUB_merchant_republic;Nubia;;;;;;;;;;;;;x
+WAG_proletarian_dictatorship;Wagadu;;;;;;;;;;;;;x
+WAG_presidential_dictatorship;Wagadu;;;;;;;;;;;;;x
+WAG_bourgeois_dictatorship;Wagadu;;;;;;;;;;;;;x
+WAG_fascist_dictatorship;Wagadu;;;;;;;;;;;;;x
+WAG_absolute_monarchy;Wagadu;;;;;;;;;;;;;x
+WAG_prussian_constitutionalism;Wagadu;;;;;;;;;;;;;x
+WAG_hms_government;Wagadu;;;;;;;;;;;;;x
+WAG_democracy;Wagadu;;;;;;;;;;;;;x
+WAG_theocracy;Wagadu;;;;;;;;;;;;;x
+WAG_merchant_republic;Wagadu;;;;;;;;;;;;;x
+KAN_proletarian_dictatorship;Kanem;;;;;;;;;;;;;x
+KAN_presidential_dictatorship;Kanem;;;;;;;;;;;;;x
+KAN_bourgeois_dictatorship;Kanem;;;;;;;;;;;;;x
+KAN_fascist_dictatorship;Kanem;;;;;;;;;;;;;x
+KAN_absolute_monarchy;Kanem;;;;;;;;;;;;;x
+KAN_prussian_constitutionalism;Kanem;;;;;;;;;;;;;x
+KAN_hms_government;Kanem;;;;;;;;;;;;;x
+KAN_democracy;Kanem;;;;;;;;;;;;;x
+KAN_theocracy;Kanem;;;;;;;;;;;;;x
+KAN_merchant_republic;Kanem;;;;;;;;;;;;;x
+KON_proletarian_dictatorship;Kongo;;;;;;;;;;;;;x
+KON_presidential_dictatorship;Kongo;;;;;;;;;;;;;x
+KON_bourgeois_dictatorship;Kongo;;;;;;;;;;;;;x
+KON_fascist_dictatorship;Kongo;;;;;;;;;;;;;x
+KON_absolute_monarchy;Kongo;;;;;;;;;;;;;x
+KON_prussian_constitutionalism;Kongo;;;;;;;;;;;;;x
+KON_hms_government;Kongo;;;;;;;;;;;;;x
+KON_democracy;Kongo;;;;;;;;;;;;;x
+KON_theocracy;Kongo;;;;;;;;;;;;;x
+KON_merchant_republic;Kongo;;;;;;;;;;;;;x
+ZIM_proletarian_dictatorship;Zimbabwe;;;;;;;;;;;;;x
+ZIM_presidential_dictatorship;Zimbabwe;;;;;;;;;;;;;x
+ZIM_bourgeois_dictatorship;Zimbabwe;;;;;;;;;;;;;x
+ZIM_fascist_dictatorship;Zimbabwe;;;;;;;;;;;;;x
+ZIM_absolute_monarchy;Zimbabwe;;;;;;;;;;;;;x
+ZIM_prussian_constitutionalism;Zimbabwe;;;;;;;;;;;;;x
+ZIM_hms_government;Zimbabwe;;;;;;;;;;;;;x
+ZIM_democracy;Zimbabwe;;;;;;;;;;;;;x
+ZIM_theocracy;Zimbabwe;;;;;;;;;;;;;x
+ZIM_merchant_republic;Zimbabwe;;;;;;;;;;;;;x
+ZEN_proletarian_dictatorship;Zengba;;;;;;;;;;;;;x
+ZEN_presidential_dictatorship;Zengba;;;;;;;;;;;;;x
+ZEN_bourgeois_dictatorship;Zengba;;;;;;;;;;;;;x
+ZEN_fascist_dictatorship;Zengba;;;;;;;;;;;;;x
+ZEN_absolute_monarchy;Zengba;;;;;;;;;;;;;x
+ZEN_prussian_constitutionalism;Zengba;;;;;;;;;;;;;x
+ZEN_hms_government;Zengba;;;;;;;;;;;;;x
+ZEN_democracy;Zengba;;;;;;;;;;;;;x
+ZEN_theocracy;Zengba;;;;;;;;;;;;;x
+ZEN_merchant_republic;Zengba;;;;;;;;;;;;;x
+MEL_proletarian_dictatorship;Melainadu;;;;;;;;;;;;;x
+MEL_presidential_dictatorship;Melainadu;;;;;;;;;;;;;x
+MEL_bourgeois_dictatorship;Melainadu;;;;;;;;;;;;;x
+MEL_fascist_dictatorship;Melainadu;;;;;;;;;;;;;x
+MEL_absolute_monarchy;Melainadu;;;;;;;;;;;;;x
+MEL_prussian_constitutionalism;Melainadu;;;;;;;;;;;;;x
+MEL_hms_government;Melainadu;;;;;;;;;;;;;x
+MEL_democracy;Melainadu;;;;;;;;;;;;;x
+MEL_theocracy;Melainadu;;;;;;;;;;;;;x
+MEL_merchant_republic;Melainadu;;;;;;;;;;;;;x
+RAN_proletarian_dictatorship;Rantau;;;;;;;;;;;;;x
+RAN_presidential_dictatorship;Rantau;;;;;;;;;;;;;x
+RAN_bourgeois_dictatorship;Rantau;;;;;;;;;;;;;x
+RAN_fascist_dictatorship;Rantau;;;;;;;;;;;;;x
+RAN_absolute_monarchy;Rantau;;;;;;;;;;;;;x
+RAN_prussian_constitutionalism;Rantau;;;;;;;;;;;;;x
+RAN_hms_government;Rantau;;;;;;;;;;;;;x
+RAN_democracy;Rantau;;;;;;;;;;;;;x
+RAN_theocracy;Rantau;;;;;;;;;;;;;x
+RAN_merchant_republic;Rantau;;;;;;;;;;;;;x
+MEX_proletarian_dictatorship;Mexica;;;;;;;;;;;;;x
+MEX_presidential_dictatorship;Mexica;;;;;;;;;;;;;x
+MEX_bourgeois_dictatorship;Mexica;;;;;;;;;;;;;x
+MEX_fascist_dictatorship;Mexica;;;;;;;;;;;;;x
+MEX_absolute_monarchy;Mexica;;;;;;;;;;;;;x
+MEX_prussian_constitutionalism;Mexica;;;;;;;;;;;;;x
+MEX_hms_government;Mexica;;;;;;;;;;;;;x
+MEX_democracy;Mexica;;;;;;;;;;;;;x
+MEX_theocracy;Mexica;;;;;;;;;;;;;x
+MEX_merchant_republic;Mexica;;;;;;;;;;;;;x
+MAY_proletarian_dictatorship;Maya;;;;;;;;;;;;;x
+MAY_presidential_dictatorship;Maya;;;;;;;;;;;;;x
+MAY_bourgeois_dictatorship;Maya;;;;;;;;;;;;;x
+MAY_fascist_dictatorship;Maya;;;;;;;;;;;;;x
+MAY_absolute_monarchy;Maya;;;;;;;;;;;;;x
+MAY_prussian_constitutionalism;Maya;;;;;;;;;;;;;x
+MAY_hms_government;Maya;;;;;;;;;;;;;x
+MAY_democracy;Maya;;;;;;;;;;;;;x
+MAY_theocracy;Maya;;;;;;;;;;;;;x
+MAY_merchant_republic;Maya;;;;;;;;;;;;;x
+INC_proletarian_dictatorship;Tawantinsuyu;;;;;;;;;;;;;x
+INC_presidential_dictatorship;Tawantinsuyu;;;;;;;;;;;;;x
+INC_bourgeois_dictatorship;Tawantinsuyu;;;;;;;;;;;;;x
+INC_fascist_dictatorship;Tawantinsuyu;;;;;;;;;;;;;x
+INC_absolute_monarchy;Tawantinsuyu;;;;;;;;;;;;;x
+INC_prussian_constitutionalism;Tawantinsuyu;;;;;;;;;;;;;x
+INC_hms_government;Tawantinsuyu;;;;;;;;;;;;;x
+INC_democracy;Tawantinsuyu;;;;;;;;;;;;;x
+INC_theocracy;Tawantinsuyu;;;;;;;;;;;;;x
+INC_merchant_republic;Tawantinsuyu;;;;;;;;;;;;;x
+MUI_proletarian_dictatorship;Muisca;;;;;;;;;;;;;x
+MUI_presidential_dictatorship;Muisca;;;;;;;;;;;;;x
+MUI_bourgeois_dictatorship;Muisca;;;;;;;;;;;;;x
+MUI_fascist_dictatorship;Muisca;;;;;;;;;;;;;x
+MUI_absolute_monarchy;Muisca;;;;;;;;;;;;;x
+MUI_prussian_constitutionalism;Muisca;;;;;;;;;;;;;x
+MUI_hms_government;Muisca;;;;;;;;;;;;;x
+MUI_democracy;Muisca;;;;;;;;;;;;;x
+MUI_theocracy;Muisca;;;;;;;;;;;;;x
+MUI_merchant_republic;Muisca;;;;;;;;;;;;;x
+MIS_proletarian_dictatorship;Mississippian;;;;;;;;;;;;;x
+MIS_presidential_dictatorship;Mississippian;;;;;;;;;;;;;x
+MIS_bourgeois_dictatorship;Mississippian;;;;;;;;;;;;;x
+MIS_fascist_dictatorship;Mississippian;;;;;;;;;;;;;x
+MIS_absolute_monarchy;Mississippian;;;;;;;;;;;;;x
+MIS_prussian_constitutionalism;Mississippian;;;;;;;;;;;;;x
+MIS_hms_government;Mississippian;;;;;;;;;;;;;x
+MIS_democracy;Mississippian;;;;;;;;;;;;;x
+MIS_theocracy;Mississippian;;;;;;;;;;;;;x
+MIS_merchant_republic;Mississippian;;;;;;;;;;;;;x
+HAU_proletarian_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+HAU_presidential_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+HAU_bourgeois_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+HAU_fascist_dictatorship;Haudenosaunee;;;;;;;;;;;;;x
+HAU_absolute_monarchy;Haudenosaunee;;;;;;;;;;;;;x
+HAU_prussian_constitutionalism;Haudenosaunee;;;;;;;;;;;;;x
+HAU_hms_government;Haudenosaunee;;;;;;;;;;;;;x
+HAU_democracy;Haudenosaunee;;;;;;;;;;;;;x
+HAU_theocracy;Haudenosaunee;;;;;;;;;;;;;x
+HAU_merchant_republic;Haudenosaunee;;;;;;;;;;;;;x
+PUE_proletarian_dictatorship;Pueblo;;;;;;;;;;;;;x
+PUE_presidential_dictatorship;Pueblo;;;;;;;;;;;;;x
+PUE_bourgeois_dictatorship;Pueblo;;;;;;;;;;;;;x
+PUE_fascist_dictatorship;Pueblo;;;;;;;;;;;;;x
+PUE_absolute_monarchy;Pueblo;;;;;;;;;;;;;x
+PUE_prussian_constitutionalism;Pueblo;;;;;;;;;;;;;x
+PUE_hms_government;Pueblo;;;;;;;;;;;;;x
+PUE_democracy;Pueblo;;;;;;;;;;;;;x
+PUE_theocracy;Pueblo;;;;;;;;;;;;;x
+PUE_merchant_republic;Pueblo;;;;;;;;;;;;;x
+RAJ_proletarian_dictatorship;Rajputana;;;;;;;;;;;;;x
+RAJ_presidential_dictatorship;Rajputana;;;;;;;;;;;;;x
+RAJ_bourgeois_dictatorship;Rajputana;;;;;;;;;;;;;x
+RAJ_fascist_dictatorship;Rajputana;;;;;;;;;;;;;x
+RAJ_absolute_monarchy;Rajputana;;;;;;;;;;;;;x
+RAJ_prussian_constitutionalism;Rajputana;;;;;;;;;;;;;x
+RAJ_hms_government;Rajputana;;;;;;;;;;;;;x
+RAJ_democracy;Rajputana;;;;;;;;;;;;;x
+RAJ_theocracy;Rajputana;;;;;;;;;;;;;x
+RAJ_merchant_republic;Rajputana;;;;;;;;;;;;;x
+ORI_proletarian_dictatorship;Orissa;;;;;;;;;;;;;x
+ORI_presidential_dictatorship;Orissa;;;;;;;;;;;;;x
+ORI_bourgeois_dictatorship;Orissa;;;;;;;;;;;;;x
+ORI_fascist_dictatorship;Orissa;;;;;;;;;;;;;x
+ORI_absolute_monarchy;Orissa;;;;;;;;;;;;;x
+ORI_prussian_constitutionalism;Orissa;;;;;;;;;;;;;x
+ORI_hms_government;Orissa;;;;;;;;;;;;;x
+ORI_democracy;Orissa;;;;;;;;;;;;;x
+ORI_theocracy;Orissa;;;;;;;;;;;;;x
+ORI_merchant_republic;Orissa;;;;;;;;;;;;;x
+CHI_proletarian_dictatorship;China;;;;;;;;;;;;;x
+CHI_presidential_dictatorship;China;;;;;;;;;;;;;x
+CHI_bourgeois_dictatorship;China;;;;;;;;;;;;;x
+CHI_fascist_dictatorship;China;;;;;;;;;;;;;x
+CHI_absolute_monarchy;China;;;;;;;;;;;;;x
+CHI_prussian_constitutionalism;China;;;;;;;;;;;;;x
+CHI_hms_government;China;;;;;;;;;;;;;x
+CHI_democracy;China;;;;;;;;;;;;;x
+CHI_theocracy;China;;;;;;;;;;;;;x
+CHI_merchant_republic;China;;;;;;;;;;;;;x
+DEC_proletarian_dictatorship;Deccan Empire;;;;;;;;;;;;;x
+DEC_presidential_dictatorship;Deccan Empire;;;;;;;;;;;;;x
+DEC_bourgeois_dictatorship;Deccan Empire;;;;;;;;;;;;;x
+DEC_fascist_dictatorship;Deccan Empire;;;;;;;;;;;;;x
+DEC_absolute_monarchy;Deccan Empire;;;;;;;;;;;;;x
+DEC_prussian_constitutionalism;Deccan Empire;;;;;;;;;;;;;x
+DEC_hms_government;Deccan Empire;;;;;;;;;;;;;x
+DEC_democracy;Deccan Empire;;;;;;;;;;;;;x
+DEC_theocracy;Deccan Empire;;;;;;;;;;;;;x
+DEC_merchant_republic;Deccan Empire;;;;;;;;;;;;;x
+BHA_proletarian_dictatorship;Bharat;;;;;;;;;;;;;x
+BHA_presidential_dictatorship;Bharat;;;;;;;;;;;;;x
+BHA_bourgeois_dictatorship;Bharat;;;;;;;;;;;;;x
+BHA_fascist_dictatorship;Bharat;;;;;;;;;;;;;x
+BHA_absolute_monarchy;Bharat;;;;;;;;;;;;;x
+BHA_prussian_constitutionalism;Bharat;;;;;;;;;;;;;x
+BHA_hms_government;Bharat;;;;;;;;;;;;;x
+BHA_democracy;Bharat;;;;;;;;;;;;;x
+BHA_theocracy;Bharat;;;;;;;;;;;;;x
+BHA_merchant_republic;Bharat;;;;;;;;;;;;;x
+HIN_proletarian_dictatorship;Hindustan;;;;;;;;;;;;;x
+HIN_presidential_dictatorship;Hindustan;;;;;;;;;;;;;x
+HIN_bourgeois_dictatorship;Hindustan;;;;;;;;;;;;;x
+HIN_fascist_dictatorship;Hindustan;;;;;;;;;;;;;x
+HIN_absolute_monarchy;Hindustan;;;;;;;;;;;;;x
+HIN_prussian_constitutionalism;Hindustan;;;;;;;;;;;;;x
+HIN_hms_government;Hindustan;;;;;;;;;;;;;x
+HIN_democracy;Hindustan;;;;;;;;;;;;;x
+HIN_theocracy;Hindustan;;;;;;;;;;;;;x
+HIN_merchant_republic;Hindustan;;;;;;;;;;;;;x
+KHM;Khmer Empire;;;;;;;;;;;;;x
+KHM_ADJ;Khmer;;;;;;;;;;;;;x
+KHM_proletarian_dictatorship;Khmer Empire;;;;;;;;;;;;;x
+KHM_presidential_dictatorship;Khmer Empire;;;;;;;;;;;;;x
+KHM_bourgeois_dictatorship;Khmer Empire;;;;;;;;;;;;;x
+KHM_fascist_dictatorship;Khmer Empire;;;;;;;;;;;;;x
+KHM_absolute_monarchy;Khmer Empire;;;;;;;;;;;;;x
+KHM_prussian_constitutionalism;Khmer Empire;;;;;;;;;;;;;x
+KHM_hms_government;Khmer Empire;;;;;;;;;;;;;x
+KHM_democracy;Khmer Empire;;;;;;;;;;;;;x
+KHM_theocracy;Khmer Empire;;;;;;;;;;;;;x
+KHM_merchant_republic;Khmer Empire;;;;;;;;;;;;;x
+KHM_conservative;Conservatives;;;;;;;;;;;;;x
+KHM_reactionary;Reactionaries;;;;;;;;;;;;;x
+KHM_liberal;Liberals;;;;;;;;;;;;;x
+KHM_socialist;Socialists;;;;;;;;;;;;;x
+KHM_communist;Communists;;;;;;;;;;;;;x
+KHM_fascist;Fascists;;;;;;;;;;;;;x
+form_khmer_empire_title;Proclaim the Khmer Empire;;;;;;;;;;;;;x
+form_khmer_empire_desc;From Pegu to the Gulf of Tonkin, the old lands of Angkor answer to one throne again. Let the world know the Khmer Empire has risen.;;;;;;;;;;;;;x
+mon_turkic_union_title;Unite the Turkic Steppe;;;;;;;;;;;;;x
+man_turkic_union_title;Unite the Turkic Steppe;;;;;;;;;;;;;x
+mon_turkic_union_desc;With Qarshi in our hands, the Turkic clans of the west look to our banner. Let them ride with us, and let every Turkmen land be counted as ours by right.;;;;;;;;;;;;;x
+man_turkic_union_desc;With Qarshi in our hands, the Turkic clans of the west look to our banner. Let them ride with us, and let every Turkmen land be counted as ours by right.;;;;;;;;;;;;;x
+king_of_kings_title;King of Kings;;;;;;;;;;;;;x
+king_of_kings_desc;Every land Palmyra ever called its own now answers to Ctesiphon. The Shahanshah rules Romans as surely as Persians, and the old Roman provinces of Asia and Greece are ours to claim.;;;;;;;;;;;;;x
+conquest_of_the_indus_title;Conquest of the Indus;;;;;;;;;;;;;x
+conquest_of_the_indus_desc;Amritsar, Kashmir, the Punjab and Sind are held by Persian garrisons. Like Darius before us, we will make the land of the five rivers a satrapy of Iran.;;;;;;;;;;;;;x
+usurp_rome_title;Usurp Rome;;;;;;;;;;;;;x
+usurp_rome_desc;Both capitals of the Empire, Rome and Constantinople, are in Palmyran hands. The purple belongs to whoever can hold it, and Palmyra holds it now.;;;;;;;;;;;;;x
+only_we_can_defend_rome_title;Only We Can Defend Rome;;;;;;;;;;;;;x
+only_we_can_defend_rome_desc;Rome totters and its western clients squabble. Gaul alone can hold the frontier: Britannia, Hispania, Belgica and Raetia-Noricum will stand under one banner as the Gallic Empire, free of Rome but sworn to its defence.;;;;;;;;;;;;;x
+EVTNAME950001;Crisis Approaches;;;;;;;;;;;;;x
+EVTDESC950001;Crisis approaches our nation. Bread riots in the provinces, mutinies on the frontier and whispered plots in the Senate all say the same thing: the end is coming...;;;;;;;;;;;;;x
+EVTOPTA950001;Brace for the storm.;;;;;;;;;;;;;x
+EVTNAME950002;We are in Crisis!;;;;;;;;;;;;;x
+EVTDESC950002;The crisis is here. To survive, Rome must gather what remains of its strength: Pannonia, Dacia and Moesia are absorbed into the Empire, and old claims in Africa and Anatolia are renewed.;;;;;;;;;;;;;x
+EVTOPTA950002;Rome endures.;;;;;;;;;;;;;x
+EVTNAME950004;Palmyra Betrays Us!;;;;;;;;;;;;;x
+EVTDESC950004;Our oldest ally has shown its true face. Palmyra has renounced its alliance with Rome and laid claim to Ankara, Hudavendigar and Thrace, the very heart of our eastern provinces.;;;;;;;;;;;;;x
+EVTOPTA950004;The serpent of the East reveals itself.;;;;;;;;;;;;;x
+GAE;The Gallic Empire;;;;;;;;;;;;;x
+GAE_ADJ;Gallic;;;;;;;;;;;;;x
+GAE_proletarian_dictatorship;The Gallic Empire;;;;;;;;;;;;;x
+GAE_presidential_dictatorship;The Gallic Empire;;;;;;;;;;;;;x
+GAE_bourgeois_dictatorship;The Gallic Empire;;;;;;;;;;;;;x
+GAE_fascist_dictatorship;The Gallic Empire;;;;;;;;;;;;;x
+GAE_absolute_monarchy;The Gallic Empire;;;;;;;;;;;;;x
+GAE_prussian_constitutionalism;The Gallic Empire;;;;;;;;;;;;;x
+GAE_hms_government;The Gallic Empire;;;;;;;;;;;;;x
+GAE_democracy;The Gallic Empire;;;;;;;;;;;;;x
+GAE_theocracy;The Gallic Empire;;;;;;;;;;;;;x
+GAE_merchant_republic;The Gallic Empire;;;;;;;;;;;;;x
+GAE_conservative;Conservatives;;;;;;;;;;;;;x
+GAE_reactionary;Reactionaries;;;;;;;;;;;;;x
+GAE_liberal;Liberals;;;;;;;;;;;;;x
+GAE_socialist;Socialists;;;;;;;;;;;;;x
+GAE_communist;Communists;;;;;;;;;;;;;x
+GAE_fascist;Fascists;;;;;;;;;;;;;x
+gal_usurp_rome_title;Usurp Rome;;;;;;;;;;;;;x
+gal_usurp_rome_desc;Rome and Constantinople fly Gallic standards. If the Romans cannot keep their Empire, a Gaul will wear the purple.;;;;;;;;;;;;;x
+EVTNAME950003;Rhine Legions Betray us!;;;;;;;;;;;;;x
+EVTDESC950003;Treachery in the West! Gallia has broken its oath to Rome. The Rhine legions have hailed their own emperor, Britannia, Hispania, Belgica and Raetia-Noricum have gone over to them, and a new Gallic Empire has been proclaimed in defiance of the Eternal City.;;;;;;;;;;;;;x
+EVTOPTA950003;Traitors! Rome will remember this.;;;;;;;;;;;;;x
+rome_reclaim_gaul_title;Restitutor Orbis: Gaul;;;;;;;;;;;;;x
+rome_reclaim_gaul_desc;Roman eagles fly over Paris once more. Every Gallic land belongs to Rome by right, and we will not forget it.;;;;;;;;;;;;;x
+rome_reclaim_palmyra_title;Restitutor Orbis: Palmyra;;;;;;;;;;;;;x
+rome_reclaim_palmyra_desc;New Palmyra is in Roman hands. The upstart eastern empire was only ever a province that forgot its place, and all its lands are Rome's to claim.;;;;;;;;;;;;;x
+felicior_augusto_title;Luckier than Augustus, Better than Trajan;;;;;;;;;;;;;x
+felicior_augusto_desc;Gaul and the East are Roman once more and every Roman land answers to the Eternal City. The Senate greets the Emperor with the old acclamation: felicior Augusto, melior Traiano.;;;;;;;;;;;;;x
+felicior_augusto_melior_traiano;Luckier than Augustus, Better than Trajan;;;;;;;;;;;;;x
+felicior_augusto_melior_traiano_desc;The Empire is whole again. Its generals are the envy of the world and its people prosper under a new golden age.;;;;;;;;;;;;;x
+rome_entrusts_us_title;Rome Entrusts us!;;;;;;;;;;;;;x
+rome_entrusts_us_desc;The Emperor has named Gaul the shield of the West. Hispania, Britannia and Raetia are to be placed under Gallic administration, to be governed and defended in Rome's name.;;;;;;;;;;;;;x
+PROV300;Londinium;;;;;;;;;;;;;x
+PROV592;Vindelicum;;;;;;;;;;;;;x
+PROV926;Ctesiphon;;;;;;;;;;;;;x
+nus_claim_indonesia_title;The Islands Are One;;;;;;;;;;;;;x
+nus_claim_indonesia_desc;Every island of the archipelago belongs to Nusantara.;;;;;;;;;;;;;x
+nus_claim_south_land_title;Claim the Southern Land;;;;;;;;;;;;;x
+nus_claim_south_land_desc;Australia and New Zealand belong to Nusantara.;;;;;;;;;;;;;x
+chu_a_long_voyage_title;A Long Voyage;;;;;;;;;;;;;x
+chu_a_long_voyage_desc;Our fleets sail east to Hawaii and Yingzhou.;;;;;;;;;;;;;x
+PROV2526;Palmyra Atoll;;;;;;;;;;;;;x
+tib_turkic_brothers_title;The Turkic Peoples;;;;;;;;;;;;;x
+tib_turkic_brothers_desc;The Turkic peoples of our western frontier take their place in the realm.;;;;;;;;;;;;;x
+central_indian;Central Indian;;;;;;;;;;;;;x

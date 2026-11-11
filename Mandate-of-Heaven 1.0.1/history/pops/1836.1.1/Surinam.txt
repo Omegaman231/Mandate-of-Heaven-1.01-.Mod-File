@@ -1,0 +1,79 @@
+2240 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 550
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 174
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 40062
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 624
+	}
+}
+2245 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 307
+	}
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 67
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 184
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 799
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 175
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 155
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 34
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 9020
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 1980
+	}
+}

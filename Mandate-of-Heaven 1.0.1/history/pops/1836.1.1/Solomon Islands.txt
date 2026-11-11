@@ -1,0 +1,49 @@
+2534 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 675
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 1800
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 375
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 32775
+	}
+}
+2536 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 105
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 4050
+	}
+}

@@ -1,0 +1,44 @@
+army = {
+	name = "Mexica Army 1"
+	location = 2172
+	regiment = {
+		name = "1. Mexica Regiment"
+		type = irregular
+		home = 2172
+	}
+	regiment = {
+		name = "2. Mexica Regiment"
+		type = irregular
+		home = 2172
+	}
+	regiment = {
+		name = "3. Mexica Regiment"
+		type = infantry
+		home = 2172
+	}
+	regiment = {
+		name = "4. Mexica Regiment"
+		type = cavalry
+		home = 2176
+	}
+	regiment = {
+		name = "5. Mexica Regiment"
+		type = irregular
+		home = 2176
+	}
+	regiment = {
+		name = "6. Mexica Regiment"
+		type = irregular
+		home = 2176
+	}
+	regiment = {
+		name = "7. Mexica Regiment"
+		type = infantry
+		home = 2175
+	}
+	regiment = {
+		name = "8. Mexica Regiment"
+		type = cavalry
+		home = 2175
+	}
+}

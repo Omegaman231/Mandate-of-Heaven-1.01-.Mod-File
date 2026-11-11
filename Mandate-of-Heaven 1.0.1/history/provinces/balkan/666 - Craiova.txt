@@ -1,0 +1,5 @@
+owner = DAC
+controller = DAC
+add_core = DAC
+trade_goods = coal
+life_rating = 35

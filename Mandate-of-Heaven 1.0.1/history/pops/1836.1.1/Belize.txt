@@ -1,0 +1,27 @@
+2190 = {
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 910
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 2030
+	}
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 21
+	}
+}

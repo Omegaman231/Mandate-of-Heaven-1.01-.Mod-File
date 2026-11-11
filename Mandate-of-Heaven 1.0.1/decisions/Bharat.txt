@@ -1,0 +1,30 @@
+political_decisions = {
+	form_bharat = {
+		potential = {
+			OR = { tag = DEL tag = PEN tag = BEN tag = GUJ tag = KAR tag = TAM tag = RAJ tag = ORI tag = DEC tag = HIN }
+			NOT = { exists = BHA }
+		}
+		allow = {
+			year = 1865
+			is_vassal = no
+			war = no
+			owns = 1236
+			owns = 1251
+			owns = 1304
+			owns = 1297
+			owns = 1227
+		}
+		effect = {
+			change_tag = BHA
+			prestige = 50
+			add_accepted_culture = hindustani
+			add_accepted_culture = punjabi
+			add_accepted_culture = bengali
+			add_accepted_culture = gujarati
+			add_accepted_culture = marathi
+			add_accepted_culture = tamil
+			add_accepted_culture = kannada
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

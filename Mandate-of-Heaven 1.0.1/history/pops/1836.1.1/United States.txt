@@ -1,0 +1,5731 @@
+1 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 43
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 87
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 43
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 2590
+	}
+}
+2 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 43
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1050
+	}
+}
+3 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 26
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 630
+	}
+}
+4 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1470
+	}
+}
+5 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 560
+	}
+}
+9 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 86
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 43
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 172
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 37
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 10949
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2403
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 258
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 56
+	}
+}
+37 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 175
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7411
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1400
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 350
+	}
+}
+77 = {
+	capitalists = {
+		culture = algonquian
+		religion = placeholder
+		size = 182
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 560
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 27965
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 840
+	}
+	craftsmen = {
+		culture = algonquian
+		religion = placeholder
+		size = 1819
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 5600
+	}
+}
+78 = {
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 29
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 315
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 57
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 5110
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1487
+	}
+}
+79 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 5460
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1260
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+}
+80 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 105
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 105
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 52
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7330
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 2434
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 472
+	}
+}
+81 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 5888
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 560
+	}
+}
+82 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6212
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+}
+83 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1127
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 280
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 62
+	}
+}
+84 = {
+	capitalists = {
+		culture = algonquian
+		religion = placeholder
+		size = 21
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 264
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 680
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 806
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 30520
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 5565
+	}
+	craftsmen = {
+		culture = algonquian
+		religion = placeholder
+		size = 854
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 700
+	}
+}
+85 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 12866
+	}
+}
+86 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 11865
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 175
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 385
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 87
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 437
+	}
+}
+87 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 105
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 42
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 10809
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 997
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+}
+88 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 143
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 57
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 57
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6077
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1334
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1148
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 252
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 287
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 63
+	}
+}
+89 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1280
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 280
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 373
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 81
+	}
+}
+90 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 133
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 2170
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 7047
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3523
+	}
+}
+91 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1153
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 253
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 51
+	}
+}
+92 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1890
+	}
+}
+93 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 981
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 215
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 172
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 37
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 51
+	}
+}
+94 = {
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 51
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 723
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 158
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 373
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 81
+	}
+}
+95 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 20
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1313
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 288
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 344
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 75
+	}
+}
+96 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1491
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 280
+	}
+}
+97 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1690
+	}
+}
+98 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1715
+	}
+}
+99 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2730
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 280
+	}
+}
+100 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2002
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 35
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 280
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 87
+	}
+}
+101 = {
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 52
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 157
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2170
+	}
+}
+102 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 43
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3150
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+}
+103 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 87
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 183
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4830
+	}
+}
+104 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 787
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 166
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1959
+	}
+}
+105 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 59
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 280
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 113
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3220
+	}
+}
+106 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 113
+	}
+}
+107 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1092
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 287
+	}
+}
+108 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1438
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 454
+	}
+}
+109 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 258
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 56
+	}
+}
+110 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 630
+	}
+}
+111 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1050
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 329
+	}
+}
+112 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 113
+	}
+}
+113 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 113
+	}
+}
+114 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 981
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 215
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 172
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 37
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 51
+	}
+}
+115 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 630
+	}
+}
+116 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 21
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 774
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 170
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+}
+117 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 629
+	}
+}
+118 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 113
+	}
+}
+119 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 629
+	}
+}
+120 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 629
+	}
+}
+121 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 629
+	}
+}
+122 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1603
+	}
+}
+123 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1252
+	}
+}
+124 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1252
+	}
+}
+125 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 244
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4815
+	}
+}
+126 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 58
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 233
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 5787
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 175
+	}
+}
+127 = {
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 113
+	}
+}
+128 = {
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 215
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 47
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 37
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3991
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 876
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 98
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+}
+129 = {
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4304
+	}
+}
+130 = {
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 114
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3530
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 774
+	}
+}
+132 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 45
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 143
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 24
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2634
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 578
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 204
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 44
+	}
+}
+133 = {
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4304
+	}
+}
+134 = {
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4304
+	}
+}
+135 = {
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4304
+	}
+}
+136 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 48
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 279
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 113
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2800
+	}
+}
+137 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 70
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 43
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 64
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 3604
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 874
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 22714
+	}
+}
+138 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1224
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 524
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 14874
+	}
+}
+139 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 1750
+	}
+	capitalists = {
+		culture = mississippian
+		religion = placeholder
+		size = 560
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 3937
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 14700
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 700
+	}
+	clerks = {
+		culture = mississippian
+		religion = placeholder
+		size = 175
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 489
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8807
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 12279
+	}
+}
+140 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9337
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 385
+	}
+}
+141 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 12330
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 564
+	}
+}
+142 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6012
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 249
+	}
+}
+143 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 87
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 770
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8911
+	}
+}
+144 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6012
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 249
+	}
+}
+145 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9785
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+}
+146 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9785
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 539
+	}
+}
+147 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6012
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 249
+	}
+}
+148 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1530
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 203
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 14297
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 532
+	}
+}
+149 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6460
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+}
+150 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 437
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8122
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+}
+151 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 437
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8122
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+}
+152 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 437
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 46
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8122
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+}
+153 = {
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 315
+	}
+}
+154 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 629
+	}
+}
+155 = {
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 113
+	}
+}
+156 = {
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 630
+	}
+}
+157 = {
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 516
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 113
+	}
+}
+159 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2217
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+160 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 57
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1000
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 219
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+}
+161 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2218
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 48
+	}
+}
+162 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 52
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 887
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+163 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 201
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 805
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6806
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 201
+	}
+}
+164 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3880
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+165 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1885
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+166 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 227
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4212
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+167 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 201
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4286
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 201
+	}
+}
+168 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 175
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3215
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+169 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1552
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+170 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2217
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+171 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2550
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+172 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2550
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+173 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 63
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1650
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 362
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 112
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 24
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 143
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 31
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 112
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 24
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4007
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 879
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 287
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 63
+	}
+}
+174 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 262
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4877
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+175 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 142
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 31
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2637
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 579
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 39
+	}
+}
+176 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 175
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3215
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+177 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 86
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1545
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 339
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+}
+178 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 44
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3726
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 818
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 40
+	}
+}
+179 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 143
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 31
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2636
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 578
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 40
+	}
+}
+180 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 165
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 36
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 430
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 94
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 3515
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 771
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 165
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 36
+	}
+}
+181 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2550
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+182 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 157
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2882
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+183 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2217
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 49
+	}
+}
+184 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 175
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6720
+	}
+}
+185 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 116
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 58
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6373
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 431
+	}
+}
+186 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 116
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 58
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6373
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 204
+	}
+}
+187 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 420
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1400
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 10902
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 787
+	}
+}
+188 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 437
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 7674
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 249
+	}
+}
+189 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8987
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 389
+	}
+}
+190 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 647
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9423
+	}
+}
+191 = {
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 105
+	}
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 245
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1811
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1085
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15610
+	}
+}
+192 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9066
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 393
+	}
+}
+193 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9337
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 249
+	}
+}
+194 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15969
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 267
+	}
+}
+195 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15944
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 470
+	}
+}
+196 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 12662
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 577
+	}
+}
+197 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 137
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 484
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15520
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 267
+	}
+}
+198 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 45
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 358
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 78
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 24
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6293
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1381
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 219
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 48
+	}
+}
+199 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 43
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 57
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 361
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 79
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 3954
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 868
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 330
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 72
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 8882
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1949
+	}
+}
+200 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 574
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 126
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7978
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1751
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 43
+	}
+}
+201 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 2100
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 17202
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 962
+	}
+}
+202 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 787
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15524
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 560
+	}
+}
+204 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1924
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 163
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 754
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 15043
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1038
+	}
+}
+205 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 3150
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 163
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 754
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 26068
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1090
+	}
+}
+206 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1050
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 19378
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 311
+	}
+}
+207 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 114
+	}
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1192
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 261
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 114
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 66
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 9818
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2155
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 172
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 37
+	}
+}
+208 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 114
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 502
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 110
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 114
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 25
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 66
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9073
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1991
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 186
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 40
+	}
+}
+209 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1734
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 25343
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 665
+	}
+}
+210 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 5337
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 21140
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9909
+	}
+}
+211 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 114
+	}
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 717
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 157
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 114
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 66
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 13163
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2889
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 258
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 56
+	}
+}
+212 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1004
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 220
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 148
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 32
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18368
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4032
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 502
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 110
+	}
+}
+213 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1050
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 180
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 21174
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 612
+	}
+}
+214 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 6078
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 215
+	}
+}
+215 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 645
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 141
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 148
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 32
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11551
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2535
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 502
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 110
+	}
+}
+216 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 63
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 1578
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 346
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 133
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 29
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 618
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 135
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 66
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 14301
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3139
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 258
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 56
+	}
+}
+217 = {
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 430
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 94
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 119
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 26
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 7840
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1721
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 200
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 44
+	}
+}
+218 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 116
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 58
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 4714
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 360
+	}
+}
+219 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 60
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 874
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 146
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 16212
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 205
+	}
+}
+220 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 279
+	}
+	capitalists = {
+		culture = iroquoian
+		religion = placeholder
+		size = 34
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 6999
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 446
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 349
+	}
+	clerks = {
+		culture = iroquoian
+		religion = placeholder
+		size = 174
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 535
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1749
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 16205
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1225
+	}
+}
+221 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 71
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1291
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 283
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 43
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 287
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 63
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 129
+	}
+	officers = {
+		culture = mississippian
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 10403
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 2283
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 688
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 151
+	}
+}
+222 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 437
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 142
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 7951
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 196
+	}
+}
+223 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 60
+	}
+	capitalists = {
+		culture = iroquoian
+		religion = placeholder
+		size = 104
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 6562
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 34
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 146
+	}
+	clerks = {
+		culture = iroquoian
+		religion = placeholder
+		size = 174
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1749
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 17211
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 205
+	}
+}
+224 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1575
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 122
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 7000
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 6020
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 525
+	}
+}
+225 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 612
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 142
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11277
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 196
+	}
+}
+226 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 61
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 146
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 12886
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 205
+	}
+}
+227 = {
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 430
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 94
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 119
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 26
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 7840
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 1721
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 200
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 44
+	}
+}
+228 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 262
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 4877
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+}
+229 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 83
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3500
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 87
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 623
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22174
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1531
+	}
+}
+230 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 97
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1574
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 170
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 699
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 342
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11576
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1289
+	}
+}
+231 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 60
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 787
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 146
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 14550
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 205
+	}
+}
+232 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 83
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3500
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 87
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 623
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 32674
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1531
+	}
+}
+233 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	capitalists = {
+		culture = iroquoian
+		religion = placeholder
+		size = 656
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 4344
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1246
+	}
+	clerks = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 656
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3500
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 40795
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 12500
+	}
+}
+234 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 142
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 9614
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 196
+	}
+}
+235 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 142
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 12939
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 196
+	}
+}
+236 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 201
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 7436
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 201
+	}
+}
+237 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 315
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 5875
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+}
+238 = {
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 183
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1330
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 17386
+	}
+}
+239 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 124
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 962
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 17361
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 659
+	}
+}
+240 = {
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 13094
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 109
+	}
+}
+241 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1312
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 503
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 24254
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 634
+	}
+}
+242 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1225
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 503
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22592
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 109
+	}
+}
+243 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 175
+	}
+	capitalists = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8750
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 568
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1400
+	}
+	clerks = {
+		culture = iroquoian
+		religion = placeholder
+		size = 350
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3500
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 19206
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+}
+244 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 503
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 9292
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 109
+	}
+}
+245 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 503
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 15942
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 109
+	}
+}
+246 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1400
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 43
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11567
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 218
+	}
+}
+247 = {
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 787
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 14756
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 109
+	}
+}
+248 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 45
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 45
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 12864
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 344
+	}
+}
+249 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 37
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 487
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 107
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 37
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8913
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1956
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 282
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 61
+	}
+}
+250 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 102
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 430
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 94
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 30
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 86
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 4980
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1093
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 109
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 24
+	}
+}
+1112 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 895
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 196
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 229
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 50
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 51
+	}
+}
+1113 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 122
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 122
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 61
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 11593
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 420
+	}
+}
+1115 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 105
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 147
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7469
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 840
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+}
+1116 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 13090
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1819
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 175
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 630
+	}
+}
+1118 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 8680
+	}
+}
+1124 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 157
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 34
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 195
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 13308
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2921
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 459
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 100
+	}
+}
+1125 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 86
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 57
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 45
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 8076
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1772
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 344
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 75
+	}
+}
+1126 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 150
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 33
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 252
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 55
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 6308
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 2077
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3498
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 2468
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 541
+	}
+}
+1130 = {
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 40
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 94
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6689
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1468
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1722
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 378
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 344
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 75
+	}
+}
+1131 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 13895
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1400
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 350
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 52
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 52
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 99
+	}
+}
+1133 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6212
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 210
+	}
+}
+1134 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 5250
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1400
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 280
+	}
+}
+1136 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 199
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 315
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 12250
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 1225
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 280
+	}
+}
+1138 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 9922
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 262
+	}
+}
+1139 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6994
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 105
+	}
+}
+1141 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 8539
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1874
+	}
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 57
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 28
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 114
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 2330
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 511
+	}
+}
+1142 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 574
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 126
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 143
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 143
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 31
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7921
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1738
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 5194
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1140
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 574
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 126
+	}
+}
+1143 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 297
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 227
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 6091
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 700
+	}
+}
+1386 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 22
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 45
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 45
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4200
+	}
+}
+1388 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1890
+	}
+}
+2143 = {
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 42
+	}
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2983
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 168
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 909
+	}
+}
+2555 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 875
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 16135
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 350
+	}
+}
+2556 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 122
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 647
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 525
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 9423
+	}
+}
+2593 = {
+	aristocrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 7822
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 262
+	}
+}
+2599 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 489
+	}
+}
+2630 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 336
+	}
+}
+2631 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 236
+	}
+}
+3298 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 437
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8202
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 49
+	}
+}
+3299 = {
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 787
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 145
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 14548
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 244
+	}
+}
+3300 = {
+	aristocrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 172
+	}
+	aristocrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = mississippian
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = mississippian
+		religion = placeholder
+		size = 387
+	}
+	artisans = {
+		culture = iroquoian
+		religion = placeholder
+		size = 85
+	}
+	farmers = {
+		culture = mississippian
+		religion = placeholder
+		size = 6579
+	}
+	farmers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1444
+	}
+}

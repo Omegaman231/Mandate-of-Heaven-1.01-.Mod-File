@@ -1,0 +1,6 @@
+owner = ZHA
+controller = ZHA
+add_core = MON
+add_core = ZHA
+trade_goods = tea
+life_rating = 32

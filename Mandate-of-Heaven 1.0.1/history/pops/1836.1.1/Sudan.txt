@@ -1,0 +1,1134 @@
+1827 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 871
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 191
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 84
+	}
+	officers = {
+		culture = nubian
+		religion = placeholder
+		size = 244
+	}
+	officers = {
+		culture = marathi
+		religion = placeholder
+		size = 53
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 541
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 118
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 2757
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 605
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 13172
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 915
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 63421
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 15897
+	}
+}
+1828 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 353
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 77
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 211
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 1084
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 237
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 1037
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 227
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 29468
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 6468
+	}
+}
+1829 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 1084
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 237
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 587
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 129
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 2639
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 579
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2286
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 501
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 52876
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 11607
+	}
+}
+1830 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 659
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 144
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 352
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 77
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1885
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 413
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1154
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 253
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 33805
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 7420
+	}
+}
+1831 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 470
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 103
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 259
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 56
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 1296
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 284
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 1107
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 243
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 27110
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 5951
+	}
+}
+1832 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 689
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 373
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1896
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 401
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 33435
+	}
+}
+1833 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 257
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 28
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 747
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 171
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 15812
+	}
+}
+1834 = {
+	aristocrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 456
+	}
+	clergymen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 456
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1376
+	}
+	soldiers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 282
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 25010
+	}
+}
+1835 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 296
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 64
+	}
+	officers = {
+		culture = gujarati
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 847
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 186
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 220
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 48
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 18176
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 3989
+	}
+}
+1836 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 446
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 98
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 282
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 61
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1225
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 269
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 282
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 61
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 22277
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 4890
+	}
+}
+1837 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 154
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 34
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 30
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 470
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 103
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 8557
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 1878
+	}
+}
+1838 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 471
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 103
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 22
+	}
+	officers = {
+		culture = nubian
+		religion = placeholder
+		size = 94
+	}
+	officers = {
+		culture = kannada
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 235
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 51
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 1037
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 227
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 9423
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 93
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 31242
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 8833
+	}
+}
+1839 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 447
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 98
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 235
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 51
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 1037
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 227
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 400
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 36635
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 8041
+	}
+}
+1840 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 588
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 129
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 305
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 1437
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 423
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 93
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 39675
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 8709
+	}
+}
+1841 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 492
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 108
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 41
+	}
+	officers = {
+		culture = nubian
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 266
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 58
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 1066
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 234
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 287
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 63
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 25645
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 5629
+	}
+}
+1842 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 184
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 697
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 153
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 49
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 19106
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 4194
+	}
+}
+1843 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 348
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 76
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 184
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 902
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 198
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 307
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 67
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 26957
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 5917
+	}
+}
+1844 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1168
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 256
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 676
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 148
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 2972
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 652
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 717
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 157
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 64985
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 14265
+	}
+}
+1845 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 430
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 94
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 902
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 198
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 287
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 63
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 26609
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 5841
+	}
+}
+1846 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 829
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 182
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 308
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 678
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 148
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 252
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2150
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 471
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 798
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 490
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 107
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 182
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 42170
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 9257
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 15651
+	}
+}
+1847 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 533
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 117
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 287
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 63
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1435
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 307
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 67
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 26137
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 5737
+	}
+}
+2564 = {
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 94
+	}
+	artisans = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 20
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 1697
+	}
+	farmers = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 372
+	}
+}

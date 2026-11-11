@@ -1,0 +1,106 @@
+country_event = {
+	id = 950001
+	title = "EVTNAME950001"
+	desc = "EVTDESC950001"
+
+	trigger = {
+		tag = ROM
+		year = 1860
+		NOT = { has_country_flag = rome_crisis_approaches }
+	}
+	mean_time_to_happen = { days = 1 }
+	fire_only_once = yes
+
+	option = {
+		name = "EVTOPTA950001"
+		set_country_flag = rome_crisis_approaches
+		any_pop = {
+			militancy = 3
+		}
+		country_event = { id = 950003 days = 731 }
+		country_event = { id = 950004 days = 741 }
+		country_event = { id = 950002 days = 761 }
+	}
+}
+
+country_event = {
+	id = 950002
+	title = "EVTNAME950002"
+	desc = "EVTDESC950002"
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA950002"
+		set_country_flag = rome_in_crisis
+		PAN = {
+			all_core = {
+				add_core = ROM
+				remove_core = PAN
+			}
+		}
+		inherit = PAN
+		any_owned = {
+			limit = { is_core = PAN }
+			add_core = ROM
+			remove_core = PAN
+		}
+		DAC = {
+			all_core = {
+				add_core = ROM
+				remove_core = DAC
+			}
+		}
+		inherit = DAC
+		MOE = {
+			all_core = {
+				add_core = ROM
+				remove_core = MOE
+			}
+		}
+		inherit = MOE
+		TRI_1738 = { add_core = THIS }
+		EGY_1745 = { add_core = THIS }
+		TUR_876 = { add_core = THIS }
+		TUR_884 = { add_core = THIS }
+	}
+}
+
+country_event = {
+	id = 950004
+	title = "EVTNAME950004"
+	desc = "EVTDESC950004"
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA950004"
+		TUR_876 = { add_core = PAL }
+		TUR_863 = { add_core = PAL }
+		TUR_860 = { add_core = PAL }
+		leave_alliance = PAL
+		diplomatic_influence = { who = PAL value = -400 }
+		relation = { who = PAL value = -400 }
+	}
+}
+
+country_event = {
+	id = 950003
+	title = "EVTNAME950003"
+	desc = "EVTDESC950003"
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA950003"
+		leave_alliance = GAL
+		leave_alliance = GAE
+		diplomatic_influence = { who = GAL value = -400 }
+		relation = { who = GAL value = -400 }
+		diplomatic_influence = { who = GAE value = -400 }
+		relation = { who = GAE value = -400 }
+	}
+}

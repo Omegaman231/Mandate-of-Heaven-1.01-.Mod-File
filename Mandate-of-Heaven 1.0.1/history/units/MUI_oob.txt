@@ -1,0 +1,24 @@
+army = {
+	name = "Muisca Army 1"
+	location = 2254
+	regiment = {
+		name = "1. Muisca Regiment"
+		type = irregular
+		home = 2254
+	}
+	regiment = {
+		name = "2. Muisca Regiment"
+		type = irregular
+		home = 2254
+	}
+	regiment = {
+		name = "3. Muisca Regiment"
+		type = infantry
+		home = 2254
+	}
+	regiment = {
+		name = "4. Muisca Regiment"
+		type = cavalry
+		home = 2254
+	}
+}

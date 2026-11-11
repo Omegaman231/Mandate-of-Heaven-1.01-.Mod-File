@@ -1,0 +1,138 @@
+army = {
+	name = "Cham Army 1"
+	location = 1379
+	regiment = {
+		name = "1. Cham Regiment"
+		type = infantry
+		home = 1380
+	}
+	regiment = {
+		name = "2. Cham Regiment"
+		type = infantry
+		home = 1375
+	}
+	regiment = {
+		name = "3. Cham Regiment"
+		type = infantry
+		home = 1377
+	}
+	regiment = {
+		name = "4. Cham Regiment"
+		type = infantry
+		home = 1362
+	}
+	regiment = {
+		name = "5. Cham Regiment"
+		type = hussar
+		home = 1380
+	}
+	regiment = {
+		name = "6. Cham Regiment"
+		type = artillery
+		home = 1375
+	}
+	regiment = {
+		name = "7. Cham Regiment"
+		type = artillery
+		home = 1380
+	}
+	regiment = {
+		name = "8. Cham Regiment"
+		type = artillery
+		home = 1375
+	}
+	regiment = {
+		name = "9. Cham Regiment"
+		type = artillery
+		home = 1380
+	}
+	regiment = {
+		name = "10. Cham Regiment"
+		type = artillery
+		home = 1375
+	}
+}
+navy = {
+	name = "Cham Fleet"
+	location = 1379
+	ship = {
+		name = "Cham 1"
+		type = frigate
+	}
+	ship = {
+		name = "Cham 2"
+		type = frigate
+	}
+	ship = {
+		name = "Cham Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Cham 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Cham Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Cham 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Cham Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Cham 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Cham Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Cham 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Cham Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cham Fleet Transport 5"
+		type = clipper_transport
+	}
+}

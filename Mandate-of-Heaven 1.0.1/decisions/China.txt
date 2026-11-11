@@ -1,0 +1,197 @@
+political_decisions = {
+	qin_accept_ne_chinese = {
+		potential = {
+			tag = QIN
+			NOT = { has_country_flag = accepted_ne_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1612
+			}
+		}
+		effect = {
+			set_country_flag = accepted_ne_chinese
+			add_accepted_culture = ne_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	zha_accept_nw_chinese = {
+		potential = {
+			tag = ZHA
+			NOT = { has_country_flag = accepted_nw_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1559
+				owns = 1510
+			}
+		}
+		effect = {
+			set_country_flag = accepted_nw_chinese
+			add_accepted_culture = nw_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	zha_accept_south_chinese = {
+		potential = {
+			tag = ZHA
+			NOT = { has_country_flag = accepted_south_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1578
+				owns = 2221
+				owns = 1604
+			}
+		}
+		effect = {
+			set_country_flag = accepted_south_chinese
+			add_accepted_culture = south_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	chu_accept_ne_chinese = {
+		potential = {
+			tag = CHU
+			NOT = { has_country_flag = accepted_ne_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1612
+			}
+		}
+		effect = {
+			set_country_flag = accepted_ne_chinese
+			add_accepted_culture = ne_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	chu_accept_nw_chinese = {
+		potential = {
+			tag = CHU
+			NOT = { has_country_flag = accepted_nw_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1559
+				owns = 1510
+			}
+		}
+		effect = {
+			set_country_flag = accepted_nw_chinese
+			add_accepted_culture = nw_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	min_accept_ne_chinese = {
+		potential = {
+			tag = MIN
+			NOT = { has_country_flag = accepted_ne_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1612
+			}
+		}
+		effect = {
+			set_country_flag = accepted_ne_chinese
+			add_accepted_culture = ne_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	min_accept_nw_chinese = {
+		potential = {
+			tag = MIN
+			NOT = { has_country_flag = accepted_nw_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1559
+				owns = 1510
+			}
+		}
+		effect = {
+			set_country_flag = accepted_nw_chinese
+			add_accepted_culture = nw_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	min_accept_south_chinese = {
+		potential = {
+			tag = MIN
+			NOT = { has_country_flag = accepted_south_chinese }
+		}
+		allow = {
+			OR = {
+				owns = 1578
+				owns = 2221
+				owns = 1604
+			}
+		}
+		effect = {
+			set_country_flag = accepted_south_chinese
+			add_accepted_culture = south_chinese
+		}
+		ai_will_do = { factor = 1 }
+	}
+	form_china = {
+		potential = {
+			OR = { tag = QIN tag = ZHA tag = CHU tag = MIN tag = JAP tag = KOR tag = MON tag = MAN }
+			NOT = { exists = CHI }
+		}
+		allow = {
+			owns = 1612
+			owns = 1578
+			owns = 1604
+			owns = 1510
+			owns = 2221
+			owns = 1559
+			war = no
+		}
+		effect = {
+			change_tag = CHI
+			prestige = 50
+			add_accepted_culture = ne_chinese
+			add_accepted_culture = nw_chinese
+			add_accepted_culture = south_chinese
+			CHI_1473 = { add_core = CHI }
+			CHI_1472 = { add_core = CHI }
+			CHI_1476 = { add_core = CHI }
+			CHI_1481 = { add_core = CHI }
+			CHI_1487 = { add_core = CHI }
+			CHI_1490 = { add_core = CHI }
+			CHI_1499 = { add_core = CHI }
+			CHI_1496 = { add_core = CHI }
+			CHI_1498 = { add_core = CHI }
+			CHI_1513 = { add_core = CHI }
+			CHI_1516 = { add_core = CHI }
+			CHI_1523 = { add_core = CHI }
+			CHI_1529 = { add_core = CHI }
+			CHI_1539 = { add_core = CHI }
+			CHI_1538 = { add_core = CHI }
+			CHI_1550 = { add_core = CHI }
+			CHI_2062 = { add_core = CHI }
+			CHI_1614 = { add_core = CHI }
+			CHI_1563 = { add_core = CHI }
+			CHI_1566 = { add_core = CHI }
+			CHI_1569 = { add_core = CHI }
+			CHI_1618 = { add_core = CHI }
+			CHI_1576 = { add_core = CHI }
+			CHI_1581 = { add_core = CHI }
+			CHI_1611 = { add_core = CHI }
+			CHI_1606 = { add_core = CHI }
+			CHI_1608 = { add_core = CHI }
+			CHI_3249 = { add_core = CHI }
+			1503 = { add_core = CHI }
+			1504 = { add_core = CHI }
+			1527 = { add_core = CHI }
+			1530 = { add_core = CHI }
+			1578 = { add_core = CHI }
+			1580 = { add_core = CHI }
+			1585 = { add_core = CHI }
+			2525 = { add_core = CHI }
+			3282 = { add_core = CHI }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,118 @@
+2186 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 300
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 175
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 500
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 3450
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 10225
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 32775
+	}
+}
+2187 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 61
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 490
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 148
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 10920
+	}
+}
+2188 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 52
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 4138
+	}
+}
+2189 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 96
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 717
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 2660
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 87
+	}
+}

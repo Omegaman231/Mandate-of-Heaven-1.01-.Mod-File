@@ -1,0 +1,5 @@
+owner = MUI
+controller = MUI
+add_core = MUI
+trade_goods = coal
+life_rating = 35

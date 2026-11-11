@@ -1,0 +1,135 @@
+1887 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 650
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 3300
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 1625
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 56390
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1100
+	}
+}
+1888 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 510
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2560
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 510
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 46420
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1000
+	}
+}
+1889 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 310
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1560
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 335
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 28220
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 575
+	}
+}
+1890 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 335
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1660
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 360
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 30020
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 625
+	}
+}
+1891 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 460
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2110
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 380
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 38725
+	}
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 375
+	}
+}

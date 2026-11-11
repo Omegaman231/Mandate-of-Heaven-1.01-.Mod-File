@@ -1,0 +1,177 @@
+BEN = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+RAJ = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+PEN = {
+	value = 200
+	level = 5
+	influence_value = 40
+}
+army = {
+	name = "Delhian Army 1"
+	location = 1236
+	regiment = {
+		name = "1. Delhian Regiment"
+		type = infantry
+		home = 1268
+	}
+	regiment = {
+		name = "2. Delhian Regiment"
+		type = infantry
+		home = 1240
+	}
+	regiment = {
+		name = "3. Delhian Regiment"
+		type = infantry
+		home = 1241
+	}
+	regiment = {
+		name = "4. Delhian Regiment"
+		type = infantry
+		home = 1243
+	}
+	regiment = {
+		name = "5. Delhian Regiment"
+		type = hussar
+		home = 1247
+	}
+	regiment = {
+		name = "6. Delhian Regiment"
+		type = artillery
+		home = 1248
+	}
+	regiment = {
+		name = "7. Delhian Regiment"
+		type = artillery
+		home = 1242
+	}
+	regiment = {
+		name = "8. Delhian Regiment"
+		type = artillery
+		home = 1270
+	}
+	regiment = {
+		name = "9. Delhian Regiment"
+		type = artillery
+		home = 1245
+	}
+	regiment = {
+		name = "10. Delhian Regiment"
+		type = artillery
+		home = 1250
+	}
+}
+army = {
+	name = "Delhian Army 2"
+	location = 1241
+	regiment = {
+		name = "11. Delhian Regiment"
+		type = infantry
+		home = 1281
+	}
+	regiment = {
+		name = "12. Delhian Regiment"
+		type = infantry
+		home = 1274
+	}
+	regiment = {
+		name = "13. Delhian Regiment"
+		type = infantry
+		home = 1239
+	}
+	regiment = {
+		name = "14. Delhian Regiment"
+		type = infantry
+		home = 1246
+	}
+	regiment = {
+		name = "15. Delhian Regiment"
+		type = hussar
+		home = 1244
+	}
+	regiment = {
+		name = "16. Delhian Regiment"
+		type = artillery
+		home = 1236
+	}
+	regiment = {
+		name = "17. Delhian Regiment"
+		type = artillery
+		home = 1268
+	}
+	regiment = {
+		name = "18. Delhian Regiment"
+		type = artillery
+		home = 1240
+	}
+	regiment = {
+		name = "19. Delhian Regiment"
+		type = artillery
+		home = 1241
+	}
+	regiment = {
+		name = "20. Delhian Regiment"
+		type = artillery
+		home = 1243
+	}
+}
+army = {
+	name = "Delhian Army 3"
+	location = 1243
+	regiment = {
+		name = "21. Delhian Regiment"
+		type = infantry
+		home = 1247
+	}
+	regiment = {
+		name = "22. Delhian Regiment"
+		type = infantry
+		home = 1248
+	}
+	regiment = {
+		name = "23. Delhian Regiment"
+		type = infantry
+		home = 1242
+	}
+	regiment = {
+		name = "24. Delhian Regiment"
+		type = infantry
+		home = 1270
+	}
+	regiment = {
+		name = "25. Delhian Regiment"
+		type = hussar
+		home = 1268
+	}
+	regiment = {
+		name = "26. Delhian Regiment"
+		type = artillery
+		home = 1240
+	}
+	regiment = {
+		name = "27. Delhian Regiment"
+		type = artillery
+		home = 1241
+	}
+	regiment = {
+		name = "28. Delhian Regiment"
+		type = artillery
+		home = 1243
+	}
+	regiment = {
+		name = "29. Delhian Regiment"
+		type = artillery
+		home = 1247
+	}
+	regiment = {
+		name = "30. Delhian Regiment"
+		type = artillery
+		home = 1248
+	}
+}

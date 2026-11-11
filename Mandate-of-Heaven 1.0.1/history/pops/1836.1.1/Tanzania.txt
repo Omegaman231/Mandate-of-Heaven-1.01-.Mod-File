@@ -1,0 +1,696 @@
+2036 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 920
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 281
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = placeholder
+		size = 69
+	}
+	officers = {
+		culture = swahili
+		religion = placeholder
+		size = 115
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 741
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2024
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 617
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 506
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 154
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 46437
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 14167
+	}
+}
+2037 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 345
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 106
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 290
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 851
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 263
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 207
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 18630
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 5748
+	}
+}
+2038 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 675
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 405
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 498
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 297
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1556
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 932
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 32287
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 19373
+	}
+}
+2039 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 276
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 85
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 193
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 598
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 184
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 161
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 13547
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 4179
+	}
+}
+2040 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 552
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 168
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 419
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 127
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1288
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 392
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 299
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 91
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 28842
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 8778
+	}
+}
+2041 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 575
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 175
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 419
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 127
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1380
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 420
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 299
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 91
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 27968
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 8512
+	}
+}
+2042 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1288
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 392
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 966
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 294
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2990
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 910
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 690
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 63158
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 19222
+	}
+}
+2043 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1173
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 357
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 902
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 274
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2484
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 756
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 598
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 182
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 54878
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 16702
+	}
+}
+2044 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1308
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 483
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1029
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 382
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 3206
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 703
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 1190
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 9690
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 151
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 256
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 53784
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 13782
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 23304
+	}
+}
+2045 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1012
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 308
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 805
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 245
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2300
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 552
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 168
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 49013
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 14917
+	}
+}
+2046 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1472
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 448
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1095
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 333
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 3358
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 1022
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 782
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 238
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 64262
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 19558
+	}
+}
+2047 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 299
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 92
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 920
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 282
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 230
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 16767
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 5133
+	}
+}
+2048 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 736
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 483
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 147
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1633
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 498
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 1633
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 498
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 31487
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 9607
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = placeholder
+		size = 69
+	}
+	officers = {
+		culture = swahili
+		religion = placeholder
+		size = 69
+	}
+}

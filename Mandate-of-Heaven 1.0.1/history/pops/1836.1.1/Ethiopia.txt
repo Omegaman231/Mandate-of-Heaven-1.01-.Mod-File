@@ -1,0 +1,772 @@
+1852 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 1722
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 378
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 266
+	}
+	bureaucrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 58
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 451
+	}
+	officers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 99
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 963
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 211
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 4489
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 985
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1168
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 256
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 83681
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 18369
+	}
+}
+1853 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1968
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 432
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 963
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 211
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3936
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 864
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1455
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 319
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 87781
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 19269
+	}
+}
+1854 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1783
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 391
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 943
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 207
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3997
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 877
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1435
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 315
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 87022
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 19102
+	}
+}
+1855 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3850
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1975
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 7925
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 14125
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 169225
+	}
+}
+1856 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 625
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 50
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1450
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1150
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 31500
+	}
+}
+1857 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 492
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 108
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 266
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 58
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1107
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 243
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 943
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 207
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 23513
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 5161
+	}
+}
+1858 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 184
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 40
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 410
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 90
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 9040
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1984
+	}
+}
+1859 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 6000
+	}
+	bureaucrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 300
+	}
+	officers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3100
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 12375
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 10725
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 96050
+	}
+}
+1860 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 2250
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1150
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 4625
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1550
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 105525
+	}
+}
+1861 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1517
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 333
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 779
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 171
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3198
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 702
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 799
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 175
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 72426
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 15898
+	}
+}
+1862 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1800
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 925
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3650
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 925
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 84700
+	}
+}
+1863 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 2550
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1350
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 5875
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1350
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 149975
+	}
+}
+1864 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 2870
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 630
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1045
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 229
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 5904
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1296
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 10476
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 324
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 126484
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 29740
+	}
+}
+1865 = {
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1537
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 337
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 799
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 175
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 3567
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 783
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 779
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 171
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 63324
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 13900
+	}
+}
+1866 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1056
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 231
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 392
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 848
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 186
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 315
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2583
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 567
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 959
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 565
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 124
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 51129
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 11223
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 18976
+	}
+}
+1867 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1188
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 260
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 441
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1046
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 230
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 388
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2583
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 567
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 959
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 622
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 136
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 231
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 56919
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 12494
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 21125
+	}
+}

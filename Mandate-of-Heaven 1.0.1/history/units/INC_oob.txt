@@ -1,0 +1,44 @@
+army = {
+	name = "Inca Army 1"
+	location = 2302
+	regiment = {
+		name = "1. Inca Regiment"
+		type = irregular
+		home = 2302
+	}
+	regiment = {
+		name = "2. Inca Regiment"
+		type = irregular
+		home = 2310
+	}
+	regiment = {
+		name = "3. Inca Regiment"
+		type = infantry
+		home = 2310
+	}
+	regiment = {
+		name = "4. Inca Regiment"
+		type = cavalry
+		home = 2310
+	}
+	regiment = {
+		name = "5. Inca Regiment"
+		type = irregular
+		home = 2310
+	}
+	regiment = {
+		name = "6. Inca Regiment"
+		type = irregular
+		home = 2307
+	}
+	regiment = {
+		name = "7. Inca Regiment"
+		type = infantry
+		home = 2370
+	}
+	regiment = {
+		name = "8. Inca Regiment"
+		type = cavalry
+		home = 2374
+	}
+}

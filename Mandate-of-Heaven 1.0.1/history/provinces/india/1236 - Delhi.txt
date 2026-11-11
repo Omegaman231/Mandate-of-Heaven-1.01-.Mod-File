@@ -1,0 +1,5 @@
+owner = DEL
+controller = DEL
+add_core = DEL
+trade_goods = tea
+life_rating = 32

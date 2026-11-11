@@ -1,0 +1,16 @@
+political_decisions = {
+	tib_turkic_brothers = {
+		potential = {
+			tag = TIB
+			year = 1860
+			NOT = { accepted_culture = sogdian }
+		}
+		allow = {
+			year = 1860
+		}
+		effect = {
+			add_accepted_culture = sogdian
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

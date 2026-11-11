@@ -1,0 +1,1207 @@
+1638 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3300
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 6584
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 574
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1873
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 10005
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1487
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 150297
+	}
+}
+1639 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2397
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1270
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 6303
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1115
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 114859
+	}
+}
+1640 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2501
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1271
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 6403
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1137
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 116636
+	}
+}
+1641 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2622
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1396
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 6852
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1203
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 124869
+	}
+}
+1642 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 848
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 620
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 2498
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 393
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 55597
+	}
+}
+1643 = {
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 672
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 2496
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 393
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 55623
+	}
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 799
+	}
+}
+1644 = {
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 893
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 3801
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 699
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 83273
+	}
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1248
+	}
+}
+1645 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 4951
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3712
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 473
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2497
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 12458
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2187
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 225920
+	}
+}
+1646 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1847
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 971
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 4801
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 853
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 87482
+	}
+}
+1647 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 746
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 395
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 1997
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 349
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 36480
+	}
+}
+1648 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1724
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 872
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 4400
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 787
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 80178
+	}
+}
+1649 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 7954
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 19360
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 1274
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 4124
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 150150
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 3303
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 206879
+	}
+}
+1650 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3874
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1972
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 9853
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1750
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 179477
+	}
+}
+1651 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2624
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1447
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 12507
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1247
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 125021
+	}
+}
+1652 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 5776
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 3224
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 14462
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2537
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 263510
+	}
+}
+1653 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2874
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1471
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 7353
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1290
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 133855
+	}
+}
+1655 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 6505
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 3849
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 50050
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 3390
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 391689
+	}
+}
+1656 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 5252
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2672
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 13311
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2340
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 242337
+	}
+}
+1657 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 9255
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 21560
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 1701
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 4624
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 39047
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 24024
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 367491
+	}
+	craftsmen = {
+		culture = japanese
+		religion = placeholder
+		size = 7130
+	}
+}
+1658 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 5877
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2972
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 14912
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2625
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 271515
+	}
+}
+1659 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 5550
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2796
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 14010
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2471
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 255074
+	}
+}
+1660 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 4073
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 6792
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 898
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1973
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 9804
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1728
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 183029
+	}
+}
+1661 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 4901
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2598
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 12659
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2231
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 230526
+	}
+}
+1662 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3250
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1646
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 8252
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1443
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 150347
+	}
+}
+1663 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1796
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 996
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 4750
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 831
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 86581
+	}
+}
+1664 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3798
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 2396
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 9554
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1684
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 174492
+	}
+}
+1665 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1170
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 594
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 2999
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1115
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 54100
+	}
+}
+1666 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2124
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1072
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 5402
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1247
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 98219
+	}
+}
+1667 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3448
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1968
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 323
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1750
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 8706
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1531
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 158005
+	}
+}
+1668 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 3074
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 5048
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 823
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1595
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 7855
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1378
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 141635
+	}
+}
+1669 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2873
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1472
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 7353
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1312
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 133931
+	}
+}
+1670 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1548
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 772
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 3950
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 699
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 71991
+	}
+}
+1671 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1896
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 998
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 4900
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 875
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 90287
+	}
+}
+1672 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 1796
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1072
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 4651
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 831
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 84806
+	}
+}
+1673 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2496
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1423
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 6402
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 1225
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 116587
+	}
+}
+1674 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2023
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1020
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 5149
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 896
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 93864
+	}
+}
+1675 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 7327
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 6360
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 749
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 3750
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 24024
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 3238
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 329075
+	}
+}
+1676 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 2120
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 1099
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 5453
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 962
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 99319
+	}
+}
+1677 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 6402
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 3272
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 16212
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 2843
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 295166
+	}
+}
+1678 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 848
+	}
+	bureaucrats = {
+		culture = japanese
+		religion = placeholder
+		size = 392
+	}
+	officers = {
+		culture = japanese
+		religion = placeholder
+		size = 72
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 520
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 2398
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 437
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 43637
+	}
+}
+1679 = {
+	aristocrats = {
+		culture = japanese
+		religion = placeholder
+		size = 372
+	}
+	clergymen = {
+		culture = japanese
+		religion = placeholder
+		size = 198
+	}
+	artisans = {
+		culture = japanese
+		religion = placeholder
+		size = 1100
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 250
+	}
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 18242
+	}
+}

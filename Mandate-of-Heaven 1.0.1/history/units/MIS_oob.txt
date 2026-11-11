@@ -1,0 +1,29 @@
+army = {
+	name = "Mississippian Army 1"
+	location = 139
+	regiment = {
+		name = "1. Mississippian Regiment"
+		type = irregular
+		home = 139
+	}
+	regiment = {
+		name = "2. Mississippian Regiment"
+		type = irregular
+		home = 139
+	}
+	regiment = {
+		name = "3. Mississippian Regiment"
+		type = infantry
+		home = 210
+	}
+	regiment = {
+		name = "4. Mississippian Regiment"
+		type = cavalry
+		home = 210
+	}
+	regiment = {
+		name = "5. Mississippian Regiment"
+		type = irregular
+		home = 210
+	}
+}

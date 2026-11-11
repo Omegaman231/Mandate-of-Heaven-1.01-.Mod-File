@@ -1,0 +1,37 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Belgic Army 1"
+	location = 387
+	regiment = {
+		name = "1. Belgic Regiment"
+		type = infantry
+		home = 387
+	}
+	regiment = {
+		name = "2. Belgic Regiment"
+		type = infantry
+		home = 387
+	}
+	regiment = {
+		name = "3. Belgic Regiment"
+		type = infantry
+		home = 387
+	}
+	regiment = {
+		name = "4. Belgic Regiment"
+		type = cavalry
+		home = 387
+	}
+	regiment = {
+		name = "5. Belgic Regiment"
+		type = artillery
+		home = 392
+	}
+	regiment = {
+		name = "6. Belgic Regiment"
+		type = infantry
+		home = 575
+	}
+}

@@ -1,0 +1,64 @@
+2213 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 288
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 52
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 52
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 732
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 1365
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 1400
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 23905
+	}
+}
+2215 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 192
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 448
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 892
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 385
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 16248
+	}
+}

@@ -1,0 +1,320 @@
+2019 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 1452
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 318
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 539
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = placeholder
+		size = 37
+	}
+	officers = {
+		culture = swahili
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1160
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 254
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 430
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 3243
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 712
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 1205
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 9754
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 165
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 280
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 60065
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 15160
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 25654
+	}
+}
+2020 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 820
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 180
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 430
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 94
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 1947
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 427
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 451
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 99
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 39811
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 8739
+	}
+}
+2021 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 851
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 259
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 690
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 210
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2047
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 623
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 460
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 40342
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 12278
+	}
+}
+2022 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 377
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 82
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 310
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 68
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 116
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 848
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 186
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 9207
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 45
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 77
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 51748
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 13334
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 22546
+	}
+}
+2023 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 943
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 287
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 724
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 220
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2277
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 693
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 483
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 147
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 47150
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 14350
+	}
+}

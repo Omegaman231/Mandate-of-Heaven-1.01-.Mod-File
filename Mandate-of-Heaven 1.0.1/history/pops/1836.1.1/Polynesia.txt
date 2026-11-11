@@ -1,0 +1,291 @@
+658 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 2250
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 13500
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 1375
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 6250
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 22000
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 110125
+	}
+}
+686 = {
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 125
+	}
+}
+801 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 4100
+	}
+}
+2336 = {
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 675
+	}
+}
+2526 = {
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 40
+	}
+}
+2540 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2950
+	}
+}
+2541 = {
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 1350
+	}
+}
+2542 = {
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 675
+	}
+}
+2543 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 325
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 5700
+	}
+}
+2544 = {
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 900
+	}
+}
+2545 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 1350
+	}
+}
+2546 = {
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 225
+	}
+}
+2547 = {
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 137
+	}
+}
+2548 = {
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 455
+	}
+}
+2551 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 60
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 1125
+	}
+}
+2552 = {
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 35
+	}
+}
+2553 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 1350
+	}
+}
+2623 = {
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 40
+	}
+}

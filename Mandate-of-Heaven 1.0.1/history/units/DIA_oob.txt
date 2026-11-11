@@ -1,0 +1,54 @@
+army = {
+	name = "Dian Army 1"
+	location = 1334
+	regiment = {
+		name = "1. Dian Regiment"
+		type = infantry
+		home = 1585
+	}
+	regiment = {
+		name = "2. Dian Regiment"
+		type = infantry
+		home = 1601
+	}
+	regiment = {
+		name = "3. Dian Regiment"
+		type = infantry
+		home = 1334
+	}
+	regiment = {
+		name = "4. Dian Regiment"
+		type = infantry
+		home = 1342
+	}
+	regiment = {
+		name = "5. Dian Regiment"
+		type = hussar
+		home = 1356
+	}
+	regiment = {
+		name = "6. Dian Regiment"
+		type = artillery
+		home = 1506
+	}
+	regiment = {
+		name = "7. Dian Regiment"
+		type = artillery
+		home = 1585
+	}
+	regiment = {
+		name = "8. Dian Regiment"
+		type = artillery
+		home = 1601
+	}
+	regiment = {
+		name = "9. Dian Regiment"
+		type = artillery
+		home = 1334
+	}
+	regiment = {
+		name = "10. Dian Regiment"
+		type = artillery
+		home = 1342
+	}
+}

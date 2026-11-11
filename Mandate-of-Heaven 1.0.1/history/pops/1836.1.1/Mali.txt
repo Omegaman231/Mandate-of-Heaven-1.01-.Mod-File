@@ -1,0 +1,455 @@
+1794 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1350
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 3300
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 1600
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 67800
+	}
+}
+1795 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 900
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2000
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 46000
+	}
+}
+1796 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1650
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 36850
+	}
+}
+1797 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 600
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 300
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1400
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 33300
+	}
+}
+1798 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1300
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2900
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 62400
+	}
+}
+1799 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1650
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 900
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 3500
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 2850
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 78200
+	}
+}
+1800 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 2400
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 1250
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 5500
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 9500
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 110000
+	}
+}
+1801 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 550
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 300
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 350
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 29300
+	}
+}
+1802 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1600
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 900
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 4350
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 82350
+	}
+}
+1803 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1770
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 950
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 3750
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 980
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 84550
+	}
+}
+1804 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 2000
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	officers = {
+		culture = soninke
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 1550
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 5850
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 15600
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 98750
+	}
+}
+1805 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1050
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 600
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2650
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 52300
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+}
+1806 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 82
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 20
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 1476
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 324
+	}
+}
+1807 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 41
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 61
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 164
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 36
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 41
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 3054
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 670
+	}
+}
+2609 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 2700
+	}
+}

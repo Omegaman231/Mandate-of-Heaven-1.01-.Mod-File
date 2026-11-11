@@ -1,0 +1,128 @@
+political_decisions = {
+	king_of_kings = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = king_of_kings }
+		}
+		allow = {
+			# Lower Egypt
+			owns = 1745
+			owns = 1746
+			owns = 1747
+			owns = 1748
+			owns = 1749
+			owns = 1750
+			owns = 1751
+			owns = 1752
+			owns = 1753
+			owns = 1754
+			owns = 1759
+			owns = 1765
+			owns = 1763
+			owns = 1772
+			owns = 1764
+			# Upper Egypt
+			owns = 1767
+			owns = 1766
+			owns = 1768
+			owns = 1769
+			owns = 3274
+			owns = 1762
+			owns = 2559
+			owns = 1760
+			owns = 1761
+			owns = 1758
+			owns = 1771
+			owns = 1770
+			owns = 1834
+			# Suez
+			owns = 1755
+			# Sinai
+			owns = 1756
+			owns = 1757
+			# Palestine
+			owns = 910
+			owns = 908
+			owns = 911
+			owns = 922
+			owns = 909
+			owns = 917
+			owns = 921
+			owns = 920
+			owns = 919
+			owns = 918
+			owns = 916
+			# Syria
+			owns = 913
+			owns = 915
+			owns = 912
+			owns = 914
+			owns = 900
+			owns = 905
+			owns = 902
+			owns = 903
+			owns = 906
+			# Ankara
+			owns = 873
+			owns = 868
+			owns = 894
+			owns = 895
+			owns = 876
+			# Trabzon
+			owns = 884
+			owns = 881
+			owns = 880
+			owns = 877
+			owns = 879
+			owns = 883
+			owns = 878
+			# Kars
+			owns = 882
+			owns = 888
+			# Diyarbakir
+			owns = 889
+			owns = 896
+		}
+		effect = {
+			set_country_flag = king_of_kings
+			add_accepted_culture = eastern_roman
+			TUR_863 = { add_core = THIS }
+			TUR_876 = { add_core = THIS }
+			GRE_837 = { add_core = THIS }
+			TUR_805 = { add_core = THIS }
+			TUR_860 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	conquest_of_the_indus = {
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = conquest_of_the_indus }
+		}
+		allow = {
+			owns = 1233
+			owns = 1234
+			owns = 1229
+			owns = 1224
+			owns = 1225
+			owns = 1226
+			owns = 1235
+			owns = 1227
+			owns = 1228
+			owns = 1231
+			owns = 1230
+			owns = 1232
+			owns = 1288
+			owns = 1289
+			owns = 1290
+		}
+		effect = {
+			set_country_flag = conquest_of_the_indus
+			PAN_1225 = { add_core = THIS }
+			PAN_1224 = { add_core = THIS }
+			PAN_1227 = { add_core = THIS }
+			SIN_1288 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

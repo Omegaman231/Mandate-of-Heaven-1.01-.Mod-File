@@ -1,0 +1,21 @@
+political_decisions = {
+	form_hindustan = {
+		potential = {
+			tag = DEL
+			NOT = { exists = HIN }
+		}
+		allow = {
+			year = 1865
+			NOT = { exists = PEN }
+			NOT = { exists = BEN }
+			war = no
+		}
+		effect = {
+			change_tag = HIN
+			prestige = 25
+			add_accepted_culture = punjabi
+			add_accepted_culture = bengali
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

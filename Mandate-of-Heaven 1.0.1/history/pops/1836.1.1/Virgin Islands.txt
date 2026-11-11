@@ -1,0 +1,17 @@
+2223 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 183
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 3587
+	}
+}

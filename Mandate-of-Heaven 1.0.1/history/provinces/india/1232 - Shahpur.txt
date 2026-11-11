@@ -1,0 +1,5 @@
+owner = PEN
+controller = PEN
+add_core = PEN
+trade_goods = tea
+life_rating = 35

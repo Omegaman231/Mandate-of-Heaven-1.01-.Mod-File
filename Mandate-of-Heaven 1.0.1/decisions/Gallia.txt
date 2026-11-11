@@ -1,0 +1,106 @@
+political_decisions = {
+	only_we_can_defend_rome = {
+		potential = {
+			tag = GAL
+			year = 1862
+			NOT = { has_country_flag = defended_rome }
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = defended_rome
+			BRI = {
+				all_core = {
+					add_core = GAE
+					remove_core = BRI
+				}
+			}
+			inherit = BRI
+			HIS = {
+				all_core = {
+					add_core = GAE
+					add_core = ROM
+					remove_core = HIS
+				}
+			}
+			inherit = HIS
+			BEL = {
+				all_core = {
+					add_core = GAE
+					remove_core = BEL
+				}
+			}
+			inherit = BEL
+			GER = {
+				all_core = {
+					add_core = GAE
+					add_core = ROM
+					remove_core = GER
+				}
+			}
+			inherit = GER
+			release_vassal = THIS
+			GAL = {
+				all_core = {
+					add_core = GAE
+					remove_core = GAL
+				}
+			}
+			change_tag = GAE
+		}
+		ai_will_do = { factor = 1 }
+	}
+	gal_usurp_rome = {
+		potential = {
+			OR = { tag = GAL tag = GAE }
+			year = 1862
+			NOT = { has_country_flag = usurped_rome }
+		}
+		allow = {
+			NOT = { year = 1888 }
+			owns = 749
+			owns = 860
+		}
+		effect = {
+			set_country_flag = usurped_rome
+			ROM = { all_core = { add_core = THIS } }
+			PAL = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	rome_entrusts_us = {
+		potential = {
+			tag = GAL
+			NOT = { year = 1862 }
+			NOT = { has_country_flag = rome_entrusts_us }
+		}
+		allow = {
+			year = 1863
+		}
+		effect = {
+			set_country_flag = rome_entrusts_us
+			HIS = {
+				all_core = {
+					add_core = GAL
+					remove_core = HIS
+				}
+			}
+			inherit = HIS
+			BRI = {
+				all_core = {
+					add_core = GAL
+					remove_core = BRI
+				}
+			}
+			inherit = BRI
+			GER = {
+				all_core = {
+					add_core = GAL
+					remove_core = GER
+				}
+			}
+			inherit = GER
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

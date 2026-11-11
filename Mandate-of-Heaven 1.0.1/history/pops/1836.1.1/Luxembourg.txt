@@ -1,0 +1,37 @@
+397 = {
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 212
+	}
+	bureaucrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 56
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 212
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1250
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1125
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 119137
+	}
+	officers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 25
+	}
+}

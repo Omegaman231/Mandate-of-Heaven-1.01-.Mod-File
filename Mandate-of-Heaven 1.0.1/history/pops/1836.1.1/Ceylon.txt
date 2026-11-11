@@ -1,0 +1,155 @@
+1321 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 1000
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 161
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1540
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 6500
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 70325
+	}
+	labourers = {
+		culture = tamil
+		religion = placeholder
+		size = 20775
+	}
+}
+1322 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1050
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 6000
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 42500
+	}
+	labourers = {
+		culture = tamil
+		religion = placeholder
+		size = 21000
+	}
+}
+1323 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1050
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 4000
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1125
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 69250
+	}
+}
+1324 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 525
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 875
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 2750
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 862
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 19825
+	}
+	labourers = {
+		culture = tamil
+		religion = placeholder
+		size = 27750
+	}
+}
+1325 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 364
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1376
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 3639
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 819
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 38758
+	}
+}

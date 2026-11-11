@@ -1,0 +1,124 @@
+806 = {
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 1707
+	}
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 374
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 679
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 149
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 4182
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 918
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 2091
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 459
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 65221
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 14316
+	}
+}
+807 = {
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 470
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 103
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 2334
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 512
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 41889
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 9195
+	}
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 1045
+	}
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 229
+	}
+	bureaucrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 78
+	}
+	bureaucrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 17
+	}
+	officers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 121
+	}
+	officers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 26
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 1533
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 336
+	}
+}

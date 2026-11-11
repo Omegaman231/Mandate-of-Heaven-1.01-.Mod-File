@@ -1,0 +1,108 @@
+army = {
+	name = "Aksumite Army 1"
+	location = 1856
+	regiment = {
+		name = "1. Aksumite Regiment"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "2. Aksumite Regiment"
+		type = infantry
+		home = 1859
+	}
+	regiment = {
+		name = "3. Aksumite Regiment"
+		type = infantry
+		home = 1864
+	}
+	regiment = {
+		name = "4. Aksumite Regiment"
+		type = infantry
+		home = 1856
+	}
+	regiment = {
+		name = "5. Aksumite Regiment"
+		type = hussar
+		home = 1829
+	}
+	regiment = {
+		name = "6. Aksumite Regiment"
+		type = artillery
+		home = 1828
+	}
+	regiment = {
+		name = "7. Aksumite Regiment"
+		type = artillery
+		home = 1863
+	}
+	regiment = {
+		name = "8. Aksumite Regiment"
+		type = artillery
+		home = 1854
+	}
+	regiment = {
+		name = "9. Aksumite Regiment"
+		type = artillery
+		home = 1853
+	}
+	regiment = {
+		name = "10. Aksumite Regiment"
+		type = artillery
+		home = 1852
+	}
+}
+army = {
+	name = "Aksumite Army 2"
+	location = 1855
+	regiment = {
+		name = "11. Aksumite Regiment"
+		type = infantry
+		home = 1860
+	}
+	regiment = {
+		name = "12. Aksumite Regiment"
+		type = infantry
+		home = 1830
+	}
+	regiment = {
+		name = "13. Aksumite Regiment"
+		type = infantry
+		home = 1855
+	}
+	regiment = {
+		name = "14. Aksumite Regiment"
+		type = infantry
+		home = 1859
+	}
+	regiment = {
+		name = "15. Aksumite Regiment"
+		type = hussar
+		home = 1864
+	}
+	regiment = {
+		name = "16. Aksumite Regiment"
+		type = artillery
+		home = 1855
+	}
+	regiment = {
+		name = "17. Aksumite Regiment"
+		type = artillery
+		home = 1859
+	}
+	regiment = {
+		name = "18. Aksumite Regiment"
+		type = artillery
+		home = 1864
+	}
+	regiment = {
+		name = "19. Aksumite Regiment"
+		type = artillery
+		home = 1855
+	}
+	regiment = {
+		name = "20. Aksumite Regiment"
+		type = artillery
+		home = 1859
+	}
+}

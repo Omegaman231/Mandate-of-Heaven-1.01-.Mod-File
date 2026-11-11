@@ -1,0 +1,37 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Britannic Army 1"
+	location = 300
+	regiment = {
+		name = "1. Britannic Regiment"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "2. Britannic Regiment"
+		type = infantry
+		home = 277
+	}
+	regiment = {
+		name = "3. Britannic Regiment"
+		type = infantry
+		home = 269
+	}
+	regiment = {
+		name = "4. Britannic Regiment"
+		type = cavalry
+		home = 269
+	}
+	regiment = {
+		name = "5. Britannic Regiment"
+		type = artillery
+		home = 269
+	}
+	regiment = {
+		name = "6. Britannic Regiment"
+		type = infantry
+		home = 279
+	}
+}

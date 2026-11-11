@@ -1,0 +1,690 @@
+1619 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 5455
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 1740
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 581
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 2800
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 13825
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 11910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 177335
+	}
+	craftsmen = {
+		culture = korean
+		religion = placeholder
+		size = 78710
+	}
+}
+1620 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 5164
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 2654
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 13097
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 252674
+	}
+}
+1621 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 2036
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 868
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 289
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1090
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 5093
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1017
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 99395
+	}
+}
+1622 = {
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 1789
+	}
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 392
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 953
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 209
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 4773
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 1047
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 1312
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 288
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 98569
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 21637
+	}
+}
+1623 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1370
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 745
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 163
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 3579
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 785
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 715
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 156
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 71151
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 15618
+	}
+}
+1624 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 7894
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 3916
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 908
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 4073
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 20008
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 13365
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 303364
+	}
+	craftsmen = {
+		culture = korean
+		religion = placeholder
+		size = 88710
+	}
+}
+1625 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1817
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 979
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4727
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 944
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 93354
+	}
+}
+1626 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1671
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 908
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4365
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 872
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 86770
+	}
+}
+1627 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 2254
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1199
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 5821
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1600
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 112966
+	}
+}
+1628 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 3709
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1927
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 9458
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 185731
+	}
+}
+1629 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 2473
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 1012
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 326
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1236
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 6183
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1600
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 126319
+	}
+}
+1630 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1671
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 908
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4365
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 872
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 86770
+	}
+}
+1631 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1817
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 979
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4727
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 944
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 93391
+	}
+}
+1632 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 4947
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 2176
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 617
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 2619
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 12733
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 205352
+	}
+	craftsmen = {
+		culture = korean
+		religion = placeholder
+		size = 39355
+	}
+}
+1633 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 2765
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1526
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 7275
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1600
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 139778
+	}
+}
+1634 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 4219
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 2254
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 10914
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 212545
+	}
+}
+1635 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 4365
+	}
+	bureaucrats = {
+		culture = korean
+		religion = placeholder
+		size = 1740
+	}
+	officers = {
+		culture = korean
+		religion = placeholder
+		size = 508
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 2182
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 10985
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 212909
+	}
+}
+1636 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 3709
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1927
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 9458
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 2910
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 185731
+	}
+}
+1637 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1962
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 1054
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 5093
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1017
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 100013
+	}
+}
+3285 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1789
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 392
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 953
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 209
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4773
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 1047
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1312
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 288
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 98569
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 21637
+	}
+}

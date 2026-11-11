@@ -1,0 +1,32 @@
+1954 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 55
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 205
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 4000
+	}
+}

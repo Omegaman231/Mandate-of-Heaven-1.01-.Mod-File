@@ -1,0 +1,151 @@
+767 = {
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 460
+	}
+	bureaucrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 230
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 304
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1657
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 192
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 28678
+	}
+}
+768 = {
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 414
+	}
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 90
+	}
+	bureaucrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 170
+	}
+	bureaucrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 37
+	}
+	officers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 49
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 352
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 77
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2015
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 442
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 76
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 31834
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 6988
+	}
+}
+769 = {
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 149
+	}
+	aristocrats = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 275
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 134
+	}
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 247
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 624
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1160
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 126
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 235
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 12361
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 22956
+	}
+}

@@ -1,0 +1,5 @@
+owner = PEN
+controller = PEN
+add_core = PEN
+trade_goods = cotton
+life_rating = 32

@@ -1,0 +1,24 @@
+army = {
+	name = "Haudenosaunee Army 1"
+	location = 233
+	regiment = {
+		name = "1. Haudenosaunee Regiment"
+		type = irregular
+		home = 233
+	}
+	regiment = {
+		name = "2. Haudenosaunee Regiment"
+		type = irregular
+		home = 233
+	}
+	regiment = {
+		name = "3. Haudenosaunee Regiment"
+		type = infantry
+		home = 233
+	}
+	regiment = {
+		name = "4. Haudenosaunee Regiment"
+		type = cavalry
+		home = 233
+	}
+}

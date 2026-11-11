@@ -1,0 +1,6 @@
+owner = ZHA
+controller = ZHA
+add_core = MAN
+add_core = ZHA
+trade_goods = timber
+life_rating = 32

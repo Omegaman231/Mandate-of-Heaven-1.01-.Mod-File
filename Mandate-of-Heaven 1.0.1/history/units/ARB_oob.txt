@@ -1,0 +1,34 @@
+army = {
+	name = "Arabian Army 1"
+	location = 1151
+	regiment = {
+		name = "1. Arabian Regiment"
+		type = irregular
+		home = 1151
+	}
+	regiment = {
+		name = "2. Arabian Regiment"
+		type = irregular
+		home = 1151
+	}
+	regiment = {
+		name = "3. Arabian Regiment"
+		type = infantry
+		home = 1151
+	}
+	regiment = {
+		name = "4. Arabian Regiment"
+		type = cavalry
+		home = 1152
+	}
+	regiment = {
+		name = "5. Arabian Regiment"
+		type = irregular
+		home = 1152
+	}
+	regiment = {
+		name = "6. Arabian Regiment"
+		type = irregular
+		home = 1152
+	}
+}

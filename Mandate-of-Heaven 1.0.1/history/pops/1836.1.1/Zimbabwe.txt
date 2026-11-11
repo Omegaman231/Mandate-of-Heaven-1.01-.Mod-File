@@ -1,0 +1,194 @@
+2068 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 850
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 175
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 15475
+	}
+}
+2069 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 450
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 1200
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 250
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 21850
+	}
+}
+2070 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 450
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 275
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 1200
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 250
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 21825
+	}
+}
+2071 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 300
+	}
+	officers = {
+		culture = shona
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 850
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 15350
+	}
+}
+2072 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 185
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 115
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 600
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 150
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 10950
+	}
+}
+2073 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 325
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 900
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 16475
+	}
+}
+2635 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 110
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 125
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 90
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 8225
+	}
+}

@@ -1,0 +1,1462 @@
+2468 = {
+	bureaucrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 12600
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 575
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 10750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 22500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 149375
+	}
+}
+2469 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 675
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 5250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 203325
+	}
+}
+2470 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3000
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 189750
+	}
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+}
+2471 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 146250
+	}
+}
+2472 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2400
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 191250
+	}
+}
+2473 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3000
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 39750
+	}
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+}
+2474 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 26250
+	}
+}
+2475 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 40500
+	}
+}
+2476 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 181050
+	}
+}
+2477 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 116250
+	}
+}
+2478 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 26250
+	}
+}
+2479 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 176250
+	}
+}
+2480 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 103500
+	}
+}
+2481 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2482 = {
+	bureaucrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 30000
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 6000
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 101625
+	}
+}
+2483 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3000
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 189750
+	}
+}
+2484 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 116250
+	}
+}
+2485 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2486 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 146250
+	}
+}
+2487 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 176250
+	}
+}
+2488 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1875
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 34125
+	}
+}
+2489 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2490 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2491 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 130500
+	}
+}
+2492 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2493 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 103500
+	}
+}
+2494 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 163500
+	}
+}
+2495 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2496 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 13500
+	}
+}
+2497 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2362
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 1575
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3261
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 2172
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2700
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 1800
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 125829
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 83886
+	}
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 843
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 558
+	}
+}
+2498 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 561
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 62
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1264
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1686
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 187
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 30375
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 3375
+	}
+}
+2499 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 842
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 93
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 19686
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 2187
+	}
+}
+2500 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 111
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 418
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 561
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 62
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 675
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 10125
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 1125
+	}
+}
+2501 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 842
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 93
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 19686
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 2187
+	}
+}
+2502 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 5061
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 562
+	}
+}
+2503 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 111
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 252
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 393
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 43
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 7086
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 787
+	}
+}
+2504 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 111
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 418
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 561
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 62
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 675
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 100125
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 11125
+	}
+}
+2505 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 843
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 558
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2106
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 1404
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2811
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 1872
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 2250
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 1500
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 50625
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 33750
+	}
+}
+2506 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 842
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 93
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 19686
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 2187
+	}
+}
+2507 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 525
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 9450
+	}
+}
+2508 = {
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 120
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 3525
+	}
+}
+2601 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 5061
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 562
+	}
+}
+2602 = {
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 252
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 279
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 31
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 5061
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 562
+	}
+}
+2603 = {
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 168
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 3093
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 343
+	}
+}
+2604 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 375
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 1125
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 900
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 20550
+	}
+}
+2605 = {
+	aristocrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = aboriginal
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = aboriginal
+		religion = placeholder
+		size = 600
+	}
+	soldiers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 600
+	}
+	farmers = {
+		culture = aboriginal
+		religion = placeholder
+		size = 10875
+	}
+}

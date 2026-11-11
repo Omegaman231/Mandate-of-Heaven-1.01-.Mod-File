@@ -1,0 +1,604 @@
+1982 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 6175
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 3575
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 14025
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 3575
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 323950
+	}
+}
+1983 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 640
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 365
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4375
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 94250
+	}
+}
+1984 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2565
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1645
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 6780
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 5225
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 199835
+	}
+}
+1985 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2200
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 5130
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 3575
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 176100
+	}
+}
+1986 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 3300
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1650
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 8060
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 3500
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 177480
+	}
+}
+1987 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 6617
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 1452
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 61
+	}
+	officers = {
+		culture = kongolese
+		religion = placeholder
+		size = 237
+	}
+	officers = {
+		culture = shona
+		religion = placeholder
+		size = 52
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 3308
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 726
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 13751
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 3018
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 4432
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 972
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 306376
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 67253
+	}
+}
+1988 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1426
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 313
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 828
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 181
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 3530
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 774
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2480
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 544
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 74566
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 16368
+	}
+}
+1989 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 4354
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 955
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 2099
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 460
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 9020
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1980
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 4079
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 895
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 192806
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 42323
+	}
+}
+1990 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1745
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 920
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4305
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2750
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 112450
+	}
+}
+1991 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1127
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 247
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 598
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 131
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 2328
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 511
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1804
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 396
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 64771
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 14218
+	}
+}
+1992 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2110
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4400
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 111660
+	}
+}
+1993 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 550
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 2200
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 74690
+	}
+}
+1994 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 550
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 2200
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 74690
+	}
+}
+1995 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2000
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4125
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 94420
+	}
+}
+1996 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 2840
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 1470
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 5775
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1470
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 161450
+	}
+}
+1997 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1280
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 740
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 3205
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2200
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 83710
+	}
+}
+1998 = {
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 1578
+	}
+	aristocrats = {
+		culture = ethiopian
+		religion = placeholder
+		size = 346
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 902
+	}
+	clergymen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 198
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 4059
+	}
+	artisans = {
+		culture = ethiopian
+		religion = placeholder
+		size = 891
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2480
+	}
+	soldiers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 544
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 73890
+	}
+	farmers = {
+		culture = ethiopian
+		religion = placeholder
+		size = 16219
+	}
+}

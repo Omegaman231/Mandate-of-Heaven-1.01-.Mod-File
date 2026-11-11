@@ -1,0 +1,6 @@
+owner = BRI
+controller = BRI
+add_core = BRI
+trade_goods = grain
+life_rating = 35
+naval_base = 1

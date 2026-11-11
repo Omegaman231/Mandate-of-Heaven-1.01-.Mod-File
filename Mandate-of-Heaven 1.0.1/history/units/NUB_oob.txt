@@ -1,0 +1,54 @@
+army = {
+	name = "Nubian Army 1"
+	location = 1840
+	regiment = {
+		name = "1. Nubian Regiment"
+		type = infantry
+		home = 1827
+	}
+	regiment = {
+		name = "2. Nubian Regiment"
+		type = infantry
+		home = 1838
+	}
+	regiment = {
+		name = "3. Nubian Regiment"
+		type = infantry
+		home = 1831
+	}
+	regiment = {
+		name = "4. Nubian Regiment"
+		type = infantry
+		home = 1827
+	}
+	regiment = {
+		name = "5. Nubian Regiment"
+		type = hussar
+		home = 1838
+	}
+	regiment = {
+		name = "6. Nubian Regiment"
+		type = artillery
+		home = 1827
+	}
+	regiment = {
+		name = "7. Nubian Regiment"
+		type = artillery
+		home = 1838
+	}
+	regiment = {
+		name = "8. Nubian Regiment"
+		type = artillery
+		home = 1827
+	}
+	regiment = {
+		name = "9. Nubian Regiment"
+		type = artillery
+		home = 1838
+	}
+	regiment = {
+		name = "10. Nubian Regiment"
+		type = artillery
+		home = 1827
+	}
+}

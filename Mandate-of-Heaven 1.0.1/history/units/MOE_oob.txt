@@ -1,0 +1,32 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Moesian Army 1"
+	location = 804
+	regiment = {
+		name = "1. Moesian Regiment"
+		type = infantry
+		home = 804
+	}
+	regiment = {
+		name = "2. Moesian Regiment"
+		type = infantry
+		home = 804
+	}
+	regiment = {
+		name = "3. Moesian Regiment"
+		type = infantry
+		home = 804
+	}
+	regiment = {
+		name = "4. Moesian Regiment"
+		type = cavalry
+		home = 794
+	}
+	regiment = {
+		name = "5. Moesian Regiment"
+		type = artillery
+		home = 795
+	}
+}

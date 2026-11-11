@@ -1,0 +1,158 @@
+army = {
+	name = "Gujarati Army 1"
+	location = 1291
+	regiment = {
+		name = "1. Gujarati Regiment"
+		type = infantry
+		home = 1295
+	}
+	regiment = {
+		name = "2. Gujarati Regiment"
+		type = infantry
+		home = 1293
+	}
+	regiment = {
+		name = "3. Gujarati Regiment"
+		type = infantry
+		home = 1292
+	}
+	regiment = {
+		name = "4. Gujarati Regiment"
+		type = infantry
+		home = 1291
+	}
+	regiment = {
+		name = "5. Gujarati Regiment"
+		type = hussar
+		home = 1295
+	}
+	regiment = {
+		name = "6. Gujarati Regiment"
+		type = artillery
+		home = 1293
+	}
+	regiment = {
+		name = "7. Gujarati Regiment"
+		type = artillery
+		home = 1292
+	}
+	regiment = {
+		name = "8. Gujarati Regiment"
+		type = artillery
+		home = 1295
+	}
+	regiment = {
+		name = "9. Gujarati Regiment"
+		type = artillery
+		home = 1293
+	}
+	regiment = {
+		name = "10. Gujarati Regiment"
+		type = artillery
+		home = 1295
+	}
+}
+navy = {
+	name = "Gujarati Fleet"
+	location = 1291
+	ship = {
+		name = "Gujarati 1"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 2"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 3"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Gujarati Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Gujarati Fleet Transport 5"
+		type = clipper_transport
+	}
+}

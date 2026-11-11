@@ -1,0 +1,6 @@
+owner = TAM
+controller = TAM
+add_core = TAM
+add_core = NUS
+trade_goods = tropical_wood
+life_rating = 40

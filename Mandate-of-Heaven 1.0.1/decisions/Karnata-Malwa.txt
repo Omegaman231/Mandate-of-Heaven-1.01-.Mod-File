@@ -1,0 +1,18 @@
+political_decisions = {
+	form_deccan_empire = {
+		potential = {
+			tag = KAR
+			NOT = { exists = DEC }
+		}
+		allow = {
+			owns = 1236
+			war = no
+		}
+		effect = {
+			change_tag = DEC
+			prestige = 25
+			add_accepted_culture = hindustani
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

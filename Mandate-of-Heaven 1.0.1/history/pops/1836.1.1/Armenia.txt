@@ -1,0 +1,143 @@
+1098 = {
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 2146
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 958
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 4625
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 998
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1378
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 329
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 83526
+	}
+}
+1099 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1630
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 358
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 957
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 210
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 4364
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 958
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 953
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 209
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 80640
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 17701
+	}
+}
+1100 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 848
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 517
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2790
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 517
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 51129
+	}
+}
+1101 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 923
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1228
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3269
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 709
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 58962
+	}
+}

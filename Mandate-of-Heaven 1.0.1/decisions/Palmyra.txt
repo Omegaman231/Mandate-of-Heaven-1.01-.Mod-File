@@ -1,0 +1,39 @@
+political_decisions = {
+	palmyra_retake_home = {
+		potential = {
+			tag = PAL
+			NOT = { has_country_flag = retook_palmyra }
+		}
+		allow = {
+			owns = 907
+			war = no
+		}
+		effect = {
+			set_country_flag = retook_palmyra
+			capital = 907
+			add_accepted_culture = arab
+			TUR_902 = { add_core = PAL }
+			907 = { any_pop = { reduce_pop = 21 } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	usurp_rome = {
+		potential = {
+			tag = PAL
+			year = 1862
+			NOT = { has_country_flag = usurped_rome }
+		}
+		allow = {
+			NOT = { year = 1888 }
+			owns = 749
+			owns = 860
+		}
+		effect = {
+			set_country_flag = usurped_rome
+			ROM = { all_core = { add_core = THIS } }
+			GAL = { all_core = { add_core = THIS } }
+			GAE = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,22 @@
+2127 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 81
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 1175
+	}
+}

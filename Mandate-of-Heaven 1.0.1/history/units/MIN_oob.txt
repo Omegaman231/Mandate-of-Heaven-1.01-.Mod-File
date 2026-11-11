@@ -1,0 +1,432 @@
+army = {
+	name = "Nanyue Army 1"
+	location = 1482
+	regiment = {
+		name = "1. Nanyue Regiment"
+		type = infantry
+		home = 1550
+	}
+	regiment = {
+		name = "2. Nanyue Regiment"
+		type = infantry
+		home = 1493
+	}
+	regiment = {
+		name = "3. Nanyue Regiment"
+		type = infantry
+		home = 1486
+	}
+	regiment = {
+		name = "4. Nanyue Regiment"
+		type = infantry
+		home = 1482
+	}
+	regiment = {
+		name = "5. Nanyue Regiment"
+		type = hussar
+		home = 1499
+	}
+	regiment = {
+		name = "6. Nanyue Regiment"
+		type = artillery
+		home = 1494
+	}
+	regiment = {
+		name = "7. Nanyue Regiment"
+		type = artillery
+		home = 1487
+	}
+	regiment = {
+		name = "8. Nanyue Regiment"
+		type = artillery
+		home = 1484
+	}
+	regiment = {
+		name = "9. Nanyue Regiment"
+		type = artillery
+		home = 1495
+	}
+	regiment = {
+		name = "10. Nanyue Regiment"
+		type = artillery
+		home = 1497
+	}
+}
+army = {
+	name = "Nanyue Army 2"
+	location = 1499
+	regiment = {
+		name = "11. Nanyue Regiment"
+		type = infantry
+		home = 1501
+	}
+	regiment = {
+		name = "12. Nanyue Regiment"
+		type = infantry
+		home = 1500
+	}
+	regiment = {
+		name = "13. Nanyue Regiment"
+		type = infantry
+		home = 1550
+	}
+	regiment = {
+		name = "14. Nanyue Regiment"
+		type = infantry
+		home = 1493
+	}
+	regiment = {
+		name = "15. Nanyue Regiment"
+		type = hussar
+		home = 1486
+	}
+	regiment = {
+		name = "16. Nanyue Regiment"
+		type = artillery
+		home = 1482
+	}
+	regiment = {
+		name = "17. Nanyue Regiment"
+		type = artillery
+		home = 1550
+	}
+	regiment = {
+		name = "18. Nanyue Regiment"
+		type = artillery
+		home = 1493
+	}
+	regiment = {
+		name = "19. Nanyue Regiment"
+		type = artillery
+		home = 1486
+	}
+	regiment = {
+		name = "20. Nanyue Regiment"
+		type = artillery
+		home = 1482
+	}
+}
+navy = {
+	name = "Nanyue Fleet"
+	location = 1482
+	ship = {
+		name = "Nanyue 1"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 2"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 3"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 4"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 5"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 6"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 7"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 8"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 9"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 10"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 5 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 6 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 7 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 8 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 9 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 10 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 3 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 4 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 5 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 6 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 5 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 6 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 7 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 8 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 9 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 10 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 3 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 4 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 5 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 6 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 5 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 6 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 7 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 8 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 9 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 10 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 3 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 4 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 5 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 6 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 5 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 6 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 7 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 8 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 9 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue 10 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nanyue Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 2 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 3 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 4 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 5 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nanyue Transport 6 V"
+		type = clipper_transport
+	}
+}

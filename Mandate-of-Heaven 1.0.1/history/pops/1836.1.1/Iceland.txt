@@ -1,0 +1,17 @@
+252 = {
+	clergymen = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 118
+	}
+	artisans = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 330
+	}
+	farmers = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 5774
+	}
+}

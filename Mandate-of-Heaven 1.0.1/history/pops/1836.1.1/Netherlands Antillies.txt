@@ -1,0 +1,51 @@
+2234 = {
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 55
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 221
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 20
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 2800
+	}
+}
+2235 = {
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 58
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 58
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 1340
+	}
+}
+2236 = {
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 392
+	}
+}

@@ -1,0 +1,61 @@
+DEL = {
+	value = 150
+}
+army = {
+	name = "Bengali Army 1"
+	location = 1253
+	regiment = {
+		name = "1. Bengali Regiment"
+		type = infantry
+		home = 1253
+	}
+	regiment = {
+		name = "2. Bengali Regiment"
+		type = infantry
+		home = 1257
+	}
+	regiment = {
+		name = "3. Bengali Regiment"
+		type = infantry
+		home = 1257
+	}
+	regiment = {
+		name = "4. Bengali Regiment"
+		type = cavalry
+		home = 1257
+	}
+	regiment = {
+		name = "5. Bengali Regiment"
+		type = artillery
+		home = 1257
+	}
+	regiment = {
+		name = "6. Bengali Regiment"
+		type = infantry
+		home = 1254
+	}
+	regiment = {
+		name = "7. Bengali Regiment"
+		type = infantry
+		home = 1254
+	}
+	regiment = {
+		name = "8. Bengali Regiment"
+		type = infantry
+		home = 1254
+	}
+}
+army = {
+	name = "Bengali Army 2"
+	location = 1254
+	regiment = {
+		name = "9. Bengali Regiment"
+		type = cavalry
+		home = 1254
+	}
+	regiment = {
+		name = "10. Bengali Regiment"
+		type = artillery
+		home = 1251
+	}
+}

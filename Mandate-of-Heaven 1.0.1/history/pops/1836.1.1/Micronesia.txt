@@ -1,0 +1,169 @@
+610 = {
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 1800
+	}
+}
+1654 = {
+	farmers = {
+		culture = japanese
+		religion = placeholder
+		size = 40
+	}
+}
+2517 = {
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 20
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1490
+	}
+}
+2518 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 100
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1800
+	}
+}
+2519 = {
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 485
+	}
+}
+2521 = {
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1325
+	}
+}
+2522 = {
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 4125
+	}
+}
+2523 = {
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 675
+	}
+}
+2524 = {
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 120
+	}
+}
+2525 = {
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 40
+	}
+}
+2527 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 525
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 9375
+	}
+}
+2579 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 20
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 40
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 700
+	}
+}

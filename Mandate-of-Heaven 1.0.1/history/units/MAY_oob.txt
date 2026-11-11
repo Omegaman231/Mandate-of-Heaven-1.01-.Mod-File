@@ -1,0 +1,24 @@
+army = {
+	name = "Mayan Army 1"
+	location = 2186
+	regiment = {
+		name = "1. Mayan Regiment"
+		type = irregular
+		home = 2186
+	}
+	regiment = {
+		name = "2. Mayan Regiment"
+		type = irregular
+		home = 2186
+	}
+	regiment = {
+		name = "3. Mayan Regiment"
+		type = infantry
+		home = 2186
+	}
+	regiment = {
+		name = "4. Mayan Regiment"
+		type = cavalry
+		home = 2191
+	}
+}

@@ -1,0 +1,28 @@
+251 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 440
+	}
+}
+2591 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 120
+	}
+}
+2632 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 120
+	}
+}
+2636 = {
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 80
+	}
+}

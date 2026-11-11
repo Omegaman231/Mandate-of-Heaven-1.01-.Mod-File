@@ -1,0 +1,27 @@
+DEL = {
+	value = 150
+}
+army = {
+	name = "Rajput Army 1"
+	location = 1269
+	regiment = {
+		name = "1. Rajput Regiment"
+		type = infantry
+		home = 1269
+	}
+	regiment = {
+		name = "2. Rajput Regiment"
+		type = infantry
+		home = 1294
+	}
+	regiment = {
+		name = "3. Rajput Regiment"
+		type = infantry
+		home = 1294
+	}
+	regiment = {
+		name = "4. Rajput Regiment"
+		type = cavalry
+		home = 1294
+	}
+}

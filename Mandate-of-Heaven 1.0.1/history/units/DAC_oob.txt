@@ -1,0 +1,32 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Dacian Army 1"
+	location = 652
+	regiment = {
+		name = "1. Dacian Regiment"
+		type = infantry
+		home = 652
+	}
+	regiment = {
+		name = "2. Dacian Regiment"
+		type = infantry
+		home = 652
+	}
+	regiment = {
+		name = "3. Dacian Regiment"
+		type = infantry
+		home = 652
+	}
+	regiment = {
+		name = "4. Dacian Regiment"
+		type = cavalry
+		home = 647
+	}
+	regiment = {
+		name = "5. Dacian Regiment"
+		type = artillery
+		home = 647
+	}
+}

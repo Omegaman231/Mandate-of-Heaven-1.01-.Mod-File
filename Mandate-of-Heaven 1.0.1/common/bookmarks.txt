@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "MOH_BOOKMARK"
+	desc = "MOH_BOOKMARK_DESC"
+	date = 1836.1.1
+	cameraX = 2950
+	cameraY = 1550
+}

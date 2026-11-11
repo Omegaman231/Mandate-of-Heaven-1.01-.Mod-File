@@ -1,0 +1,869 @@
+2049 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 650
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 1552
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 3350
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 650
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 55775
+	}
+}
+2050 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 1957
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 3450
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 800
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 63325
+	}
+}
+2051 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 450
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 1147
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 2000
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 550
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 40575
+	}
+}
+2052 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 400
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 875
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 2000
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 450
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 65725
+	}
+}
+2053 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 393
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 86
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 240
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 770
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 169
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 468
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = placeholder
+		size = 59
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2542
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 558
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1551
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 364
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 80
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 222
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 22336
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 4903
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 13630
+	}
+}
+2054 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 188
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 41
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 559
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 206
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 943
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 207
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 245
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 53
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 91
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 18030
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 3957
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 6692
+	}
+}
+2055 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 369
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 81
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 328
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 72
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 1640
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 360
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 369
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 81
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 30914
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 6786
+	}
+}
+2056 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 229
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 233
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 51
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 1066
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 234
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 246
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 54
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 19544
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 4290
+	}
+}
+2057 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 307
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 67
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 829
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 182
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 2132
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 468
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 328
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 72
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 26445
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 5805
+	}
+}
+2058 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 307
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 1435
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 287
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 63
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 25645
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 5629
+	}
+}
+2059 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 245
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 53
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 91
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 507
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 111
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 186
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1735
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 380
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 644
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 208
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 45
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 77
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 13843
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 3038
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 5139
+	}
+}
+2060 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 437
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 133
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 621
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 189
+	}
+	bureaucrats = {
+		culture = swahili
+		religion = placeholder
+		size = 23
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1518
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 462
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 277
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 84
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 17756
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 5408
+	}
+}
+2061 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 230
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 806
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 245
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 4025
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1225
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 368
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 112
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 24518
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 7462
+	}
+}
+2063 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 460
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 1366
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 413
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 4094
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1246
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 460
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 42320
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 12882
+	}
+}
+2064 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 414
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 126
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 414
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 126
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1978
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 602
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 460
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 44666
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 13594
+	}
+}
+2065 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 253
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 77
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 745
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 224
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1288
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 392
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 299
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 91
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 22724
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 6918
+	}
+}
+2581 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 414
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 126
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 368
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1932
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 588
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 414
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 126
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 48392
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 14728
+	}
+}

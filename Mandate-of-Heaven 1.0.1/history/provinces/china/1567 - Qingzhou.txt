@@ -1,0 +1,5 @@
+owner = ZHA
+controller = ZHA
+add_core = ZHA
+trade_goods = grain
+life_rating = 32

@@ -1,0 +1,34 @@
+army = {
+	name = "Kongolese Army 1"
+	location = 1987
+	regiment = {
+		name = "1. Kongolese Regiment"
+		type = irregular
+		home = 1987
+	}
+	regiment = {
+		name = "2. Kongolese Regiment"
+		type = irregular
+		home = 1982
+	}
+	regiment = {
+		name = "3. Kongolese Regiment"
+		type = infantry
+		home = 1989
+	}
+	regiment = {
+		name = "4. Kongolese Regiment"
+		type = cavalry
+		home = 1984
+	}
+	regiment = {
+		name = "5. Kongolese Regiment"
+		type = irregular
+		home = 1986
+	}
+	regiment = {
+		name = "6. Kongolese Regiment"
+		type = irregular
+		home = 1985
+	}
+}

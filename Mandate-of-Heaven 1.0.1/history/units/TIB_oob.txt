@@ -1,0 +1,102 @@
+army = {
+	name = "Tibetan Army 1"
+	location = 1252
+	regiment = {
+		name = "1. Tibetan Regiment"
+		type = infantry
+		home = 1252
+	}
+	regiment = {
+		name = "2. Tibetan Regiment"
+		type = infantry
+		home = 1593
+	}
+	regiment = {
+		name = "3. Tibetan Regiment"
+		type = hussar
+		home = 1326
+	}
+	regiment = {
+		name = "4. Tibetan Regiment"
+		type = artillery
+		home = 1587
+	}
+	regiment = {
+		name = "5. Tibetan Regiment"
+		type = artillery
+		home = 1238
+	}
+	regiment = {
+		name = "6. Tibetan Regiment"
+		type = artillery
+		home = 1588
+	}
+}
+army = {
+	name = "Tibetan Army 2"
+	location = 1587
+	regiment = {
+		name = "7. Tibetan Regiment"
+		type = infantry
+		home = 1327
+	}
+	regiment = {
+		name = "8. Tibetan Regiment"
+		type = infantry
+		home = 1590
+	}
+	regiment = {
+		name = "9. Tibetan Regiment"
+		type = hussar
+		home = 1594
+	}
+	regiment = {
+		name = "10. Tibetan Regiment"
+		type = artillery
+		home = 1586
+	}
+	regiment = {
+		name = "11. Tibetan Regiment"
+		type = artillery
+		home = 1252
+	}
+	regiment = {
+		name = "12. Tibetan Regiment"
+		type = artillery
+		home = 1593
+	}
+}
+army = {
+	name = "Tibetan Army 3"
+	location = 1593
+	regiment = {
+		name = "13. Tibetan Regiment"
+		type = infantry
+		home = 1326
+	}
+	regiment = {
+		name = "14. Tibetan Regiment"
+		type = infantry
+		home = 1587
+	}
+	regiment = {
+		name = "15. Tibetan Regiment"
+		type = hussar
+		home = 1252
+	}
+	regiment = {
+		name = "16. Tibetan Regiment"
+		type = artillery
+		home = 1593
+	}
+	regiment = {
+		name = "17. Tibetan Regiment"
+		type = artillery
+		home = 1326
+	}
+	regiment = {
+		name = "18. Tibetan Regiment"
+		type = artillery
+		home = 1252
+	}
+}

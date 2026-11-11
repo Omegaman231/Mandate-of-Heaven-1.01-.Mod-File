@@ -1,0 +1,49 @@
+1877 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 65
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 400
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 95
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 7500
+	}
+}
+1878 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1100
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 17400
+	}
+}

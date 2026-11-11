@@ -1,0 +1,37 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Rhaetian Army 1"
+	location = 592
+	regiment = {
+		name = "1. Rhaetian Regiment"
+		type = infantry
+		home = 599
+	}
+	regiment = {
+		name = "2. Rhaetian Regiment"
+		type = infantry
+		home = 622
+	}
+	regiment = {
+		name = "3. Rhaetian Regiment"
+		type = infantry
+		home = 586
+	}
+	regiment = {
+		name = "4. Rhaetian Regiment"
+		type = cavalry
+		home = 603
+	}
+	regiment = {
+		name = "5. Rhaetian Regiment"
+		type = artillery
+		home = 617
+	}
+	regiment = {
+		name = "6. Rhaetian Regiment"
+		type = infantry
+		home = 589
+	}
+}

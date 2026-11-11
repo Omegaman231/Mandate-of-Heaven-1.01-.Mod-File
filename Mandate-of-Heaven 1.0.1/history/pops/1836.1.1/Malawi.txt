@@ -1,0 +1,129 @@
+2066 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 874
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 266
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 483
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 147
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 2392
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 728
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 506
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 154
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 43562
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 13258
+	}
+}
+2067 = {
+	aristocrats = {
+		culture = swahili
+		religion = placeholder
+		size = 565
+	}
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 124
+	}
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = swahili
+		religion = placeholder
+		size = 301
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 66
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = swahili
+		religion = placeholder
+		size = 1357
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 298
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 504
+	}
+	soldiers = {
+		culture = swahili
+		religion = placeholder
+		size = 320
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 70
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 119
+	}
+	farmers = {
+		culture = swahili
+		religion = placeholder
+		size = 27479
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 6031
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 10198
+	}
+}

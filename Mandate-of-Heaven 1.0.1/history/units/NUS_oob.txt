@@ -1,0 +1,346 @@
+army = {
+	name = "Nusantaran Army 1"
+	location = 1399
+	regiment = {
+		name = "1. Nusantaran Regiment"
+		type = infantry
+		home = 1413
+	}
+	regiment = {
+		name = "2. Nusantaran Regiment"
+		type = infantry
+		home = 1417
+	}
+	regiment = {
+		name = "3. Nusantaran Regiment"
+		type = infantry
+		home = 1418
+	}
+	regiment = {
+		name = "4. Nusantaran Regiment"
+		type = infantry
+		home = 1438
+	}
+	regiment = {
+		name = "5. Nusantaran Regiment"
+		type = hussar
+		home = 1399
+	}
+	regiment = {
+		name = "6. Nusantaran Regiment"
+		type = artillery
+		home = 1416
+	}
+	regiment = {
+		name = "7. Nusantaran Regiment"
+		type = artillery
+		home = 1408
+	}
+	regiment = {
+		name = "8. Nusantaran Regiment"
+		type = artillery
+		home = 1414
+	}
+	regiment = {
+		name = "9. Nusantaran Regiment"
+		type = artillery
+		home = 1415
+	}
+	regiment = {
+		name = "10. Nusantaran Regiment"
+		type = artillery
+		home = 1433
+	}
+}
+army = {
+	name = "Nusantaran Army 2"
+	location = 1413
+	regiment = {
+		name = "11. Nusantaran Regiment"
+		type = infantry
+		home = 1403
+	}
+	regiment = {
+		name = "12. Nusantaran Regiment"
+		type = infantry
+		home = 1409
+	}
+	regiment = {
+		name = "13. Nusantaran Regiment"
+		type = infantry
+		home = 1442
+	}
+	regiment = {
+		name = "14. Nusantaran Regiment"
+		type = infantry
+		home = 1406
+	}
+	regiment = {
+		name = "15. Nusantaran Regiment"
+		type = hussar
+		home = 1407
+	}
+	regiment = {
+		name = "16. Nusantaran Regiment"
+		type = artillery
+		home = 1440
+	}
+	regiment = {
+		name = "17. Nusantaran Regiment"
+		type = artillery
+		home = 1421
+	}
+	regiment = {
+		name = "18. Nusantaran Regiment"
+		type = artillery
+		home = 1430
+	}
+	regiment = {
+		name = "19. Nusantaran Regiment"
+		type = artillery
+		home = 1405
+	}
+	regiment = {
+		name = "20. Nusantaran Regiment"
+		type = artillery
+		home = 3254
+	}
+}
+army = {
+	name = "Nusantaran Army 3"
+	location = 1417
+	regiment = {
+		name = "21. Nusantaran Regiment"
+		type = infantry
+		home = 1441
+	}
+	regiment = {
+		name = "22. Nusantaran Regiment"
+		type = infantry
+		home = 1420
+	}
+	regiment = {
+		name = "23. Nusantaran Regiment"
+		type = infantry
+		home = 2575
+	}
+	regiment = {
+		name = "24. Nusantaran Regiment"
+		type = infantry
+		home = 1387
+	}
+	regiment = {
+		name = "25. Nusantaran Regiment"
+		type = hussar
+		home = 1394
+	}
+	regiment = {
+		name = "26. Nusantaran Regiment"
+		type = artillery
+		home = 1354
+	}
+	regiment = {
+		name = "27. Nusantaran Regiment"
+		type = artillery
+		home = 1352
+	}
+	regiment = {
+		name = "28. Nusantaran Regiment"
+		type = artillery
+		home = 1413
+	}
+	regiment = {
+		name = "29. Nusantaran Regiment"
+		type = artillery
+		home = 1417
+	}
+	regiment = {
+		name = "30. Nusantaran Regiment"
+		type = artillery
+		home = 1418
+	}
+}
+navy = {
+	name = "Nusantaran Fleet"
+	location = 1399
+	ship = {
+		name = "Nusantaran 1"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 2"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 3"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 4"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 5"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 6"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 5 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 6 II"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 3 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 5 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 6 III"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 3 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 5 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 6 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 3 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 5 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran 6 V"
+		type = frigate
+	}
+	ship = {
+		name = "Nusantaran Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 2 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Nusantaran Transport 3 V"
+		type = clipper_transport
+	}
+}

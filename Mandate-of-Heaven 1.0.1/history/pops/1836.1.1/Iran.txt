@@ -1,0 +1,1028 @@
+1108 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 5375
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 2648
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 38225
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 13275
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 220075
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 1000
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 400
+	}
+}
+1109 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 775
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 350
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2100
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 450
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 38275
+	}
+}
+1110 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 850
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 425
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2400
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 475
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 43850
+	}
+}
+1111 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 950
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 475
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2500
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 1275
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 44900
+	}
+}
+1114 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1450
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 200
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 775
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3850
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 1450
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 70400
+	}
+}
+1117 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 2673
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 586
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1443
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 316
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 15391
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 3378
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 14034
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1105
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 112023
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 26566
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 318
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 70
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 266
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 58
+	}
+}
+1119 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 426
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 93
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 229
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1123
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 246
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 250
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 54
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 20438
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 4486
+	}
+}
+1121 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 3675
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 650
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1910
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 38965
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 12300
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 112325
+	}
+}
+1122 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 2050
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1090
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 17730
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 3110
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 74510
+	}
+}
+1123 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3000
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 7575
+	}
+}
+1127 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 2250
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 350
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1210
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 17665
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 12150
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 78350
+	}
+}
+1128 = {
+	aristocrats = {
+		culture = polar_bears
+		religion = placeholder
+		size = 1
+	}
+	farmers = {
+		culture = polar_bears
+		religion = placeholder
+		size = 1
+	}
+}
+1129 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1500
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 765
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 8985
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 2325
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 61625
+	}
+}
+1132 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1447
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 317
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 861
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 189
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3985
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 874
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 803
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 176
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 70479
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 15471
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 106
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 106
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 23
+	}
+}
+1135 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 2767
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 607
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 1500
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 329
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 15370
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3374
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 5699
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 10194
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 122221
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 17886
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 246
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 54
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 205
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 45
+	}
+}
+1137 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1476
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 324
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 779
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 171
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 3936
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 864
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 1968
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 432
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 70684
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 15516
+	}
+}
+1140 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 574
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 126
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 164
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 123
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 27
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 328
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 72
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 1804
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 396
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 328
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 72
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 29725
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6525
+	}
+}
+1144 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 533
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 117
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 82
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 123
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 27
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 287
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 63
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 1476
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 324
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 328
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 72
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 26732
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 5868
+	}
+}
+1145 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 450
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 2300
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2300
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 41550
+	}
+}
+1146 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 1271
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 279
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 697
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 153
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 3608
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 792
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 779
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 171
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 65805
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 14445
+	}
+}
+1147 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 3468
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 761
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 638
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 140
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 373
+	}
+	officers = {
+		culture = sogdian
+		religion = placeholder
+		size = 81
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1845
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 405
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 27301
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 5993
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 11427
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 532
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 143257
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 33422
+	}
+}
+1148 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1170
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 585
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2990
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 2860
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 52650
+	}
+}
+1149 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 910
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 455
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2340
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 455
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 42640
+	}
+}
+1150 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1586
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 348
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 762
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 167
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 4022
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 882
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 2595
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 569
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 72098
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 15826
+	}
+}

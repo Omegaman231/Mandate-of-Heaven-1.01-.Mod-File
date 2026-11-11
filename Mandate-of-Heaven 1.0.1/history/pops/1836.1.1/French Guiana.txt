@@ -1,0 +1,39 @@
+2241 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 152
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 38
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 310
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 11425
+	}
+}
+2246 = {
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 2200
+	}
+}

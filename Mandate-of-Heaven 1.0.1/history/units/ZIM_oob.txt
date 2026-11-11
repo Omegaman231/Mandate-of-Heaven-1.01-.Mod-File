@@ -1,0 +1,29 @@
+army = {
+	name = "Zimbabwean Army 1"
+	location = 2105
+	regiment = {
+		name = "1. Zimbabwean Regiment"
+		type = irregular
+		home = 2105
+	}
+	regiment = {
+		name = "2. Zimbabwean Regiment"
+		type = irregular
+		home = 2105
+	}
+	regiment = {
+		name = "3. Zimbabwean Regiment"
+		type = infantry
+		home = 2105
+	}
+	regiment = {
+		name = "4. Zimbabwean Regiment"
+		type = cavalry
+		home = 2105
+	}
+	regiment = {
+		name = "5. Zimbabwean Regiment"
+		type = irregular
+		home = 2105
+	}
+}

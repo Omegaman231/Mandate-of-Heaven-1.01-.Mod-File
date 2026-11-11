@@ -1,0 +1,192 @@
+army = {
+	name = "Siamese Army 1"
+	location = 1346
+	regiment = {
+		name = "1. Siamese Regiment"
+		type = infantry
+		home = 1335
+	}
+	regiment = {
+		name = "2. Siamese Regiment"
+		type = infantry
+		home = 1346
+	}
+	regiment = {
+		name = "3. Siamese Regiment"
+		type = infantry
+		home = 1353
+	}
+	regiment = {
+		name = "4. Siamese Regiment"
+		type = infantry
+		home = 1358
+	}
+	regiment = {
+		name = "5. Siamese Regiment"
+		type = hussar
+		home = 1364
+	}
+	regiment = {
+		name = "6. Siamese Regiment"
+		type = artillery
+		home = 1349
+	}
+	regiment = {
+		name = "7. Siamese Regiment"
+		type = artillery
+		home = 1336
+	}
+	regiment = {
+		name = "8. Siamese Regiment"
+		type = artillery
+		home = 1347
+	}
+	regiment = {
+		name = "9. Siamese Regiment"
+		type = artillery
+		home = 1383
+	}
+	regiment = {
+		name = "10. Siamese Regiment"
+		type = artillery
+		home = 1335
+	}
+}
+army = {
+	name = "Siamese Army 2"
+	location = 1349
+	regiment = {
+		name = "11. Siamese Regiment"
+		type = infantry
+		home = 1346
+	}
+	regiment = {
+		name = "12. Siamese Regiment"
+		type = infantry
+		home = 1353
+	}
+	regiment = {
+		name = "13. Siamese Regiment"
+		type = infantry
+		home = 1358
+	}
+	regiment = {
+		name = "14. Siamese Regiment"
+		type = infantry
+		home = 1364
+	}
+	regiment = {
+		name = "15. Siamese Regiment"
+		type = hussar
+		home = 1335
+	}
+	regiment = {
+		name = "16. Siamese Regiment"
+		type = artillery
+		home = 1346
+	}
+	regiment = {
+		name = "17. Siamese Regiment"
+		type = artillery
+		home = 1353
+	}
+	regiment = {
+		name = "18. Siamese Regiment"
+		type = artillery
+		home = 1358
+	}
+	regiment = {
+		name = "19. Siamese Regiment"
+		type = artillery
+		home = 1335
+	}
+	regiment = {
+		name = "20. Siamese Regiment"
+		type = artillery
+		home = 1346
+	}
+}
+navy = {
+	name = "Siamese Fleet"
+	location = 1346
+	ship = {
+		name = "Siamese 1"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese 2"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Siamese Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Siamese Fleet Transport 5"
+		type = clipper_transport
+	}
+}

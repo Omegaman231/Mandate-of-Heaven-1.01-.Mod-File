@@ -1,0 +1,618 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+country_event = {
+	id = 91303
+	title = "Ghost Country Trigger"
+	
+	trigger = {
+		tag = GHO
+		owns = 1128
+		NOT = { tag = REB }
+		OR = {
+			ROM = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			PAL = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			BEL = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			GAL = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			GER = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			PAN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			DAC = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MOE = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			BRI = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			HIS = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			TUR = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			PER = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			ARB = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MAZ = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			DEL = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			PEN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			BEN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			GUJ = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			KAR = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			TAM = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			QIN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			ZHA = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			CHU = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MIN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			KOR = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			JAP = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MAN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MON = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			TIB = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			DIA = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			THA = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			CHA = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			VIE = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			NUS = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			AKU = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			NUB = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			WAG = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			KAN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			KON = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			ZIM = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			ZEN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MEL = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			RAN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MEX = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MAY = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			INC = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MUI = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			MIS = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			HAU = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			PUE = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			RAJ = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			ORI = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			CHI = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			DEC = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			BHA = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			HIN = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			LCT = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+		}
+	}
+
+	option = {
+		any_country = {
+			limit = {
+				is_greater_power = no
+				exists = no
+				OR = {
+					total_amount_of_divisions = 1
+					is_mobilised = yes
+					war = yes
+				}
+			}
+			inherit = GHO
+		}
+		any_country = {
+			limit = {
+				owns = 1128
+			}
+			country_event = { id = 91304 days = 3 }
+		}
+	}
+}
+
+country_event = {
+	id = 91304
+	title = "Ghost Country Appears"
+
+	is_triggered_only = yes
+
+	option = {
+		release_vassal = THIS
+		any_country = {
+			limit = { war_with = THIS }
+			end_war = THIS
+		}
+	}
+}
+
+country_event = {
+	id = 91305
+	title = "Ghost Country Cleanup"
+
+	trigger = {
+		owns = 1128
+		NOT = { tag = GHO }
+		OR = {
+			AND = {
+				is_mobilised = no
+				NOT = { total_amount_of_divisions = 1 }
+				war = no
+			}
+			NOT = { capital = 1128 }
+		}
+	}
+
+	option = {
+		1128 = { secede_province = GHO }
+		GHO = { civilized = yes }
+	}
+}

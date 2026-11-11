@@ -1,0 +1,19 @@
+2131 = {
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 50
+	}
+}
+2133 = {
+	bankers = {
+		culture = polar_bears
+		religion = placeholder
+		size = 100000
+	}
+}

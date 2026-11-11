@@ -1,0 +1,32 @@
+854 = {
+	bureaucrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 27
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 1144
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 7412
+	}
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 181
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 249
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 18621
+	}
+}

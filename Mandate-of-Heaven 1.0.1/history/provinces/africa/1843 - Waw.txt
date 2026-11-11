@@ -1,0 +1,5 @@
+owner = AKU
+controller = AKU
+add_core = AKU
+trade_goods = grain
+life_rating = 15

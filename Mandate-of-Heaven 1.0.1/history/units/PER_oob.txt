@@ -1,0 +1,394 @@
+army = {
+	name = "Eranian Army 1"
+	location = 923
+	regiment = {
+		name = "1. Eranian Regiment"
+		type = infantry
+		home = 1117
+	}
+	regiment = {
+		name = "2. Eranian Regiment"
+		type = infantry
+		home = 1135
+	}
+	regiment = {
+		name = "3. Eranian Regiment"
+		type = infantry
+		home = 1121
+	}
+	regiment = {
+		name = "4. Eranian Regiment"
+		type = infantry
+		home = 1127
+	}
+	regiment = {
+		name = "5. Eranian Regiment"
+		type = hussar
+		home = 1108
+	}
+	regiment = {
+		name = "6. Eranian Regiment"
+		type = artillery
+		home = 1147
+	}
+	regiment = {
+		name = "7. Eranian Regiment"
+		type = artillery
+		home = 1214
+	}
+	regiment = {
+		name = "8. Eranian Regiment"
+		type = artillery
+		home = 886
+	}
+	regiment = {
+		name = "9. Eranian Regiment"
+		type = artillery
+		home = 1220
+	}
+	regiment = {
+		name = "10. Eranian Regiment"
+		type = artillery
+		home = 1219
+	}
+}
+army = {
+	name = "Eranian Army 2"
+	location = 899
+	regiment = {
+		name = "11. Eranian Regiment"
+		type = infantry
+		home = 926
+	}
+	regiment = {
+		name = "12. Eranian Regiment"
+		type = infantry
+		home = 1221
+	}
+	regiment = {
+		name = "13. Eranian Regiment"
+		type = infantry
+		home = 1213
+	}
+	regiment = {
+		name = "14. Eranian Regiment"
+		type = infantry
+		home = 1212
+	}
+	regiment = {
+		name = "15. Eranian Regiment"
+		type = hussar
+		home = 1122
+	}
+	regiment = {
+		name = "16. Eranian Regiment"
+		type = artillery
+		home = 1114
+	}
+	regiment = {
+		name = "17. Eranian Regiment"
+		type = artillery
+		home = 1111
+	}
+	regiment = {
+		name = "18. Eranian Regiment"
+		type = artillery
+		home = 1150
+	}
+	regiment = {
+		name = "19. Eranian Regiment"
+		type = artillery
+		home = 1164
+	}
+	regiment = {
+		name = "20. Eranian Regiment"
+		type = artillery
+		home = 1148
+	}
+}
+army = {
+	name = "Eranian Army 3"
+	location = 893
+	regiment = {
+		name = "21. Eranian Regiment"
+		type = infantry
+		home = 1137
+	}
+	regiment = {
+		name = "22. Eranian Regiment"
+		type = infantry
+		home = 925
+	}
+	regiment = {
+		name = "23. Eranian Regiment"
+		type = infantry
+		home = 1163
+	}
+	regiment = {
+		name = "24. Eranian Regiment"
+		type = infantry
+		home = 1145
+	}
+	regiment = {
+		name = "25. Eranian Regiment"
+		type = hussar
+		home = 923
+	}
+	regiment = {
+		name = "26. Eranian Regiment"
+		type = artillery
+		home = 1215
+	}
+	regiment = {
+		name = "27. Eranian Regiment"
+		type = artillery
+		home = 1167
+	}
+	regiment = {
+		name = "28. Eranian Regiment"
+		type = artillery
+		home = 1129
+	}
+	regiment = {
+		name = "29. Eranian Regiment"
+		type = artillery
+		home = 890
+	}
+	regiment = {
+		name = "30. Eranian Regiment"
+		type = artillery
+		home = 899
+	}
+}
+army = {
+	name = "Eranian Army 4"
+	location = 892
+	regiment = {
+		name = "31. Eranian Regiment"
+		type = infantry
+		home = 893
+	}
+	regiment = {
+		name = "32. Eranian Regiment"
+		type = infantry
+		home = 885
+	}
+	regiment = {
+		name = "33. Eranian Regiment"
+		type = infantry
+		home = 1090
+	}
+	regiment = {
+		name = "34. Eranian Regiment"
+		type = infantry
+		home = 1117
+	}
+	regiment = {
+		name = "35. Eranian Regiment"
+		type = hussar
+		home = 1135
+	}
+	regiment = {
+		name = "36. Eranian Regiment"
+		type = artillery
+		home = 1121
+	}
+	regiment = {
+		name = "37. Eranian Regiment"
+		type = artillery
+		home = 1127
+	}
+	regiment = {
+		name = "38. Eranian Regiment"
+		type = artillery
+		home = 1108
+	}
+	regiment = {
+		name = "39. Eranian Regiment"
+		type = artillery
+		home = 1147
+	}
+	regiment = {
+		name = "40. Eranian Regiment"
+		type = artillery
+		home = 1214
+	}
+}
+army = {
+	name = "Eranian Army 5"
+	location = 924
+	regiment = {
+		name = "41. Eranian Regiment"
+		type = infantry
+		home = 886
+	}
+	regiment = {
+		name = "42. Eranian Regiment"
+		type = infantry
+		home = 1220
+	}
+	regiment = {
+		name = "43. Eranian Regiment"
+		type = infantry
+		home = 1219
+	}
+	regiment = {
+		name = "44. Eranian Regiment"
+		type = infantry
+		home = 926
+	}
+	regiment = {
+		name = "45. Eranian Regiment"
+		type = hussar
+		home = 1221
+	}
+	regiment = {
+		name = "46. Eranian Regiment"
+		type = artillery
+		home = 1213
+	}
+	regiment = {
+		name = "47. Eranian Regiment"
+		type = artillery
+		home = 1212
+	}
+	regiment = {
+		name = "48. Eranian Regiment"
+		type = artillery
+		home = 1122
+	}
+	regiment = {
+		name = "49. Eranian Regiment"
+		type = artillery
+		home = 1117
+	}
+	regiment = {
+		name = "50. Eranian Regiment"
+		type = artillery
+		home = 1135
+	}
+}
+navy = {
+	name = "Eranian Fleet"
+	location = 1135
+	ship = {
+		name = "Eranian 1"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 2"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 3"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 4"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Eranian Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Eranian Transport 2 V"
+		type = clipper_transport
+	}
+}

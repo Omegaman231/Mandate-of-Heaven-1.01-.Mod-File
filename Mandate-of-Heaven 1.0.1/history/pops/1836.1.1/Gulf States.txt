@@ -1,0 +1,145 @@
+935 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 2725
+	}
+}
+1162 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 150
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6975
+	}
+}
+1165 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 2737
+	}
+}
+1167 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 44
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6225
+	}
+}
+1168 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6187
+	}
+}

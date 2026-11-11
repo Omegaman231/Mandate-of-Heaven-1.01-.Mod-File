@@ -1,0 +1,22 @@
+517 = {
+	clergymen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 27
+	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1767
+	}
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 100
+	}
+}

@@ -1,0 +1,6 @@
+owner = TAM
+controller = TAM
+add_core = TAM
+trade_goods = wool
+life_rating = 35
+colonial = 2

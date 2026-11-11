@@ -1,0 +1,24 @@
+army = {
+	name = "Oriya Army 1"
+	location = 1263
+	regiment = {
+		name = "1. Oriya Regiment"
+		type = infantry
+		home = 1305
+	}
+	regiment = {
+		name = "2. Oriya Regiment"
+		type = hussar
+		home = 1280
+	}
+	regiment = {
+		name = "3. Oriya Regiment"
+		type = artillery
+		home = 1305
+	}
+	regiment = {
+		name = "4. Oriya Regiment"
+		type = artillery
+		home = 1305
+	}
+}

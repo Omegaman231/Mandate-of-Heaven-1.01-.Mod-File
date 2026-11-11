@@ -1,0 +1,1084 @@
+2247 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 1025
+	}
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 225
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 184
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 40
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 143
+	}
+	officers = {
+		culture = quechua
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 512
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 5125
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 1125
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 35875
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 7875
+	}
+}
+2248 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 369
+	}
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 81
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 192
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 902
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 198
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 192
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 42
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 21918
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 4811
+	}
+}
+2249 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 150
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 150
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 27400
+	}
+}
+2250 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 275
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 1450
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 14400
+	}
+}
+2251 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 2039
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 43650
+	}
+}
+2252 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 650
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 150
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 125
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 275
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 23325
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+}
+2253 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 45
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 492
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 108
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 41246
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 9054
+	}
+}
+2254 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 2000
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 4800
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 12375
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 61100
+	}
+}
+2255 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 650
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 235
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 5200
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 28410
+	}
+}
+2256 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 389
+	}
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 85
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 82
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 49
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 4223
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 927
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 35219
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 7731
+	}
+}
+2257 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 697
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 153
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 410
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 90
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 17490
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 3839
+	}
+}
+2258 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 266
+	}
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 58
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 451
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 99
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 471
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 103
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 13284
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 2916
+	}
+}
+2259 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 325
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 550
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 575
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 33200
+	}
+}
+2260 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 143
+	}
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 369
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 81
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 82
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2193
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 481
+	}
+}
+2261 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 205
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 45
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 41
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 3751
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 823
+	}
+}
+2262 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 45
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 20
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 123
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 27
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 492
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 108
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 4756
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 1044
+	}
+}
+2263 = {
+	aristocrats = {
+		culture = quechua
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = quechua
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 150
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 25
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 2700
+	}
+}
+3319 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 100
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 95
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 200
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 60
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 18320
+	}
+}
+3320 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 350
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 850
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 27400
+	}
+}
+3321 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 225
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 500
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 11100
+	}
+}
+3322 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 745
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 395
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 7675
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 38965
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 125
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 60
+	}
+}
+3323 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 82
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 20
+	}
+	officers = {
+		culture = amazonian
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 77
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 164
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 36
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 254
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 55
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 7478
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1641
+	}
+}
+3324 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 451
+	}
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 99
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 123
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 27
+	}
+	officers = {
+		culture = amazonian
+		religion = placeholder
+		size = 102
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 213
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 46
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 1025
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 746
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 163
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 13284
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 2916
+	}
+}
+3325 = {
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 184
+	}
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 40
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 410
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 90
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 348
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 76
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 7339
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1611
+	}
+}
+3326 = {
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 400
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 46300
+	}
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 1900
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 200
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 150
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 4700
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 624
+	}
+}
+3327 = {
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 95
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 200
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 60
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 4800
+	}
+}
+3328 = {
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 20
+	}
+	officers = {
+		culture = muisca
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 77
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 164
+	}
+	artisans = {
+		culture = quechua
+		religion = placeholder
+		size = 36
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 49
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 5084
+	}
+	farmers = {
+		culture = quechua
+		religion = placeholder
+		size = 1116
+	}
+}

@@ -1,0 +1,5 @@
+owner = NUS
+controller = NUS
+add_core = NUS
+trade_goods = fish
+life_rating = 38

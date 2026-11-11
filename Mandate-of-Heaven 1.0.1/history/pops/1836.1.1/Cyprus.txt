@@ -1,0 +1,91 @@
+855 = {
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 233
+	}
+	bureaucrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 21
+	}
+	officers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 42
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 148
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 1062
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 148
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 11921
+	}
+}
+856 = {
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 170
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 106
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 595
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 85
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 8393
+	}
+}
+857 = {
+	aristocrats = {
+		culture = greco_roman
+		religion = placeholder
+		size = 170
+	}
+	clergymen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 106
+	}
+	artisans = {
+		culture = greco_roman
+		religion = placeholder
+		size = 467
+	}
+	soldiers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 85
+	}
+	farmers = {
+		culture = greco_roman
+		religion = placeholder
+		size = 8521
+	}
+}

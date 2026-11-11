@@ -1,0 +1,61 @@
+DEL = {
+	value = 150
+}
+army = {
+	name = "Punjabi Army 1"
+	location = 1227
+	regiment = {
+		name = "1. Punjabi Regiment"
+		type = infantry
+		home = 1227
+	}
+	regiment = {
+		name = "2. Punjabi Regiment"
+		type = infantry
+		home = 1227
+	}
+	regiment = {
+		name = "3. Punjabi Regiment"
+		type = infantry
+		home = 1227
+	}
+	regiment = {
+		name = "4. Punjabi Regiment"
+		type = cavalry
+		home = 1227
+	}
+	regiment = {
+		name = "5. Punjabi Regiment"
+		type = artillery
+		home = 1227
+	}
+	regiment = {
+		name = "6. Punjabi Regiment"
+		type = infantry
+		home = 1233
+	}
+	regiment = {
+		name = "7. Punjabi Regiment"
+		type = infantry
+		home = 1288
+	}
+	regiment = {
+		name = "8. Punjabi Regiment"
+		type = infantry
+		home = 1290
+	}
+}
+army = {
+	name = "Punjabi Army 2"
+	location = 1234
+	regiment = {
+		name = "9. Punjabi Regiment"
+		type = cavalry
+		home = 1234
+	}
+	regiment = {
+		name = "10. Punjabi Regiment"
+		type = artillery
+		home = 1218
+	}
+}

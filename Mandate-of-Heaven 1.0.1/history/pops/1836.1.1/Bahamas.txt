@@ -1,0 +1,34 @@
+2219 = {
+	clergymen = {
+		culture = algonquian
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = algonquian
+		religion = placeholder
+		size = 87
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 26
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1606
+	}
+}
+2220 = {
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 192
+	}
+}

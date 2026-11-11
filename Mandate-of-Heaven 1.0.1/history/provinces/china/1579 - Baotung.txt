@@ -1,0 +1,15 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+trade_goods = wool
+life_rating = 32
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

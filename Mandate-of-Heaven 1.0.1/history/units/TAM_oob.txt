@@ -1,0 +1,634 @@
+army = {
+	name = "Tamil Army 1"
+	location = 1309
+	regiment = {
+		name = "1. Tamil Regiment"
+		type = infantry
+		home = 1304
+	}
+	regiment = {
+		name = "2. Tamil Regiment"
+		type = infantry
+		home = 1297
+	}
+	regiment = {
+		name = "3. Tamil Regiment"
+		type = infantry
+		home = 1319
+	}
+	regiment = {
+		name = "4. Tamil Regiment"
+		type = infantry
+		home = 1311
+	}
+	regiment = {
+		name = "5. Tamil Regiment"
+		type = hussar
+		home = 1178
+	}
+	regiment = {
+		name = "6. Tamil Regiment"
+		type = artillery
+		home = 1310
+	}
+	regiment = {
+		name = "7. Tamil Regiment"
+		type = artillery
+		home = 1307
+	}
+	regiment = {
+		name = "8. Tamil Regiment"
+		type = artillery
+		home = 1318
+	}
+	regiment = {
+		name = "9. Tamil Regiment"
+		type = artillery
+		home = 1316
+	}
+	regiment = {
+		name = "10. Tamil Regiment"
+		type = artillery
+		home = 1302
+	}
+}
+army = {
+	name = "Tamil Army 2"
+	location = 1304
+	regiment = {
+		name = "11. Tamil Regiment"
+		type = infantry
+		home = 1296
+	}
+	regiment = {
+		name = "12. Tamil Regiment"
+		type = infantry
+		home = 1308
+	}
+	regiment = {
+		name = "13. Tamil Regiment"
+		type = infantry
+		home = 2087
+	}
+	regiment = {
+		name = "14. Tamil Regiment"
+		type = infantry
+		home = 1309
+	}
+	regiment = {
+		name = "15. Tamil Regiment"
+		type = hussar
+		home = 1317
+	}
+	regiment = {
+		name = "16. Tamil Regiment"
+		type = artillery
+		home = 1301
+	}
+	regiment = {
+		name = "17. Tamil Regiment"
+		type = artillery
+		home = 1322
+	}
+	regiment = {
+		name = "18. Tamil Regiment"
+		type = artillery
+		home = 1314
+	}
+	regiment = {
+		name = "19. Tamil Regiment"
+		type = artillery
+		home = 3251
+	}
+	regiment = {
+		name = "20. Tamil Regiment"
+		type = artillery
+		home = 1313
+	}
+}
+army = {
+	name = "Tamil Army 3"
+	location = 1297
+	regiment = {
+		name = "21. Tamil Regiment"
+		type = infantry
+		home = 1315
+	}
+	regiment = {
+		name = "22. Tamil Regiment"
+		type = infantry
+		home = 1321
+	}
+	regiment = {
+		name = "23. Tamil Regiment"
+		type = infantry
+		home = 1323
+	}
+	regiment = {
+		name = "24. Tamil Regiment"
+		type = infantry
+		home = 1385
+	}
+	regiment = {
+		name = "25. Tamil Regiment"
+		type = hussar
+		home = 1304
+	}
+	regiment = {
+		name = "26. Tamil Regiment"
+		type = artillery
+		home = 1297
+	}
+	regiment = {
+		name = "27. Tamil Regiment"
+		type = artillery
+		home = 1319
+	}
+	regiment = {
+		name = "28. Tamil Regiment"
+		type = artillery
+		home = 1311
+	}
+	regiment = {
+		name = "29. Tamil Regiment"
+		type = artillery
+		home = 1178
+	}
+	regiment = {
+		name = "30. Tamil Regiment"
+		type = artillery
+		home = 1310
+	}
+}
+army = {
+	name = "Tamil Army 4"
+	location = 1310
+	regiment = {
+		name = "31. Tamil Regiment"
+		type = infantry
+		home = 1307
+	}
+	regiment = {
+		name = "32. Tamil Regiment"
+		type = infantry
+		home = 1318
+	}
+	regiment = {
+		name = "33. Tamil Regiment"
+		type = infantry
+		home = 1316
+	}
+	regiment = {
+		name = "34. Tamil Regiment"
+		type = infantry
+		home = 1302
+	}
+	regiment = {
+		name = "35. Tamil Regiment"
+		type = hussar
+		home = 1296
+	}
+	regiment = {
+		name = "36. Tamil Regiment"
+		type = artillery
+		home = 1308
+	}
+	regiment = {
+		name = "37. Tamil Regiment"
+		type = artillery
+		home = 2087
+	}
+	regiment = {
+		name = "38. Tamil Regiment"
+		type = artillery
+		home = 1309
+	}
+	regiment = {
+		name = "39. Tamil Regiment"
+		type = artillery
+		home = 1317
+	}
+	regiment = {
+		name = "40. Tamil Regiment"
+		type = artillery
+		home = 1304
+	}
+}
+army = {
+	name = "Tamil Army 5"
+	location = 1307
+	regiment = {
+		name = "41. Tamil Regiment"
+		type = infantry
+		home = 1297
+	}
+	regiment = {
+		name = "42. Tamil Regiment"
+		type = infantry
+		home = 1319
+	}
+	regiment = {
+		name = "43. Tamil Regiment"
+		type = infantry
+		home = 1311
+	}
+	regiment = {
+		name = "44. Tamil Regiment"
+		type = infantry
+		home = 1178
+	}
+	regiment = {
+		name = "45. Tamil Regiment"
+		type = hussar
+		home = 1310
+	}
+	regiment = {
+		name = "46. Tamil Regiment"
+		type = artillery
+		home = 1307
+	}
+	regiment = {
+		name = "47. Tamil Regiment"
+		type = artillery
+		home = 1318
+	}
+	regiment = {
+		name = "48. Tamil Regiment"
+		type = artillery
+		home = 1316
+	}
+	regiment = {
+		name = "49. Tamil Regiment"
+		type = artillery
+		home = 1302
+	}
+	regiment = {
+		name = "50. Tamil Regiment"
+		type = artillery
+		home = 1296
+	}
+}
+navy = {
+	name = "Tamil Fleet"
+	location = 1309
+	ship = {
+		name = "Tamil 1"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 2"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 3"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 4"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 5"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 6"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 7"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 8"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 5 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 6 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 7 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 8 II"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 3 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 4 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 5 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 6 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 7 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 8 III"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 3 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 4 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 5 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 6 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 7 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 8 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 3 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 4 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 5 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 6 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 7 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil 8 V"
+		type = frigate
+	}
+	ship = {
+		name = "Tamil Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 2 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 3 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Transport 4 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Tamil Raider 1"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 2"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 3"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 4"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 5"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 6"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 7"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 8"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 9"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 10"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 11"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 12"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 13"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 14"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 15"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 16"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 17"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 18"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 19"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 20"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 21"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 22"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 23"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 24"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 25"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 26"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 27"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 28"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 29"
+		type = commerce_raider
+	}
+	ship = {
+		name = "Tamil Raider 30"
+		type = commerce_raider
+	}
+}

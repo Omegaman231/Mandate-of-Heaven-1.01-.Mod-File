@@ -1,0 +1,81 @@
+1201 = {
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 977
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 488
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 2573
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 233
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 46923
+	}
+}
+1207 = {
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 592
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 283
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 1492
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 117
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 28262
+	}
+}
+1208 = {
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 682
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 400
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 1646
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 581
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 33942
+	}
+}

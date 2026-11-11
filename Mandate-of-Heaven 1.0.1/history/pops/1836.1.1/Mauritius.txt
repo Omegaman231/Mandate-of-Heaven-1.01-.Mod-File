@@ -1,0 +1,39 @@
+2125 = {
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 170
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1410
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 295
+	}
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 22575
+	}
+}
+2128 = {
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 175
+	}
+}

@@ -1,0 +1,172 @@
+1166 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 225
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 149
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 6994
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 4216
+	}
+}
+1169 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 300
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1887
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 3625
+	}
+}
+1170 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 97
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2839
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 5500
+	}
+}
+1171 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 4839
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 3784
+	}
+}
+1172 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 149
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2337
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 4525
+	}
+}
+1174 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 97
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 149
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6787
+	}
+}

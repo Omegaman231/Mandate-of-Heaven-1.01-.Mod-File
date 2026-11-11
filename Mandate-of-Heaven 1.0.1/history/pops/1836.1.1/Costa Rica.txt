@@ -1,0 +1,217 @@
+2201 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 246
+	}
+	aristocrats = {
+		culture = muisca
+		religion = placeholder
+		size = 54
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 41
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = muisca
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 533
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 117
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 430
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 94
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 12271
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 2693
+	}
+}
+2202 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 250
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 5700
+	}
+}
+2203 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 123
+	}
+	artisans = {
+		culture = muisca
+		religion = placeholder
+		size = 27
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 20
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 2788
+	}
+	farmers = {
+		culture = muisca
+		religion = placeholder
+		size = 612
+	}
+}
+3316 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 300
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 175
+	}
+	officers = {
+		culture = maya
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 500
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 3450
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 36600
+	}
+}
+3317 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 250
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 2050
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 29400
+	}
+}
+3318 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 55
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 175
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 1150
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 2350
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 36650
+	}
+}

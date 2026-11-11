@@ -1,0 +1,5369 @@
+1218 = {
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 14650
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 4300
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 1200
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 108250
+	}
+}
+1219 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 266
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 58
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2460
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 540
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 5740
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1260
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 16666
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3658
+	}
+}
+1220 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 250
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 250
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 1100
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 7000
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 13500
+	}
+}
+1221 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 45
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 410
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 90
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 205
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 45
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 1025
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 5740
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1260
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 13878
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3046
+	}
+}
+1222 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 63
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 40
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 246
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 54
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 1230
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 270
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 902
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 198
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 22796
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 5004
+	}
+}
+1223 = {
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 500
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 500
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2000
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 500
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 41000
+	}
+}
+1224 = {
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 136
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 30
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1034
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 226
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 17986
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 3948
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1340
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 294
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 81941
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 17987
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1078
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 236
+	}
+}
+1225 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 493
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 108
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 504
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 110
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 2140
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 469
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 467
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 102
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 64614
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 14183
+	}
+}
+1226 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 529
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 559
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 2754
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 529
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 75744
+	}
+}
+1227 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 4251
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1921
+	}
+	officers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1350
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 4520
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 22274
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 17098
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 291914
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 2834
+	}
+}
+1228 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1178
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1212
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 7491
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1245
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 99628
+	}
+}
+1229 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 944
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 944
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 4791
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 2091
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 83765
+	}
+}
+1230 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 537
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 553
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 2765
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 605
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 54993
+	}
+}
+1231 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 496
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 108
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 453
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 99
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 2543
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 558
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 689
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 151
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 49605
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 10889
+	}
+}
+1232 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1887
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1920
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 9919
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1887
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 175530
+	}
+}
+1233 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 3096
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 679
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 2516
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 552
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 19371
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4252
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3096
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 679
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 240424
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 52776
+	}
+}
+1234 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1271
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 279
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1270
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 278
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 6915
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 1517
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3512
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 770
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 118749
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 26067
+	}
+}
+1235 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1161
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 255
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 849
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 186
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4371
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 959
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 2227
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 488
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 111927
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 24569
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 98
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 21
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 49
+	}
+}
+1236 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1363
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 299
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1886
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 414
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1372
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 301
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 10627
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 2332
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1363
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 299
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 103570
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 22735
+	}
+}
+1237 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1363
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 299
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1151
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 252
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 5667
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 1244
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1151
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 252
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 104058
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 22842
+	}
+}
+1238 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 708
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 155
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 885
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 194
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4250
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 933
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1097
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 241
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 77401
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 16990
+	}
+}
+1239 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1505
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 330
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1549
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 340
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 7084
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1555
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1416
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 311
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 128367
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 28178
+	}
+}
+1240 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3888
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 5335
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 22464
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 13795
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 401582
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 4462
+	}
+}
+1241 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3996
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 4374
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 19872
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 13104
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 360414
+	}
+}
+1242 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2302
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 505
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 601
+	}
+	bureaucrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 132
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 442
+	}
+	officers = {
+		culture = tibetan
+		religion = placeholder
+		size = 97
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2443
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 536
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 26568
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 5832
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 11692
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 590
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 200054
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 45889
+	}
+}
+1243 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3132
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 3283
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 16891
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 12132
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 289512
+	}
+}
+1244 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1664
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 365
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1912
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 419
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 8856
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1944
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1771
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 388
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 168582
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 37005
+	}
+}
+1245 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3132
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2916
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 17280
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 2916
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 245052
+	}
+}
+1246 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2479
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 544
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2346
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 515
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 10981
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 2410
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 2302
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 505
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 201164
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 44157
+	}
+}
+1247 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3365
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 738
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2745
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 602
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 902
+	}
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 198
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 14169
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 3110
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 11745
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 602
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 235248
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 53615
+	}
+}
+1248 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2656
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 583
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2568
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 563
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 13106
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 2877
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 11568
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 563
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 241093
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 54898
+	}
+}
+1249 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2922
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 641
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2391
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 524
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 12079
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 2651
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 2514
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 552
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 241945
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 53110
+	}
+}
+1250 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 1948
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 427
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 1726
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 379
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 8501
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 1866
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 1771
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 388
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 154315
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 33874
+	}
+}
+1251 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 5011
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1100
+	}
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 2656
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 583
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 4710
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1034
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 47822
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 10497
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 6411
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1407
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 364778
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 80073
+	}
+	officers = {
+		culture = bengali
+		religion = placeholder
+		size = 141
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 30
+	}
+}
+1252 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 2514
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 552
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 2922
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 641
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 14169
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 3110
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 2833
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 9622
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 264882
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 49145
+	}
+}
+1253 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 3542
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 777
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 3976
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 872
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 19784
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4342
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 3808
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 835
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 363583
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 79810
+	}
+}
+1254 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 2833
+	}
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 622
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 4605
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 1010
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 23025
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 5054
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 13250
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 933
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 423527
+	}
+	farmers = {
+		culture = burman
+		religion = placeholder
+		size = 94944
+	}
+}
+1255 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 1404
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 2484
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 12960
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 2484
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 231228
+	}
+}
+1256 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 1620
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 2484
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 12420
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 2592
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 237060
+	}
+}
+1257 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 5047
+	}
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 1108
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 5225
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 1146
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 25682
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 5637
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 14225
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 1146
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 467569
+	}
+	farmers = {
+		culture = burman
+		religion = placeholder
+		size = 105345
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 3337
+	}
+}
+1258 = {
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 273
+	}
+	bureaucrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 60
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 531
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 116
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 885
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 194
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 4605
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1010
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 885
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 194
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 86700
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 19031
+	}
+}
+1259 = {
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 478
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 104
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 610
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 134
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 2833
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 622
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 655
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 143
+	}
+	farmers = {
+		culture = burman
+		religion = placeholder
+		size = 50080
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 10993
+	}
+}
+1260 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 389
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 85
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 291
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 64
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 1771
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 388
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 779
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 171
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 31588
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 6934
+	}
+}
+1261 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 885
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 194
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 885
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 194
+	}
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 96
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 4250
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 933
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 797
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 174
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 76728
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 16842
+	}
+}
+1262 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 397
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 87
+	}
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 397
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 87
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 1806
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 396
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 1505
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 330
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 34501
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 7573
+	}
+}
+1263 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 194
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 42
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 185
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 884
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 194
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 478
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 104
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 98692
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 21664
+	}
+}
+1264 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 750
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 625
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 60
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 10000
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 800
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 37775
+	}
+}
+1265 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 902
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 198
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 102
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 22
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 922
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 202
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4510
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 990
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 984
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 216
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 82697
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 18153
+	}
+}
+1266 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2624
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 576
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 287
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 63
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 287
+	}
+	officers = {
+		culture = punjabi
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 5945
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1305
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 30750
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 6750
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 5904
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1296
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 223163
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 48987
+	}
+}
+1267 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2132
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 468
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 225
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 49
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 205
+	}
+	officers = {
+		culture = punjabi
+		religion = placeholder
+		size = 45
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2316
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 508
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 11070
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 2430
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 13202
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 2898
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 188969
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 41481
+	}
+}
+1268 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3362
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 738
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 369
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 81
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 369
+	}
+	officers = {
+		culture = punjabi
+		religion = placeholder
+		size = 81
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 7011
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1539
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 28700
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 6300
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 15232
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1368
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 301821
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 68229
+	}
+}
+1269 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2788
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 612
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 287
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 63
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 287
+	}
+	officers = {
+		culture = gujarati
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2747
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 603
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 13940
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 3060
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 5781
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 1269
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 248522
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 54810
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1168
+	}
+}
+1270 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1296
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 108
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 129
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1954
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 6480
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 3110
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 114792
+	}
+}
+1271 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 920
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 202
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 352
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 88
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 911
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4605
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 1010
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 3744
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 822
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 83697
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 18372
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 10200
+	}
+}
+1272 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 864
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 344
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 86
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 885
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4320
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 4568
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 78407
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 10200
+	}
+}
+1273 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 777
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 64
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 820
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 3456
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 755
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 62596
+	}
+}
+1274 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 863
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 86
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2774
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4147
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1965
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 74832
+	}
+}
+1275 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 2656
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 583
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2568
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 563
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1304
+	}
+	bureaucrats = {
+		culture = marathi
+		religion = placeholder
+		size = 284
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 13461
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 2954
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 4118
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 903
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 246054
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 54011
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 10200
+	}
+}
+1276 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 531
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 116
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 566
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 124
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 2869
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 629
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 849
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 186
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 48247
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 10590
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 10200
+	}
+}
+1277 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 3608
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 792
+	}
+	bureaucrats = {
+		culture = marathi
+		religion = placeholder
+		size = 3772
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 828
+	}
+	officers = {
+		culture = marathi
+		religion = placeholder
+		size = 615
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 135
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 3854
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 846
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 18860
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4140
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 19342
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1282
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 338065
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 76185
+	}
+}
+1278 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 2460
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 540
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 2624
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 576
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 12710
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 2790
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 4059
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 891
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 239440
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 52560
+	}
+}
+1279 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 943
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 207
+	}
+	officers = {
+		culture = kannada
+		religion = placeholder
+		size = 82
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 328
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 861
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 189
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 4592
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 1008
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 9102
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1998
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 80155
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 17595
+	}
+}
+1280 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1722
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 378
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1660
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 364
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 8241
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 1809
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1681
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 369
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 151515
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 33259
+	}
+}
+1281 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 1394
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 306
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 1394
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 306
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 6888
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 1512
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1599
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 351
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 126567
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 27783
+	}
+}
+1282 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 522
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 114
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 44
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 477
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 104
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 2479
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 544
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 513
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 112
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 127200
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 27922
+	}
+}
+1283 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 4300
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3925
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 62000
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 29362
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 340620
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 9000
+	}
+	officers = {
+		culture = kannada
+		religion = placeholder
+		size = 2000
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 4340
+	}
+}
+1284 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 2378
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 522
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 2255
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 495
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 12710
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 2790
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 3936
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 864
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 235053
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 51597
+	}
+}
+1285 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2132
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 468
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 1845
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 405
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 11070
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 2430
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 3444
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 756
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 198481
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 43569
+	}
+}
+1286 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 1394
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 306
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 1332
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 292
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 8200
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 1800
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 2398
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 526
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 148276
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 32548
+	}
+}
+1287 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 3500
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3475
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 19500
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 19125
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 350675
+	}
+}
+1288 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1886
+	}
+	aristocrats = {
+		culture = persian
+		religion = placeholder
+		size = 414
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 656
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 144
+	}
+	officers = {
+		culture = punjabi
+		religion = placeholder
+		size = 246
+	}
+	officers = {
+		culture = persian
+		religion = placeholder
+		size = 54
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1886
+	}
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 414
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 9266
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 2034
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3321
+	}
+	soldiers = {
+		culture = persian
+		religion = placeholder
+		size = 729
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 171421
+	}
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 37629
+	}
+}
+1289 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 717
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 157
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 758
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 3444
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 756
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3280
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 720
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 63140
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 13860
+	}
+}
+1290 = {
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 1209
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 265
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 1209
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 265
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 6191
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 1359
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 3280
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 720
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 121073
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 26577
+	}
+}
+1291 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 1886
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 414
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 2275
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 499
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 336
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 73
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 25420
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 5580
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 2050
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 450
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 171236
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 37588
+	}
+}
+1292 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 4346
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 954
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 410
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 90
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 4346
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 954
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 20500
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 4500
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 4346
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 954
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 383072
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 84366
+	}
+	craftsmen = {
+		culture = gujarati
+		religion = placeholder
+		size = 1262
+	}
+}
+1293 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 656
+	}
+	aristocrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 144
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 631
+	}
+	clergymen = {
+		culture = punjabi
+		religion = placeholder
+		size = 138
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 2952
+	}
+	artisans = {
+		culture = punjabi
+		religion = placeholder
+		size = 648
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 5801
+	}
+	soldiers = {
+		culture = punjabi
+		religion = placeholder
+		size = 1273
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 53160
+	}
+	farmers = {
+		culture = punjabi
+		religion = placeholder
+		size = 11669
+	}
+}
+1294 = {
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 3710
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 814
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 3751
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 823
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 18942
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 4158
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 12731
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 819
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 333227
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 75123
+	}
+}
+1295 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 3321
+	}
+	aristocrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 729
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 738
+	}
+	bureaucrats = {
+		culture = hindustani
+		religion = placeholder
+		size = 162
+	}
+	officers = {
+		culture = gujarati
+		religion = placeholder
+		size = 656
+	}
+	officers = {
+		culture = hindustani
+		religion = placeholder
+		size = 144
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 3321
+	}
+	clergymen = {
+		culture = hindustani
+		religion = placeholder
+		size = 729
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 15580
+	}
+	artisans = {
+		culture = hindustani
+		religion = placeholder
+		size = 3420
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 8241
+	}
+	soldiers = {
+		culture = hindustani
+		religion = placeholder
+		size = 1809
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 292043
+	}
+	farmers = {
+		culture = hindustani
+		religion = placeholder
+		size = 64107
+	}
+}
+1296 = {
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 2398
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 526
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 325
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 3486
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 764
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 472
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 16236
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 3564
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 2200
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 3321
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 729
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 174444
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 38292
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 23637
+	}
+}
+1297 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 5627
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 1235
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 762
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 7851
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 1723
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1064
+	}
+	bureaucrats = {
+		culture = marathi
+		religion = placeholder
+		size = 1660
+	}
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 364
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 62674
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 13757
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 8492
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 10516
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 2308
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1425
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 412874
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 90630
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 55945
+	}
+	officers = {
+		culture = marathi
+		religion = placeholder
+		size = 369
+	}
+	officers = {
+		culture = gujarati
+		religion = placeholder
+		size = 81
+	}
+	officers = {
+		culture = tamil
+		religion = placeholder
+		size = 50
+	}
+}
+1298 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 1681
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 369
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 1086
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 238
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 6560
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 1440
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 2583
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 567
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 152950
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 33574
+	}
+}
+1299 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 3200
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 2675
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 25000
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 4875
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 264875
+	}
+}
+1300 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 2091
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 459
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 2132
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 468
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 10660
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 2340
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 3198
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 702
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 197005
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 43245
+	}
+}
+1301 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 1886
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 414
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 2955
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 648
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 9020
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 1980
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 2890
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 634
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 165455
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 36319
+	}
+}
+1302 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2542
+	}
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 558
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 4133
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 907
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 15580
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 3420
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 3690
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 810
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 232101
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 50949
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1200
+	}
+}
+1303 = {
+	aristocrats = {
+		culture = marathi
+		religion = placeholder
+		size = 442
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 97
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 60
+	}
+	bureaucrats = {
+		culture = marathi
+		religion = placeholder
+		size = 73
+	}
+	clergymen = {
+		culture = marathi
+		religion = placeholder
+		size = 619
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 136
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = marathi
+		religion = placeholder
+		size = 2435
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 534
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 330
+	}
+	soldiers = {
+		culture = marathi
+		religion = placeholder
+		size = 249
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 54
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 33
+	}
+	farmers = {
+		culture = marathi
+		religion = placeholder
+		size = 40608
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 8914
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 5502
+	}
+}
+1304 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 10229
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2245
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 13919
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3055
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 2255
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 495
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 48790
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 10710
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 31335
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 3915
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 822276
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 184095
+	}
+	craftsmen = {
+		culture = tamil
+		religion = placeholder
+		size = 7379
+	}
+}
+1305 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2460
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 540
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 4161
+	}
+	bureaucrats = {
+		culture = bengali
+		religion = placeholder
+		size = 913
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3075
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 675
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 12300
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 2700
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 11870
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 630
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 223938
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 51273
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 639
+	}
+}
+1306 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 5100
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 4675
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 22000
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 20475
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 391575
+	}
+}
+1307 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2952
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 648
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3013
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 661
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 10660
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 2340
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 3260
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 198624
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 43600
+	}
+}
+1308 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2788
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 612
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3674
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 806
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 13120
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 2880
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 4059
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 236242
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 51858
+	}
+}
+1309 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 3600
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 5495
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 18000
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 5625
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 329725
+	}
+}
+1310 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 4600
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 6370
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 22000
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 6450
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 394550
+	}
+}
+1311 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 5125
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 1125
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 6314
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 1386
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 21730
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 4770
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 6765
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 1485
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 397905
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 87345
+	}
+}
+1312 = {
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 445
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 1730
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 608
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 30550
+	}
+}
+1313 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 1517
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 333
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 2037
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 447
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 28700
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 6300
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 2214
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 486
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 111991
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 24583
+	}
+}
+1314 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 1906
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 418
+	}
+	bureaucrats = {
+		culture = kannada
+		religion = placeholder
+		size = 820
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 180
+	}
+	officers = {
+		culture = kannada
+		religion = placeholder
+		size = 410
+	}
+	officers = {
+		culture = tamil
+		religion = placeholder
+		size = 90
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 2668
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 585
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 9020
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 1980
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 2552
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 560
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 162995
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 35779
+	}
+}
+1315 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 1150
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 1610
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 5100
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 1725
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 95850
+	}
+}
+1316 = {
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 2583
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 567
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 3357
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 736
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 12300
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 2700
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 3690
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1200
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 213138
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 46786
+	}
+}
+1317 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 2993
+	}
+	aristocrats = {
+		culture = kannada
+		religion = placeholder
+		size = 657
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 4075
+	}
+	clergymen = {
+		culture = kannada
+		religion = placeholder
+		size = 895
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 13940
+	}
+	artisans = {
+		culture = kannada
+		religion = placeholder
+		size = 3060
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 4428
+	}
+	soldiers = {
+		culture = kannada
+		religion = placeholder
+		size = 972
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 258546
+	}
+	farmers = {
+		culture = kannada
+		religion = placeholder
+		size = 56754
+	}
+}
+1318 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 2000
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 3010
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 11450
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 6750
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 182100
+	}
+}
+1319 = {
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 1175
+	}
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 600
+	}
+	officers = {
+		culture = tamil
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 1680
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 6050
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 10988
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 102450
+	}
+}
+1320 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 592
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 423
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 28758
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 3195
+	}
+}
+1328 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 45
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 102
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 574
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 126
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 902
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 198
+	}
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 9758
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 2142
+	}
+}
+2566 = {
+	aristocrats = {
+		culture = bengali
+		religion = placeholder
+		size = 389
+	}
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 85
+	}
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 531
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 116
+	}
+	artisans = {
+		culture = bengali
+		religion = placeholder
+		size = 2745
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 602
+	}
+	soldiers = {
+		culture = bengali
+		religion = placeholder
+		size = 566
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 124
+	}
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 49682
+	}
+	farmers = {
+		culture = burman
+		religion = placeholder
+		size = 10905
+	}
+}
+3251 = {
+	bureaucrats = {
+		culture = tamil
+		religion = placeholder
+		size = 313
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 2410
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 8735
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1808
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 35242
+	}
+}
+3253 = {
+	bureaucrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 156
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 13855
+	}
+	clergymen = {
+		culture = gujarati
+		religion = placeholder
+		size = 2098
+	}
+	aristocrats = {
+		culture = gujarati
+		religion = placeholder
+		size = 156
+	}
+	soldiers = {
+		culture = gujarati
+		religion = placeholder
+		size = 623
+	}
+	farmers = {
+		culture = gujarati
+		religion = placeholder
+		size = 15567
+	}
+}

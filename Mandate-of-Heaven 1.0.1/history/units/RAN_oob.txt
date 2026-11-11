@@ -1,0 +1,138 @@
+army = {
+	name = "Rantau Army 1"
+	location = 2053
+	regiment = {
+		name = "1. Rantau Regiment"
+		type = infantry
+		home = 2115
+	}
+	regiment = {
+		name = "2. Rantau Regiment"
+		type = infantry
+		home = 2116
+	}
+	regiment = {
+		name = "3. Rantau Regiment"
+		type = infantry
+		home = 2122
+	}
+	regiment = {
+		name = "4. Rantau Regiment"
+		type = infantry
+		home = 2117
+	}
+	regiment = {
+		name = "5. Rantau Regiment"
+		type = hussar
+		home = 2115
+	}
+	regiment = {
+		name = "6. Rantau Regiment"
+		type = artillery
+		home = 2116
+	}
+	regiment = {
+		name = "7. Rantau Regiment"
+		type = artillery
+		home = 2115
+	}
+	regiment = {
+		name = "8. Rantau Regiment"
+		type = artillery
+		home = 2115
+	}
+	regiment = {
+		name = "9. Rantau Regiment"
+		type = artillery
+		home = 2116
+	}
+	regiment = {
+		name = "10. Rantau Regiment"
+		type = artillery
+		home = 2122
+	}
+}
+navy = {
+	name = "Rantau Fleet"
+	location = 2060
+	ship = {
+		name = "Rantau 1"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau 2"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Rantau Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 5"
+		type = clipper_transport
+	}
+}

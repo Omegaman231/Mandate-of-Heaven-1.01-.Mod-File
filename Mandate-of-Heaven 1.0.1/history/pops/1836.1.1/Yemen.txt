@@ -1,0 +1,356 @@
+1173 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 202
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 22
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 37
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 112
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 600
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 1650
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 9525
+	}
+}
+1175 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 375
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 6975
+	}
+}
+1176 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 370
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 41
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 329
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 36
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 1147
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 127
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 352
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 39
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 20958
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 2328
+	}
+}
+1177 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 105
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 225
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 56
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 5812
+	}
+}
+1178 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 741
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 82
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 67
+	}
+	officers = {
+		culture = arab
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 659
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 73
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 3914
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 434
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 8200
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 910
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 31083
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 3453
+	}
+}
+1179 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 235
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 283
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 31
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 810
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 90
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2277
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 252
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 13567
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 1507
+	}
+}
+1180 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 1653
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 183
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 235
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 877
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 97
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2378
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 264
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 13533
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 1503
+	}
+}
+1412 = {
+	aristocrats = {
+		culture = arab
+		religion = placeholder
+		size = 201
+	}
+	aristocrats = {
+		culture = tamil
+		religion = placeholder
+		size = 22
+	}
+	clergymen = {
+		culture = arab
+		religion = placeholder
+		size = 281
+	}
+	clergymen = {
+		culture = tamil
+		religion = placeholder
+		size = 31
+	}
+	artisans = {
+		culture = arab
+		religion = placeholder
+		size = 675
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 75
+	}
+	soldiers = {
+		culture = arab
+		religion = placeholder
+		size = 2378
+	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 264
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 10967
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 1218
+	}
+}

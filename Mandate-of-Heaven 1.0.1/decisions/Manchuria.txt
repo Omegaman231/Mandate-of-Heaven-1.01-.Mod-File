@@ -1,0 +1,32 @@
+political_decisions = {
+	man_northern_union = {
+		potential = {
+			tag = MAN
+			NOT = { has_country_flag = northern_union }
+		}
+		allow = {
+			controls = 2678
+		}
+		effect = {
+			set_country_flag = northern_union
+			MON = { all_core = { add_core = THIS } }
+			add_accepted_culture = mongolic
+		}
+		ai_will_do = { factor = 1 }
+	}
+	man_turkic_union = {
+		potential = {
+			tag = MAN
+			NOT = { has_country_flag = turkic_union }
+		}
+		allow = {
+			owns = 1200
+		}
+		effect = {
+			set_country_flag = turkic_union
+			add_accepted_culture = sogdian
+			TUR = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,47 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Gallic Army 1"
+	location = 425
+	regiment = {
+		name = "1. Gallic Regiment"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "2. Gallic Regiment"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "3. Gallic Regiment"
+		type = infantry
+		home = 425
+	}
+	regiment = {
+		name = "4. Gallic Regiment"
+		type = cavalry
+		home = 418
+	}
+	regiment = {
+		name = "5. Gallic Regiment"
+		type = artillery
+		home = 418
+	}
+	regiment = {
+		name = "6. Gallic Regiment"
+		type = infantry
+		home = 447
+	}
+	regiment = {
+		name = "7. Gallic Regiment"
+		type = infantry
+		home = 447
+	}
+	regiment = {
+		name = "8. Gallic Regiment"
+		type = infantry
+		home = 458
+	}
+}

@@ -1,0 +1,313 @@
+2078 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 325
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 175
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 900
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 16400
+	}
+}
+2079 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 164
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 36
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 123
+	}
+	clergymen = {
+		culture = kongolese
+		religion = placeholder
+		size = 27
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 533
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 117
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 123
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 27
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 9717
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 2133
+	}
+}
+2080 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 246
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 54
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 61
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 4489
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 985
+	}
+}
+2081 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 65
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 200
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 3600
+	}
+}
+2082 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 143
+	}
+	aristocrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 31
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 451
+	}
+	artisans = {
+		culture = kongolese
+		religion = placeholder
+		size = 99
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = kongolese
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 8241
+	}
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 1809
+	}
+}
+2083 = {
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 900
+	}
+}
+2084 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 315
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 35
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 67
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 5737
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 637
+	}
+}
+2085 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 36
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 135
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 31
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 2430
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 270
+	}
+}
+2086 = {
+	aristocrats = {
+		culture = shona
+		religion = placeholder
+		size = 58
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 67
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 225
+	}
+	artisans = {
+		culture = tamil
+		religion = placeholder
+		size = 25
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 54
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 4095
+	}
+	farmers = {
+		culture = tamil
+		religion = placeholder
+		size = 455
+	}
+}

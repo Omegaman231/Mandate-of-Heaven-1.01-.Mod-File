@@ -1,0 +1,7 @@
+3252 = {
+	farmers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2975
+	}
+}

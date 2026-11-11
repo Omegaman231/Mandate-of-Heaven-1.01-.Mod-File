@@ -1,0 +1,138 @@
+army = {
+	name = "Melainadu Army 1"
+	location = 2044
+	regiment = {
+		name = "1. Melainadu Regiment"
+		type = infantry
+		home = 2035
+	}
+	regiment = {
+		name = "2. Melainadu Regiment"
+		type = infantry
+		home = 2044
+	}
+	regiment = {
+		name = "3. Melainadu Regiment"
+		type = infantry
+		home = 2029
+	}
+	regiment = {
+		name = "4. Melainadu Regiment"
+		type = infantry
+		home = 2048
+	}
+	regiment = {
+		name = "5. Melainadu Regiment"
+		type = hussar
+		home = 2035
+	}
+	regiment = {
+		name = "6. Melainadu Regiment"
+		type = artillery
+		home = 2044
+	}
+	regiment = {
+		name = "7. Melainadu Regiment"
+		type = artillery
+		home = 2035
+	}
+	regiment = {
+		name = "8. Melainadu Regiment"
+		type = artillery
+		home = 2044
+	}
+	regiment = {
+		name = "9. Melainadu Regiment"
+		type = artillery
+		home = 2035
+	}
+	regiment = {
+		name = "10. Melainadu Regiment"
+		type = artillery
+		home = 2044
+	}
+}
+navy = {
+	name = "Melainadu Fleet"
+	location = 2038
+	ship = {
+		name = "Melainadu 1"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu 2"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Melainadu Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Melainadu Fleet Transport 5"
+		type = clipper_transport
+	}
+}

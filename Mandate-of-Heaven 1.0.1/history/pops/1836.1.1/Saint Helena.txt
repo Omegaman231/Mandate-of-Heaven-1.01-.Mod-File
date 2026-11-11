@@ -1,0 +1,41 @@
+2129 = {
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = shona
+		religion = placeholder
+		size = 25
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 20
+	}
+	artisans = {
+		culture = shona
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 900
+	}
+}
+2130 = {
+	farmers = {
+		culture = kongolese
+		religion = placeholder
+		size = 25
+	}
+}
+2132 = {
+	farmers = {
+		culture = shona
+		religion = placeholder
+		size = 25
+	}
+}

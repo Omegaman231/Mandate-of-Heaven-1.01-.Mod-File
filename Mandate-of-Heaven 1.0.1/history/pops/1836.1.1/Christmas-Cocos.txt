@@ -1,0 +1,14 @@
+2244 = {
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 40
+	}
+}
+2406 = {
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 120
+	}
+}

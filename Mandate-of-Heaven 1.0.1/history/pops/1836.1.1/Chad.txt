@@ -1,0 +1,398 @@
+1818 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 1200
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 40
+	}
+	officers = {
+		culture = kanuri
+		religion = placeholder
+		size = 60
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 4100
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 800
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 73100
+	}
+}
+1819 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 200
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 125
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 600
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 125
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 10950
+	}
+}
+1820 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 125
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 100
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 8175
+	}
+}
+1821 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 410
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 90
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 41
+	}
+	officers = {
+		culture = kanuri
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 246
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 54
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 1394
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 306
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 1107
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 243
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 24600
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 5400
+	}
+}
+1822 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 574
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 126
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 328
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 72
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 1271
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 279
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 328
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 72
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 31939
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 7011
+	}
+}
+1823 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 697
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 153
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 492
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 108
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 1599
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 351
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 902
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 198
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 34030
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 7470
+	}
+}
+1824 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 3600
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 2000
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 8100
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 2000
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 172000
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 100
+	}
+	officers = {
+		culture = kanuri
+		religion = placeholder
+		size = 200
+	}
+}
+1825 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 266
+	}
+	aristocrats = {
+		culture = berber
+		religion = placeholder
+		size = 58
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 164
+	}
+	clergymen = {
+		culture = berber
+		religion = placeholder
+		size = 36
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 738
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 162
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 164
+	}
+	soldiers = {
+		culture = berber
+		religion = placeholder
+		size = 36
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 13427
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 2947
+	}
+}
+1826 = {
+	aristocrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 205
+	}
+	aristocrats = {
+		culture = nubian
+		religion = placeholder
+		size = 45
+	}
+	clergymen = {
+		culture = kanuri
+		religion = placeholder
+		size = 123
+	}
+	clergymen = {
+		culture = nubian
+		religion = placeholder
+		size = 27
+	}
+	artisans = {
+		culture = kanuri
+		religion = placeholder
+		size = 574
+	}
+	artisans = {
+		culture = nubian
+		religion = placeholder
+		size = 126
+	}
+	soldiers = {
+		culture = kanuri
+		religion = placeholder
+		size = 123
+	}
+	soldiers = {
+		culture = nubian
+		religion = placeholder
+		size = 27
+	}
+	farmers = {
+		culture = kanuri
+		religion = placeholder
+		size = 10455
+	}
+	farmers = {
+		culture = nubian
+		religion = placeholder
+		size = 2295
+	}
+}

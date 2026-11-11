@@ -1,0 +1,19 @@
+army = {
+	name = "Puebloan Army 1"
+	location = 1126
+	regiment = {
+		name = "1. Puebloan Regiment"
+		type = irregular
+		home = 1126
+	}
+	regiment = {
+		name = "2. Puebloan Regiment"
+		type = irregular
+		home = 90
+	}
+	regiment = {
+		name = "3. Puebloan Regiment"
+		type = infantry
+		home = 2142
+	}
+}

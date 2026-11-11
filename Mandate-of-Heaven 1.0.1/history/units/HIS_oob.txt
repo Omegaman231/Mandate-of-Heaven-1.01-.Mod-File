@@ -1,0 +1,47 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Hispanic Army 1"
+	location = 518
+	regiment = {
+		name = "1. Hispanic Regiment"
+		type = infantry
+		home = 518
+	}
+	regiment = {
+		name = "2. Hispanic Regiment"
+		type = infantry
+		home = 518
+	}
+	regiment = {
+		name = "3. Hispanic Regiment"
+		type = infantry
+		home = 518
+	}
+	regiment = {
+		name = "4. Hispanic Regiment"
+		type = cavalry
+		home = 474
+	}
+	regiment = {
+		name = "5. Hispanic Regiment"
+		type = artillery
+		home = 474
+	}
+	regiment = {
+		name = "6. Hispanic Regiment"
+		type = infantry
+		home = 474
+	}
+	regiment = {
+		name = "7. Hispanic Regiment"
+		type = infantry
+		home = 520
+	}
+	regiment = {
+		name = "8. Hispanic Regiment"
+		type = infantry
+		home = 520
+	}
+}

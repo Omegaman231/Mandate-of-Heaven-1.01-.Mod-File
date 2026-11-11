@@ -1,0 +1,297 @@
+1356 = {
+	aristocrats = {
+		culture = siamese
+		religion = placeholder
+		size = 902
+	}
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 198
+	}
+	bureaucrats = {
+		culture = siamese
+		religion = placeholder
+		size = 61
+	}
+	officers = {
+		culture = siamese
+		religion = placeholder
+		size = 82
+	}
+	clergymen = {
+		culture = siamese
+		religion = placeholder
+		size = 471
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 103
+	}
+	artisans = {
+		culture = siamese
+		religion = placeholder
+		size = 2419
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 531
+	}
+	soldiers = {
+		culture = siamese
+		religion = placeholder
+		size = 1045
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 229
+	}
+	farmers = {
+		culture = siamese
+		religion = placeholder
+		size = 43882
+	}
+	farmers = {
+		culture = burman
+		religion = placeholder
+		size = 9632
+	}
+}
+1357 = {
+	aristocrats = {
+		culture = siamese
+		religion = placeholder
+		size = 307
+	}
+	aristocrats = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 67
+	}
+	clergymen = {
+		culture = siamese
+		religion = placeholder
+		size = 184
+	}
+	clergymen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 40
+	}
+	artisans = {
+		culture = siamese
+		religion = placeholder
+		size = 902
+	}
+	artisans = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 198
+	}
+	soldiers = {
+		culture = siamese
+		religion = placeholder
+		size = 184
+	}
+	soldiers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 40
+	}
+	farmers = {
+		culture = siamese
+		religion = placeholder
+		size = 16461
+	}
+	farmers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 3613
+	}
+}
+1360 = {
+	aristocrats = {
+		culture = siamese
+		religion = placeholder
+		size = 275
+	}
+	clergymen = {
+		culture = siamese
+		religion = placeholder
+		size = 150
+	}
+	artisans = {
+		culture = siamese
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = siamese
+		religion = placeholder
+		size = 150
+	}
+	farmers = {
+		culture = siamese
+		religion = placeholder
+		size = 14675
+	}
+}
+1361 = {
+	aristocrats = {
+		culture = siamese
+		religion = placeholder
+		size = 287
+	}
+	aristocrats = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 63
+	}
+	clergymen = {
+		culture = siamese
+		religion = placeholder
+		size = 164
+	}
+	clergymen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 36
+	}
+	artisans = {
+		culture = siamese
+		religion = placeholder
+		size = 820
+	}
+	artisans = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 180
+	}
+	soldiers = {
+		culture = siamese
+		religion = placeholder
+		size = 164
+	}
+	soldiers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 36
+	}
+	farmers = {
+		culture = siamese
+		religion = placeholder
+		size = 14965
+	}
+	farmers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 3285
+	}
+}
+1362 = {
+	aristocrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 635
+	}
+	aristocrats = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 139
+	}
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 348
+	}
+	clergymen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 76
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1722
+	}
+	artisans = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 378
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 1045
+	}
+	soldiers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 229
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 30767
+	}
+	farmers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 6753
+	}
+}
+1363 = {
+	aristocrats = {
+		culture = siamese
+		religion = placeholder
+		size = 225
+	}
+	aristocrats = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 49
+	}
+	clergymen = {
+		culture = siamese
+		religion = placeholder
+		size = 123
+	}
+	clergymen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 27
+	}
+	artisans = {
+		culture = siamese
+		religion = placeholder
+		size = 615
+	}
+	artisans = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 135
+	}
+	soldiers = {
+		culture = siamese
+		religion = placeholder
+		size = 102
+	}
+	soldiers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = siamese
+		religion = placeholder
+		size = 11234
+	}
+	farmers = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 2466
+	}
+}

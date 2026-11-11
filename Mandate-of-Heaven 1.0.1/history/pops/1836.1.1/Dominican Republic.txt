@@ -1,0 +1,54 @@
+2214 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 105
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 165
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 297
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 61
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 5425
+	}
+}
+2216 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 87
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 141
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 245
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 52
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 4462
+	}
+}

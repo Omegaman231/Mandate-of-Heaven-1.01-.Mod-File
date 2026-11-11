@@ -1,0 +1,5 @@
+owner = CHU
+controller = CHU
+add_core = CHU
+trade_goods = timber
+life_rating = 32

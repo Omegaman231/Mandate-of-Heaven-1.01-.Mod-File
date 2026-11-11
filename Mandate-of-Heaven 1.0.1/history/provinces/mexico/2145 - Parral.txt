@@ -1,0 +1,5 @@
+owner = PUE
+controller = PUE
+add_core = PUE
+trade_goods = grain
+life_rating = 35

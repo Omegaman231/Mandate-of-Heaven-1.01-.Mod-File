@@ -1,0 +1,75 @@
+political_decisions = {
+	roman_annexation = {
+		potential = {
+			tag = ROM
+			NOT = { has_country_flag = roman_annexation_done }
+			NOT = { year = 1862 }
+		}
+		allow = {
+			year = 1865
+			war = no
+		}
+		effect = {
+			set_country_flag = roman_annexation_done
+			any_country = {
+				limit = { vassal_of = ROM }
+				annex_to = ROM
+			}
+			prestige = 20
+		}
+		ai_will_do = { factor = 1 }
+	}
+	rome_reclaim_gaul = {
+		potential = {
+			tag = ROM
+			year = 1860
+			NOT = { has_country_flag = reclaimed_gaul }
+		}
+		allow = {
+			owns = 425
+		}
+		effect = {
+			set_country_flag = reclaimed_gaul
+			GAL = { all_core = { add_core = THIS } }
+			GAE = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	rome_reclaim_palmyra = {
+		potential = {
+			tag = ROM
+			year = 1860
+			exists = PAL
+			NOT = { has_country_flag = reclaimed_palmyra }
+		}
+		allow = {
+			owns = 919
+		}
+		effect = {
+			set_country_flag = reclaimed_palmyra
+			PAL = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	felicior_augusto = {
+		potential = {
+			tag = ROM
+			has_country_flag = reclaimed_gaul
+			has_country_flag = reclaimed_palmyra
+			NOT = { has_country_flag = felicior_augusto }
+		}
+		allow = {
+			war = no
+			all_core = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = felicior_augusto
+			prestige = 100
+			add_country_modifier = {
+				name = felicior_augusto_melior_traiano
+				duration = 10950
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,5 @@
+owner = ZEN
+controller = ZEN
+add_core = ZEN
+trade_goods = grain
+life_rating = 40

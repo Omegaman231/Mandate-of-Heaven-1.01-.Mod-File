@@ -1,0 +1,44 @@
+army = {
+	name = "Wagadu Army 1"
+	location = 1800
+	regiment = {
+		name = "1. Wagadu Regiment"
+		type = irregular
+		home = 1800
+	}
+	regiment = {
+		name = "2. Wagadu Regiment"
+		type = irregular
+		home = 1800
+	}
+	regiment = {
+		name = "3. Wagadu Regiment"
+		type = infantry
+		home = 1800
+	}
+	regiment = {
+		name = "4. Wagadu Regiment"
+		type = cavalry
+		home = 1804
+	}
+	regiment = {
+		name = "5. Wagadu Regiment"
+		type = irregular
+		home = 1804
+	}
+	regiment = {
+		name = "6. Wagadu Regiment"
+		type = irregular
+		home = 1804
+	}
+	regiment = {
+		name = "7. Wagadu Regiment"
+		type = infantry
+		home = 1804
+	}
+	regiment = {
+		name = "8. Wagadu Regiment"
+		type = cavalry
+		home = 1804
+	}
+}

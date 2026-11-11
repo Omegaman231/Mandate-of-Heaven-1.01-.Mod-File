@@ -1,0 +1,44 @@
+2123 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 60
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 120
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 24
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2160
+	}
+}
+2124 = {
+	clergymen = {
+		culture = austronesian
+		religion = placeholder
+		size = 161
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 120
+	}
+	soldiers = {
+		culture = austronesian
+		religion = placeholder
+		size = 24
+	}
+	farmers = {
+		culture = austronesian
+		religion = placeholder
+		size = 2160
+	}
+}

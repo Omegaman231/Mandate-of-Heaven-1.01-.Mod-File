@@ -1,0 +1,421 @@
+ROM = {
+	value = 200
+}
+army = {
+	name = "Palmyrene Army 1"
+	location = 1745
+	regiment = {
+		name = "1. Palmyrene Regiment"
+		type = infantry
+		home = 1745
+	}
+	regiment = {
+		name = "2. Palmyrene Regiment"
+		type = infantry
+		home = 1751
+	}
+	regiment = {
+		name = "3. Palmyrene Regiment"
+		type = infantry
+		home = 878
+	}
+	regiment = {
+		name = "4. Palmyrene Regiment"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name = "5. Palmyrene Regiment"
+		type = hussar
+		home = 917
+	}
+	regiment = {
+		name = "6. Palmyrene Regiment"
+		type = artillery
+		home = 919
+	}
+	regiment = {
+		name = "7. Palmyrene Regiment"
+		type = artillery
+		home = 1767
+	}
+	regiment = {
+		name = "8. Palmyrene Regiment"
+		type = artillery
+		home = 1769
+	}
+	regiment = {
+		name = "9. Palmyrene Regiment"
+		type = artillery
+		home = 1768
+	}
+	regiment = {
+		name = "10. Palmyrene Regiment"
+		type = artillery
+		home = 3274
+	}
+}
+army = {
+	name = "Palmyrene Army 2"
+	location = 1751
+	regiment = {
+		name = "11. Palmyrene Regiment"
+		type = infantry
+		home = 1748
+	}
+	regiment = {
+		name = "12. Palmyrene Regiment"
+		type = infantry
+		home = 1766
+	}
+	regiment = {
+		name = "13. Palmyrene Regiment"
+		type = infantry
+		home = 1746
+	}
+	regiment = {
+		name = "14. Palmyrene Regiment"
+		type = infantry
+		home = 2559
+	}
+	regiment = {
+		name = "15. Palmyrene Regiment"
+		type = hussar
+		home = 882
+	}
+	regiment = {
+		name = "16. Palmyrene Regiment"
+		type = artillery
+		home = 868
+	}
+	regiment = {
+		name = "17. Palmyrene Regiment"
+		type = artillery
+		home = 900
+	}
+	regiment = {
+		name = "18. Palmyrene Regiment"
+		type = artillery
+		home = 902
+	}
+	regiment = {
+		name = "19. Palmyrene Regiment"
+		type = artillery
+		home = 915
+	}
+	regiment = {
+		name = "20. Palmyrene Regiment"
+		type = artillery
+		home = 920
+	}
+}
+army = {
+	name = "Palmyrene Army 3"
+	location = 1748
+	regiment = {
+		name = "21. Palmyrene Regiment"
+		type = infantry
+		home = 1752
+	}
+	regiment = {
+		name = "22. Palmyrene Regiment"
+		type = infantry
+		home = 1747
+	}
+	regiment = {
+		name = "23. Palmyrene Regiment"
+		type = infantry
+		home = 1764
+	}
+	regiment = {
+		name = "24. Palmyrene Regiment"
+		type = infantry
+		home = 1765
+	}
+	regiment = {
+		name = "25. Palmyrene Regiment"
+		type = hussar
+		home = 1749
+	}
+	regiment = {
+		name = "26. Palmyrene Regiment"
+		type = artillery
+		home = 1762
+	}
+	regiment = {
+		name = "27. Palmyrene Regiment"
+		type = artillery
+		home = 1750
+	}
+	regiment = {
+		name = "28. Palmyrene Regiment"
+		type = artillery
+		home = 905
+	}
+	regiment = {
+		name = "29. Palmyrene Regiment"
+		type = artillery
+		home = 888
+	}
+	regiment = {
+		name = "30. Palmyrene Regiment"
+		type = artillery
+		home = 896
+	}
+}
+army = {
+	name = "Palmyrene Army 4"
+	location = 1747
+	regiment = {
+		name = "31. Palmyrene Regiment"
+		type = infantry
+		home = 883
+	}
+	regiment = {
+		name = "32. Palmyrene Regiment"
+		type = infantry
+		home = 895
+	}
+	regiment = {
+		name = "33. Palmyrene Regiment"
+		type = infantry
+		home = 879
+	}
+	regiment = {
+		name = "34. Palmyrene Regiment"
+		type = infantry
+		home = 894
+	}
+	regiment = {
+		name = "35. Palmyrene Regiment"
+		type = hussar
+		home = 889
+	}
+	regiment = {
+		name = "36. Palmyrene Regiment"
+		type = artillery
+		home = 876
+	}
+	regiment = {
+		name = "37. Palmyrene Regiment"
+		type = artillery
+		home = 913
+	}
+	regiment = {
+		name = "38. Palmyrene Regiment"
+		type = artillery
+		home = 880
+	}
+	regiment = {
+		name = "39. Palmyrene Regiment"
+		type = artillery
+		home = 1745
+	}
+	regiment = {
+		name = "40. Palmyrene Regiment"
+		type = artillery
+		home = 1751
+	}
+}
+army = {
+	name = "Palmyrene Army 5"
+	location = 1749
+	regiment = {
+		name = "41. Palmyrene Regiment"
+		type = infantry
+		home = 878
+	}
+	regiment = {
+		name = "42. Palmyrene Regiment"
+		type = infantry
+		home = 873
+	}
+	regiment = {
+		name = "43. Palmyrene Regiment"
+		type = infantry
+		home = 917
+	}
+	regiment = {
+		name = "44. Palmyrene Regiment"
+		type = infantry
+		home = 919
+	}
+	regiment = {
+		name = "45. Palmyrene Regiment"
+		type = hussar
+		home = 1767
+	}
+	regiment = {
+		name = "46. Palmyrene Regiment"
+		type = artillery
+		home = 1769
+	}
+	regiment = {
+		name = "47. Palmyrene Regiment"
+		type = artillery
+		home = 1768
+	}
+	regiment = {
+		name = "48. Palmyrene Regiment"
+		type = artillery
+		home = 3274
+	}
+	regiment = {
+		name = "49. Palmyrene Regiment"
+		type = artillery
+		home = 1748
+	}
+	regiment = {
+		name = "50. Palmyrene Regiment"
+		type = artillery
+		home = 1766
+	}
+}
+navy = {
+	name = "Alexandrian Fleet"
+	location = 1751
+	ship = {
+		name = "Palmyrene 1"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Alexandrian Fleet Transport 7"
+		type = clipper_transport
+	}
+}
+navy = {
+	name = "Red Sea Fleet"
+	location = 1770
+	ship = {
+		name = "Palmyrene 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Palmyrene Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Palmyrene Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Red Sea Fleet Transport 3"
+		type = clipper_transport
+	}
+}

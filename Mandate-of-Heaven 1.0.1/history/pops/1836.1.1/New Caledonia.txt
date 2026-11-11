@@ -1,0 +1,27 @@
+1097 = {
+	aristocrats = {
+		culture = polynesian
+		religion = placeholder
+		size = 300
+	}
+	clergymen = {
+		culture = polynesian
+		religion = placeholder
+		size = 150
+	}
+	artisans = {
+		culture = polynesian
+		religion = placeholder
+		size = 900
+	}
+	soldiers = {
+		culture = polynesian
+		religion = placeholder
+		size = 225
+	}
+	farmers = {
+		culture = polynesian
+		religion = placeholder
+		size = 16425
+	}
+}

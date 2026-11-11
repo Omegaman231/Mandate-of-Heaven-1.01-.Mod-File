@@ -1,0 +1,1915 @@
+44 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1924
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 612
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 17657
+	}
+}
+131 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 524
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 350
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 5600
+	}
+}
+158 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 979
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 22400
+	}
+}
+2137 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 71
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 78
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1015
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 463
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 6816
+	}
+}
+2138 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 35
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 6300
+	}
+}
+2139 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 20
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 139
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2869
+	}
+}
+2140 = {
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 1837
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 105
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3360
+	}
+}
+2141 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 86
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 926
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 454
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 8767
+	}
+}
+2142 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 171
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 105
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 437
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4021
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 6907
+	}
+}
+2144 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 24
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 172
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 37
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 229
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1894
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 415
+	}
+}
+2145 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	officers = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 104
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 22
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3931
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 863
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 688
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 151
+	}
+}
+2146 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 35
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 560
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 4900
+	}
+}
+2147 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 44
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 43
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 944
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 367
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 3867
+	}
+}
+2148 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 5453
+	}
+	farmers = {
+		culture = algonquian
+		religion = placeholder
+		size = 1197
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 172
+	}
+	soldiers = {
+		culture = algonquian
+		religion = placeholder
+		size = 37
+	}
+}
+2149 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 26
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 122
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 420
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 10500
+	}
+}
+2150 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 52
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 28
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1854
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 8750
+	}
+}
+2151 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 24
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 52
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 140
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 6580
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+}
+2152 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 84
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 34
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 559
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 1819
+	}
+}
+2153 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 122
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 52
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 3290
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 122
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 12600
+	}
+}
+2154 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 64
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 574
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 126
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 143
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 31
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 3444
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 756
+	}
+}
+2155 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 86
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 50
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 200
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 44
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 71
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 4018
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 882
+	}
+}
+2156 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 96
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 507
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7910
+	}
+}
+2157 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 21
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 22
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 78
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 13489
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2961
+	}
+}
+2158 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 253
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 113
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 148
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 4200
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 533
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 13650
+	}
+}
+2159 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 78
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 140
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1680
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7280
+	}
+}
+2160 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 154
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1338
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 8869
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 612
+	}
+}
+2161 = {
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 131
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 428
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 18830
+	}
+}
+2162 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 166
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 61
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 115
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 892
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 525
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 13090
+	}
+}
+2163 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 148
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 455
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 157
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7630
+	}
+}
+2164 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 71
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 41
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 315
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 69
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 10245
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 2249
+	}
+}
+2165 = {
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 301
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 66
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1664
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 365
+	}
+}
+2166 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 542
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 244
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1592
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 17220
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 1242
+	}
+}
+2167 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 220
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 201
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 131
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 288
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 3115
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 542
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 9730
+	}
+}
+2168 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 105
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 210
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 735
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 12600
+	}
+}
+2169 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 236
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1207
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 761
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 10570
+	}
+}
+2170 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 122
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 113
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 236
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1706
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 13755
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 875
+	}
+}
+2171 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 9310
+	}
+}
+2172 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 288
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 330
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 21
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 913
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 10955
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 11205
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 27872
+	}
+}
+2173 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 175
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1470
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 14700
+	}
+}
+2174 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 183
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 63
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 463
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 537
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 21735
+	}
+}
+2175 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 332
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 122
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 210
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 2222
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 16382
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 8610
+	}
+}
+2176 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 350
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 263
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 451
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 4217
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 9635
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 18650
+	}
+}
+2177 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 577
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 61
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 288
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 2012
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 700
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 14000
+	}
+}
+2178 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 150
+	}
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 33
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 71
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 401
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 88
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 5797
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1272
+	}
+}
+2179 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 210
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 43
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 98
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 3150
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 11270
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 787
+	}
+}
+2180 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 78
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 9660
+	}
+}
+2181 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 57
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 57
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 301
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 66
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 137
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 30
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 3386
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 743
+	}
+}
+2182 = {
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 301
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 66
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 28
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1722
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 378
+	}
+}
+2183 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 857
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 7700
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 43
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 210
+	}
+}
+2184 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 192
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 5600
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 315
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+}
+2185 = {
+	aristocrats = {
+		culture = maya
+		religion = placeholder
+		size = 166
+	}
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 367
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 82
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 3010
+	}
+}
+3301 = {
+	aristocrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 127
+	}
+	clergymen = {
+		culture = pueblo
+		religion = placeholder
+		size = 78
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 910
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 210
+	}
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 2485
+	}
+}
+3302 = {
+	farmers = {
+		culture = pueblo
+		religion = placeholder
+		size = 616
+	}
+	artisans = {
+		culture = pueblo
+		religion = placeholder
+		size = 175
+	}
+}
+3303 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 52
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1155
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 9590
+	}
+}
+3304 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 236
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 166
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1557
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 341
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 8890
+	}
+}
+3305 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 103
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 630
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 10080
+	}
+}
+3306 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 332
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 1820
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 23520
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 700
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 119
+	}
+}
+3307 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 140
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 192
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 437
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 3990
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 18795
+	}
+}
+3308 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 52
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 105
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 87
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7700
+	}
+}
+3309 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 103
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 42
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 700
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 70
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7000
+	}
+}
+3310 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 35
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 35
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 175
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 6580
+	}
+}
+3311 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 112
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 26
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 735
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 6930
+	}
+}
+3312 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 57
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 50
+	}
+	officers = {
+		culture = nahua
+		religion = placeholder
+		size = 43
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 22
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 990
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 217
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 229
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 7289
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1600
+	}
+}
+3313 = {
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 770
+	}
+}
+3314 = {
+	clergymen = {
+		culture = maya
+		religion = placeholder
+		size = 43
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 367
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 35
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 3080
+	}
+}

@@ -1,0 +1,64 @@
+1773 = {
+	aristocrats = {
+		culture = berber
+		religion = placeholder
+		size = 28
+	}
+	clergymen = {
+		culture = berber
+		religion = placeholder
+		size = 53
+	}
+	artisans = {
+		culture = berber
+		religion = placeholder
+		size = 123
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 27
+	}
+	soldiers = {
+		culture = berber
+		religion = placeholder
+		size = 41
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 2214
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 486
+	}
+}
+1774 = {
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 24
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 82
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 41
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 1476
+	}
+	farmers = {
+		culture = berber
+		religion = placeholder
+		size = 324
+	}
+}

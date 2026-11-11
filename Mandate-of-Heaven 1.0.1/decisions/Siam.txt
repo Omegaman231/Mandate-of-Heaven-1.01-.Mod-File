@@ -1,0 +1,33 @@
+political_decisions = {
+	form_khmer_empire = {
+		potential = {
+			tag = THA
+			NOT = { exists = KHM }
+		}
+		allow = {
+			war = no
+			THA = { all_core = { owned_by = THIS } }
+			DIA = { all_core = { owned_by = THIS } }
+			VIE = { all_core = { owned_by = THIS } }
+			CHA = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			THA = { all_core = { add_core = KHM } }
+			DIA = { all_core = { add_core = KHM } }
+			VIE = { all_core = { add_core = KHM } }
+			CHA = { all_core = { add_core = KHM } }
+			BUR_1339 = { add_core = KHM }
+			ENG_1258 = { add_core = KHM }
+			1332 = { add_core = KHM }
+			1505 = { add_core = KHM }
+			1507 = { add_core = KHM }
+			1499 = { add_core = KHM }
+			1346 = { add_core = KHM }
+			prestige = 25
+			change_tag = KHM
+			add_accepted_culture = burman
+			add_accepted_culture = austroasiatic
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

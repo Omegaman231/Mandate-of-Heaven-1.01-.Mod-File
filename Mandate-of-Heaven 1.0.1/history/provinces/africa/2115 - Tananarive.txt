@@ -1,0 +1,5 @@
+owner = RAN
+controller = RAN
+add_core = RAN
+trade_goods = tropical_wood
+life_rating = 40

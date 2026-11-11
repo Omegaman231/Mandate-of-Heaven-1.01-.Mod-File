@@ -1,0 +1,108 @@
+1979 = {
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 50
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 900
+	}
+}
+2239 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 100
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 50
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 750
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 175
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 14600
+	}
+}
+2242 = {
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 25
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 50
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 200
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 6400
+	}
+}
+2243 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 41
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 82
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 328
+	}
+	artisans = {
+		culture = maya
+		religion = placeholder
+		size = 72
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 82
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 6724
+	}
+	farmers = {
+		culture = maya
+		religion = placeholder
+		size = 1476
+	}
+}

@@ -1,0 +1,37 @@
+ROM = {
+	value = 150
+}
+army = {
+	name = "Pannonian Army 1"
+	location = 639
+	regiment = {
+		name = "1. Pannonian Regiment"
+		type = infantry
+		home = 639
+	}
+	regiment = {
+		name = "2. Pannonian Regiment"
+		type = infantry
+		home = 639
+	}
+	regiment = {
+		name = "3. Pannonian Regiment"
+		type = infantry
+		home = 639
+	}
+	regiment = {
+		name = "4. Pannonian Regiment"
+		type = cavalry
+		home = 791
+	}
+	regiment = {
+		name = "5. Pannonian Regiment"
+		type = artillery
+		home = 649
+	}
+	regiment = {
+		name = "6. Pannonian Regiment"
+		type = infantry
+		home = 641
+	}
+}

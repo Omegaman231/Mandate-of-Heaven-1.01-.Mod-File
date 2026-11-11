@@ -1,0 +1,216 @@
+army = {
+	name = "Manchu Army 1"
+	location = 1555
+	regiment = {
+		name = "1. Manchu Regiment"
+		type = hussar
+		home = 1552
+	}
+	regiment = {
+		name = "2. Manchu Regiment"
+		type = hussar
+		home = 1553
+	}
+	regiment = {
+		name = "3. Manchu Regiment"
+		type = hussar
+		home = 1555
+	}
+	regiment = {
+		name = "4. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "5. Manchu Regiment"
+		type = hussar
+		home = 1085
+	}
+	regiment = {
+		name = "6. Manchu Regiment"
+		type = hussar
+		home = 2641
+	}
+	regiment = {
+		name = "7. Manchu Regiment"
+		type = artillery
+		home = 1533
+	}
+	regiment = {
+		name = "8. Manchu Regiment"
+		type = artillery
+		home = 2617
+	}
+	regiment = {
+		name = "9. Manchu Regiment"
+		type = artillery
+		home = 1084
+	}
+	regiment = {
+		name = "10. Manchu Regiment"
+		type = artillery
+		home = 1082
+	}
+}
+army = {
+	name = "Manchu Army 2"
+	location = 1553
+	regiment = {
+		name = "11. Manchu Regiment"
+		type = hussar
+		home = 1083
+	}
+	regiment = {
+		name = "12. Manchu Regiment"
+		type = hussar
+		home = 1552
+	}
+	regiment = {
+		name = "13. Manchu Regiment"
+		type = hussar
+		home = 1553
+	}
+	regiment = {
+		name = "14. Manchu Regiment"
+		type = hussar
+		home = 1555
+	}
+	regiment = {
+		name = "15. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "16. Manchu Regiment"
+		type = hussar
+		home = 1085
+	}
+	regiment = {
+		name = "17. Manchu Regiment"
+		type = artillery
+		home = 2641
+	}
+	regiment = {
+		name = "18. Manchu Regiment"
+		type = artillery
+		home = 1552
+	}
+	regiment = {
+		name = "19. Manchu Regiment"
+		type = artillery
+		home = 1553
+	}
+	regiment = {
+		name = "20. Manchu Regiment"
+		type = artillery
+		home = 1555
+	}
+}
+army = {
+	name = "Manchu Army 3"
+	location = 1554
+	regiment = {
+		name = "21. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "22. Manchu Regiment"
+		type = hussar
+		home = 1085
+	}
+	regiment = {
+		name = "23. Manchu Regiment"
+		type = hussar
+		home = 1552
+	}
+	regiment = {
+		name = "24. Manchu Regiment"
+		type = hussar
+		home = 1553
+	}
+	regiment = {
+		name = "25. Manchu Regiment"
+		type = hussar
+		home = 1555
+	}
+	regiment = {
+		name = "26. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "27. Manchu Regiment"
+		type = artillery
+		home = 1085
+	}
+	regiment = {
+		name = "28. Manchu Regiment"
+		type = artillery
+		home = 1552
+	}
+	regiment = {
+		name = "29. Manchu Regiment"
+		type = artillery
+		home = 1553
+	}
+	regiment = {
+		name = "30. Manchu Regiment"
+		type = artillery
+		home = 1555
+	}
+}
+army = {
+	name = "Manchu Army 4"
+	location = 2617
+	regiment = {
+		name = "31. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "32. Manchu Regiment"
+		type = hussar
+		home = 1085
+	}
+	regiment = {
+		name = "33. Manchu Regiment"
+		type = hussar
+		home = 1552
+	}
+	regiment = {
+		name = "34. Manchu Regiment"
+		type = hussar
+		home = 1553
+	}
+	regiment = {
+		name = "35. Manchu Regiment"
+		type = hussar
+		home = 1555
+	}
+	regiment = {
+		name = "36. Manchu Regiment"
+		type = hussar
+		home = 1554
+	}
+	regiment = {
+		name = "37. Manchu Regiment"
+		type = artillery
+		home = 1085
+	}
+	regiment = {
+		name = "38. Manchu Regiment"
+		type = artillery
+		home = 1552
+	}
+	regiment = {
+		name = "39. Manchu Regiment"
+		type = artillery
+		home = 1553
+	}
+	regiment = {
+		name = "40. Manchu Regiment"
+		type = artillery
+		home = 1555
+	}
+}

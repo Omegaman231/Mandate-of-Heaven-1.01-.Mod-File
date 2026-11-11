@@ -1,0 +1,162 @@
+army = {
+	name = "Qin Army 1"
+	location = 1559
+	regiment = {
+		name = "1. Qin Regiment"
+		type = infantry
+		home = 1583
+	}
+	regiment = {
+		name = "2. Qin Regiment"
+		type = infantry
+		home = 1582
+	}
+	regiment = {
+		name = "3. Qin Regiment"
+		type = infantry
+		home = 1492
+	}
+	regiment = {
+		name = "4. Qin Regiment"
+		type = infantry
+		home = 1559
+	}
+	regiment = {
+		name = "5. Qin Regiment"
+		type = hussar
+		home = 1510
+	}
+	regiment = {
+		name = "6. Qin Regiment"
+		type = artillery
+		home = 1584
+	}
+	regiment = {
+		name = "7. Qin Regiment"
+		type = artillery
+		home = 1490
+	}
+	regiment = {
+		name = "8. Qin Regiment"
+		type = artillery
+		home = 1562
+	}
+	regiment = {
+		name = "9. Qin Regiment"
+		type = artillery
+		home = 1579
+	}
+	regiment = {
+		name = "10. Qin Regiment"
+		type = artillery
+		home = 1580
+	}
+}
+army = {
+	name = "Qin Army 2"
+	location = 1583
+	regiment = {
+		name = "11. Qin Regiment"
+		type = infantry
+		home = 1578
+	}
+	regiment = {
+		name = "12. Qin Regiment"
+		type = infantry
+		home = 3282
+	}
+	regiment = {
+		name = "13. Qin Regiment"
+		type = infantry
+		home = 1489
+	}
+	regiment = {
+		name = "14. Qin Regiment"
+		type = infantry
+		home = 1583
+	}
+	regiment = {
+		name = "15. Qin Regiment"
+		type = hussar
+		home = 1582
+	}
+	regiment = {
+		name = "16. Qin Regiment"
+		type = artillery
+		home = 1492
+	}
+	regiment = {
+		name = "17. Qin Regiment"
+		type = artillery
+		home = 1559
+	}
+	regiment = {
+		name = "18. Qin Regiment"
+		type = artillery
+		home = 1510
+	}
+	regiment = {
+		name = "19. Qin Regiment"
+		type = artillery
+		home = 1584
+	}
+	regiment = {
+		name = "20. Qin Regiment"
+		type = artillery
+		home = 1490
+	}
+}
+army = {
+	name = "Qin Army 3"
+	location = 1510
+	regiment = {
+		name = "21. Qin Regiment"
+		type = infantry
+		home = 1562
+	}
+	regiment = {
+		name = "22. Qin Regiment"
+		type = infantry
+		home = 1579
+	}
+	regiment = {
+		name = "23. Qin Regiment"
+		type = infantry
+		home = 1580
+	}
+	regiment = {
+		name = "24. Qin Regiment"
+		type = infantry
+		home = 1583
+	}
+	regiment = {
+		name = "25. Qin Regiment"
+		type = hussar
+		home = 1582
+	}
+	regiment = {
+		name = "26. Qin Regiment"
+		type = artillery
+		home = 1492
+	}
+	regiment = {
+		name = "27. Qin Regiment"
+		type = artillery
+		home = 1559
+	}
+	regiment = {
+		name = "28. Qin Regiment"
+		type = artillery
+		home = 1510
+	}
+	regiment = {
+		name = "29. Qin Regiment"
+		type = artillery
+		home = 1584
+	}
+	regiment = {
+		name = "30. Qin Regiment"
+		type = artillery
+		home = 1490
+	}
+}

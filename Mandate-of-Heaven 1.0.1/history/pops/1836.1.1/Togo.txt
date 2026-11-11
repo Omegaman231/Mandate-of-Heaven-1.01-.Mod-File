@@ -1,0 +1,81 @@
+1914 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 1050
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 550
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 2175
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 550
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 49675
+	}
+}
+1917 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 575
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 325
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 1500
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 350
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 29250
+	}
+}
+1918 = {
+	aristocrats = {
+		culture = soninke
+		religion = placeholder
+		size = 75
+	}
+	clergymen = {
+		culture = soninke
+		religion = placeholder
+		size = 100
+	}
+	artisans = {
+		culture = soninke
+		religion = placeholder
+		size = 300
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 75
+	}
+	farmers = {
+		culture = soninke
+		religion = placeholder
+		size = 5450
+	}
+}

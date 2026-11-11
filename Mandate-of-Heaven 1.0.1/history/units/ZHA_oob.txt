@@ -1,0 +1,394 @@
+army = {
+	name = "Zhao Army 1"
+	location = 1515
+	regiment = {
+		name = "1. Zhao Regiment"
+		type = infantry
+		home = 1612
+	}
+	regiment = {
+		name = "2. Zhao Regiment"
+		type = infantry
+		home = 1618
+	}
+	regiment = {
+		name = "3. Zhao Regiment"
+		type = infantry
+		home = 1613
+	}
+	regiment = {
+		name = "4. Zhao Regiment"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "5. Zhao Regiment"
+		type = hussar
+		home = 1615
+	}
+	regiment = {
+		name = "6. Zhao Regiment"
+		type = artillery
+		home = 1563
+	}
+	regiment = {
+		name = "7. Zhao Regiment"
+		type = artillery
+		home = 1572
+	}
+	regiment = {
+		name = "8. Zhao Regiment"
+		type = artillery
+		home = 1616
+	}
+	regiment = {
+		name = "9. Zhao Regiment"
+		type = artillery
+		home = 1511
+	}
+	regiment = {
+		name = "10. Zhao Regiment"
+		type = artillery
+		home = 1567
+	}
+}
+army = {
+	name = "Zhao Army 2"
+	location = 1612
+	regiment = {
+		name = "11. Zhao Regiment"
+		type = infantry
+		home = 1571
+	}
+	regiment = {
+		name = "12. Zhao Regiment"
+		type = infantry
+		home = 1515
+	}
+	regiment = {
+		name = "13. Zhao Regiment"
+		type = infantry
+		home = 1568
+	}
+	regiment = {
+		name = "14. Zhao Regiment"
+		type = infantry
+		home = 1570
+	}
+	regiment = {
+		name = "15. Zhao Regiment"
+		type = hussar
+		home = 1532
+	}
+	regiment = {
+		name = "16. Zhao Regiment"
+		type = artillery
+		home = 1614
+	}
+	regiment = {
+		name = "17. Zhao Regiment"
+		type = artillery
+		home = 1480
+	}
+	regiment = {
+		name = "18. Zhao Regiment"
+		type = artillery
+		home = 1574
+	}
+	regiment = {
+		name = "19. Zhao Regiment"
+		type = artillery
+		home = 1564
+	}
+	regiment = {
+		name = "20. Zhao Regiment"
+		type = artillery
+		home = 1575
+	}
+}
+army = {
+	name = "Zhao Army 3"
+	location = 1618
+	regiment = {
+		name = "21. Zhao Regiment"
+		type = infantry
+		home = 1476
+	}
+	regiment = {
+		name = "22. Zhao Regiment"
+		type = infantry
+		home = 1508
+	}
+	regiment = {
+		name = "23. Zhao Regiment"
+		type = infantry
+		home = 1536
+	}
+	regiment = {
+		name = "24. Zhao Regiment"
+		type = infantry
+		home = 1542
+	}
+	regiment = {
+		name = "25. Zhao Regiment"
+		type = hussar
+		home = 1509
+	}
+	regiment = {
+		name = "26. Zhao Regiment"
+		type = artillery
+		home = 1573
+	}
+	regiment = {
+		name = "27. Zhao Regiment"
+		type = artillery
+		home = 1543
+	}
+	regiment = {
+		name = "28. Zhao Regiment"
+		type = artillery
+		home = 1565
+	}
+	regiment = {
+		name = "29. Zhao Regiment"
+		type = artillery
+		home = 1612
+	}
+	regiment = {
+		name = "30. Zhao Regiment"
+		type = artillery
+		home = 1618
+	}
+}
+army = {
+	name = "Zhao Army 4"
+	location = 1617
+	regiment = {
+		name = "31. Zhao Regiment"
+		type = infantry
+		home = 1613
+	}
+	regiment = {
+		name = "32. Zhao Regiment"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "33. Zhao Regiment"
+		type = infantry
+		home = 1615
+	}
+	regiment = {
+		name = "34. Zhao Regiment"
+		type = infantry
+		home = 1563
+	}
+	regiment = {
+		name = "35. Zhao Regiment"
+		type = hussar
+		home = 1572
+	}
+	regiment = {
+		name = "36. Zhao Regiment"
+		type = artillery
+		home = 1616
+	}
+	regiment = {
+		name = "37. Zhao Regiment"
+		type = artillery
+		home = 1511
+	}
+	regiment = {
+		name = "38. Zhao Regiment"
+		type = artillery
+		home = 1567
+	}
+	regiment = {
+		name = "39. Zhao Regiment"
+		type = artillery
+		home = 1571
+	}
+	regiment = {
+		name = "40. Zhao Regiment"
+		type = artillery
+		home = 1515
+	}
+}
+army = {
+	name = "Zhao Army 5"
+	location = 1615
+	regiment = {
+		name = "41. Zhao Regiment"
+		type = infantry
+		home = 1612
+	}
+	regiment = {
+		name = "42. Zhao Regiment"
+		type = infantry
+		home = 1618
+	}
+	regiment = {
+		name = "43. Zhao Regiment"
+		type = infantry
+		home = 1613
+	}
+	regiment = {
+		name = "44. Zhao Regiment"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "45. Zhao Regiment"
+		type = hussar
+		home = 1615
+	}
+	regiment = {
+		name = "46. Zhao Regiment"
+		type = artillery
+		home = 1563
+	}
+	regiment = {
+		name = "47. Zhao Regiment"
+		type = artillery
+		home = 1572
+	}
+	regiment = {
+		name = "48. Zhao Regiment"
+		type = artillery
+		home = 1616
+	}
+	regiment = {
+		name = "49. Zhao Regiment"
+		type = artillery
+		home = 1511
+	}
+	regiment = {
+		name = "50. Zhao Regiment"
+		type = artillery
+		home = 1567
+	}
+}
+navy = {
+	name = "Zhao Fleet"
+	location = 1613
+	ship = {
+		name = "Zhao 1"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 2"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 3"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 4"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 3 II"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 4 II"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao Transport 2 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 3 III"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 4 III"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao Transport 2 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 3 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 4 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao Transport 2 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 3 V"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao 4 V"
+		type = frigate
+	}
+	ship = {
+		name = "Zhao Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhao Transport 2 V"
+		type = clipper_transport
+	}
+}

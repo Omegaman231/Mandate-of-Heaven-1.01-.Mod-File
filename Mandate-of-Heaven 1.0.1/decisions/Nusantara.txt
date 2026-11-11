@@ -1,0 +1,52 @@
+political_decisions = {
+	nus_claim_indonesia = {
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_claim_indonesia }
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = nus_claim_indonesia
+			ATJ_1405 = { add_core = NUS }
+			AST_2244 = { add_core = NUS }
+			NET_1454 = { add_core = NUS }
+			AST_2528 = { add_core = NUS }
+			GER_2530 = { add_core = NUS }
+			NET_1398 = { add_core = NUS }
+			NET_1399 = { add_core = NUS }
+			NET_1426 = { add_core = NUS }
+			NET_1423 = { add_core = NUS }
+			NET_1414 = { add_core = NUS }
+			NET_1417 = { add_core = NUS }
+			NET_1430 = { add_core = NUS }
+			BAL_1438 = { add_core = NUS }
+			POR_1446 = { add_core = NUS }
+			NET_1449 = { add_core = NUS }
+			1396 = { add_core = NUS }
+			1397 = { add_core = NUS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	nus_claim_south_land = {
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_claim_south_land }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = nus_claim_south_land
+			ENG_2468 = { add_core = NUS }
+			ENG_2476 = { add_core = NUS }
+			ENG_2483 = { add_core = NUS }
+			ENG_2491 = { add_core = NUS }
+			ENG_2497 = { add_core = NUS }
+			ENG_2509 = { add_core = NUS }
+			ENG_2513 = { add_core = NUS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -1,0 +1,128 @@
+2344 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 1575
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 200
+	}
+	officers = {
+		culture = amazonian
+		religion = placeholder
+		size = 250
+	}
+	capitalists = {
+		culture = amazonian
+		religion = placeholder
+		size = 100
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 600
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 15230
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 39895
+	}
+}
+2345 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 25
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 240
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 1035
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 26435
+	}
+}
+2346 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 200
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 20
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 75
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 450
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 16615
+	}
+}
+2347 = {
+	aristocrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 150
+	}
+	clergymen = {
+		culture = amazonian
+		religion = placeholder
+		size = 70
+	}
+	artisans = {
+		culture = amazonian
+		religion = placeholder
+		size = 350
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 1100
+	}
+	farmers = {
+		culture = amazonian
+		religion = placeholder
+		size = 16850
+	}
+}

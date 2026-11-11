@@ -1,0 +1,138 @@
+army = {
+	name = "Vietnamese Army 1"
+	location = 1369
+	regiment = {
+		name = "1. Vietnamese Regiment"
+		type = infantry
+		home = 1370
+	}
+	regiment = {
+		name = "2. Vietnamese Regiment"
+		type = infantry
+		home = 1369
+	}
+	regiment = {
+		name = "3. Vietnamese Regiment"
+		type = infantry
+		home = 1502
+	}
+	regiment = {
+		name = "4. Vietnamese Regiment"
+		type = infantry
+		home = 1372
+	}
+	regiment = {
+		name = "5. Vietnamese Regiment"
+		type = hussar
+		home = 1376
+	}
+	regiment = {
+		name = "6. Vietnamese Regiment"
+		type = artillery
+		home = 1370
+	}
+	regiment = {
+		name = "7. Vietnamese Regiment"
+		type = artillery
+		home = 1369
+	}
+	regiment = {
+		name = "8. Vietnamese Regiment"
+		type = artillery
+		home = 1502
+	}
+	regiment = {
+		name = "9. Vietnamese Regiment"
+		type = artillery
+		home = 1370
+	}
+	regiment = {
+		name = "10. Vietnamese Regiment"
+		type = artillery
+		home = 1369
+	}
+}
+navy = {
+	name = "Vietnamese Fleet"
+	location = 1370
+	ship = {
+		name = "Vietnamese 1"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese 2"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese 1 II"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese 2 II"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese Transport 1 II"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese 1 III"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese 2 III"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese Transport 1 III"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese 1 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese 2 IV"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese Transport 1 IV"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese 1 V"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese 2 V"
+		type = frigate
+	}
+	ship = {
+		name = "Vietnamese Transport 1 V"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese Fleet Transport 1"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese Fleet Transport 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese Fleet Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese Fleet Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Vietnamese Fleet Transport 5"
+		type = clipper_transport
+	}
+}
