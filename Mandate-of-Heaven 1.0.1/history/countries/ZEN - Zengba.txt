@@ -1,6 +1,6 @@
-capital = 2032
-primary_culture = yue
-culture = swahili
+capital = 1868
+primary_culture = zanjyue
+culture = yue
 religion = placeholder
 government = merchant_republic
 plurality = 25.0
@@ -75,3 +75,4 @@ consciousness = 1
 nonstate_consciousness = 1
 
 oob = "ZEN_oob.txt"
+practical_steam_engine = 1

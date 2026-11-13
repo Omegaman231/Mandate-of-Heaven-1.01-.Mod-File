@@ -1021,9 +1021,10 @@ assimilation_chance = {
 		}
 	}
 	
-#NEW WORLD NATION BONUS - 50% more base assimilation rate for new world nations on provinces in north america, south america, and oceania. (0.000198 + base)(new rate = 0.000594)
+#NEW WORLD NATION BONUS - identical in Africa, the Americas and Oceania. Natives of each region are excluded.
+#+3 for every immigrant pop, +12 more for immigrant pops whose culture is not a core culture of the province.
 	modifier = {
-		factor = 5
+		factor = 3
 		country = {
 			has_country_flag = new_world_nation
 		}
@@ -1039,34 +1040,29 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
+						is_culture_group = mesoamerican
+						is_culture_group = andean
+						is_culture_group = north_american
+						is_culture_group = oceanic
 					}
 				}
 			}
-			AND = {			
+			AND = {
 				location = {
 					continent = africa
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						is_culture_group = barbarian
+						is_culture_group = nilotic
+						is_culture_group = sahelian
+						is_culture_group = bantu
 					}
 				}
 			}
 		}
 	}
 	modifier = {
-		factor = 10
+		factor = 12
 		has_culture_core = no
 		country = {
 			has_country_flag = new_world_nation
@@ -1083,30 +1079,40 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
-						is_culture_group = barbarian
+						is_culture_group = mesoamerican
+						is_culture_group = andean
+						is_culture_group = north_american
+						is_culture_group = oceanic
 					}
 				}
 			}
-			AND = {			
+			AND = {
 				location = {
 					continent = africa
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						has_pop_culture = germano_slavic
-						is_culture_group = barbarian
+						is_culture_group = nilotic
+						is_culture_group = sahelian
+						is_culture_group = bantu
 					}
 				}
 			}
+		}
+	}
+
+#AMERICAS AND AUSTRALIA BONUS - +1 for every pop in the Americas and Australia/New Zealand, any country. Polynesians (New Zealand natives) excluded.
+	modifier = {
+		factor = 1
+		location = {
+			OR = {
+				continent = north_america
+				continent = south_america
+				continent = australia
+			}
+		}
+		NOT = {
+			has_pop_culture = polynesian
 		}
 	}
 	

@@ -4,3 +4,4 @@ add_core = MON
 add_core = ZHA
 trade_goods = tea
 life_rating = 32
+fort = 2

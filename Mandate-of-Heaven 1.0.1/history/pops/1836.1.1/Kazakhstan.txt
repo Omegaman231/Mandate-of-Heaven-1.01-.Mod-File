@@ -234,12 +234,12 @@
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 336
+		size = 269
 	}
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 73
+		size = 58
 	}
 	artisans = {
 		culture = sogdian
@@ -286,12 +286,12 @@
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 419
+		size = 335
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 92
+		size = 74
 	}
 	artisans = {
 		culture = mongolic

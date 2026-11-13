@@ -3,3 +3,4 @@ controller = BEL
 add_core = BEL
 trade_goods = iron
 life_rating = 42
+fort = 1

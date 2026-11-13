@@ -37,7 +37,7 @@
 	artisans = {
 		culture = kongolese
 		religion = placeholder
-		size = 5084
+		size = 7041
 	}
 	artisans = {
 		culture = swahili
@@ -47,22 +47,27 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 1025
+		size = 3515
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 225
+		size = 557
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 92824
+		size = 128567
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
 		size = 20376
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }
 2035 = {
@@ -77,7 +82,7 @@
 		size = 360
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 609
 	}
@@ -97,14 +102,14 @@
 		size = 260
 	}
 	clergymen = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 441
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 4224
+		size = 6188
 	}
 	artisans = {
 		culture = kongolese
@@ -112,29 +117,29 @@
 		size = 927
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 1569
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 9848
+		size = 3875
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 186
+		size = 56
 	}
 	soldiers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
-		size = 315
+		size = 95
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 67835
+		size = 100940
 	}
 	farmers = {
 		culture = kongolese
@@ -142,8 +147,13 @@
 		size = 16866
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 28532
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }

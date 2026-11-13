@@ -3,3 +3,4 @@ controller = RAJ
 add_core = RAJ
 trade_goods = tea
 life_rating = 32
+fort = 2

@@ -3,3 +3,4 @@ controller = ROM
 add_core = ROM
 trade_goods = iron
 life_rating = 38
+fort = 1

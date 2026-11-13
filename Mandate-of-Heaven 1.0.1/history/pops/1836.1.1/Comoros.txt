@@ -1,44 +1,59 @@
 2123 = {
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 60
+		size = 310
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 120
+		size = 771
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 24
+		size = 305
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2160
+		size = 13879
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2124 = {
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 161
+		size = 411
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 120
+		size = 9918
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 24
+		size = 462
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2160
+		size = 4832
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 7800
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }

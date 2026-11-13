@@ -96,6 +96,11 @@ dravidian = {
 		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman }
 		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa }
 	}
+	tamil_melaindan = {
+		color = { 96 150 70 }
+		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman }
+		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa }
+	}
 	kannada = {
 		color = { 138 107 174 }
 		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman }
@@ -123,6 +128,11 @@ sinic = {
 	}
 	yue = {
 		color = { 30 140 130 }
+		first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin }
+		last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin }
+	}
+	zanjyue = {
+		color = { 40 110 160 }
 		first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin }
 		last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin }
 	}
@@ -184,6 +194,11 @@ southeast_asian = {
 	}
 	austronesian = {
 		color = { 217 161 92 }
+		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz }
+		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul }
+	}
+	rantaunesian = {
+		color = { 80 20 100 }
 		first_names = { Shahabuddin Riayat Abdullah Jaafar Safiuddin Muhammad Ali Al-Mukammal Ismail Muabidin Tuanku Yusuf Idris Jalil Isandar Aziz }
 		last_names = { "Raja Inu" al-Marhum "Raja Ahmad" "Riayat Shah" al-Khairat Muadzam Bendahara Aadzam Murshidul }
 	}

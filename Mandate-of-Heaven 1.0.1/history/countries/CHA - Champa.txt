@@ -1,5 +1,6 @@
 capital = 1379
 primary_culture = austronesian
+culture = rantaunesian
 culture = austroasiatic
 religion = placeholder
 government = absolute_monarchy

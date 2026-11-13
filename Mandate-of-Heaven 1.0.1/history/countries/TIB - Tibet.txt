@@ -2,7 +2,7 @@ capital = 1587
 primary_culture = tibetan
 religion = placeholder
 government = theocracy
-plurality = 25.0
+plurality = 55.0
 nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
@@ -61,6 +61,7 @@ mechanized_mining = 1
 basic_chemistry = 1
 water_wheel_power = 1
 publishing_industry = 1
+ideological_thought = 1
 
 consciousness = 1
 nonstate_consciousness = 1

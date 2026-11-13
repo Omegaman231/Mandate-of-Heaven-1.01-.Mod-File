@@ -824,6 +824,11 @@
 		religion = placeholder
 		size = 6210
 	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 6900
+	}
 }
 1771 = {
 	aristocrats = {
@@ -887,6 +892,11 @@
 		culture = eastern_roman
 		religion = placeholder
 		size = 6210
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 13100
 	}
 }
 2559 = {

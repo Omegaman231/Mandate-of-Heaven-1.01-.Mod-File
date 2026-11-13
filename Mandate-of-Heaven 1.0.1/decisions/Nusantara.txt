@@ -33,9 +33,11 @@ political_decisions = {
 		potential = {
 			tag = NUS
 			NOT = { has_country_flag = nus_claim_south_land }
+			NOT = { year = 1870 }
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
+			empiricism = 1
+			NOT = { year = 1870 }
 		}
 		effect = {
 			set_country_flag = nus_claim_south_land
@@ -46,6 +48,59 @@ political_decisions = {
 			ENG_2497 = { add_core = NUS }
 			ENG_2509 = { add_core = NUS }
 			ENG_2513 = { add_core = NUS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	nus_exert_will = {
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_exert_will }
+		}
+		allow = {
+			owns = 1384
+			SPA_1455 = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = nus_exert_will
+			1320 = { add_core = THIS }
+			ENG_1321 = { add_core = THIS }
+			CHI_1501 = { add_core = THIS }
+			CHI_2562 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	nus_sea_lords = {
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_sea_lords }
+		}
+		allow = {
+			has_country_flag = nus_exert_will
+			has_country_flag = australia_is_ours
+			year = 1870
+			CHI_2562 = { owned_by = THIS }
+			ENG_1321 = { owned_by = THIS }
+		}
+		effect = {
+			set_country_flag = nus_sea_lords
+			MAD_2115 = { add_core = THIS }
+			MAD_2122 = { add_core = THIS }
+			MAD_2119 = { add_core = THIS }
+			FRA_2123 = { add_core = THIS }
+			CHI_1481 = { add_core = THIS }
+			CHI_1538 = { add_core = THIS }
+			CHI_1496 = { add_core = THIS }
+			1303 = { add_core = THIS }
+			ABU_1162 = { add_core = THIS }
+			YEM_1178 = { add_core = THIS }
+			ENG_2087 = { add_core = THIS }
+			ENG_2096 = { add_core = THIS }
+			JAP_1088 = { add_core = THIS }
+			CHI_1086 = { add_core = THIS }
+			HAW_658 = { add_core = THIS }
+			JAP_1678 = { add_core = THIS }
+			CHI_1566 = { add_core = THIS }
+			3253 = { add_core = THIS }
 		}
 		ai_will_do = { factor = 1 }
 	}

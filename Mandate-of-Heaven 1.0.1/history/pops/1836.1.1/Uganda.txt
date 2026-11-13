@@ -10,7 +10,7 @@
 		size = 318
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 539
 	}
@@ -35,7 +35,7 @@
 		size = 254
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 430
 	}
@@ -50,24 +50,24 @@
 		size = 712
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 1205
+		size = 1760
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 9754
+		size = 2938
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 165
+		size = 50
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 280
+		size = 414
 	}
 	farmers = {
 		culture = swahili
@@ -80,9 +80,14 @@
 		size = 15160
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 25654
+		size = 36502
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2020 = {
@@ -119,12 +124,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 451
+		size = 1198
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 99
+		size = 263
+	}
+	soldiers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 356
 	}
 	farmers = {
 		culture = kongolese
@@ -136,6 +146,21 @@
 		religion = placeholder
 		size = 8739
 	}
+	artisans = {
+		culture = zanjyue
+		religion = placeholder
+		size = 576
+	}
+	farmers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 11790
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
+	}
 }
 2021 = {
 	aristocrats = {
@@ -144,7 +169,7 @@
 		size = 851
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 259
 	}
@@ -154,7 +179,7 @@
 		size = 690
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 210
 	}
@@ -164,19 +189,19 @@
 		size = 2047
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 623
+		size = 1220
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 460
+		size = 1223
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 140
+		size = 729
 	}
 	farmers = {
 		culture = swahili
@@ -184,9 +209,14 @@
 		size = 40342
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 12278
+		size = 24047
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2022 = {
@@ -201,7 +231,7 @@
 		size = 82
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 140
 	}
@@ -216,7 +246,7 @@
 		size = 68
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 116
 	}
@@ -231,24 +261,24 @@
 		size = 186
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 315
+		size = 487
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 9207
+		size = 2483
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 45
+		size = 12
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 77
+		size = 341
 	}
 	farmers = {
 		culture = swahili
@@ -261,9 +291,14 @@
 		size = 13334
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 22546
+		size = 33688
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2023 = {
@@ -273,7 +308,7 @@
 		size = 943
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 287
 	}
@@ -283,7 +318,7 @@
 		size = 724
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 220
 	}
@@ -293,19 +328,19 @@
 		size = 2277
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 693
+		size = 1263
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 483
+		size = 1423
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 147
+		size = 790
 	}
 	farmers = {
 		culture = swahili
@@ -313,8 +348,13 @@
 		size = 47150
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 14350
+		size = 26159
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }

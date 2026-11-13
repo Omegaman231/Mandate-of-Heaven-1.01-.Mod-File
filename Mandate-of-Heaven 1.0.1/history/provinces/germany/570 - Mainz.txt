@@ -3,3 +3,4 @@ life_rating = 25
 owner = BEL
 controller = BEL
 add_core = BEL
+fort = 1

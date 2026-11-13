@@ -9,9 +9,65 @@ political_decisions = {
 			war = no
 		}
 		effect = {
+			any_country = {
+				limit = {
+					tag = RAJ
+					vassal_of = THIS
+				}
+				all_core = { add_core = THIS }
+				annex_to = THIS
+			}
 			change_tag = DEC
 			prestige = 25
 			add_accepted_culture = hindustani
+		}
+		ai_will_do = { factor = 1 }
+	}
+	kar_impress_bengal = {
+		potential = {
+			tag = KAR
+			exists = BEN
+		}
+		allow = {
+			year = 1845
+			war = no
+			BEN = { vassal_of = THIS }
+			BEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
+		}
+		effect = {
+			BEN = { all_core = { add_core = THIS } }
+			inherit = BEN
+		}
+		ai_will_do = { factor = 1 }
+	}
+	kar_impress_punjab = {
+		potential = {
+			tag = KAR
+			exists = PEN
+		}
+		allow = {
+			year = 1845
+			war = no
+			PEN = { vassal_of = THIS }
+			PEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
+		}
+		effect = {
+			PEN = { all_core = { add_core = THIS } }
+			inherit = PEN
 		}
 		ai_will_do = { factor = 1 }
 	}

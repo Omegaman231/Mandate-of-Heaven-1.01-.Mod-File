@@ -1,216 +1,256 @@
 2115 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 5040
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2586
+		size = 2836
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 12432
+		size = 13229
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 8400
+		size = 4068
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 174252
+		size = 185417
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2116 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 1620
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 870
+		size = 1120
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 4200
+		size = 4844
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 4800
+		size = 1803
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 72510
+		size = 83630
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2117 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 1320
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 690
+		size = 940
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 3420
+		size = 4063
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 1620
+		size = 1570
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 61470
+		size = 73023
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2118 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 990
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 540
+		size = 790
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2460
+		size = 3059
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 540
+		size = 1288
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 48390
+		size = 60160
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2119 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 630
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 420
+		size = 670
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 1620
+		size = 2220
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 330
+		size = 937
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 31800
+		size = 43578
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2120 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 540
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 300
+		size = 550
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 1560
+		size = 2202
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 330
+		size = 866
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 28470
+		size = 40192
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2121 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 1080
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 570
+		size = 820
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2640
+		size = 3255
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 570
+		size = 1335
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 50460
+		size = 62212
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2122 = {
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 960
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 510
+		size = 760
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 2400
+		size = 2995
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 1530
+		size = 1243
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 46440
+		size = 57965
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }

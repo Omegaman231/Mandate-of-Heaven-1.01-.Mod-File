@@ -1,0 +1,26 @@
+political_decisions = {
+	tam_integrate_trade_networks = {
+		potential = {
+			tag = TAM
+			NOT = { has_country_flag = tam_trade_networks }
+		}
+		allow = {
+			business_banks = 1
+			OR = {
+				GUJ = { in_sphere = THIS }
+				GUJ = { all_core = { owned_by = THIS } }
+			}
+		}
+		effect = {
+			set_country_flag = tam_trade_networks
+			GUJ = { all_core = { add_core = THIS } }
+			MAZ = { all_core = { add_core = THIS } }
+			FRA_2123 = { add_core = THIS }
+			any_country = {
+				limit = { tag = GUJ }
+				annex_to = THIS
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

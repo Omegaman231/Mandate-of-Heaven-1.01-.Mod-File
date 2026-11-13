@@ -1,5 +1,6 @@
-owner = ZIM
-controller = ZIM
+owner = MEL
+controller = MEL
 add_core = ZIM
+add_core = MEL
 trade_goods = grain
 life_rating = 15

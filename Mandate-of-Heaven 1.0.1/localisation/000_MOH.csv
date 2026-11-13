@@ -40,6 +40,22 @@ GER;Raetia-Noricum;;;;;;;;;;;;;x
 GER_ADJ;Raetian;;;;;;;;;;;;;x
 PAN;Pannonia;;;;;;;;;;;;;x
 PAN_ADJ;Pannonian;;;;;;;;;;;;;x
+nationalist_rebels_name;$CULTURE$ Nationalists;;;;;;;;;;;;;x
+nationalist_rebels_army;$CULTURE$ Nationalists;;;;;;;;;;;;;x
+zombie_rebels_title;Zombies;;;;;;;;;;;;;x
+zombie_rebels_name;Zombie Horde;;;;;;;;;;;;;x
+zombie_rebels_army;Zombie Horde;;;;;;;;;;;;;x
+zombie_rebels_desc;The dead have risen.;;;;;;;;;;;;;x
+PAN_proletarian_dictatorship_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_presidential_dictatorship_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_bourgeois_dictatorship_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_fascist_dictatorship_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_absolute_monarchy_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_prussian_constitutionalism_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_hms_government_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_democracy_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_theocracy_ADJ;Pannonian;;;;;;;;;;;;;x
+PAN_merchant_republic_ADJ;Pannonian;;;;;;;;;;;;;x
 DAC;Dacia;;;;;;;;;;;;;x
 DAC_ADJ;Dacian;;;;;;;;;;;;;x
 MOE;Moesia;;;;;;;;;;;;;x
@@ -1198,3 +1214,6 @@ PROV2526;Palmyra Atoll;;;;;;;;;;;;;x
 tib_turkic_brothers_title;The Turkic Peoples;;;;;;;;;;;;;x
 tib_turkic_brothers_desc;The Turkic peoples of our western frontier take their place in the realm.;;;;;;;;;;;;;x
 central_indian;Central Indian;;;;;;;;;;;;;x
+tamil_melaindan;Tamil-Melaindan;;;;;;;;;;;;;x
+rantaunesian;Rantaunesian;;;;;;;;;;;;;x
+zanjyue;Zanjyue;;;;;;;;;;;;;x

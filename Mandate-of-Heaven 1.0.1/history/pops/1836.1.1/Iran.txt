@@ -582,6 +582,11 @@
 		religion = placeholder
 		size = 45
 	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 11000
+	}
 }
 1137 = {
 	aristocrats = {

@@ -1,5 +1,5 @@
-owner = RAN
-controller = RAN
-add_core = RAN
+owner = MEL
+controller = MEL
+add_core = MEL
 trade_goods = tea
 life_rating = 40

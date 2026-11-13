@@ -1,0 +1,24 @@
+# Mandate of Heaven - Rome controls the Turkish Straits
+country_event = {
+	id = 77700
+	title = "moh_straits_title"
+	desc = "moh_straits_desc"
+	picture = "war_ended"
+
+	trigger = {
+		tag = ROM
+		year = 1836
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "moh_straits_opt"
+		enable_canal = 4
+		enable_canal = 5
+	}
+}

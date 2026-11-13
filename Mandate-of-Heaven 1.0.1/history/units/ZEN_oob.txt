@@ -14,42 +14,42 @@ army = {
 	regiment = {
 		name = "3. Zengba Regiment"
 		type = infantry
-		home = 2019
+		home = 1864
 	}
 	regiment = {
 		name = "4. Zengba Regiment"
 		type = infantry
-		home = 2022
+		home = 1864
 	}
 	regiment = {
 		name = "5. Zengba Regiment"
 		type = hussar
-		home = 2019
+		home = 1867
 	}
 	regiment = {
 		name = "6. Zengba Regiment"
 		type = artillery
-		home = 2022
+		home = 1866
 	}
 	regiment = {
 		name = "7. Zengba Regiment"
 		type = artillery
-		home = 2019
+		home = 2024
 	}
 	regiment = {
 		name = "8. Zengba Regiment"
 		type = artillery
-		home = 2022
+		home = 1868
 	}
 	regiment = {
 		name = "9. Zengba Regiment"
 		type = artillery
-		home = 2019
+		home = 2023
 	}
 	regiment = {
 		name = "10. Zengba Regiment"
 		type = artillery
-		home = 2022
+		home = 2028
 	}
 }
 navy = {

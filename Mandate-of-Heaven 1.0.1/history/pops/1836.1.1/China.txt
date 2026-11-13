@@ -12,12 +12,12 @@
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 828
+		size = 662
 	}
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 181
+		size = 145
 	}
 	artisans = {
 		culture = tungusic
@@ -893,12 +893,12 @@
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 6409
+		size = 5127
 	}
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 1406
+		size = 1125
 	}
 	artisans = {
 		culture = sogdian
@@ -3003,12 +3003,12 @@
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 498
+		size = 398
 	}
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 109
+		size = 87
 	}
 	artisans = {
 		culture = mongolic
@@ -3055,12 +3055,12 @@
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 1743
+		size = 1394
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 382
+		size = 306
 	}
 	artisans = {
 		culture = mongolic

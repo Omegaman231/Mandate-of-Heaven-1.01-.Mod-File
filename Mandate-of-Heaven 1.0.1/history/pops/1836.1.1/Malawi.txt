@@ -5,7 +5,7 @@
 		size = 874
 	}
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 266
 	}
@@ -15,9 +15,9 @@
 		size = 483
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 147
+		size = 397
 	}
 	artisans = {
 		culture = swahili
@@ -25,19 +25,19 @@
 		size = 2392
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 728
+		size = 1372
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 506
+		size = 935
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 154
+		size = 536
 	}
 	farmers = {
 		culture = swahili
@@ -45,9 +45,14 @@
 		size = 43562
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 13258
+		size = 24978
+	}
+	bureaucrats = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 583
 	}
 }
 2067 = {
@@ -62,7 +67,7 @@
 		size = 124
 	}
 	aristocrats = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 210
 	}
@@ -77,14 +82,14 @@
 		size = 66
 	}
 	clergymen = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 112
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1357
+		size = 3131
 	}
 	artisans = {
 		culture = shona
@@ -92,29 +97,29 @@
 		size = 298
 	}
 	artisans = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 504
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 320
+		size = 1709
 	}
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 70
+		size = 162
 	}
 	soldiers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
-		size = 119
+		size = 276
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 27479
+		size = 63382
 	}
 	farmers = {
 		culture = shona
@@ -122,8 +127,13 @@
 		size = 6031
 	}
 	farmers = {
-		culture = austronesian
+		culture = rantaunesian
 		religion = placeholder
 		size = 10198
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 428
 	}
 }

@@ -237,7 +237,7 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 779
+		size = 2560
 	}
 	artisans = {
 		culture = swahili
@@ -247,22 +247,27 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 184
+		size = 1389
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 40
+		size = 92
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 15703
+		size = 51598
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
 		size = 3447
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }
 2017 = {
@@ -277,7 +282,7 @@
 		size = 49
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 85
 	}
@@ -294,7 +299,7 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 603
+		size = 2448
 	}
 	artisans = {
 		culture = shona
@@ -302,24 +307,24 @@
 		size = 132
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 227
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 150
+		size = 1378
 	}
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 33
+		size = 91
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 11730
+		size = 47630
 	}
 	farmers = {
 		culture = shona
@@ -327,9 +332,14 @@
 		size = 2575
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 4413
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }
 2018 = {
@@ -356,7 +366,7 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 902
+		size = 2773
 	}
 	artisans = {
 		culture = swahili
@@ -366,21 +376,26 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 205
+		size = 1429
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 45
+		size = 102
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 17261
+		size = 53061
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
 		size = 3789
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }

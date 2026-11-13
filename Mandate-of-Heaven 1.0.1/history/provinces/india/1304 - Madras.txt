@@ -19,3 +19,4 @@ state_building = {
 	building = steamer_shipyard
 	upgrade = yes
 }
+fort = 1

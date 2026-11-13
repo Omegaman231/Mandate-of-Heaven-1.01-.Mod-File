@@ -53,3 +53,4 @@ state_building = {
 	building = machine_parts_factory
 	upgrade = yes
 }
+fort = 1

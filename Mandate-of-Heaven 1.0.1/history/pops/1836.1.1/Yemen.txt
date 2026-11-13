@@ -353,4 +353,9 @@
 		religion = placeholder
 		size = 1218
 	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 8400
+	}
 }

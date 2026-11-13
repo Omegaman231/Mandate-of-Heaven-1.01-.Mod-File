@@ -3,3 +3,4 @@ controller = THA
 add_core = THA
 trade_goods = grain
 life_rating = 35
+fort = 1

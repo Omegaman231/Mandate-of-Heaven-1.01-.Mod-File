@@ -14,7 +14,7 @@ army = {
 	regiment = {
 		name = "3. Aksumite Regiment"
 		type = infantry
-		home = 1864
+		home = 1855
 	}
 	regiment = {
 		name = "4. Aksumite Regiment"
@@ -78,7 +78,7 @@ army = {
 	regiment = {
 		name = "15. Aksumite Regiment"
 		type = hussar
-		home = 1864
+		home = 1855
 	}
 	regiment = {
 		name = "16. Aksumite Regiment"
@@ -93,7 +93,7 @@ army = {
 	regiment = {
 		name = "18. Aksumite Regiment"
 		type = artillery
-		home = 1864
+		home = 1855
 	}
 	regiment = {
 		name = "19. Aksumite Regiment"

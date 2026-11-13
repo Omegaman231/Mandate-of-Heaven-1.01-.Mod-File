@@ -1,12 +1,13 @@
 political_decisions = {
-	qin_accept_ne_chinese = {
+	accept_ne_chinese = {
 		potential = {
-			tag = QIN
+			OR = { tag = QIN tag = CHU tag = MIN }
 			NOT = { has_country_flag = accepted_ne_chinese }
 		}
 		allow = {
 			OR = {
-				owns = 1612
+				MON = { any_core = { owned_by = THIS NOT = { province_id = 3282 } } }
+				MAN = { any_core = { owned_by = THIS NOT = { province_id = 3282 } } }
 			}
 		}
 		effect = {
@@ -15,9 +16,9 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
-	zha_accept_nw_chinese = {
+	accept_nw_chinese = {
 		potential = {
-			tag = ZHA
+			OR = { tag = ZHA tag = CHU tag = MIN }
 			NOT = { has_country_flag = accepted_nw_chinese }
 		}
 		allow = {
@@ -32,93 +33,9 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
-	zha_accept_south_chinese = {
+	accept_south_chinese = {
 		potential = {
-			tag = ZHA
-			NOT = { has_country_flag = accepted_south_chinese }
-		}
-		allow = {
-			OR = {
-				owns = 1578
-				owns = 2221
-				owns = 1604
-			}
-		}
-		effect = {
-			set_country_flag = accepted_south_chinese
-			add_accepted_culture = south_chinese
-		}
-		ai_will_do = { factor = 1 }
-	}
-	chu_accept_ne_chinese = {
-		potential = {
-			tag = CHU
-			NOT = { has_country_flag = accepted_ne_chinese }
-		}
-		allow = {
-			OR = {
-				owns = 1612
-			}
-		}
-		effect = {
-			set_country_flag = accepted_ne_chinese
-			add_accepted_culture = ne_chinese
-		}
-		ai_will_do = { factor = 1 }
-	}
-	chu_accept_nw_chinese = {
-		potential = {
-			tag = CHU
-			NOT = { has_country_flag = accepted_nw_chinese }
-		}
-		allow = {
-			OR = {
-				owns = 1559
-				owns = 1510
-			}
-		}
-		effect = {
-			set_country_flag = accepted_nw_chinese
-			add_accepted_culture = nw_chinese
-		}
-		ai_will_do = { factor = 1 }
-	}
-	min_accept_ne_chinese = {
-		potential = {
-			tag = MIN
-			NOT = { has_country_flag = accepted_ne_chinese }
-		}
-		allow = {
-			OR = {
-				owns = 1612
-			}
-		}
-		effect = {
-			set_country_flag = accepted_ne_chinese
-			add_accepted_culture = ne_chinese
-		}
-		ai_will_do = { factor = 1 }
-	}
-	min_accept_nw_chinese = {
-		potential = {
-			tag = MIN
-			NOT = { has_country_flag = accepted_nw_chinese }
-		}
-		allow = {
-			OR = {
-				owns = 1559
-				owns = 1510
-			}
-		}
-		effect = {
-			set_country_flag = accepted_nw_chinese
-			add_accepted_culture = nw_chinese
-		}
-		ai_will_do = { factor = 1 }
-	}
-	min_accept_south_chinese = {
-		potential = {
-			tag = MIN
+			OR = { tag = ZHA tag = MIN }
 			NOT = { has_country_flag = accepted_south_chinese }
 		}
 		allow = {

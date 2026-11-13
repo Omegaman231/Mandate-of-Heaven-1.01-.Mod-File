@@ -1,5 +1,6 @@
-owner = ZIM
-controller = ZIM
+owner = RAN
+controller = RAN
 add_core = ZIM
+add_core = RAN
 trade_goods = tobacco
 life_rating = 35

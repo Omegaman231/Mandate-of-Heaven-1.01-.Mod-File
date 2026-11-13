@@ -5,7 +5,7 @@
 		size = 1081
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 329
 	}
@@ -15,7 +15,7 @@
 		size = 862
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 262
 	}
@@ -25,19 +25,19 @@
 		size = 2898
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 882
+		size = 1525
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 621
+		size = 1605
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 189
+		size = 845
 	}
 	farmers = {
 		culture = swahili
@@ -45,9 +45,14 @@
 		size = 52785
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 16065
+		size = 27784
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2025 = {
@@ -62,7 +67,7 @@
 		size = 41
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 71
 	}
@@ -87,19 +92,24 @@
 		size = 107
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 185
+		size = 828
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 94
+		size = 357
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 20
+		size = 76
+	}
+	soldiers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 357
 	}
 	farmers = {
 		culture = swahili
@@ -112,9 +122,14 @@
 		size = 1966
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 3371
+		size = 15134
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2026 = {
@@ -149,14 +164,19 @@
 		size = 66
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 115
+		size = 677
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 75
+		size = 306
+	}
+	soldiers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 356
 	}
 	farmers = {
 		culture = swahili
@@ -169,9 +189,14 @@
 		size = 1395
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 2421
+		size = 14272
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2027 = {
@@ -181,7 +206,7 @@
 		size = 552
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 168
 	}
@@ -191,7 +216,7 @@
 		size = 451
 	}
 	clergymen = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 137
 	}
@@ -201,19 +226,24 @@
 		size = 1334
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 406
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 299
+		size = 818
 	}
 	soldiers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
-		size = 91
+		size = 249
+	}
+	soldiers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 355
 	}
 	farmers = {
 		culture = swahili
@@ -221,9 +251,24 @@
 		size = 27025
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 8225
+	}
+	artisans = {
+		culture = zanjyue
+		religion = placeholder
+		size = 582
+	}
+	farmers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 11788
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2028 = {
@@ -233,7 +278,7 @@
 		size = 690
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 210
 	}
@@ -243,7 +288,7 @@
 		size = 552
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 168
 	}
@@ -253,19 +298,19 @@
 		size = 1725
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 525
+		size = 1014
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 460
+		size = 1252
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 140
+		size = 735
 	}
 	farmers = {
 		culture = swahili
@@ -273,9 +318,14 @@
 		size = 41929
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 12761
+		size = 24642
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2029 = {
@@ -285,7 +335,7 @@
 		size = 437
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 133
 	}
@@ -295,39 +345,44 @@
 		size = 322
 	}
 	clergymen = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 98
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1242
+		size = 3352
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 378
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1150
+		size = 1477
 	}
 	soldiers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
-		size = 350
+		size = 166
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 20033
+		size = 54065
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 6097
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }
 2030 = {
@@ -337,7 +392,7 @@
 		size = 414
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 126
 	}
@@ -347,7 +402,7 @@
 		size = 322
 	}
 	clergymen = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 98
 	}
@@ -357,19 +412,24 @@
 		size = 1012
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 308
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 230
+		size = 636
 	}
 	soldiers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
-		size = 70
+		size = 194
+	}
+	soldiers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 356
 	}
 	farmers = {
 		culture = swahili
@@ -377,9 +437,24 @@
 		size = 21114
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 6426
+	}
+	artisans = {
+		culture = zanjyue
+		religion = placeholder
+		size = 565
+	}
+	farmers = {
+		culture = zanjyue
+		religion = placeholder
+		size = 11806
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2031 = {
@@ -394,7 +469,7 @@
 		size = 74
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 126
 	}
@@ -409,7 +484,7 @@
 		size = 62
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 105
 	}
@@ -424,24 +499,24 @@
 		size = 173
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 294
+		size = 834
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 207
+		size = 522
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 45
+		size = 114
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 77
+		size = 550
 	}
 	farmers = {
 		culture = swahili
@@ -454,9 +529,14 @@
 		size = 3804
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 6432
+		size = 18251
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2032 = {
@@ -466,7 +546,7 @@
 		size = 581
 	}
 	aristocrats = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 347
 	}
@@ -476,7 +556,7 @@
 		size = 562
 	}
 	clergymen = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
 		size = 338
 	}
@@ -486,19 +566,19 @@
 		size = 1612
 	}
 	artisans = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 967
+		size = 1611
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 318
+		size = 894
 	}
 	soldiers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 191
+		size = 893
 	}
 	farmers = {
 		culture = swahili
@@ -506,9 +586,14 @@
 		size = 29362
 	}
 	farmers = {
-		culture = yue
+		culture = zanjyue
 		religion = placeholder
-		size = 17617
+		size = 29346
+	}
+	bureaucrats = {
+		culture = zanjyue
+		religion = placeholder
+		size = 375
 	}
 }
 2033 = {
@@ -518,7 +603,7 @@
 		size = 437
 	}
 	aristocrats = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 133
 	}
@@ -528,38 +613,43 @@
 		size = 322
 	}
 	clergymen = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 98
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1196
+		size = 3155
 	}
 	artisans = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 364
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 230
+		size = 1560
 	}
 	soldiers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
-		size = 70
+		size = 180
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 21827
+		size = 57587
 	}
 	farmers = {
-		culture = tamil
+		culture = tamil_melaindan
 		religion = placeholder
 		size = 6643
+	}
+	bureaucrats = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 429
 	}
 }

@@ -69,6 +69,14 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
+					has_pop_culture = zanjyue
+				}
+			}
+			literacy = 0.41
+		}
+		any_pop = {
+			limit = {
+				OR = {
 					has_pop_culture = greco_roman
 					has_pop_culture = hindustani
 					has_pop_culture = central_indian
@@ -90,6 +98,14 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
+					has_pop_culture = tamil_melaindan
+				}
+			}
+			literacy = 0.37
+		}
+		any_pop = {
+			limit = {
+				OR = {
 					has_pop_culture = austroasiatic
 				}
 			}
@@ -101,6 +117,7 @@ country_event = {
 					has_pop_culture = romano_celtic
 					has_pop_culture = arab
 					has_pop_culture = austronesian
+					has_pop_culture = rantaunesian
 				}
 			}
 			literacy = 0.19
@@ -283,6 +300,14 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
+					has_pop_culture = zanjyue
+				}
+			}
+			literacy = 0.41
+		}
+		any_pop = {
+			limit = {
+				OR = {
 					has_pop_culture = greco_roman
 					has_pop_culture = hindustani
 					has_pop_culture = central_indian
@@ -304,6 +329,14 @@ country_event = {
 		any_pop = {
 			limit = {
 				OR = {
+					has_pop_culture = tamil_melaindan
+				}
+			}
+			literacy = 0.37
+		}
+		any_pop = {
+			limit = {
+				OR = {
 					has_pop_culture = austroasiatic
 				}
 			}
@@ -315,6 +348,7 @@ country_event = {
 					has_pop_culture = romano_celtic
 					has_pop_culture = arab
 					has_pop_culture = austronesian
+					has_pop_culture = rantaunesian
 				}
 			}
 			literacy = 0.19
@@ -418,23 +452,6 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 800011
-	title = "EVTNAME800011"
-	desc = "EVTDESC800011"
-	fire_only_once = yes
-
-	trigger = {
-		tag = TIB
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "Great!"
-		activate_technology = ideological_thought
-	}
-}
 
 country_event = {
 	id = 10000030

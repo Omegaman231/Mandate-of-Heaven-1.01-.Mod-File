@@ -1,0 +1,15 @@
+# Fired by the "Masters of the Southern Land" decision
+country_event = {
+	id = 77710
+	title = "claim_australia_event_title"
+	desc = "claim_australia_event_desc"
+	picture = "Expansion"
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "claim_australia_event_opt"
+		set_country_flag = australia_is_ours
+	}
+}

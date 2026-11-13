@@ -3,4 +3,4 @@ controller = MOE
 add_core = MOE
 trade_goods = grain
 life_rating = 35
-naval_base = 1
+fort = 1

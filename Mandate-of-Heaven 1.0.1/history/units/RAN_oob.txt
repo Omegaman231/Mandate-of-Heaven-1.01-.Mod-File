@@ -29,27 +29,27 @@ army = {
 	regiment = {
 		name = "6. Rantau Regiment"
 		type = artillery
-		home = 2116
+		home = 2581
 	}
 	regiment = {
 		name = "7. Rantau Regiment"
 		type = artillery
-		home = 2115
+		home = 2063
 	}
 	regiment = {
 		name = "8. Rantau Regiment"
 		type = artillery
-		home = 2115
+		home = 2064
 	}
 	regiment = {
 		name = "9. Rantau Regiment"
 		type = artillery
-		home = 2116
+		home = 2066
 	}
 	regiment = {
 		name = "10. Rantau Regiment"
 		type = artillery
-		home = 2122
+		home = 2121
 	}
 }
 navy = {
@@ -133,6 +133,46 @@ navy = {
 	}
 	ship = {
 		name = "Rantau Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 3"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 11"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Transport 12"
 		type = clipper_transport
 	}
 }

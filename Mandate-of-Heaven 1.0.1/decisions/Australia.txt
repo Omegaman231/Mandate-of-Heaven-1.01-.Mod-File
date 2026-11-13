@@ -1,0 +1,26 @@
+political_decisions = {
+	claim_australia = {
+		potential = {
+			OR = { tag = MIN tag = NUS tag = JAP tag = TAM }
+			NOT = { has_global_flag = australia_claimed }
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			ENG_2468 = { owned_by = THIS }
+			ENG_2476 = { owned_by = THIS }
+			ENG_2483 = { owned_by = THIS }
+			ENG_2491 = { owned_by = THIS }
+			ENG_2497 = { owned_by = THIS }
+		}
+		effect = {
+			set_global_flag = australia_claimed
+			country_event = 77710
+			ENG_2468 = { remove_core = MIN remove_core = NUS remove_core = JAP remove_core = TAM add_core = THIS }
+			ENG_2476 = { remove_core = MIN remove_core = NUS remove_core = JAP remove_core = TAM add_core = THIS }
+			ENG_2483 = { remove_core = MIN remove_core = NUS remove_core = JAP remove_core = TAM add_core = THIS }
+			ENG_2491 = { remove_core = MIN remove_core = NUS remove_core = JAP remove_core = TAM add_core = THIS }
+			ENG_2497 = { remove_core = MIN remove_core = NUS remove_core = JAP remove_core = TAM add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

@@ -5,16 +5,77 @@ political_decisions = {
 			NOT = { exists = HIN }
 		}
 		allow = {
-			year = 1865
-			NOT = { exists = PEN }
-			NOT = { exists = BEN }
+			OR = {
+				AND = {
+					year = 1850
+					NOT = { exists = PEN }
+					NOT = { exists = BEN }
+				}
+				year = 1865
+			}
 			war = no
 		}
 		effect = {
+			any_country = {
+				limit = {
+					tag = RAJ
+					vassal_of = THIS
+				}
+				all_core = { add_core = THIS }
+				annex_to = THIS
+			}
 			change_tag = HIN
 			prestige = 25
 			add_accepted_culture = punjabi
 			add_accepted_culture = bengali
+		}
+		ai_will_do = { factor = 1 }
+	}
+	del_impress_bengal = {
+		potential = {
+			tag = DEL
+			exists = BEN
+		}
+		allow = {
+			year = 1845
+			war = no
+			BEN = { vassal_of = THIS }
+			BEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
+		}
+		effect = {
+			BEN = { all_core = { add_core = THIS } }
+			inherit = BEN
+		}
+		ai_will_do = { factor = 1 }
+	}
+	del_impress_punjab = {
+		potential = {
+			tag = DEL
+			exists = PEN
+		}
+		allow = {
+			year = 1845
+			war = no
+			PEN = { vassal_of = THIS }
+			PEN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { vassal_of = THIS }
+					}
+				}
+			}
+		}
+		effect = {
+			PEN = { all_core = { add_core = THIS } }
+			inherit = PEN
 		}
 		ai_will_do = { factor = 1 }
 	}

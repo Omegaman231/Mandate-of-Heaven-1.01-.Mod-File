@@ -1,3 +1,8 @@
+GUJ = {
+	value = 200
+	level = 5
+	influence_value = 60
+}
 army = {
 	name = "Tamil Army 1"
 	location = 1309

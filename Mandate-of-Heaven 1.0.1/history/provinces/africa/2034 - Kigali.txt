@@ -1,5 +1,6 @@
-owner = KON
-controller = KON
+owner = MEL
+controller = MEL
 add_core = KON
+add_core = MEL
 trade_goods = coffee
 life_rating = 15

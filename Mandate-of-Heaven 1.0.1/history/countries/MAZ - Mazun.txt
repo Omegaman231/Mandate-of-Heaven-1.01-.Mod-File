@@ -2,11 +2,11 @@ capital = 1170
 primary_culture = arab
 religion = placeholder
 government = absolute_monarchy
-plurality = 0.0
+plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.01
 non_state_culture_literacy = 0.01
-civilized = no
+civilized = yes
 prestige = -23
 
 slavery = no_slavery
