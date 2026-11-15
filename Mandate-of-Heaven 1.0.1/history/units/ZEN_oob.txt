@@ -1,4 +1,38 @@
 army = {
+	name = "Zengba Army 2"
+	location = 1868
+	regiment = {
+		name = "11. Zengba Regiment"
+		type = hussar
+		home = 1866
+	}
+	regiment = {
+		name = "12. Zengba Regiment"
+		type = artillery
+		home = 1867
+	}
+	regiment = {
+		name = "13. Zengba Regiment"
+		type = artillery
+		home = 2032
+	}
+	regiment = {
+		name = "14. Zengba Regiment"
+		type = artillery
+		home = 2032
+	}
+	regiment = {
+		name = "15. Zengba Regiment"
+		type = artillery
+		home = 1873
+	}
+	regiment = {
+		name = "16. Zengba Regiment"
+		type = artillery
+		home = 2020
+	}
+}
+army = {
 	name = "Zengba Army 1"
 	location = 2032
 	regiment = {
@@ -133,6 +167,86 @@ navy = {
 	}
 	ship = {
 		name = "Zengba Fleet Transport 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 11"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 12"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 13"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 14"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 15"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 16"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 17"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 18"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 19"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 20"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 21"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 22"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 23"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 24"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zengba Fleet Transport 25"
 		type = clipper_transport
 	}
 }

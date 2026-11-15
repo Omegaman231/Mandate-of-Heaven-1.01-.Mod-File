@@ -34,11 +34,11 @@ army = {
 	regiment = {
 		name = "7. Wagadu Regiment"
 		type = infantry
-		home = 1804
+		home = 1901
 	}
 	regiment = {
 		name = "8. Wagadu Regiment"
 		type = cavalry
-		home = 1804
+		home = 1884
 	}
 }

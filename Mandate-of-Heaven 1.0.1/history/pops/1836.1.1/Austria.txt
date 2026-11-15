@@ -469,7 +469,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 427
+		size = 581
 	}
 	farmers = {
 		culture = romano_celtic

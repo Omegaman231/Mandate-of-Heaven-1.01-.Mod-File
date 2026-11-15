@@ -67,17 +67,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 699
+		size = 745
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 150
+		size = 160
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 150
+		size = 160
 	}
 	farmers = {
 		culture = greco_roman
@@ -144,17 +144,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 578
+		size = 337
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 51
+		size = 30
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 200
+		size = 117
 	}
 	farmers = {
 		culture = greco_roman
@@ -375,17 +375,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 714
+		size = 1525
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 244
+		size = 521
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 61
+		size = 130
 	}
 	farmers = {
 		culture = greco_roman
@@ -452,17 +452,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 74
+		size = 138
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6
+		size = 11
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 6
+		size = 11
 	}
 	farmers = {
 		culture = greco_roman
@@ -509,7 +509,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 122
+		size = 1020
 	}
 	farmers = {
 		culture = eastern_roman
@@ -546,7 +546,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 40
+		size = 255
 	}
 	farmers = {
 		culture = eastern_roman
@@ -798,17 +798,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 558
+		size = 187
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 50
+		size = 17
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 194
+		size = 65
 	}
 	farmers = {
 		culture = greco_roman

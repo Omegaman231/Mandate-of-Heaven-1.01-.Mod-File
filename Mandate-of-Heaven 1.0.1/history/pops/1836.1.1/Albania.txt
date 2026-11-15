@@ -208,12 +208,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 208
+		size = 253
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 387
+		size = 472
 	}
 	farmers = {
 		culture = greco_roman
@@ -260,12 +260,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 126
+		size = 157
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 235
+		size = 292
 	}
 	farmers = {
 		culture = greco_roman

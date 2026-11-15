@@ -12,12 +12,12 @@ army = {
 	regiment = {
 		name = "2. Moesian Regiment"
 		type = infantry
-		home = 804
+		home = 674
 	}
 	regiment = {
 		name = "3. Moesian Regiment"
 		type = infantry
-		home = 804
+		home = 674
 	}
 	regiment = {
 		name = "4. Moesian Regiment"

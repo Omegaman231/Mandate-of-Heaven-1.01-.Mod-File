@@ -175,4 +175,44 @@ navy = {
 		name = "Rantau Transport 12"
 		type = clipper_transport
 	}
+	ship = {
+		name = "Rantau Fleet Transport 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 11"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 12"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 13"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 14"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rantau Fleet Transport 15"
+		type = clipper_transport
+	}
 }

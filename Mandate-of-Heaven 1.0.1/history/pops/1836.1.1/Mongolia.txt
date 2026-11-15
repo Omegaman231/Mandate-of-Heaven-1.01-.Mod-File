@@ -148,12 +148,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 895
+		size = 938
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 196
+		size = 206
 	}
 	farmers = {
 		culture = mongolic
@@ -200,12 +200,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 7111
+		size = 6385
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1560
+		size = 1401
 	}
 	farmers = {
 		culture = mongolic
@@ -237,7 +237,7 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 326
+		size = 338
 	}
 	farmers = {
 		culture = mongolic

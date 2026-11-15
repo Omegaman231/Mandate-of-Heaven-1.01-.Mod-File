@@ -93,6 +93,7 @@ political_decisions = {
 			1303 = { add_core = THIS }
 			ABU_1162 = { add_core = THIS }
 			YEM_1178 = { add_core = THIS }
+			ZEN_1177 = { add_core = THIS }
 			ENG_2087 = { add_core = THIS }
 			ENG_2096 = { add_core = THIS }
 			JAP_1088 = { add_core = THIS }

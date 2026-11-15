@@ -248,12 +248,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 10037
+		size = 4882
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 227
+		size = 110
 	}
 	farmers = {
 		culture = romano_celtic
@@ -426,6 +426,11 @@
 		religion = placeholder
 		size = 4417
 	}
+	soldiers = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 529
+	}
 }
 273 = {
 	aristocrats = {
@@ -466,7 +471,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 50
+		size = 893
 	}
 	labourers = {
 		culture = romano_celtic
@@ -488,7 +493,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 50
+		size = 398
 	}
 	artisans = {
 		culture = romano_celtic
@@ -515,7 +520,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 250
+		size = 436
 	}
 	artisans = {
 		culture = romano_celtic
@@ -542,7 +547,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 375
+		size = 557
 	}
 	clerks = {
 		culture = romano_celtic
@@ -663,7 +668,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 8934
+		size = 1517
 	}
 	farmers = {
 		culture = romano_celtic
@@ -695,7 +700,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 808
+		size = 1372
 	}
 	labourers = {
 		culture = romano_celtic
@@ -722,7 +727,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1295
 	}
 	labourers = {
 		culture = romano_celtic
@@ -754,7 +759,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 673
+		size = 1177
 	}
 	labourers = {
 		culture = romano_celtic
@@ -801,7 +806,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 808
+		size = 1837
 	}
 	labourers = {
 		culture = romano_celtic
@@ -885,7 +890,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 953
 	}
 	labourers = {
 		culture = romano_celtic
@@ -917,7 +922,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 804
 	}
 	labourers = {
 		culture = romano_celtic
@@ -949,7 +954,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1078
 	}
 	labourers = {
 		culture = romano_celtic
@@ -996,7 +1001,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1216
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1033,7 +1038,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1032
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1060,7 +1065,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 873
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1107,7 +1112,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 810
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1139,7 +1144,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 808
+		size = 1721
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1171,7 +1176,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 308
+		size = 700
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1235,7 +1240,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 802
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1282,7 +1287,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 968
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1314,7 +1319,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1036
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1341,7 +1346,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1030
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1373,7 +1378,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 808
+		size = 2049
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1462,7 +1467,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 993
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1494,7 +1499,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 1032
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1526,7 +1531,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 592
+		size = 850
 	}
 	labourers = {
 		culture = romano_celtic
@@ -1558,7 +1563,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 53
+		size = 119
 	}
 	labourers = {
 		culture = romano_celtic

@@ -69,6 +69,11 @@
 		religion = placeholder
 		size = 6000
 	}
+	soldiers = {
+		culture = tamil
+		religion = placeholder
+		size = 1943
+	}
 }
 1385 = {
 	aristocrats = {

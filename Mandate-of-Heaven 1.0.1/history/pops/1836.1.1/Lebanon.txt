@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 249
+		size = 991
 	}
 	farmers = {
 		culture = eastern_roman
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1466
+		size = 1859
 	}
 	farmers = {
 		culture = eastern_roman
@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 284
+		size = 1419
 	}
 	farmers = {
 		culture = eastern_roman
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1033
+		size = 1286
 	}
 	farmers = {
 		culture = eastern_roman

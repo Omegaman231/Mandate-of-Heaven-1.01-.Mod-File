@@ -67,10 +67,8 @@ water_wheel_power = 1
 publishing_industry = 1
 stock_exchange = 1
 market_structure = 1
-battleship_column_doctrine = 1
 
 consciousness = 1
 nonstate_consciousness = 1
 
 oob = "MEL_oob.txt"
-army_professionalism = 1

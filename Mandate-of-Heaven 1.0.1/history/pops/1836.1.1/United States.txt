@@ -507,6 +507,11 @@
 		religion = placeholder
 		size = 81
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 146
+	}
 }
 90 = {
 	aristocrats = {
@@ -532,7 +537,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3523
+		size = 714
 	}
 }
 91 = {
@@ -590,7 +595,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 51
+		size = 97
 	}
 	farmers = {
 		culture = pueblo
@@ -644,6 +649,11 @@
 		religion = placeholder
 		size = 75
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 149
+	}
 }
 96 = {
 	farmers = {
@@ -656,6 +666,11 @@
 		religion = placeholder
 		size = 280
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 128
+	}
 }
 97 = {
 	farmers = {
@@ -663,12 +678,22 @@
 		religion = placeholder
 		size = 1690
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 122
+	}
 }
 98 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
 		size = 1715
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 124
 	}
 }
 99 = {
@@ -680,7 +705,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 84
+		size = 218
 	}
 	artisans = {
 		culture = pueblo
@@ -712,7 +737,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 87
+		size = 171
 	}
 }
 101 = {
@@ -729,7 +754,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 157
+		size = 164
 	}
 	farmers = {
 		culture = pueblo
@@ -751,7 +776,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 70
+		size = 236
 	}
 	farmers = {
 		culture = pueblo
@@ -778,7 +803,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 183
+		size = 412
 	}
 	artisans = {
 		culture = pueblo
@@ -810,7 +835,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 166
+		size = 204
 	}
 	farmers = {
 		culture = pueblo
@@ -837,7 +862,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 113
+		size = 259
 	}
 	farmers = {
 		culture = pueblo
@@ -861,6 +886,11 @@
 		religion = placeholder
 		size = 113
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 48
+	}
 }
 107 = {
 	farmers = {
@@ -872,6 +902,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 287
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 100
 	}
 }
 108 = {
@@ -888,7 +923,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 84
+		size = 138
 	}
 	artisans = {
 		culture = pueblo
@@ -907,6 +942,11 @@
 		religion = placeholder
 		size = 56
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 23
+	}
 }
 110 = {
 	artisans = {
@@ -919,6 +959,11 @@
 		religion = placeholder
 		size = 630
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 48
+	}
 }
 111 = {
 	farmers = {
@@ -930,6 +975,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 329
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 100
 	}
 }
 112 = {
@@ -1086,6 +1136,11 @@
 		religion = placeholder
 		size = 629
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 34
+	}
 }
 122 = {
 	artisans = {
@@ -1097,6 +1152,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 1603
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 85
 	}
 }
 123 = {
@@ -1110,6 +1170,11 @@
 		religion = placeholder
 		size = 1252
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 93
+	}
 }
 124 = {
 	artisans = {
@@ -1121,6 +1186,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 1252
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 93
 	}
 }
 125 = {
@@ -1148,6 +1218,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 4815
+	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 373
 	}
 }
 126 = {
@@ -1179,7 +1254,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 175
+		size = 353
 	}
 }
 127 = {
@@ -1197,6 +1272,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 113
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 34
 	}
 }
 128 = {
@@ -1228,19 +1308,19 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 98
+		size = 221
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 21
+		size = 47
 	}
 }
 129 = {
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 139
+		size = 312
 	}
 	farmers = {
 		culture = pueblo
@@ -1252,12 +1332,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 114
+		size = 183
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 25
+		size = 40
 	}
 	farmers = {
 		culture = mississippian
@@ -1326,7 +1406,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 139
+		size = 311
 	}
 	farmers = {
 		culture = pueblo
@@ -1338,7 +1418,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 139
+		size = 311
 	}
 	farmers = {
 		culture = pueblo
@@ -1350,7 +1430,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 139
+		size = 311
 	}
 	farmers = {
 		culture = pueblo
@@ -1377,7 +1457,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 113
+		size = 228
 	}
 	farmers = {
 		culture = pueblo
@@ -1409,7 +1489,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 874
+		size = 1918
 	}
 	farmers = {
 		culture = pueblo
@@ -1436,7 +1516,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 524
+		size = 1171
 	}
 	farmers = {
 		culture = pueblo
@@ -1488,7 +1568,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8807
+		size = 2630
 	}
 	farmers = {
 		culture = mississippian
@@ -1520,7 +1600,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 385
+		size = 531
 	}
 }
 141 = {
@@ -1547,7 +1627,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 564
+		size = 696
 	}
 }
 142 = {
@@ -1574,7 +1654,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 249
+		size = 350
 	}
 }
 143 = {
@@ -1601,7 +1681,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 770
+		size = 739
 	}
 	farmers = {
 		culture = mississippian
@@ -1633,7 +1713,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 249
+		size = 350
 	}
 }
 145 = {
@@ -1660,7 +1740,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 119
+		size = 538
 	}
 }
 146 = {
@@ -1714,7 +1794,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 249
+		size = 350
 	}
 }
 148 = {
@@ -1741,7 +1821,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 532
+		size = 834
 	}
 }
 149 = {
@@ -1768,7 +1848,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 119
+		size = 357
 	}
 }
 150 = {
@@ -1795,7 +1875,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 119
+		size = 447
 	}
 }
 151 = {
@@ -1822,7 +1902,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 119
+		size = 447
 	}
 }
 152 = {
@@ -1849,7 +1929,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 119
+		size = 447
 	}
 }
 153 = {
@@ -1857,6 +1937,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 315
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 16
 	}
 }
 154 = {
@@ -1887,6 +1972,11 @@
 		religion = placeholder
 		size = 113
 	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 34
+	}
 }
 156 = {
 	artisans = {
@@ -1898,6 +1988,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 630
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 35
 	}
 }
 157 = {
@@ -1936,7 +2031,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 124
 	}
 }
 160 = {
@@ -1963,7 +2058,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 40
+		size = 68
 	}
 }
 161 = {
@@ -1985,7 +2080,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 48
+		size = 124
 	}
 }
 162 = {
@@ -2007,7 +2102,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 51
 	}
 }
 163 = {
@@ -2034,7 +2129,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 201
+		size = 407
 	}
 }
 164 = {
@@ -2056,7 +2151,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 215
 	}
 }
 165 = {
@@ -2078,7 +2173,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 106
 	}
 }
 166 = {
@@ -2100,7 +2195,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 233
 	}
 }
 167 = {
@@ -2127,7 +2222,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 201
+		size = 262
 	}
 }
 168 = {
@@ -2149,7 +2244,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 178
 	}
 }
 169 = {
@@ -2171,7 +2266,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 88
 	}
 }
 170 = {
@@ -2193,7 +2288,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 124
 	}
 }
 171 = {
@@ -2215,7 +2310,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 142
 	}
 }
 172 = {
@@ -2237,7 +2332,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 142
 	}
 }
 173 = {
@@ -2304,12 +2399,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 287
+		size = 327
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 63
+		size = 72
 	}
 }
 174 = {
@@ -2331,7 +2426,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 269
 	}
 }
 175 = {
@@ -2363,7 +2458,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 39
+		size = 178
 	}
 }
 176 = {
@@ -2385,7 +2480,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 178
 	}
 }
 177 = {
@@ -2412,7 +2507,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 40
+		size = 104
 	}
 }
 178 = {
@@ -2444,7 +2539,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 40
+		size = 168
 	}
 }
 179 = {
@@ -2476,7 +2571,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 40
+		size = 178
 	}
 }
 180 = {
@@ -2518,12 +2613,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 165
+		size = 214
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 36
+		size = 47
 	}
 }
 181 = {
@@ -2545,7 +2640,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 142
 	}
 }
 182 = {
@@ -2567,7 +2662,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 160
 	}
 }
 183 = {
@@ -2589,7 +2684,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 49
+		size = 124
 	}
 }
 184 = {
@@ -2612,6 +2707,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 6720
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 367
 	}
 }
 185 = {
@@ -2655,7 +2755,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 204
+		size = 339
 	}
 }
 187 = {
@@ -2719,7 +2819,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 249
+		size = 441
 	}
 }
 189 = {
@@ -2746,7 +2846,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 389
+		size = 513
 	}
 }
 190 = {
@@ -2768,7 +2868,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 525
+		size = 539
 	}
 	farmers = {
 		culture = mississippian
@@ -2827,7 +2927,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 393
+		size = 517
 	}
 }
 193 = {
@@ -2854,7 +2954,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 249
+		size = 531
 	}
 }
 194 = {
@@ -2881,7 +2981,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 267
+		size = 893
 	}
 }
 195 = {
@@ -2908,7 +3008,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 470
+		size = 892
 	}
 }
 196 = {
@@ -2935,7 +3035,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 577
+		size = 713
 	}
 }
 197 = {
@@ -2967,7 +3067,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 267
+		size = 895
 	}
 }
 198 = {
@@ -3014,12 +3114,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 219
+		size = 362
 	}
 	soldiers = {
 		culture = algonquian
 		religion = placeholder
-		size = 48
+		size = 79
 	}
 }
 199 = {
@@ -3056,12 +3156,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 330
+		size = 690
 	}
 	soldiers = {
 		culture = algonquian
 		religion = placeholder
-		size = 72
+		size = 150
 	}
 	farmers = {
 		culture = mississippian
@@ -3140,7 +3240,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 962
+		size = 1048
 	}
 }
 202 = {
@@ -3167,7 +3267,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 560
+		size = 860
 	}
 }
 204 = {
@@ -3241,7 +3341,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1090
+		size = 1585
 	}
 }
 206 = {
@@ -3273,7 +3373,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 311
+		size = 1078
 	}
 }
 207 = {
@@ -3325,12 +3425,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 172
+		size = 394
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 37
+		size = 85
 	}
 }
 208 = {
@@ -3382,12 +3482,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 186
+		size = 513
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 40
+		size = 110
 	}
 }
 209 = {
@@ -3419,7 +3519,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 665
+		size = 1423
 	}
 }
 210 = {
@@ -3451,7 +3551,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9909
+		size = 2020
 	}
 }
 211 = {
@@ -3503,12 +3603,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 258
+		size = 494
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 56
+		size = 107
 	}
 }
 212 = {
@@ -3550,12 +3650,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 502
+		size = 682
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 110
+		size = 149
 	}
 }
 213 = {
@@ -3582,7 +3682,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 612
+		size = 782
 	}
 }
 214 = {
@@ -3614,7 +3714,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 215
+		size = 236
 	}
 }
 215 = {
@@ -3723,12 +3823,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 258
+		size = 882
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 56
+		size = 191
 	}
 }
 217 = {
@@ -3765,12 +3865,12 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 200
+		size = 434
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 44
+		size = 96
 	}
 }
 218 = {
@@ -3819,7 +3919,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 205
+		size = 602
 	}
 }
 220 = {
@@ -3960,7 +4060,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 196
+		size = 298
 	}
 }
 223 = {
@@ -4007,7 +4107,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 205
+		size = 906
 	}
 }
 224 = {
@@ -4049,7 +4149,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 525
+		size = 530
 	}
 }
 225 = {
@@ -4076,7 +4176,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 196
+		size = 419
 	}
 }
 226 = {
@@ -4103,7 +4203,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 205
+		size = 480
 	}
 }
 227 = {
@@ -4140,12 +4240,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 200
+		size = 292
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 44
+		size = 64
 	}
 }
 228 = {
@@ -4167,7 +4267,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 181
 	}
 }
 229 = {
@@ -4236,7 +4336,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1289
+		size = 1088
 	}
 }
 231 = {
@@ -4263,7 +4363,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 205
+		size = 541
 	}
 }
 232 = {
@@ -4347,7 +4447,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12500
+		size = 3933
 	}
 }
 234 = {
@@ -4374,7 +4474,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 196
+		size = 358
 	}
 }
 235 = {
@@ -4401,7 +4501,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 196
+		size = 480
 	}
 }
 236 = {
@@ -4428,7 +4528,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 201
+		size = 297
 	}
 }
 237 = {
@@ -4450,7 +4550,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 217
 	}
 }
 238 = {
@@ -4526,7 +4626,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 109
+		size = 483
 	}
 }
 241 = {
@@ -4553,7 +4653,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 634
+		size = 910
 	}
 }
 242 = {
@@ -4580,7 +4680,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 109
+		size = 849
 	}
 }
 243 = {
@@ -4627,7 +4727,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 700
+		size = 1193
 	}
 }
 244 = {
@@ -4654,7 +4754,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 109
+		size = 362
 	}
 }
 245 = {
@@ -4681,7 +4781,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 109
+		size = 605
 	}
 }
 246 = {
@@ -4713,7 +4813,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 218
+		size = 479
 	}
 }
 247 = {
@@ -4735,7 +4835,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 109
+		size = 544
 	}
 }
 248 = {
@@ -4762,7 +4862,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 344
+		size = 475
 	}
 }
 249 = {
@@ -4799,12 +4899,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 282
+		size = 330
 	}
 	soldiers = {
 		culture = algonquian
 		religion = placeholder
-		size = 61
+		size = 71
 	}
 }
 250 = {
@@ -5107,12 +5207,12 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3498
+		size = 881
 	}
 	soldiers = {
 		culture = algonquian
 		religion = placeholder
-		size = 75
+		size = 19
 	}
 	artisans = {
 		culture = pueblo
@@ -5494,7 +5594,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 70
+		size = 363
 	}
 	farmers = {
 		culture = pueblo
@@ -5533,7 +5633,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 168
+		size = 289
 	}
 	artisans = {
 		culture = pueblo
@@ -5565,7 +5665,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 350
+		size = 897
 	}
 }
 2556 = {
@@ -5587,7 +5687,7 @@
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
-		size = 525
+		size = 539
 	}
 	farmers = {
 		culture = mississippian
@@ -5657,7 +5757,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 302
 	}
 }
 3299 = {
@@ -5684,7 +5784,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 244
+		size = 539
 	}
 }
 3300 = {
@@ -5727,5 +5827,10 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 1444
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 458
 	}
 }

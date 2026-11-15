@@ -2713,7 +2713,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 650
+		size = 1115
 	}
 	aristocrats = {
 		culture = sogdian
@@ -3285,12 +3285,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 12022
+		size = 9486
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 663
+		size = 523
 	}
 	farmers = {
 		culture = mongolic
@@ -3703,6 +3703,11 @@
 		religion = placeholder
 		size = 35357
 	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 398
+	}
 }
 1077 = {
 	aristocrats = {
@@ -3830,12 +3835,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 842
+		size = 846
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 185
+		size = 186
 	}
 	farmers = {
 		culture = mongolic
@@ -3906,6 +3911,11 @@
 		religion = placeholder
 		size = 75844
 	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 1091
+	}
 }
 1081 = {
 	aristocrats = {
@@ -3958,7 +3968,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 2276
+		size = 3384
 	}
 	farmers = {
 		culture = tungusic
@@ -3985,7 +3995,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 2368
+		size = 3387
 	}
 	farmers = {
 		culture = tungusic
@@ -4012,7 +4022,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1026
+		size = 1329
 	}
 	farmers = {
 		culture = tungusic
@@ -4044,7 +4054,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 20660
+		size = 18750
 	}
 	farmers = {
 		culture = tungusic
@@ -4090,6 +4100,11 @@
 		religion = placeholder
 		size = 4950
 	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 48
+	}
 }
 1088 = {
 	aristocrats = {
@@ -4105,7 +4120,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 504
+		size = 370
 	}
 	farmers = {
 		culture = tungusic
@@ -4128,6 +4143,11 @@
 		culture = japanese
 		religion = placeholder
 		size = 925
+	}
+	soldiers = {
+		culture = japanese
+		religion = placeholder
+		size = 9
 	}
 }
 2580 = {
@@ -4272,7 +4292,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1832
+		size = 2557
 	}
 	farmers = {
 		culture = tungusic
@@ -4386,7 +4406,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 5240
+		size = 4574
 	}
 }
 2642 = {
@@ -4450,6 +4470,11 @@
 		culture = tungusic
 		religion = placeholder
 		size = 34062
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 378
 	}
 }
 2646 = {
@@ -4608,6 +4633,11 @@
 		religion = placeholder
 		size = 32797
 	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 352
+	}
 }
 2657 = {
 	farmers = {
@@ -4732,7 +4762,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 744
+		size = 988
 	}
 	farmers = {
 		culture = tungusic
@@ -4818,6 +4848,11 @@
 		religion = placeholder
 		size = 8245
 	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 472
+	}
 }
 2677 = {
 	artisans = {
@@ -4829,6 +4864,11 @@
 		culture = tungusic
 		religion = placeholder
 		size = 45083
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 484
 	}
 }
 2680 = {
@@ -5169,7 +5209,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 940
+		size = 1339
 	}
 	farmers = {
 		culture = tungusic
@@ -5191,7 +5231,7 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 685
+		size = 1569
 	}
 	farmers = {
 		culture = mongolic

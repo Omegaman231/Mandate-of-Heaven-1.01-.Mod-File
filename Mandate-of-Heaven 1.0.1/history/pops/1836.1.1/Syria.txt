@@ -52,12 +52,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 987
+		size = 2088
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 216
+		size = 457
 	}
 	farmers = {
 		culture = persian
@@ -89,7 +89,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 963
+		size = 2657
 	}
 	farmers = {
 		culture = persian
@@ -203,12 +203,12 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 233
+		size = 971
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 51
+		size = 213
 	}
 	farmers = {
 		culture = eastern_roman
@@ -255,12 +255,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 322
+		size = 878
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 70
+		size = 191
 	}
 	farmers = {
 		culture = persian
@@ -307,12 +307,12 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1322
+		size = 1577
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 70
+		size = 83
 	}
 	farmers = {
 		culture = eastern_roman
@@ -359,12 +359,12 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 292
+		size = 1113
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 64
+		size = 244
 	}
 	farmers = {
 		culture = eastern_roman
@@ -401,7 +401,7 @@
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 181
+		size = 425
 	}
 	farmers = {
 		culture = eastern_roman

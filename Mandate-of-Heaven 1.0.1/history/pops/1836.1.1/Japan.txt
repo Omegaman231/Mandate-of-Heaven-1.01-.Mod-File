@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1487
+		size = 1668
 	}
 	farmers = {
 		culture = japanese
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1115
+		size = 1206
 	}
 	farmers = {
 		culture = japanese
@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1137
+		size = 1225
 	}
 	farmers = {
 		culture = japanese
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1203
+		size = 1312
 	}
 	farmers = {
 		culture = japanese
@@ -140,7 +140,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 393
+		size = 578
 	}
 	farmers = {
 		culture = japanese
@@ -162,7 +162,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 393
+		size = 576
 	}
 	farmers = {
 		culture = japanese
@@ -189,7 +189,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 699
+		size = 862
 	}
 	farmers = {
 		culture = japanese
@@ -231,7 +231,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2187
+		size = 2416
 	}
 	farmers = {
 		culture = japanese
@@ -258,7 +258,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 853
+		size = 919
 	}
 	farmers = {
 		culture = japanese
@@ -285,7 +285,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 349
+		size = 383
 	}
 	farmers = {
 		culture = japanese
@@ -312,7 +312,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 787
+		size = 842
 	}
 	farmers = {
 		culture = japanese
@@ -349,7 +349,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 3303
+		size = 3766
 	}
 	farmers = {
 		culture = japanese
@@ -376,7 +376,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1750
+		size = 1886
 	}
 	farmers = {
 		culture = japanese
@@ -403,7 +403,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1247
+		size = 1368
 	}
 	farmers = {
 		culture = japanese
@@ -430,7 +430,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2537
+		size = 2773
 	}
 	farmers = {
 		culture = japanese
@@ -457,7 +457,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1290
+		size = 1406
 	}
 	farmers = {
 		culture = japanese
@@ -484,7 +484,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 3390
+		size = 4369
 	}
 	farmers = {
 		culture = japanese
@@ -511,7 +511,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2340
+		size = 2547
 	}
 	farmers = {
 		culture = japanese
@@ -543,7 +543,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 39047
+		size = 32801
 	}
 	artisans = {
 		culture = japanese
@@ -580,7 +580,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2625
+		size = 2853
 	}
 	farmers = {
 		culture = japanese
@@ -607,7 +607,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2471
+		size = 2681
 	}
 	farmers = {
 		culture = japanese
@@ -644,7 +644,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1728
+		size = 1996
 	}
 	farmers = {
 		culture = japanese
@@ -671,7 +671,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2231
+		size = 2422
 	}
 	farmers = {
 		culture = japanese
@@ -698,7 +698,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1443
+		size = 1580
 	}
 	farmers = {
 		culture = japanese
@@ -725,7 +725,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 831
+		size = 910
 	}
 	farmers = {
 		culture = japanese
@@ -752,7 +752,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1684
+		size = 1838
 	}
 	farmers = {
 		culture = japanese
@@ -843,7 +843,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1531
+		size = 1683
 	}
 	farmers = {
 		culture = japanese
@@ -880,7 +880,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1378
+		size = 1546
 	}
 	farmers = {
 		culture = japanese
@@ -907,7 +907,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1312
+		size = 1407
 	}
 	farmers = {
 		culture = japanese
@@ -934,7 +934,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 699
+		size = 756
 	}
 	farmers = {
 		culture = japanese
@@ -961,7 +961,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 875
+		size = 948
 	}
 	farmers = {
 		culture = japanese
@@ -988,7 +988,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 831
+		size = 892
 	}
 	farmers = {
 		culture = japanese
@@ -1015,7 +1015,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 1225
+		size = 1226
 	}
 	farmers = {
 		culture = japanese
@@ -1042,7 +1042,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 896
+		size = 986
 	}
 	farmers = {
 		culture = japanese
@@ -1079,7 +1079,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 3238
+		size = 3588
 	}
 	farmers = {
 		culture = japanese
@@ -1106,7 +1106,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 962
+		size = 1044
 	}
 	farmers = {
 		culture = japanese
@@ -1133,7 +1133,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 2843
+		size = 3102
 	}
 	farmers = {
 		culture = japanese
@@ -1170,7 +1170,7 @@
 	soldiers = {
 		culture = japanese
 		religion = placeholder
-		size = 437
+		size = 463
 	}
 	farmers = {
 		culture = japanese

@@ -24,31 +24,31 @@ army = {
 	regiment = {
 		name = "5. Nubian Regiment"
 		type = hussar
-		home = 1838
+		home = 1840
 	}
 	regiment = {
 		name = "6. Nubian Regiment"
 		type = artillery
-		home = 1827
+		home = 1839
 	}
 	regiment = {
 		name = "7. Nubian Regiment"
 		type = artillery
-		home = 1838
+		home = 1841
 	}
 	regiment = {
 		name = "8. Nubian Regiment"
 		type = artillery
-		home = 1827
+		home = 1836
 	}
 	regiment = {
 		name = "9. Nubian Regiment"
 		type = artillery
-		home = 1838
+		home = 1842
 	}
 	regiment = {
 		name = "10. Nubian Regiment"
 		type = artillery
-		home = 1827
+		home = 1835
 	}
 }

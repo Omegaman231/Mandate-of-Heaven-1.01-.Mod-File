@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 25
+		size = 83
 	}
 	farmers = {
 		culture = arab
@@ -49,7 +49,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 75
+		size = 210
 	}
 	farmers = {
 		culture = arab
@@ -76,7 +76,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 37
+		size = 82
 	}
 	farmers = {
 		culture = arab
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1650
+		size = 508
 	}
 	farmers = {
 		culture = arab
@@ -135,7 +135,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 75
+		size = 184
 	}
 	farmers = {
 		culture = arab

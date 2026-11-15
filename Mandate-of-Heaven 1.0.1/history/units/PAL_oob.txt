@@ -253,7 +253,7 @@ army = {
 	regiment = {
 		name = "47. Palmyrene Regiment"
 		type = artillery
-		home = 1768
+		home = 1745
 	}
 	regiment = {
 		name = "48. Palmyrene Regiment"
@@ -263,7 +263,7 @@ army = {
 	regiment = {
 		name = "49. Palmyrene Regiment"
 		type = artillery
-		home = 1748
+		home = 1745
 	}
 	regiment = {
 		name = "50. Palmyrene Regiment"

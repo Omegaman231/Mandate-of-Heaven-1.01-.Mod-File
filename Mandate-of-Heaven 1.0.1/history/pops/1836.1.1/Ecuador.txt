@@ -29,6 +29,11 @@
 		religion = placeholder
 		size = 51548
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 696
+	}
 }
 2280 = {
 	aristocrats = {
@@ -115,6 +120,11 @@
 		religion = placeholder
 		size = 26800
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 293
+	}
 }
 2283 = {
 	aristocrats = {
@@ -136,6 +146,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 40250
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 413
 	}
 }
 2284 = {

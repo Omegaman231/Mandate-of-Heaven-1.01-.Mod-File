@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 148
+		size = 171
 	}
 	farmers = {
 		culture = greco_roman
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 85
+		size = 118
 	}
 	farmers = {
 		culture = greco_roman
@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 85
+		size = 118
 	}
 	farmers = {
 		culture = greco_roman

@@ -400,17 +400,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 29
+		size = 66
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2
+		size = 5
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 2
+		size = 4
 	}
 	farmers = {
 		culture = greco_roman
@@ -549,7 +549,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 61
+		size = 374
 	}
 	farmers = {
 		culture = romano_celtic
@@ -626,22 +626,22 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 103
+		size = 151
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 9
+		size = 13
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 9
+		size = 13
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 26
+		size = 39
 	}
 	farmers = {
 		culture = greco_roman
@@ -713,17 +713,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 104
+		size = 213
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 22
+		size = 45
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 22
+		size = 45
 	}
 	farmers = {
 		culture = greco_roman

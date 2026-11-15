@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 81
+		size = 92
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 150
+		size = 171
 	}
 }
 2569 = {
@@ -84,12 +84,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 101
+		size = 188
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 187
+		size = 349
 	}
 }
 2577 = {
@@ -136,12 +136,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 121
+		size = 473
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 225
+		size = 879
 	}
 }
 2582 = {
@@ -168,12 +168,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 141
+		size = 164
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 262
+		size = 304
 	}
 	farmers = {
 		culture = greco_roman

@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 184
+		size = 538
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 40
+		size = 117
 	}
 	aristocrats = {
 		culture = persian
@@ -94,12 +94,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 123
+		size = 317
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 27
+		size = 69
 	}
 	farmers = {
 		culture = sogdian
@@ -141,7 +141,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 69
+		size = 163
 	}
 	farmers = {
 		culture = sogdian
@@ -188,12 +188,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 485
+		size = 1270
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 106
+		size = 278
 	}
 	farmers = {
 		culture = persian
@@ -240,12 +240,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 485
+		size = 1097
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 106
+		size = 240
 	}
 	farmers = {
 		culture = persian
@@ -277,7 +277,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 150
+		size = 386
 	}
 	farmers = {
 		culture = persian

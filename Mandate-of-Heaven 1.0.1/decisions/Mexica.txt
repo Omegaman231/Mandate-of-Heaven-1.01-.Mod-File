@@ -1,0 +1,22 @@
+political_decisions = {
+	mex_subjugate_the_mayans = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = mayans_subjugated }
+		}
+		allow = {
+			war = no
+			MAY = {
+				all_core = { owned_by = THIS }
+			}
+		}
+		effect = {
+			MAY = {
+				all_core = { add_core = THIS }
+			}
+			set_country_flag = mayans_subjugated
+			prestige = 10
+		}
+		ai_will_do = { factor = 1 }
+	}
+}

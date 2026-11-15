@@ -39,7 +39,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -132,6 +132,11 @@
 		religion = placeholder
 		size = 162
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 9
+	}
 }
 2405 = {
 	aristocrats = {
@@ -185,6 +190,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 900
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 9
 	}
 }
 2408 = {
@@ -1991,7 +2001,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 20
+		size = 28
 	}
 	farmers = {
 		culture = quechua

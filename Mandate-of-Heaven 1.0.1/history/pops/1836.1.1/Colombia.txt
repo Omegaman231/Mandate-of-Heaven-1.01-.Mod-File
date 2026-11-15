@@ -59,6 +59,11 @@
 		religion = placeholder
 		size = 7875
 	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 581
+	}
 }
 2248 = {
 	aristocrats = {
@@ -94,12 +99,12 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 192
+		size = 260
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 42
+		size = 57
 	}
 	farmers = {
 		culture = muisca
@@ -131,7 +136,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 150
+		size = 317
 	}
 	farmers = {
 		culture = muisca
@@ -160,6 +165,11 @@
 		religion = placeholder
 		size = 14400
 	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 181
+	}
 }
 2251 = {
 	aristocrats = {
@@ -181,6 +191,11 @@
 		culture = muisca
 		religion = placeholder
 		size = 43650
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 514
 	}
 }
 2252 = {
@@ -217,7 +232,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 25
+		size = 291
 	}
 }
 2253 = {
@@ -254,12 +269,12 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 102
+		size = 469
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 22
+		size = 101
 	}
 	farmers = {
 		culture = muisca
@@ -291,7 +306,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 12375
+		size = 5128
 	}
 	farmers = {
 		culture = muisca
@@ -318,7 +333,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 200
+		size = 383
 	}
 	farmers = {
 		culture = muisca
@@ -376,6 +391,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 7731
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 545
 	}
 }
 2257 = {
@@ -570,7 +590,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 41
+		size = 46
 	}
 	farmers = {
 		culture = quechua
@@ -664,7 +684,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -701,7 +721,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 60
+		size = 209
 	}
 	farmers = {
 		culture = muisca
@@ -755,7 +775,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 125
+		size = 132
 	}
 	farmers = {
 		culture = muisca
@@ -797,7 +817,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 60
+		size = 533
 	}
 }
 3323 = {
@@ -1069,7 +1089,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 49
+		size = 72
 	}
 	farmers = {
 		culture = muisca

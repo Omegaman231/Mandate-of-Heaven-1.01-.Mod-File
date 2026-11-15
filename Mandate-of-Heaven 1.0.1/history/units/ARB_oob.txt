@@ -29,6 +29,6 @@ army = {
 	regiment = {
 		name = "6. Arabian Regiment"
 		type = irregular
-		home = 1152
+		home = 1157
 	}
 }

@@ -192,7 +192,7 @@ army = {
 	regiment = {
 		name = "28. Roman Regiment"
 		type = artillery
-		home = 1709
+		home = 860
 	}
 	regiment = {
 		name = "29. Roman Regiment"
@@ -452,7 +452,7 @@ army = {
 	regiment = {
 		name = "76. Roman Regiment"
 		type = artillery
-		home = 1705
+		home = 860
 	}
 	regiment = {
 		name = "77. Roman Regiment"

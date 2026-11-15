@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1650
+		size = 1506
 	}
 	farmers = {
 		culture = arab
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 75
+		size = 1086
 	}
 	farmers = {
 		culture = arab
@@ -96,12 +96,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 352
+		size = 384
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 39
+		size = 43
 	}
 	farmers = {
 		culture = arab
@@ -116,29 +116,34 @@
 }
 1177 = {
 	aristocrats = {
-		culture = arab
+		culture = zanjyue
 		religion = placeholder
 		size = 75
 	}
 	clergymen = {
-		culture = arab
+		culture = zanjyue
 		religion = placeholder
 		size = 105
 	}
 	artisans = {
-		culture = arab
+		culture = zanjyue
 		religion = placeholder
 		size = 225
 	}
 	soldiers = {
-		culture = arab
+		culture = zanjyue
 		religion = placeholder
-		size = 56
+		size = 105
 	}
 	farmers = {
-		culture = arab
+		culture = zanjyue
 		religion = placeholder
 		size = 5812
+	}
+	artisans = {
+		culture = gujarati
+		religion = placeholder
+		size = 5000
 	}
 }
 1178 = {
@@ -185,12 +190,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 8200
+		size = 2751
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 910
+		size = 305
 	}
 	farmers = {
 		culture = arab
@@ -237,12 +242,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 2277
+		size = 1122
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 252
+		size = 124
 	}
 	farmers = {
 		culture = arab
@@ -284,12 +289,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 2378
+		size = 1225
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 264
+		size = 136
 	}
 	farmers = {
 		culture = arab
@@ -336,12 +341,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 2378
+		size = 1482
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 264
+		size = 164
 	}
 	farmers = {
 		culture = arab

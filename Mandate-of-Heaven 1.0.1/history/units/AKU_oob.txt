@@ -93,12 +93,12 @@ army = {
 	regiment = {
 		name = "18. Aksumite Regiment"
 		type = artillery
-		home = 1855
+		home = 1861
 	}
 	regiment = {
 		name = "19. Aksumite Regiment"
 		type = artillery
-		home = 1855
+		home = 1862
 	}
 	regiment = {
 		name = "20. Aksumite Regiment"

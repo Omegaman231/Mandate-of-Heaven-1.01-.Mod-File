@@ -157,7 +157,7 @@ army = {
 	regiment = {
 		name = "29. Tamil Regiment"
 		type = artillery
-		home = 1178
+		home = 1304
 	}
 	regiment = {
 		name = "30. Tamil Regiment"
@@ -240,7 +240,7 @@ army = {
 	regiment = {
 		name = "44. Tamil Regiment"
 		type = infantry
-		home = 1178
+		home = 1304
 	}
 	regiment = {
 		name = "45. Tamil Regiment"

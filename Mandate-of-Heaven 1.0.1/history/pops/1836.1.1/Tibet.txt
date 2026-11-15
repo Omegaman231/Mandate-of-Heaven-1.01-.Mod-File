@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = placeholder
-		size = 4150
+		size = 3900
 	}
 	farmers = {
 		culture = tibetan

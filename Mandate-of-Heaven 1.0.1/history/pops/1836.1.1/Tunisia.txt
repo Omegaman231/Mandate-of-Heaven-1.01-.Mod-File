@@ -315,17 +315,17 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 101
+		size = 155
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8
+		size = 12
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 34
+		size = 52
 	}
 	farmers = {
 		culture = greco_roman

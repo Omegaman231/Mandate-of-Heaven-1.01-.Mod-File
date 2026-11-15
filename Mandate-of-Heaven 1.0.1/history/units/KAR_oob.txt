@@ -206,7 +206,7 @@ army = {
 	regiment = {
 		name = "39. Karnatan Regiment"
 		type = artillery
-		home = 1276
+		home = 1283
 	}
 	regiment = {
 		name = "40. Karnatan Regiment"
@@ -235,7 +235,7 @@ army = {
 	regiment = {
 		name = "44. Karnatan Regiment"
 		type = hussar
-		home = 1272
+		home = 1283
 	}
 	regiment = {
 		name = "45. Karnatan Regiment"
@@ -245,17 +245,17 @@ army = {
 	regiment = {
 		name = "46. Karnatan Regiment"
 		type = hussar
-		home = 1271
+		home = 1277
 	}
 	regiment = {
 		name = "47. Karnatan Regiment"
 		type = artillery
-		home = 1279
+		home = 1283
 	}
 	regiment = {
 		name = "48. Karnatan Regiment"
 		type = artillery
-		home = 1276
+		home = 1306
 	}
 	regiment = {
 		name = "49. Karnatan Regiment"

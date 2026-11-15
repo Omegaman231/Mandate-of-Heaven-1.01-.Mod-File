@@ -2,26 +2,26 @@
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 84
+		size = 840
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 910
+		size = 9100
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 122
+		size = 1220
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 2030
+		size = 20300
 	}
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 21
+		size = 210
 	}
 }

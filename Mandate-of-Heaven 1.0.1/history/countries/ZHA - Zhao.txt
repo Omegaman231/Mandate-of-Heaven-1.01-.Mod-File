@@ -1,4 +1,4 @@
-capital = 1515
+capital = 1614
 primary_culture = ne_chinese
 religion = placeholder
 government = absolute_monarchy

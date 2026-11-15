@@ -42,12 +42,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1572
+		size = 1768
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 836
+		size = 940
 	}
 	farmers = {
 		culture = swahili
@@ -99,12 +99,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 763
+		size = 858
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 358
+		size = 403
 	}
 	farmers = {
 		culture = swahili
@@ -166,17 +166,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 575
+		size = 647
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 126
+		size = 142
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 357
+		size = 402
 	}
 	farmers = {
 		culture = swahili
@@ -228,12 +228,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 631
+		size = 710
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 356
+		size = 400
 	}
 	farmers = {
 		culture = swahili
@@ -290,12 +290,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 738
+		size = 830
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 581
+		size = 654
 	}
 	farmers = {
 		culture = swahili
@@ -367,17 +367,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 982
+		size = 1105
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 214
+		size = 241
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 722
+		size = 812
 	}
 	farmers = {
 		culture = swahili
@@ -434,12 +434,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 266
+		size = 299
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 356
+		size = 400
 	}
 	farmers = {
 		culture = swahili
@@ -491,12 +491,12 @@
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 463
+		size = 521
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 357
+		size = 402
 	}
 	farmers = {
 		culture = ethiopian

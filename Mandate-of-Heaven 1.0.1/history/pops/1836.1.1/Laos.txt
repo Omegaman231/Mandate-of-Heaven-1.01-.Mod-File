@@ -131,7 +131,7 @@
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 150
+		size = 191
 	}
 	farmers = {
 		culture = siamese

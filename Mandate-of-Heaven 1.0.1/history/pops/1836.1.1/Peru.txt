@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 33
 	}
 	farmers = {
 		culture = quechua
@@ -71,7 +71,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -98,7 +98,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -140,7 +140,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 250
+		size = 624
 	}
 }
 2291 = {
@@ -164,6 +164,11 @@
 		religion = placeholder
 		size = 29850
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 353
+	}
 }
 2292 = {
 	clergymen = {
@@ -186,6 +191,11 @@
 		religion = placeholder
 		size = 800
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 370
+	}
 }
 2293 = {
 	clergymen = {
@@ -202,6 +212,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 59427
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 561
 	}
 }
 2294 = {
@@ -220,6 +235,11 @@
 		religion = placeholder
 		size = 45410
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 429
+	}
 }
 2295 = {
 	farmers = {
@@ -231,6 +251,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 500
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 546
 	}
 }
 2296 = {
@@ -249,6 +274,11 @@
 		religion = placeholder
 		size = 44325
 	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 435
+	}
 }
 2297 = {
 	farmers = {
@@ -265,6 +295,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 500
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 238
 	}
 }
 2298 = {
@@ -318,7 +353,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 225
+		size = 319
 	}
 	farmers = {
 		culture = quechua
@@ -345,7 +380,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 25
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -500,7 +535,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 250
+		size = 307
 	}
 	farmers = {
 		culture = quechua

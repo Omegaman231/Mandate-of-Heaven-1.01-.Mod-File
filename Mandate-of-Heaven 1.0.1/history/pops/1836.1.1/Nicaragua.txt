@@ -29,6 +29,11 @@
 		religion = placeholder
 		size = 16200
 	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 840
+	}
 }
 2198 = {
 	aristocrats = {
@@ -49,7 +54,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 100
+		size = 458
 	}
 	farmers = {
 		culture = maya
@@ -76,7 +81,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 1125
+		size = 1167
 	}
 	farmers = {
 		culture = maya
@@ -103,7 +108,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 1100
+		size = 1324
 	}
 	farmers = {
 		culture = maya

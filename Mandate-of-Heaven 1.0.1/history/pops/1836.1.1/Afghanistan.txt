@@ -297,7 +297,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 11200
+		size = 7903
 	}
 	farmers = {
 		culture = persian
@@ -324,7 +324,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 2300
+		size = 2509
 	}
 	farmers = {
 		culture = persian
@@ -418,12 +418,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 656
+		size = 1832
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 144
+		size = 402
 	}
 	farmers = {
 		culture = persian

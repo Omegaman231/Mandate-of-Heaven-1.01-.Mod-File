@@ -142,7 +142,7 @@ army = {
 	regiment = {
 		name = "27. Eranian Regiment"
 		type = artillery
-		home = 1167
+		home = 1108
 	}
 	regiment = {
 		name = "28. Eranian Regiment"
@@ -225,12 +225,12 @@ army = {
 	regiment = {
 		name = "42. Eranian Regiment"
 		type = infantry
-		home = 1220
+		home = 1108
 	}
 	regiment = {
 		name = "43. Eranian Regiment"
 		type = infantry
-		home = 1219
+		home = 1147
 	}
 	regiment = {
 		name = "44. Eranian Regiment"
@@ -240,7 +240,7 @@ army = {
 	regiment = {
 		name = "45. Eranian Regiment"
 		type = hussar
-		home = 1221
+		home = 1135
 	}
 	regiment = {
 		name = "46. Eranian Regiment"

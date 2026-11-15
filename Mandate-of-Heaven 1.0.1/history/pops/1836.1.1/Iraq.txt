@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 200
+		size = 705
 	}
 	farmers = {
 		culture = persian
@@ -180,7 +180,7 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 250
+		size = 634
 	}
 	farmers = {
 		culture = persian
@@ -222,12 +222,12 @@
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 143
+		size = 477
 	}
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 31
+		size = 103
 	}
 	farmers = {
 		culture = persian
@@ -259,7 +259,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 100
+		size = 693
 	}
 	farmers = {
 		culture = arab
@@ -311,7 +311,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 82
+		size = 696
 	}
 }
 931 = {
@@ -333,7 +333,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 20
+		size = 54
 	}
 	farmers = {
 		culture = arab
@@ -385,12 +385,12 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 123
+		size = 1180
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 27
+		size = 259
 	}
 	farmers = {
 		culture = arab
@@ -437,7 +437,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 150
+		size = 1057
 	}
 	farmers = {
 		culture = arab
@@ -469,6 +469,6 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 100
+		size = 666
 	}
 }

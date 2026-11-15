@@ -57,17 +57,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 2938
+		size = 3305
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 50
+		size = 56
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 414
+		size = 466
 	}
 	farmers = {
 		culture = swahili
@@ -124,17 +124,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 1198
+		size = 1348
 	}
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 263
+		size = 296
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 356
+		size = 400
 	}
 	farmers = {
 		culture = kongolese
@@ -196,12 +196,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1223
+		size = 1376
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 729
+		size = 820
 	}
 	farmers = {
 		culture = swahili
@@ -268,17 +268,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 2483
+		size = 2793
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 12
+		size = 14
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 341
+		size = 384
 	}
 	farmers = {
 		culture = swahili
@@ -335,12 +335,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1423
+		size = 1601
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 790
+		size = 889
 	}
 	farmers = {
 		culture = swahili

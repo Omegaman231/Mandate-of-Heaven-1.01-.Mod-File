@@ -1,5 +1,2 @@
-owner = MIS
-controller = MIS
-add_core = PUE
 trade_goods = grain
 life_rating = 35

@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 612
+		size = 1423
 	}
 	farmers = {
 		culture = pueblo
@@ -44,7 +44,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 350
+		size = 449
 	}
 	farmers = {
 		culture = pueblo
@@ -71,7 +71,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 979
+		size = 1629
 	}
 	farmers = {
 		culture = pueblo
@@ -103,7 +103,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 463
+		size = 579
 	}
 	farmers = {
 		culture = pueblo
@@ -142,7 +142,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 139
+		size = 260
 	}
 	farmers = {
 		culture = pueblo
@@ -159,7 +159,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 105
+		size = 376
 	}
 	farmers = {
 		culture = pueblo
@@ -186,7 +186,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 454
+		size = 711
 	}
 	farmers = {
 		culture = pueblo
@@ -213,7 +213,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4021
+		size = 574
 	}
 	farmers = {
 		culture = pueblo
@@ -245,12 +245,12 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 229
+		size = 158
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 50
+		size = 35
 	}
 	farmers = {
 		culture = pueblo
@@ -309,6 +309,11 @@
 		religion = placeholder
 		size = 151
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 425
+	}
 }
 2146 = {
 	aristocrats = {
@@ -334,7 +339,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 87
+		size = 405
 	}
 	farmers = {
 		culture = pueblo
@@ -425,7 +430,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 420
+		size = 775
 	}
 	farmers = {
 		culture = pueblo
@@ -437,59 +442,59 @@
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 52
+		size = 208
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 28
+		size = 112
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1854
+		size = 7416
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 3297
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 8750
+		size = 35000
 	}
 }
 2151 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 348
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 24
+		size = 96
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 52
+		size = 208
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 140
+		size = 560
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 6580
+		size = 26320
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 2124
 	}
 }
 2152 = {
@@ -511,7 +516,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 57
+		size = 181
 	}
 	farmers = {
 		culture = pueblo
@@ -523,1041 +528,1051 @@
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 122
+		size = 488
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 52
+		size = 208
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 3290
+		size = 13160
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 122
+		size = 4957
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 12600
+		size = 50400
 	}
 }
 2154 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 64
+		size = 256
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 21
+		size = 84
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 574
+		size = 2296
 	}
 	artisans = {
 		culture = pueblo
 		religion = placeholder
-		size = 126
+		size = 504
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 143
+		size = 1264
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 31
+		size = 274
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 3444
+		size = 13776
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 756
+		size = 3024
 	}
 }
 2155 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 86
+		size = 344
 	}
 	clergymen = {
-		culture = nahua
-		religion = placeholder
-		size = 50
-	}
-	artisans = {
 		culture = nahua
 		religion = placeholder
 		size = 200
 	}
 	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 800
+	}
+	artisans = {
 		culture = pueblo
 		religion = placeholder
-		size = 44
+		size = 176
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 71
+		size = 1629
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 4018
+		size = 16072
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 882
+		size = 3528
 	}
 }
 2156 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 348
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 35
+		size = 140
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 96
+		size = 384
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 507
+		size = 2028
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 2664
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7910
+		size = 31640
 	}
 }
 2157 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 50
+		size = 200
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 21
+		size = 84
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 100
+		size = 400
 	}
 	artisans = {
 		culture = pueblo
 		religion = placeholder
-		size = 22
+		size = 88
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 78
+		size = 5135
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 13489
+		size = 53956
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2961
+		size = 11844
 	}
 }
 2158 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 253
+		size = 1012
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 113
+		size = 452
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 104
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 148
+		size = 592
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 4200
+		size = 16800
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 533
+		size = 5674
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 13650
+		size = 54600
 	}
 }
 2159 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 78
+		size = 312
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 140
+		size = 560
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1680
+		size = 6720
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 210
+		size = 2832
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7280
+		size = 29120
 	}
 }
 2160 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 348
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 154
+		size = 616
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1338
+		size = 5352
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 8869
+		size = 35476
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 612
+		size = 3224
 	}
 }
 2161 = {
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 104
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 131
+		size = 524
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 428
+		size = 5859
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 18830
+		size = 75320
 	}
 }
 2162 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 166
+		size = 664
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 61
+		size = 244
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 115
+		size = 460
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 892
+		size = 3568
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 525
+		size = 4420
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 13090
+		size = 52360
 	}
 }
 2163 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 148
+		size = 592
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 75
+		size = 300
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 455
+		size = 1820
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 157
+		size = 2564
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7630
+		size = 30520
 	}
 }
 2164 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 71
+		size = 284
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 41
+		size = 164
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 315
+		size = 1260
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 69
+		size = 276
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 10245
+		size = 40980
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 2249
+		size = 8996
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 4008
 	}
 }
 2165 = {
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 350
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 301
+		size = 3010
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 66
+		size = 660
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 28
+		size = 938
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 1664
+		size = 16640
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 365
+		size = 3650
 	}
 }
 2166 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 542
+		size = 2168
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 348
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 104
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 244
+		size = 976
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1592
+		size = 6368
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 17220
+		size = 68880
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 1242
+		size = 6082
 	}
 }
 2167 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 220
+		size = 880
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 201
+		size = 804
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 131
+		size = 524
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 288
+		size = 1152
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 3115
+		size = 12460
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 542
+		size = 4223
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 9730
+		size = 38920
 	}
 }
 2168 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 105
+		size = 420
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 210
+		size = 840
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 735
+		size = 3985
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 12600
+		size = 50400
 	}
 }
 2169 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 236
+		size = 944
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 166
+		size = 664
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1207
+		size = 4828
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 761
+		size = 3758
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 10570
+		size = 42280
 	}
 }
 2170 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 122
+		size = 488
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 113
+		size = 452
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 236
+		size = 944
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1706
+		size = 6824
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 13755
+		size = 55020
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 875
+		size = 4916
 	}
 }
 2171 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 280
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 280
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 350
+		size = 1400
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 3024
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 9310
+		size = 37240
 	}
 }
 2172 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 288
+		size = 1152
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 330
+		size = 1320
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 21
+		size = 84
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 913
+		size = 3652
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 10955
+		size = 43820
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 11205
+		size = 12459
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 27872
+		size = 111488
 	}
 }
 2173 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 35
+		size = 140
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 175
+		size = 700
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1470
+		size = 5880
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 700
+		size = 5054
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 14700
+		size = 58800
 	}
 }
 2174 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 183
+		size = 732
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 63
+		size = 252
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 463
+		size = 1852
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 537
+		size = 6925
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 21735
+		size = 86940
 	}
 }
 2175 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 332
+		size = 1328
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 122
+		size = 488
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 210
+		size = 840
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 2222
+		size = 8888
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 16382
+		size = 65528
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 8610
+		size = 5945
 	}
 }
 2176 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 350
+		size = 1400
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 263
+		size = 1052
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 451
+		size = 1804
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 4217
+		size = 16868
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 9635
+		size = 7384
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 18650
+		size = 74600
 	}
 }
 2177 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 577
+		size = 2308
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 61
+		size = 244
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 104
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 288
+		size = 1152
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 2012
+		size = 8048
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 700
+		size = 5234
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 14000
+		size = 56000
 	}
 }
 2178 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 150
+		size = 600
 	}
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 33
+		size = 132
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 71
+		size = 284
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 401
+		size = 1604
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 88
+		size = 352
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 5797
+		size = 23188
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 1272
+		size = 5088
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 2410
 	}
 }
 2179 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 210
+		size = 840
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 43
+		size = 172
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 98
+		size = 392
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 3150
+		size = 12600
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 11270
+		size = 45080
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 787
+		size = 4558
 	}
 }
 2180 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 280
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 280
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 350
+		size = 1400
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 78
+		size = 3132
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 9660
+		size = 38640
 	}
 }
 2181 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 57
+		size = 570
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 57
+		size = 570
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 301
+		size = 3010
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 66
+		size = 660
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 137
+		size = 1459
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 30
+		size = 319
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 3386
+		size = 33860
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 743
+		size = 7430
 	}
 }
 2182 = {
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 350
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 301
+		size = 3010
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 66
+		size = 660
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 28
+		size = 965
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 1722
+		size = 17220
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 378
+		size = 3780
 	}
 }
 2183 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 70
+		size = 700
 	}
 	bureaucrats = {
 		culture = maya
 		religion = placeholder
-		size = 70
+		size = 700
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 857
+		size = 8570
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 7700
+		size = 77000
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 43
+		size = 430
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 210
+		size = 3372
 	}
 }
 2184 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 192
+		size = 1920
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 5600
+		size = 56000
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 350
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 315
+		size = 3150
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 70
+		size = 2369
 	}
 }
 2185 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 166
+		size = 1660
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 70
+		size = 700
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 367
+		size = 3670
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 82
+		size = 1394
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 3010
+		size = 30100
 	}
 }
 3301 = {
@@ -1579,7 +1594,7 @@
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
-		size = 210
+		size = 261
 	}
 	farmers = {
 		culture = pueblo
@@ -1598,174 +1613,206 @@
 		religion = placeholder
 		size = 175
 	}
+	soldiers = {
+		culture = pueblo
+		religion = placeholder
+		size = 57
+	}
 }
 3303 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 52
+		size = 208
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1155
+		size = 4620
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 3332
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 9590
+		size = 38360
 	}
 }
 3304 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 236
+		size = 944
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 166
+		size = 664
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1557
+		size = 6228
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 341
+		size = 3348
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 8890
+		size = 35560
 	}
 }
 3305 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 103
+		size = 412
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 42
+		size = 168
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 630
+		size = 2520
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 3349
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 10080
+		size = 40320
 	}
 }
 3306 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 332
+		size = 1328
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 1820
+		size = 7280
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 23520
+		size = 94080
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 700
+		size = 7958
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 119
+		size = 476
 	}
 }
 3307 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 140
+		size = 560
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 140
+		size = 560
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 192
+		size = 768
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 437
+		size = 7176
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 3990
+		size = 15960
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 18795
+		size = 75180
 	}
 }
 3308 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 52
+		size = 208
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 105
+		size = 420
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 87
+		size = 2424
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7700
+		size = 30800
 	}
 }
 3309 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 103
+		size = 412
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 42
+		size = 168
+	}
+	artisans = {
+		culture = nahua
+		religion = placeholder
+		size = 2800
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 2421
+	}
+	farmers = {
+		culture = nahua
+		religion = placeholder
+		size = 28000
+	}
+}
+3310 = {
+	aristocrats = {
+		culture = nahua
+		religion = placeholder
+		size = 140
+	}
+	clergymen = {
+		culture = nahua
+		religion = placeholder
+		size = 140
 	}
 	artisans = {
 		culture = nahua
@@ -1775,141 +1822,124 @@
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 70
+		size = 2106
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7000
-	}
-}
-3310 = {
-	aristocrats = {
-		culture = nahua
-		religion = placeholder
-		size = 35
-	}
-	clergymen = {
-		culture = nahua
-		religion = placeholder
-		size = 35
-	}
-	artisans = {
-		culture = nahua
-		religion = placeholder
-		size = 175
-	}
-	soldiers = {
-		culture = nahua
-		religion = placeholder
-		size = 35
-	}
-	farmers = {
-		culture = nahua
-		religion = placeholder
-		size = 6580
+		size = 26320
 	}
 }
 3311 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 112
+		size = 448
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 26
+		size = 104
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 735
+		size = 2940
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 6930
+		size = 27720
+	}
+	soldiers = {
+		culture = nahua
+		religion = placeholder
+		size = 2408
 	}
 }
 3312 = {
 	aristocrats = {
 		culture = nahua
 		religion = placeholder
-		size = 57
+		size = 228
 	}
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 50
+		size = 200
 	}
 	officers = {
 		culture = nahua
 		religion = placeholder
-		size = 43
+		size = 172
 	}
 	clergymen = {
 		culture = nahua
 		religion = placeholder
-		size = 22
+		size = 88
 	}
 	artisans = {
 		culture = nahua
 		religion = placeholder
-		size = 990
+		size = 3960
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 217
+		size = 868
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
-		size = 229
+		size = 2600
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 50
+		size = 568
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7289
+		size = 29156
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 1600
+		size = 6400
 	}
 }
 3313 = {
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 770
+		size = 23100
+	}
+	soldiers = {
+		culture = maya
+		religion = placeholder
+		size = 891
 	}
 }
 3314 = {
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 43
+		size = 430
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 367
+		size = 3670
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 1346
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 3080
+		size = 30800
 	}
 }

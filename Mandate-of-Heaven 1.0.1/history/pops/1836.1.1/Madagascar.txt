@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 4068
+		size = 4576
 	}
 	farmers = {
 		culture = rantaunesian
@@ -49,7 +49,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1803
+		size = 2028
 	}
 	farmers = {
 		culture = rantaunesian
@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1570
+		size = 1766
 	}
 	farmers = {
 		culture = rantaunesian
@@ -113,7 +113,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1288
+		size = 1449
 	}
 	farmers = {
 		culture = rantaunesian
@@ -145,7 +145,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 937
+		size = 1054
 	}
 	farmers = {
 		culture = rantaunesian
@@ -177,7 +177,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 866
+		size = 974
 	}
 	farmers = {
 		culture = rantaunesian
@@ -209,7 +209,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1335
+		size = 1502
 	}
 	farmers = {
 		culture = rantaunesian
@@ -241,7 +241,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1243
+		size = 1398
 	}
 	farmers = {
 		culture = rantaunesian

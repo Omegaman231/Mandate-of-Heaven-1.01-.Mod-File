@@ -41,6 +41,11 @@
 		religion = placeholder
 		size = 1340
 	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 16
+	}
 }
 2236 = {
 	farmers = {

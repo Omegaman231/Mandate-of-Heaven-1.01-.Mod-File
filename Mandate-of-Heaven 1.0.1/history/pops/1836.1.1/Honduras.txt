@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 1225
+		size = 1332
 	}
 	farmers = {
 		culture = maya
@@ -66,44 +66,44 @@
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 43
+		size = 430
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 367
+		size = 3670
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 2588
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 6300
+		size = 63000
 	}
 }
 2196 = {
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 43
+		size = 430
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 367
+		size = 3670
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 2183
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 5250
+		size = 52500
 	}
 }
 3315 = {
@@ -135,7 +135,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 800
+		size = 987
 	}
 	farmers = {
 		culture = maya

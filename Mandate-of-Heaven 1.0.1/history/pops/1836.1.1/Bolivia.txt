@@ -32,7 +32,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 13000
+		size = 7050
 	}
 	farmers = {
 		culture = quechua
@@ -140,7 +140,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 500
+		size = 520
 	}
 	clergymen = {
 		culture = quechua
@@ -182,7 +182,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 100
+		size = 128
 	}
 }
 2316 = {
@@ -273,7 +273,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 20
+		size = 28
 	}
 	farmers = {
 		culture = quechua
@@ -337,7 +337,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 20
+		size = 28
 	}
 	farmers = {
 		culture = quechua

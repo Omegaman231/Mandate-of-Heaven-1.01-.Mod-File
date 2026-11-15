@@ -74,5 +74,6 @@ steamers = 1
 consciousness = 1
 nonstate_consciousness = 1
 
+mechanical_production = 1
 oob = "ZEN_oob.txt"
 practical_steam_engine = 1

@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 10675
+		size = 7248
 	}
 	farmers = {
 		culture = romano_celtic
@@ -59,12 +59,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1701
+		size = 2794
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 373
+		size = 613
 	}
 	farmers = {
 		culture = romano_celtic
@@ -101,7 +101,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 10200
+		size = 8114
 	}
 	farmers = {
 		culture = romano_celtic
@@ -138,7 +138,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 475
+		size = 1611
 	}
 	farmers = {
 		culture = romano_celtic
@@ -170,7 +170,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 237
+		size = 726
 	}
 	farmers = {
 		culture = romano_celtic
@@ -202,7 +202,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 400
+		size = 1271
 	}
 	farmers = {
 		culture = romano_celtic
@@ -229,7 +229,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 325
+		size = 1013
 	}
 	farmers = {
 		culture = romano_celtic
@@ -261,7 +261,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 350
+		size = 1128
 	}
 	farmers = {
 		culture = romano_celtic
@@ -288,7 +288,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 225
+		size = 675
 	}
 	farmers = {
 		culture = romano_celtic
@@ -315,7 +315,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 287
+		size = 933
 	}
 	farmers = {
 		culture = romano_celtic
@@ -352,12 +352,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 297
+		size = 990
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 65
+		size = 217
 	}
 	farmers = {
 		culture = romano_celtic
@@ -569,7 +569,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 4200
+		size = 2484
 	}
 	farmers = {
 		culture = romano_celtic
@@ -596,7 +596,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2200
+		size = 1280
 	}
 	farmers = {
 		culture = romano_celtic
@@ -841,7 +841,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1016
+		size = 4256
 	}
 	farmers = {
 		culture = romano_celtic
@@ -878,7 +878,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 42
+		size = 166
 	}
 	farmers = {
 		culture = romano_celtic
@@ -905,7 +905,7 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 437
+		size = 1350
 	}
 	farmers = {
 		culture = romano_celtic

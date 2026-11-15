@@ -718,12 +718,12 @@
 	soldiers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 328
+		size = 422
 	}
 	soldiers = {
 		culture = austronesian
 		religion = placeholder
-		size = 72
+		size = 93
 	}
 	farmers = {
 		culture = austroasiatic

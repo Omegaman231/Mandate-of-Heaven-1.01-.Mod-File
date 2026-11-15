@@ -44,7 +44,7 @@ army = {
 	regiment = {
 		name = "9. Gujarati Regiment"
 		type = artillery
-		home = 1293
+		home = 1292
 	}
 	regiment = {
 		name = "10. Gujarati Regiment"

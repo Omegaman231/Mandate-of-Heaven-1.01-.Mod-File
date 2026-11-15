@@ -476,12 +476,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 471
+		size = 610
 	}
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 103
+		size = 133
 	}
 	farmers = {
 		culture = romano_celtic
@@ -528,12 +528,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 892
+		size = 1126
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 594
+		size = 750
 	}
 	farmers = {
 		culture = greco_roman
@@ -610,12 +610,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 801
+		size = 1104
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 175
+		size = 241
 	}
 	farmers = {
 		culture = greco_roman
@@ -672,12 +672,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 906
+		size = 1193
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 198
+		size = 261
 	}
 	farmers = {
 		culture = greco_roman
@@ -709,7 +709,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1190
+		size = 1563
 	}
 	craftsmen = {
 		culture = greco_roman
@@ -756,12 +756,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 383
+		size = 509
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 84
+		size = 112
 	}
 	farmers = {
 		culture = greco_roman
@@ -808,12 +808,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 307
+		size = 387
 	}
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 67
+		size = 85
 	}
 	farmers = {
 		culture = romano_celtic
@@ -989,12 +989,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 81
+		size = 104
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 152
+		size = 196
 	}
 	farmers = {
 		culture = greco_roman
@@ -1041,12 +1041,12 @@
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 184
+		size = 233
 	}
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 40
+		size = 51
 	}
 	farmers = {
 		culture = romano_celtic
@@ -1336,12 +1336,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 229
+		size = 288
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 153
+		size = 192
 	}
 	farmers = {
 		culture = greco_roman
@@ -1388,12 +1388,12 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 331
+		size = 398
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 221
+		size = 265
 	}
 	farmers = {
 		culture = greco_roman
@@ -1435,7 +1435,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1700
+		size = 1846
 	}
 	farmers = {
 		culture = greco_roman
@@ -1462,7 +1462,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 935
+		size = 1154
 	}
 	farmers = {
 		culture = greco_roman
@@ -1526,7 +1526,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 935
+		size = 1016
 	}
 	farmers = {
 		culture = greco_roman
@@ -1654,7 +1654,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 935
+		size = 1108
 	}
 	farmers = {
 		culture = greco_roman
@@ -1681,7 +1681,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 382
+		size = 481
 	}
 	farmers = {
 		culture = greco_roman
@@ -2270,7 +2270,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 7502
+		size = 5617
 	}
 	labourers = {
 		culture = greco_roman
@@ -2307,7 +2307,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 7502
+		size = 5617
 	}
 	farmers = {
 		culture = greco_roman
@@ -2344,7 +2344,7 @@
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 7502
+		size = 5617
 	}
 	farmers = {
 		culture = greco_roman

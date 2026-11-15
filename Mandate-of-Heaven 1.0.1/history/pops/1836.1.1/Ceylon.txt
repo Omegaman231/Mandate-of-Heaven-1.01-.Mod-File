@@ -22,7 +22,7 @@
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 1650
+		size = 1691
 	}
 	farmers = {
 		culture = tamil
@@ -86,7 +86,7 @@
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 1125
+		size = 1265
 	}
 	farmers = {
 		culture = tamil
@@ -113,7 +113,7 @@
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 862
+		size = 872
 	}
 	farmers = {
 		culture = tamil

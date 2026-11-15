@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 58
+		size = 106
 	}
 	farmers = {
 		culture = sogdian
@@ -113,12 +113,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 95
+		size = 150
 	}
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 20
+		size = 32
 	}
 	farmers = {
 		culture = sogdian
@@ -160,7 +160,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 93
+		size = 151
 	}
 	farmers = {
 		culture = sogdian
@@ -202,12 +202,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 95
+		size = 137
 	}
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 20
+		size = 29
 	}
 	farmers = {
 		culture = sogdian
@@ -254,12 +254,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 152
+		size = 346
 	}
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 33
+		size = 75
 	}
 	farmers = {
 		culture = sogdian
@@ -306,12 +306,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 227
+		size = 462
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 50
+		size = 102
 	}
 	farmers = {
 		culture = mongolic
@@ -343,7 +343,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 128
+		size = 203
 	}
 	farmers = {
 		culture = sogdian
@@ -397,7 +397,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 187
+		size = 339
 	}
 	farmers = {
 		culture = sogdian
@@ -424,7 +424,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 93
+		size = 143
 	}
 	farmers = {
 		culture = sogdian
@@ -510,7 +510,7 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 81
+		size = 128
 	}
 	farmers = {
 		culture = sogdian

@@ -24,7 +24,7 @@ army = {
 	regiment = {
 		name = "5. Inca Regiment"
 		type = irregular
-		home = 2310
+		home = 2303
 	}
 	regiment = {
 		name = "6. Inca Regiment"

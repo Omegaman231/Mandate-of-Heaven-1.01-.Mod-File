@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 935
+		size = 1052
 	}
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 536
+		size = 603
 	}
 	farmers = {
 		culture = swahili

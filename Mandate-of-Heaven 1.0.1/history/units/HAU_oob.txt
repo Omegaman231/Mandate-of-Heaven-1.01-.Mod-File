@@ -9,16 +9,16 @@ army = {
 	regiment = {
 		name = "2. Haudenosaunee Regiment"
 		type = irregular
-		home = 233
+		home = 232
 	}
 	regiment = {
 		name = "3. Haudenosaunee Regiment"
 		type = infantry
-		home = 233
+		home = 243
 	}
 	regiment = {
 		name = "4. Haudenosaunee Regiment"
 		type = cavalry
-		home = 233
+		home = 65
 	}
 }

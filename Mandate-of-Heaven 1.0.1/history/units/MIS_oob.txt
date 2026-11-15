@@ -9,7 +9,7 @@ army = {
 	regiment = {
 		name = "2. Mississippian Regiment"
 		type = irregular
-		home = 139
+		home = 205
 	}
 	regiment = {
 		name = "3. Mississippian Regiment"
@@ -19,11 +19,11 @@ army = {
 	regiment = {
 		name = "4. Mississippian Regiment"
 		type = cavalry
-		home = 210
+		home = 209
 	}
 	regiment = {
 		name = "5. Mississippian Regiment"
 		type = irregular
-		home = 210
+		home = 206
 	}
 }

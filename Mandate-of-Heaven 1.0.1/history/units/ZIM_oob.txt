@@ -14,16 +14,16 @@ army = {
 	regiment = {
 		name = "3. Zimbabwean Regiment"
 		type = infantry
-		home = 2105
+		home = 2050
 	}
 	regiment = {
 		name = "4. Zimbabwean Regiment"
 		type = cavalry
-		home = 2105
+		home = 2052
 	}
 	regiment = {
 		name = "5. Zimbabwean Regiment"
 		type = irregular
-		home = 2105
+		home = 2074
 	}
 }

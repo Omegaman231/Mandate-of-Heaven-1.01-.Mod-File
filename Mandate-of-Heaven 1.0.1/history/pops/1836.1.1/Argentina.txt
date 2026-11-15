@@ -466,12 +466,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 512
+		size = 474
 	}
 	soldiers = {
 		culture = amazonian
 		religion = placeholder
-		size = 112
+		size = 104
 	}
 	farmers = {
 		culture = quechua
@@ -555,12 +555,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 287
+		size = 264
 	}
 	soldiers = {
 		culture = amazonian
 		religion = placeholder
-		size = 63
+		size = 58
 	}
 	farmers = {
 		culture = quechua
@@ -683,7 +683,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 100
+		size = 302
 	}
 	farmers = {
 		culture = quechua
@@ -735,12 +735,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 172
+		size = 282
 	}
 	soldiers = {
 		culture = amazonian
 		religion = placeholder
-		size = 37
+		size = 61
 	}
 }
 2373 = {
@@ -872,6 +872,11 @@
 		culture = quechua
 		religion = placeholder
 		size = 15300
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 190
 	}
 }
 2376 = {
@@ -1283,12 +1288,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1043
+		size = 691
 	}
 	soldiers = {
 		culture = amazonian
 		religion = placeholder
-		size = 228
+		size = 151
 	}
 	farmers = {
 		culture = quechua

@@ -42,12 +42,12 @@
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 474
+		size = 1179
 	}
 	soldiers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 104
+		size = 259
 	}
 }
 1331 = {
@@ -94,12 +94,12 @@
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 287
+		size = 684
 	}
 	soldiers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 63
+		size = 150
 	}
 }
 1332 = {
@@ -146,12 +146,12 @@
 	soldiers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 307
+		size = 1908
 	}
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 67
+		size = 416
 	}
 	bureaucrats = {
 		culture = austroasiatic
@@ -208,12 +208,12 @@
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 451
+		size = 730
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 99
+		size = 160
 	}
 	farmers = {
 		culture = burman
@@ -332,12 +332,12 @@
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 3321
+		size = 2598
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 7035
+		size = 5504
 	}
 	farmers = {
 		culture = burman
@@ -483,12 +483,12 @@
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 881
+		size = 1021
 	}
 	soldiers = {
 		culture = burman
 		religion = placeholder
-		size = 193
+		size = 224
 	}
 	farmers = {
 		culture = siamese
@@ -810,12 +810,12 @@
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 738
+		size = 814
 	}
 	soldiers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 162
+		size = 179
 	}
 	farmers = {
 		culture = siamese

@@ -116,12 +116,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 1198
+		size = 1711
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 132
+		size = 189
 	}
 	farmers = {
 		culture = shona
@@ -163,12 +163,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 1230
+		size = 1963
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 136
+		size = 217
 	}
 	farmers = {
 		culture = shona
@@ -205,12 +205,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 354
+		size = 1511
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 39
+		size = 166
 	}
 	farmers = {
 		culture = shona
@@ -415,12 +415,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 291
+		size = 1075
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 32
+		size = 118
 	}
 	farmers = {
 		culture = shona
@@ -462,12 +462,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 396
+		size = 445
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 44
+		size = 49
 	}
 	farmers = {
 		culture = shona
@@ -524,12 +524,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 364
+		size = 1094
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
-		size = 40
+		size = 120
 	}
 	farmers = {
 		culture = shona
@@ -608,7 +608,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 541
+		size = 1368
 	}
 	farmers = {
 		culture = shona
@@ -803,7 +803,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 19583
+		size = 4013
 	}
 	farmers = {
 		culture = shona
@@ -830,7 +830,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 864
+		size = 1117
 	}
 	farmers = {
 		culture = shona
@@ -857,7 +857,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 804
+		size = 1191
 	}
 	farmers = {
 		culture = shona
@@ -889,7 +889,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 343
+		size = 1519
 	}
 	farmers = {
 		culture = shona
@@ -916,7 +916,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 440
+		size = 573
 	}
 	farmers = {
 		culture = shona
@@ -943,7 +943,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 205
+		size = 314
 	}
 	farmers = {
 		culture = shona
@@ -1061,7 +1061,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 534
+		size = 874
 	}
 	farmers = {
 		culture = shona

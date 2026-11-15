@@ -1,6 +1,7 @@
+owner = ZEN
+controller = ZEN
+add_core = ZEN
+add_core = GUJ
 trade_goods = fish
 life_rating = 35
-owner = TAM
-controller = TAM
-add_core = TAM
-colonial = 2
+naval_base = 1

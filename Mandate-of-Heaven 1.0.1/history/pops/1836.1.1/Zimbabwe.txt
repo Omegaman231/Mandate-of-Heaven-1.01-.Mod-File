@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 175
+		size = 474
 	}
 	farmers = {
 		culture = shona
@@ -44,7 +44,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 250
+		size = 670
 	}
 	farmers = {
 		culture = shona
@@ -71,7 +71,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 250
+		size = 670
 	}
 	farmers = {
 		culture = shona
@@ -103,7 +103,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 200
+		size = 472
 	}
 	farmers = {
 		culture = shona
@@ -130,7 +130,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 150
+		size = 334
 	}
 	farmers = {
 		culture = shona
@@ -157,7 +157,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 200
+		size = 505
 	}
 	farmers = {
 		culture = shona
@@ -184,7 +184,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 90
+		size = 251
 	}
 	farmers = {
 		culture = shona

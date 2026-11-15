@@ -691,7 +691,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 201
+		size = 297
 	}
 }
 47 = {
@@ -717,6 +717,11 @@
 		religion = placeholder
 		size = 90
 	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
+	}
 }
 49 = {
 	artisans = {
@@ -733,6 +738,11 @@
 		culture = algonquian
 		religion = placeholder
 		size = 110
+	}
+	soldiers = {
+		culture = mississippian
+		religion = placeholder
+		size = 33
 	}
 }
 50 = {
@@ -763,6 +773,11 @@
 		religion = placeholder
 		size = 399
 	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 77
+	}
 }
 52 = {
 	aristocrats = {
@@ -783,7 +798,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 83
 	}
 }
 53 = {
@@ -805,7 +820,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 132
 	}
 }
 54 = {
@@ -837,7 +852,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 40
+		size = 180
 	}
 }
 55 = {
@@ -859,7 +874,7 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 49
+		size = 266
 	}
 }
 56 = {
@@ -964,6 +979,11 @@
 		religion = placeholder
 		size = 39
 	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8
+	}
 }
 60 = {
 	farmers = {
@@ -975,6 +995,11 @@
 		culture = algonquian
 		religion = placeholder
 		size = 32
+	}
+	soldiers = {
+		culture = iroquoian
+		religion = placeholder
+		size = 6
 	}
 }
 61 = {
@@ -1080,12 +1105,12 @@
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 189
+		size = 136
 	}
 	soldiers = {
 		culture = algonquian
 		religion = placeholder
-		size = 41
+		size = 30
 	}
 }
 64 = {

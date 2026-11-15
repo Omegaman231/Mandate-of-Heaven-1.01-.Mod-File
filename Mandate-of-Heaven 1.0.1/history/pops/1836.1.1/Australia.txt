@@ -1050,12 +1050,12 @@
 	soldiers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 450
+		size = 413
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 50
+		size = 46
 	}
 	farmers = {
 		culture = aboriginal
@@ -1139,12 +1139,12 @@
 	soldiers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 675
+		size = 712
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 75
+		size = 79
 	}
 	farmers = {
 		culture = aboriginal

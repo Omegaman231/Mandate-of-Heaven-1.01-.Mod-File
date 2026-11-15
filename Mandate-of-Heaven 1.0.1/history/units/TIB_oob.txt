@@ -77,7 +77,7 @@ army = {
 	regiment = {
 		name = "14. Tibetan Regiment"
 		type = infantry
-		home = 1587
+		home = 1593
 	}
 	regiment = {
 		name = "15. Tibetan Regiment"

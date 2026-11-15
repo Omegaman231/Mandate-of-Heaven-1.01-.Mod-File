@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 125
+		size = 173
 	}
 	farmers = {
 		culture = soninke
@@ -108,7 +108,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 75
+		size = 100
 	}
 	farmers = {
 		culture = soninke

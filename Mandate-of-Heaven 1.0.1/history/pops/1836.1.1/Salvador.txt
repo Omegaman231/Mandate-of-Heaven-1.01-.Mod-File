@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 11100
+		size = 2682
 	}
 	farmers = {
 		culture = maya

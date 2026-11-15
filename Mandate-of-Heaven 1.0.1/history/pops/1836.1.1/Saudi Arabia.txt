@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 11025
+		size = 8981
 	}
 	farmers = {
 		culture = arab
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 10725
+		size = 5808
 	}
 	farmers = {
 		culture = arab
@@ -81,7 +81,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1725
+		size = 4076
 	}
 	farmers = {
 		culture = arab
@@ -113,7 +113,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 30
+		size = 1584
 	}
 	farmers = {
 		culture = arab
@@ -150,7 +150,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1762
+		size = 2770
 	}
 	farmers = {
 		culture = arab
@@ -182,7 +182,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 51
+		size = 900
 	}
 	farmers = {
 		culture = arab
@@ -224,7 +224,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 6000
+		size = 5378
 	}
 	farmers = {
 		culture = arab
@@ -251,7 +251,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1650
+		size = 871
 	}
 	farmers = {
 		culture = arab
@@ -278,7 +278,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1650
+		size = 1291
 	}
 	farmers = {
 		culture = arab
@@ -305,7 +305,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 37
+		size = 640
 	}
 	farmers = {
 		culture = arab
@@ -332,7 +332,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 1650
+		size = 1291
 	}
 	farmers = {
 		culture = arab
@@ -423,7 +423,7 @@
 	soldiers = {
 		culture = arab
 		religion = placeholder
-		size = 37
+		size = 898
 	}
 	farmers = {
 		culture = arab

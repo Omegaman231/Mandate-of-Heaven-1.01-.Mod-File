@@ -27,7 +27,7 @@
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 10225
+		size = 2811
 	}
 	farmers = {
 		culture = maya
@@ -39,80 +39,80 @@
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 61
+		size = 427
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 61
+		size = 427
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 490
+		size = 3430
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 148
+		size = 3114
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 10920
+		size = 76440
 	}
 }
 2188 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 52
+		size = 520
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 35
+		size = 350
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 315
+		size = 3150
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 210
+		size = 2100
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 4138
+		size = 41380
 	}
 }
 2189 = {
 	aristocrats = {
 		culture = maya
 		religion = placeholder
-		size = 70
+		size = 700
 	}
 	clergymen = {
 		culture = maya
 		religion = placeholder
-		size = 96
+		size = 960
 	}
 	artisans = {
 		culture = maya
 		religion = placeholder
-		size = 717
+		size = 7170
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 2660
+		size = 26600
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 87
+		size = 1367
 	}
 }

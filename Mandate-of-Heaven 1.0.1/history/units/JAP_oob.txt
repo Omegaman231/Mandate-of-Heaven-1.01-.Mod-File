@@ -152,7 +152,7 @@ army = {
 	regiment = {
 		name = "29. Yamato Regiment"
 		type = artillery
-		home = 1675
+		home = 1657
 	}
 	regiment = {
 		name = "30. Yamato Regiment"

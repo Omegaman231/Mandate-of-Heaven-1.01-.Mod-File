@@ -22,7 +22,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 250
+		size = 328
 	}
 	farmers = {
 		culture = soninke
@@ -49,7 +49,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 175
+		size = 257
 	}
 	farmers = {
 		culture = soninke
@@ -76,7 +76,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 220
+		size = 300
 	}
 	farmers = {
 		culture = soninke
@@ -103,7 +103,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 75
+		size = 100
 	}
 	farmers = {
 		culture = soninke
@@ -130,7 +130,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 25
+		size = 43
 	}
 	farmers = {
 		culture = soninke
@@ -157,7 +157,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 25
+		size = 43
 	}
 	farmers = {
 		culture = soninke
@@ -184,7 +184,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 75
+		size = 101
 	}
 	farmers = {
 		culture = soninke
@@ -216,7 +216,7 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 41
+		size = 57
 	}
 	farmers = {
 		culture = soninke

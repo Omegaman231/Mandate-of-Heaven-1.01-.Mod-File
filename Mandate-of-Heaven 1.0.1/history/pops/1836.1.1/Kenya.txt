@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1605
+		size = 1806
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 845
+		size = 951
 	}
 	farmers = {
 		culture = swahili
@@ -99,17 +99,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 357
+		size = 402
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 76
+		size = 86
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 357
+		size = 402
 	}
 	farmers = {
 		culture = swahili
@@ -171,12 +171,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 306
+		size = 344
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 356
+		size = 400
 	}
 	farmers = {
 		culture = swahili
@@ -233,17 +233,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 818
+		size = 920
 	}
 	soldiers = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 249
+		size = 280
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 355
+		size = 399
 	}
 	farmers = {
 		culture = swahili
@@ -305,12 +305,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 1252
+		size = 1408
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 735
+		size = 827
 	}
 	farmers = {
 		culture = swahili
@@ -419,17 +419,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 636
+		size = 716
 	}
 	soldiers = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 194
+		size = 218
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 356
+		size = 400
 	}
 	farmers = {
 		culture = swahili
@@ -506,17 +506,17 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 522
+		size = 587
 	}
 	soldiers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 114
+		size = 128
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 550
+		size = 619
 	}
 	farmers = {
 		culture = swahili
@@ -573,12 +573,12 @@
 	soldiers = {
 		culture = swahili
 		religion = placeholder
-		size = 894
+		size = 1006
 	}
 	soldiers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 893
+		size = 1005
 	}
 	farmers = {
 		culture = swahili

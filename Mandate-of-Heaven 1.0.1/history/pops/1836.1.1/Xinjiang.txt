@@ -235,12 +235,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 256
+		size = 260
 	}
 	soldiers = {
 		culture = tibetan
 		religion = placeholder
-		size = 56
+		size = 57
 	}
 	farmers = {
 		culture = sogdian

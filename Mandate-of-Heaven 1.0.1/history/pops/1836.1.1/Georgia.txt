@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 1462
+		size = 1781
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 321
+		size = 391
 	}
 	aristocrats = {
 		culture = sogdian
@@ -208,12 +208,12 @@
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 320
+		size = 864
 	}
 	soldiers = {
 		culture = persian
 		religion = placeholder
-		size = 70
+		size = 189
 	}
 	farmers = {
 		culture = sogdian

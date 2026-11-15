@@ -12,7 +12,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 305
+		size = 343
 	}
 	farmers = {
 		culture = rantaunesian
@@ -39,7 +39,7 @@
 	soldiers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 462
+		size = 520
 	}
 	farmers = {
 		culture = rantaunesian

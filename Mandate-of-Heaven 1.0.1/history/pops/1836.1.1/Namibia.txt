@@ -101,7 +101,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 61
+		size = 166
 	}
 	farmers = {
 		culture = shona
@@ -133,7 +133,7 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 35
+		size = 112
 	}
 	farmers = {
 		culture = shona
@@ -170,12 +170,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 102
+		size = 252
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 22
+		size = 54
 	}
 	farmers = {
 		culture = shona

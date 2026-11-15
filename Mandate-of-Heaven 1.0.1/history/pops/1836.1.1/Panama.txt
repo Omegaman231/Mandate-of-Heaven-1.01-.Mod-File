@@ -17,7 +17,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 35
+		size = 77
 	}
 	farmers = {
 		culture = muisca
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 150
+		size = 641
 	}
 	farmers = {
 		culture = muisca
@@ -96,7 +96,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 69
+		size = 512
 	}
 	farmers = {
 		culture = muisca
@@ -128,7 +128,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 60
+		size = 323
 	}
 	farmers = {
 		culture = muisca
@@ -155,7 +155,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 20
+		size = 22
 	}
 	farmers = {
 		culture = muisca

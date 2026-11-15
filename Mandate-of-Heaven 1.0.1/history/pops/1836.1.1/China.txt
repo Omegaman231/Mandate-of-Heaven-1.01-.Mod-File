@@ -175,27 +175,52 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6547
+		size = 6285
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 262
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3360
+		size = 3226
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 134
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 16912
+		size = 16236
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 676
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3367
+		size = 3232
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 135
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 305512
+		size = 293292
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 12220
 	}
 }
 1474 = {
@@ -705,52 +730,52 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3075
+		size = 1282
 	}
 	aristocrats = {
 		culture = yue
 		religion = placeholder
-		size = 675
+		size = 2092
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1549
+		size = 646
 	}
 	clergymen = {
 		culture = yue
 		religion = placeholder
-		size = 340
+		size = 1054
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 7749
+		size = 3232
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 1701
+		size = 5273
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1555
+		size = 648
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 341
+		size = 1058
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 141050
+		size = 58828
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 30962
+		size = 95983
 	}
 }
 1484 = {
@@ -1543,52 +1568,77 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 5670
+		size = 4082
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 1936
 	}
 	aristocrats = {
 		culture = siamese
 		religion = placeholder
-		size = 1244
+		size = 896
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2865
+		size = 2063
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 978
 	}
 	clergymen = {
 		culture = siamese
 		religion = placeholder
-		size = 629
+		size = 453
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 14354
+		size = 10335
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 4901
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 3150
+		size = 2268
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2878
+		size = 2072
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 983
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 631
+		size = 454
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 261756
+		size = 188464
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 89380
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 57458
+		size = 41370
 	}
 }
 1504 = {
@@ -1647,72 +1697,107 @@
 	aristocrats = {
 		culture = siamese
 		religion = placeholder
-		size = 1408
+		size = 1126
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 344
 	}
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 309
+		size = 247
 	}
 	bureaucrats = {
 		culture = siamese
 		religion = placeholder
-		size = 612
+		size = 490
+	}
+	bureaucrats = {
+		culture = yue
+		religion = placeholder
+		size = 148
 	}
 	bureaucrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 132
+		size = 106
 	}
 	officers = {
 		culture = siamese
 		religion = placeholder
-		size = 338
+		size = 270
+	}
+	officers = {
+		culture = yue
+		religion = placeholder
+		size = 83
 	}
 	officers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 74
+		size = 59
 	}
 	clergymen = {
 		culture = siamese
 		religion = placeholder
-		size = 830
+		size = 664
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 202
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 182
+		size = 146
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 3554
+		size = 2843
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 867
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 780
+		size = 624
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 713
+		size = 570
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 174
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 156
+		size = 125
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 64206
+		size = 51365
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 15660
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 14094
+		size = 11275
 	}
 }
 1506 = {
@@ -1771,52 +1856,77 @@
 	aristocrats = {
 		culture = siamese
 		religion = placeholder
-		size = 3038
+		size = 2916
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 149
 	}
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 666
+		size = 639
 	}
 	clergymen = {
 		culture = siamese
 		religion = placeholder
-		size = 1531
+		size = 1470
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 74
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 336
+		size = 323
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 7632
+		size = 7327
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 372
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1675
+		size = 1608
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 1531
+		size = 1470
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 74
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 336
+		size = 323
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 139057
+		size = 133495
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 6783
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 30524
+		size = 29303
 	}
 }
 1508 = {
@@ -1895,52 +2005,52 @@
 	aristocrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 3972
+		size = 2780
 	}
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 872
+		size = 610
 	}
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 2004
+		size = 1403
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 440
+		size = 308
 	}
 	artisans = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 9999
+		size = 6999
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2195
+		size = 1537
 	}
 	soldiers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 1998
+		size = 1399
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 438
+		size = 307
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 181775
+		size = 127243
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 39901
+		size = 27931
 	}
 }
 1510 = {
@@ -2570,37 +2680,72 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6150
+		size = 5904
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 246
 	}
 	bureaucrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 5400
+		size = 5184
+	}
+	bureaucrats = {
+		culture = yue
+		religion = placeholder
+		size = 216
 	}
 	officers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1545
+		size = 1483
+	}
+	officers = {
+		culture = yue
+		religion = placeholder
+		size = 62
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3097
+		size = 2973
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 124
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 15450
+		size = 14832
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 618
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3315
+		size = 3182
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 133
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 278092
+		size = 266968
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 11124
 	}
 }
 1525 = {
@@ -2634,104 +2779,129 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 4649
+		size = 4277
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 454
 	}
 	aristocrats = {
 		culture = siamese
 		religion = placeholder
-		size = 1020
+		size = 938
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2398
+		size = 2206
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 234
 	}
 	clergymen = {
 		culture = siamese
 		religion = placeholder
-		size = 526
+		size = 484
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 11844
+		size = 10896
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 1156
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 2600
+		size = 2392
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2373
+		size = 2183
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 232
 	}
 	soldiers = {
 		culture = siamese
 		religion = placeholder
-		size = 521
+		size = 479
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 215631
+		size = 198381
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 21037
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 47333
+		size = 43546
 	}
 }
 1527 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 4624
+		size = 4060
 	}
 	aristocrats = {
 		culture = yue
 		religion = placeholder
-		size = 1015
+		size = 1579
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2337
+		size = 2052
 	}
 	clergymen = {
 		culture = yue
 		religion = placeholder
-		size = 513
+		size = 798
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 11672
+		size = 10249
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 2562
+		size = 3985
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2343
+		size = 2057
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 514
+		size = 800
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 212476
+		size = 186564
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 46641
+		size = 72553
 	}
 }
 1528 = {
@@ -2817,52 +2987,52 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3640
+		size = 3019
 	}
 	aristocrats = {
 		culture = yue
 		religion = placeholder
-		size = 799
+		size = 1420
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1838
+		size = 1524
 	}
 	clergymen = {
 		culture = yue
 		religion = placeholder
-		size = 403
+		size = 717
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 9163
+		size = 7599
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 2011
+		size = 3575
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1838
+		size = 1524
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 403
+		size = 717
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 166788
+		size = 138311
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 36612
+		size = 65089
 	}
 }
 1532 = {
@@ -3420,148 +3590,238 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 4147
+		size = 3815
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 332
 	}
 	bureaucrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 7380
+		size = 6790
+	}
+	bureaucrats = {
+		culture = yue
+		religion = placeholder
+		size = 590
 	}
 	officers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1950
+		size = 1794
+	}
+	officers = {
+		culture = yue
+		religion = placeholder
+		size = 156
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2092
+		size = 1925
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 167
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 10410
+		size = 9577
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 833
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2242
+		size = 2063
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 179
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 187462
+		size = 172465
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 14997
 	}
 }
 1546 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 4425
+		size = 3717
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 708
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2220
+		size = 1865
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 355
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 11100
+		size = 9324
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 1776
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2227
+		size = 1871
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 356
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 202027
+		size = 169703
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 32324
 	}
 }
 1547 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 10020
+		size = 8016
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 2004
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 5040
+		size = 4032
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 1008
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 25095
+		size = 20076
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 5019
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 14025
+		size = 11220
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 2805
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 415776
+		size = 332621
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 83155
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 31944
+		size = 25555
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 6389
 	}
 }
 1548 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2029
+		size = 1710
 	}
 	aristocrats = {
 		culture = yue
 		religion = placeholder
-		size = 445
+		size = 1140
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1020
+		size = 860
 	}
 	clergymen = {
 		culture = yue
 		religion = placeholder
-		size = 224
+		size = 573
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 5092
+		size = 4293
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 1117
+		size = 2861
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1027
+		size = 866
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 225
+		size = 576
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 92674
+		size = 78130
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 20343
+		size = 52088
 	}
 }
 1549 = {
@@ -3647,27 +3907,52 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 4350
+		size = 4002
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 348
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2190
+		size = 2015
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 175
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 10935
+		size = 10060
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 875
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2197
+		size = 2021
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 176
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 199027
+		size = 183105
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 15922
 	}
 }
 1552 = {
@@ -3753,7 +4038,7 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 21910
+		size = 19943
 	}
 	farmers = {
 		culture = tungusic
@@ -3795,12 +4080,12 @@
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 21384
+		size = 21050
 	}
 	soldiers = {
 		culture = korean
 		religion = placeholder
-		size = 742
+		size = 730
 	}
 	farmers = {
 		culture = tungusic
@@ -5313,37 +5598,72 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2505
+		size = 2405
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 100
 	}
 	bureaucrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1920
+		size = 1843
+	}
+	bureaucrats = {
+		culture = yue
+		religion = placeholder
+		size = 77
 	}
 	officers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 765
+		size = 734
+	}
+	officers = {
+		culture = yue
+		religion = placeholder
+		size = 31
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1275
+		size = 1224
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 51
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 22800
+		size = 21888
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 912
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1425
+		size = 1368
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 57
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 97365
+		size = 93470
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 3895
 	}
 }
 1605 = {
@@ -5404,27 +5724,52 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3067
+		size = 2576
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 491
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1545
+		size = 1298
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 247
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 7740
+		size = 6502
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 1238
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1567
+		size = 1316
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 251
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 140880
+		size = 118339
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 22541
 	}
 }
 1608 = {
@@ -5458,106 +5803,156 @@
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1282
+		size = 1231
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 51
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 660
+		size = 634
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 26
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 3270
+		size = 3139
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 131
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 660
+		size = 634
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 26
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 59527
+		size = 57146
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 2381
 	}
 }
 1610 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2520
+		size = 2318
+	}
+	aristocrats = {
+		culture = yue
+		religion = placeholder
+		size = 202
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1260
+		size = 1159
+	}
+	clergymen = {
+		culture = yue
+		religion = placeholder
+		size = 101
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6315
+		size = 5810
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 505
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1267
+		size = 1166
+	}
+	soldiers = {
+		culture = yue
+		religion = placeholder
+		size = 101
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 114937
+		size = 105742
+	}
+	farmers = {
+		culture = yue
+		religion = placeholder
+		size = 9195
 	}
 }
 1611 = {
 	aristocrats = {
 		culture = south_chinese
 		religion = placeholder
-		size = 2152
+		size = 1785
 	}
 	aristocrats = {
 		culture = yue
 		religion = placeholder
-		size = 472
+		size = 839
 	}
 	clergymen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1088
+		size = 902
 	}
 	clergymen = {
 		culture = yue
 		religion = placeholder
-		size = 238
+		size = 424
 	}
 	artisans = {
 		culture = south_chinese
 		religion = placeholder
-		size = 5448
+		size = 4518
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 1196
+		size = 2126
 	}
 	soldiers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1088
+		size = 902
 	}
 	soldiers = {
 		culture = yue
 		religion = placeholder
-		size = 238
+		size = 424
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 98732
+		size = 81874
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 21672
+		size = 38530
 	}
 }
 1612 = {
@@ -5693,7 +6088,7 @@
 	aristocrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 4132
+		size = 5324
 	}
 	aristocrats = {
 		culture = nw_chinese
@@ -5703,7 +6098,7 @@
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 2066
+		size = 2667
 	}
 	clergymen = {
 		culture = nw_chinese
@@ -5713,7 +6108,7 @@
 	artisans = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 10344
+		size = 13344
 	}
 	artisans = {
 		culture = nw_chinese
@@ -5723,7 +6118,7 @@
 	soldiers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 2072
+		size = 2671
 	}
 	soldiers = {
 		culture = nw_chinese
@@ -5733,12 +6128,37 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 188269
+		size = 242801
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
 		size = 41327
+	}
+	aristocrats = {
+		culture = south_chinese
+		religion = placeholder
+		size = 262
+	}
+	clergymen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 132
+	}
+	artisans = {
+		culture = south_chinese
+		religion = placeholder
+		size = 658
+	}
+	soldiers = {
+		culture = south_chinese
+		religion = placeholder
+		size = 131
+	}
+	farmers = {
+		culture = south_chinese
+		religion = placeholder
+		size = 11970
 	}
 }
 1615 = {

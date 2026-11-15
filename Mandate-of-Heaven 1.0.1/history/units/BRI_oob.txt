@@ -27,7 +27,7 @@ army = {
 	regiment = {
 		name = "5. Britannic Regiment"
 		type = artillery
-		home = 269
+		home = 300
 	}
 	regiment = {
 		name = "6. Britannic Regiment"

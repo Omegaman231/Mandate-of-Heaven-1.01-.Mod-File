@@ -303,12 +303,12 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 205
+		size = 457
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 45
+		size = 100
 	}
 	farmers = {
 		culture = shona

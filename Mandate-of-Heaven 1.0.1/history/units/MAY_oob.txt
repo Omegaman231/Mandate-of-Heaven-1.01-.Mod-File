@@ -9,12 +9,12 @@ army = {
 	regiment = {
 		name = "2. Mayan Regiment"
 		type = irregular
-		home = 2186
+		home = 2183
 	}
 	regiment = {
 		name = "3. Mayan Regiment"
 		type = infantry
-		home = 2186
+		home = 2187
 	}
 	regiment = {
 		name = "4. Mayan Regiment"

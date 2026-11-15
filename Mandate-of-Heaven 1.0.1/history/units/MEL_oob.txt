@@ -84,55 +84,15 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name = "Melainadu 2 III"
-		type = frigate
-	}
-	ship = {
 		name = "Melainadu Transport 1 III"
 		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu 1 IV"
-		type = frigate
-	}
-	ship = {
-		name = "Melainadu 2 IV"
-		type = frigate
 	}
 	ship = {
 		name = "Melainadu Transport 1 IV"
 		type = clipper_transport
 	}
 	ship = {
-		name = "Melainadu 1 V"
-		type = frigate
-	}
-	ship = {
-		name = "Melainadu 2 V"
-		type = frigate
-	}
-	ship = {
 		name = "Melainadu Transport 1 V"
-		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu Fleet Transport 1"
-		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu Fleet Transport 2"
-		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu Fleet Transport 3"
-		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu Fleet Transport 4"
-		type = clipper_transport
-	}
-	ship = {
-		name = "Melainadu Fleet Transport 5"
 		type = clipper_transport
 	}
 }

@@ -17,7 +17,7 @@ army = {
 	regiment = {
 		name = "3. Hispanic Regiment"
 		type = infantry
-		home = 518
+		home = 501
 	}
 	regiment = {
 		name = "4. Hispanic Regiment"
@@ -32,7 +32,7 @@ army = {
 	regiment = {
 		name = "6. Hispanic Regiment"
 		type = infantry
-		home = 474
+		home = 501
 	}
 	regiment = {
 		name = "7. Hispanic Regiment"
