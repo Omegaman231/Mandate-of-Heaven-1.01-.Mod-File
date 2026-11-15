@@ -3448,7 +3448,7 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 2628
+		size = 4000
 	}
 	soldiers = {
 		culture = sogdian
@@ -3458,7 +3458,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 70767
+		size = 69395
 	}
 	farmers = {
 		culture = sogdian
@@ -4125,12 +4125,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1925
+		size = 1940
 	}
 	bureaucrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 25
+		size = 10
 	}
 }
 1089 = {
@@ -5231,12 +5231,12 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 1569
+		size = 4000
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 143615
+		size = 141184
 	}
 }
 2699 = {

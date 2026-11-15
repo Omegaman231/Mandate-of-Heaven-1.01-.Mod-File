@@ -477,17 +477,17 @@
 	bureaucrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 2264
+		size = 5343
 	}
 	bureaucrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 1160
+		size = 2737
 	}
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 1844
+		size = 4351
 	}
 	officers = {
 		culture = tungusic
@@ -552,17 +552,17 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 144712
+		size = 141633
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 74039
+		size = 72462
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 117789
+		size = 115282
 	}
 }
 1480 = {

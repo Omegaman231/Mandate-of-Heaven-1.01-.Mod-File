@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 1740
+		size = 4106
 	}
 	officers = {
 		culture = korean
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 177335
+		size = 174969
 	}
 	craftsmen = {
 		culture = korean
@@ -76,7 +76,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 868
+		size = 2048
 	}
 	officers = {
 		culture = korean
@@ -101,7 +101,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 99395
+		size = 98215
 	}
 }
 1622 = {
@@ -217,7 +217,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 3916
+		size = 9242
 	}
 	officers = {
 		culture = korean
@@ -242,7 +242,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 303364
+		size = 298038
 	}
 	craftsmen = {
 		culture = korean
@@ -367,7 +367,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 1012
+		size = 2388
 	}
 	officers = {
 		culture = korean
@@ -392,7 +392,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 126319
+		size = 124943
 	}
 }
 1630 = {
@@ -458,7 +458,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 2176
+		size = 5135
 	}
 	officers = {
 		culture = korean
@@ -483,7 +483,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 205352
+		size = 202393
 	}
 	craftsmen = {
 		culture = korean
@@ -554,7 +554,7 @@
 	bureaucrats = {
 		culture = korean
 		religion = placeholder
-		size = 1740
+		size = 4106
 	}
 	officers = {
 		culture = korean
@@ -579,7 +579,7 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 212909
+		size = 210543
 	}
 }
 1636 = {

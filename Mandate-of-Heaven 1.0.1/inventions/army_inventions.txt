@@ -2619,3 +2619,46 @@ army_nco_tactical_training = {
 		morale = 0.5
 	}
 }
+
+#muzzle_loaded_rifles - Mongol Tactics
+mongol_tactics = {
+	limit = { muzzle_loaded_rifles = 1 }
+	chance = {
+		base = 0
+	}
+	effect = {
+		irregular = {
+			attack = 1
+			maximum_speed = 1
+		}
+		cavalry = {
+			attack = 1
+			support = 0.25
+			maximum_speed = 1
+		}
+		hussar = {
+			attack = 1
+			support = 0.25
+			maximum_speed = 1
+		}
+		dragoon = {
+			attack = 1
+			support = 0.25
+			maximum_speed = 1
+		}
+		cuirassier = {
+			attack = 1
+			support = 0.25
+			maximum_speed = 1
+		}
+		artillery = {
+			maximum_speed = 1
+		}
+		artillery_defensive = {
+			maximum_speed = 1
+		}
+		artillery_offensive = {
+			maximum_speed = 1
+		}
+	}
+}

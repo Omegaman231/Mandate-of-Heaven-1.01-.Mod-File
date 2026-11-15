@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 6584
+		size = 2615
 	}
 	officers = {
 		culture = japanese
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 150297
+		size = 154266
 	}
 }
 1639 = {
@@ -125,7 +125,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 200
+		size = 79
 	}
 	clergymen = {
 		culture = japanese
@@ -145,7 +145,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 55597
+		size = 55718
 	}
 }
 1643 = {
@@ -211,7 +211,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 3712
+		size = 1474
 	}
 	officers = {
 		culture = japanese
@@ -236,7 +236,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 225920
+		size = 228158
 	}
 }
 1646 = {
@@ -329,7 +329,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 19360
+		size = 7690
 	}
 	officers = {
 		culture = japanese
@@ -354,7 +354,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 206879
+		size = 218549
 	}
 }
 1650 = {
@@ -528,7 +528,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 21560
+		size = 8564
 	}
 	officers = {
 		culture = japanese
@@ -553,7 +553,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 367491
+		size = 380487
 	}
 	craftsmen = {
 		culture = japanese
@@ -624,7 +624,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 6792
+		size = 2698
 	}
 	officers = {
 		culture = japanese
@@ -649,7 +649,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 183029
+		size = 187123
 	}
 }
 1661 = {
@@ -823,7 +823,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 1968
+		size = 782
 	}
 	officers = {
 		culture = japanese
@@ -848,7 +848,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 158005
+		size = 159191
 	}
 }
 1668 = {
@@ -860,7 +860,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 5048
+		size = 2005
 	}
 	officers = {
 		culture = japanese
@@ -885,7 +885,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 141635
+		size = 144678
 	}
 }
 1669 = {
@@ -1059,7 +1059,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 6360
+		size = 2526
 	}
 	officers = {
 		culture = japanese
@@ -1084,7 +1084,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 329075
+		size = 332909
 	}
 }
 1676 = {
@@ -1150,7 +1150,7 @@
 	bureaucrats = {
 		culture = japanese
 		religion = placeholder
-		size = 392
+		size = 156
 	}
 	officers = {
 		culture = japanese
@@ -1175,7 +1175,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 43637
+		size = 43873
 	}
 }
 1679 = {

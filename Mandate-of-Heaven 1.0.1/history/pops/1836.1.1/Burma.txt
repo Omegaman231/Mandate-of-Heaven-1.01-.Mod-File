@@ -505,52 +505,104 @@
 	aristocrats = {
 		culture = burman
 		religion = placeholder
-		size = 765
+		size = 383
 	}
 	aristocrats = {
 		culture = tibetan
 		religion = placeholder
-		size = 167
+		size = 83
 	}
 	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 551
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 121
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 2481
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 545
+	}
+	soldiers = {
 		culture = burman
 		religion = placeholder
 		size = 1103
 	}
-	clergymen = {
+	soldiers = {
 		culture = tibetan
 		religion = placeholder
 		size = 242
 	}
-	artisans = {
-		culture = burman
-		religion = placeholder
-		size = 4962
-	}
-	artisans = {
-		culture = tibetan
-		religion = placeholder
-		size = 1089
-	}
-	soldiers = {
-		culture = burman
-		religion = placeholder
-		size = 2205
-	}
-	soldiers = {
-		culture = tibetan
-		religion = placeholder
-		size = 484
-	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 23552
+		size = 11776
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 5169
+		size = 2585
+	}
+}
+3348 = {
+	aristocrats = {
+		culture = burman
+		religion = placeholder
+		size = 382
+	}
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 84
+	}
+	clergymen = {
+		culture = burman
+		religion = placeholder
+		size = 552
+	}
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 121
+	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 2481
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 544
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 1102
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 242
+	}
+	labourers = {
+		culture = burman
+		religion = placeholder
+		size = 11776
+	}
+	labourers = {
+		culture = tibetan
+		religion = placeholder
+		size = 2584
 	}
 }
 1340 = {

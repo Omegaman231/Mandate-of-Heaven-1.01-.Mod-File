@@ -343,11 +343,11 @@
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 3492
+		size = 4000
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 88074
+		size = 87566
 	}
 }

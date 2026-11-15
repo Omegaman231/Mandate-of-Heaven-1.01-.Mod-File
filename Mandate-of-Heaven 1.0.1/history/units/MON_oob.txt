@@ -160,3 +160,57 @@ army = {
 		home = 1469
 	}
 }
+army = {
+	name = "Mongol Army 4"
+	location = 1465
+	regiment = {
+		name = "31. Mongol Regiment"
+		type = hussar
+		home = 1488
+	}
+	regiment = {
+		name = "32. Mongol Regiment"
+		type = hussar
+		home = 1488
+	}
+	regiment = {
+		name = "33. Mongol Regiment"
+		type = hussar
+		home = 1488
+	}
+	regiment = {
+		name = "34. Mongol Regiment"
+		type = hussar
+		home = 2698
+	}
+	regiment = {
+		name = "35. Mongol Regiment"
+		type = hussar
+		home = 2698
+	}
+	regiment = {
+		name = "36. Mongol Regiment"
+		type = hussar
+		home = 2608
+	}
+	regiment = {
+		name = "37. Mongol Regiment"
+		type = artillery
+		home = 1599
+	}
+	regiment = {
+		name = "38. Mongol Regiment"
+		type = artillery
+		home = 2678
+	}
+	regiment = {
+		name = "39. Mongol Regiment"
+		type = artillery
+		home = 1067
+	}
+	regiment = {
+		name = "40. Mongol Regiment"
+		type = artillery
+		home = 1600
+	}
+}

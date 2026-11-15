@@ -1,0 +1,39 @@
+# A Springtime of Liberty (1847): modelled on "An Age of Liberalism" (LiberalRevolutions 10001).
+# Fires once per country during 1847 for countries with at least 30% literacy; non-colonial pops only.
+country_event = {
+	id = 18470001
+	title = "EVTNAME18470001"
+	desc = "EVTDESC18470001"
+	picture = "Revolution"
+
+	trigger = {
+		year = 1847
+		NOT = { year = 1848 }
+		literacy = 0.30
+		NOT = { has_country_flag = springtime_of_liberty_1847 }
+	}
+
+	mean_time_to_happen = { days = 1 }
+
+	option = {
+		name = "EVTOPTA18470001"
+		set_country_flag = springtime_of_liberty_1847
+		any_pop = {
+			limit = {
+				location = {
+					is_colonial = no
+				}
+			}
+			ideology = {
+				value = liberal
+				factor = 0.25
+			}
+			ideology = {
+				value = reactionary
+				factor = -0.10
+			}
+			consciousness = 2
+			militancy = 2
+		}
+	}
+}
