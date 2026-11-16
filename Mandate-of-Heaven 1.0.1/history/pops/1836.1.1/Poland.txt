@@ -605,27 +605,27 @@
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 658
+		size = 1316
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 4774
+		size = 9548
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 939
+		size = 1878
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 61123
+		size = 122246
 	}
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1496
+		size = 2992
 	}
 }
 706 = {

@@ -30,3 +30,11 @@ army = {
 		home = 795
 	}
 }
+leader = {
+	name = "Corrupt Legate"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_minus_1.1
+	prestige = 0
+}

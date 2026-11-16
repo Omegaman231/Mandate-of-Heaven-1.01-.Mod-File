@@ -3,4 +3,4 @@ controller = ZEN
 add_core = KON
 add_core = ZEN
 trade_goods = cotton
-life_rating = 15
+life_rating = 35

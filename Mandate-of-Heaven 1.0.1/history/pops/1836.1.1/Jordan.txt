@@ -17,12 +17,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 504
+		size = 620
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 110
+		size = 135
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -32,12 +32,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10302
+		size = 10186
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2260
+		size = 2235
 	}
 }
 909 = {
@@ -54,7 +54,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 522
+		size = 639
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -64,7 +64,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10286
+		size = 10169
 	}
 }
 910 = {
@@ -81,12 +81,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 276
+		size = 344
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 60
+		size = 75
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -96,12 +96,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6112
+		size = 6044
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1342
+		size = 1327
 	}
 }
 911 = {
@@ -118,7 +118,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 834
+		size = 1035
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -128,7 +128,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 17954
+		size = 17753
 	}
 }
 922 = {
@@ -140,12 +140,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 448
+		size = 564
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 98
+		size = 124
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -155,12 +155,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10586
+		size = 10470
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2324
+		size = 2298
 	}
 	aristocrats = {
 		culture = eastern_roman

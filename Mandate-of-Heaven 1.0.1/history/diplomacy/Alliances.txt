@@ -11,3 +11,45 @@ alliance = {
 	start_date = 1836.1.1
 	end_date = 1936.1.1
 }
+
+alliance = {
+	first = KAR
+	second = ORI
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+alliance = {
+	first = ZHA
+	second = KOR
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+alliance = {
+	first = MEL
+	second = AKU
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+alliance = {
+	first = NUS
+	second = CHU
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+alliance = {
+	first = TAM
+	second = THA
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}
+
+alliance = {
+	first = ZEN
+	second = RAN
+	start_date = 1836.1.1
+	end_date = 1936.1.1
+}

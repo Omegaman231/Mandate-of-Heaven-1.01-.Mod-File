@@ -42,12 +42,12 @@
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 6129
+		size = 6609
 	}
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 1345
+		size = 1450
 	}
 	soldiers = {
 		culture = sogdian
@@ -62,12 +62,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 37091
+		size = 36611
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 8141
+		size = 8036
 	}
 }
 1595 = {
@@ -94,12 +94,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 5457
+		size = 6579
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 1198
+		size = 1444
 	}
 	soldiers = {
 		culture = mongolic
@@ -114,12 +114,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 99718
+		size = 98596
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 21889
+		size = 21643
 	}
 }
 1596 = {
@@ -136,7 +136,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 3440
+		size = 4140
 	}
 	soldiers = {
 		culture = mongolic
@@ -146,7 +146,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 62968
+		size = 62268
 	}
 }
 1597 = {
@@ -173,12 +173,12 @@
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 3166
+		size = 3800
 	}
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 694
+		size = 833
 	}
 	soldiers = {
 		culture = sogdian
@@ -193,12 +193,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 57581
+		size = 56947
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 12639
+		size = 12500
 	}
 }
 1598 = {
@@ -225,12 +225,12 @@
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 1450
+		size = 1740
 	}
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 318
+		size = 382
 	}
 	soldiers = {
 		culture = sogdian
@@ -245,12 +245,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 26415
+		size = 26125
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 5798
+		size = 5734
 	}
 }
 1599 = {
@@ -277,22 +277,22 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 5913
+		size = 7070
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 1298
+		size = 1575
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 99162
+		size = 98005
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 23743
+		size = 23466
 	}
 	soldiers = {
 		culture = mongolic
@@ -329,12 +329,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 10199
+		size = 10931
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 2238
+		size = 2402
 	}
 	soldiers = {
 		culture = mongolic
@@ -349,12 +349,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 54016
+		size = 53284
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 12119
+		size = 11955
 	}
 	bureaucrats = {
 		culture = mongolic
@@ -366,51 +366,51 @@
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 163
+		size = 408
 	}
 	aristocrats = {
 		culture = tibetan
 		religion = placeholder
-		size = 35
+		size = 88
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 163
+		size = 408
 	}
 	clergymen = {
 		culture = tibetan
 		religion = placeholder
-		size = 35
+		size = 88
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 525
+		size = 1582
 	}
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 115
+		size = 348
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 355
+		size = 888
 	}
 	soldiers = {
 		culture = tibetan
 		religion = placeholder
-		size = 77
+		size = 192
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 9594
+		size = 23715
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 2106
+		size = 5205
 	}
 }

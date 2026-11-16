@@ -70,3 +70,5 @@ nonstate_consciousness = 1
 oob = "KOR_oob.txt"
 practical_steam_engine = 1
 mechanical_production = 1
+steamers = 1
+battleship_column_doctrine = 1

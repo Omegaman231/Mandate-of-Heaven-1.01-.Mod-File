@@ -61,6 +61,8 @@ country_event = {
 		}
 		inherit = MOE
 		TRI_1738 = { add_core = THIS }
+		TRI_1735 = { add_core = THIS }
+		TUR_902 = { add_core = THIS }
 		EGY_1745 = { add_core = THIS }
 		TUR_876 = { add_core = THIS }
 		TUR_884 = { add_core = THIS }
@@ -102,5 +104,52 @@ country_event = {
 		relation = { who = GAL value = -400 }
 		diplomatic_influence = { who = GAE value = -400 }
 		relation = { who = GAE value = -400 }
+	}
+}
+
+# Valerian's remains recovered: Rome beats Persia while Valerian is held
+country_event = {
+	id = 950010
+	title = "EVTNAME950010"
+	desc = "EVTDESC950010"
+	picture = "Revolution"
+	trigger = {
+		tag = ROM
+		has_country_flag = valerian_captured
+		NOT = { has_country_flag = valerian_dies }
+		NOT = { has_country_flag = valerian_recovered }
+		PER = {
+			has_recently_lost_war = yes
+			truce_with = ROM
+		}
+	}
+	mean_time_to_happen = { days = 1 }
+	option = {
+		name = "EVTOPTA950010"
+		set_country_flag = valerian_recovered
+		926 = { remove_core = ROM }
+		prestige = 20
+	}
+}
+
+# Valerian dies in captivity: 1848 and Rome still claims Ctesiphon
+country_event = {
+	id = 950011
+	title = "EVTNAME950011"
+	desc = "EVTDESC950011"
+	picture = "Revolution"
+	trigger = {
+		tag = ROM
+		year = 1848
+		926 = { is_core = ROM }
+		NOT = { has_country_flag = valerian_recovered }
+		NOT = { has_country_flag = valerian_dies }
+	}
+	mean_time_to_happen = { days = 1 }
+	option = {
+		name = "EVTOPTA950011"
+		set_country_flag = valerian_dies
+		926 = { remove_core = ROM }
+		prestige = -40
 	}
 }

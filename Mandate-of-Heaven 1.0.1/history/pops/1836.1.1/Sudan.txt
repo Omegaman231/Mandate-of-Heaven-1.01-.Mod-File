@@ -351,7 +351,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1376
+		size = 1660
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -361,7 +361,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 25010
+		size = 24726
 	}
 }
 1835 = {

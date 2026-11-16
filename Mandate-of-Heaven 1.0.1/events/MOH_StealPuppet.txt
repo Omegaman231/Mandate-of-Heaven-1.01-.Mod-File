@@ -1,0 +1,15 @@
+# Steal Puppet: the released puppet becomes a vassal of the winner (from IGoR_puir 13.0.4)
+country_event = {
+	id = 95522
+	title = "EVTNAME95522"
+	desc = "EVTDESC95522"
+	picture = "treaty"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA95522"
+		FROM = { create_vassal = THIS }
+		clr_country_flag = puppet_nation
+	}
+}

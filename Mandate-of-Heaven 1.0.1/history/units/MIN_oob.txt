@@ -54,7 +54,7 @@ army = {
 }
 army = {
 	name = "Nanyue Army 2"
-	location = 1499
+	location = 1493
 	regiment = {
 		name = "11. Nanyue Regiment"
 		type = infantry
@@ -429,4 +429,74 @@ navy = {
 		name = "Nanyue Transport 6 V"
 		type = clipper_transport
 	}
+}
+army = {
+	name = "Nanyue Army 3"
+	location = 1487
+	regiment = {
+		name = "21. Nanyue Regiment"
+		type = infantry
+		home = 1493
+	}
+	regiment = {
+		name = "22. Nanyue Regiment"
+		type = infantry
+		home = 1486
+	}
+	regiment = {
+		name = "23. Nanyue Regiment"
+		type = infantry
+		home = 1482
+	}
+	regiment = {
+		name = "24. Nanyue Regiment"
+		type = infantry
+		home = 1550
+	}
+	regiment = {
+		name = "25. Nanyue Regiment"
+		type = hussar
+		home = 1455
+	}
+	regiment = {
+		name = "26. Nanyue Regiment"
+		type = artillery
+		home = 1455
+	}
+	regiment = {
+		name = "27. Nanyue Regiment"
+		type = artillery
+		home = 2497
+	}
+	regiment = {
+		name = "28. Nanyue Regiment"
+		type = artillery
+		home = 2497
+	}
+	regiment = {
+		name = "29. Nanyue Regiment"
+		type = artillery
+		home = 2505
+	}
+	regiment = {
+		name = "30. Nanyue Regiment"
+		type = artillery
+		home = 2505
+	}
+}
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
+}
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
 }

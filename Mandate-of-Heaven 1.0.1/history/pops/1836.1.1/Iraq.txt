@@ -22,7 +22,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 2850
+		size = 3432
 	}
 	soldiers = {
 		culture = persian
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 50550
+		size = 49968
 	}
 }
 924 = {
@@ -49,7 +49,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 1300
+		size = 1560
 	}
 	soldiers = {
 		culture = persian
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 23325
+		size = 23065
 	}
 }
 925 = {
@@ -76,7 +76,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 2000
+		size = 2407
 	}
 	soldiers = {
 		culture = persian
@@ -86,7 +86,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 36375
+		size = 35968
 	}
 }
 926 = {
@@ -133,12 +133,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 53934
+		size = 55719
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 11838
+		size = 12230
 	}
 	soldiers = {
 		culture = persian
@@ -153,12 +153,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 98706
+		size = 96921
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 21666
+		size = 21274
 	}
 }
 927 = {
@@ -175,7 +175,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 1100
+		size = 1334
 	}
 	soldiers = {
 		culture = persian
@@ -185,7 +185,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 21000
+		size = 20766
 	}
 }
 928 = {
@@ -212,12 +212,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 861
+		size = 1037
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 189
+		size = 228
 	}
 	soldiers = {
 		culture = persian
@@ -232,12 +232,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 15703
+		size = 15527
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 3447
+		size = 3408
 	}
 }
 929 = {
@@ -254,7 +254,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1250
+		size = 1506
 	}
 	soldiers = {
 		culture = arab
@@ -264,7 +264,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22825
+		size = 22569
 	}
 }
 930 = {
@@ -291,22 +291,22 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1025
+		size = 1236
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 225
+		size = 271
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 18860
+		size = 18649
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 4140
+		size = 4094
 	}
 	soldiers = {
 		culture = arab
@@ -328,7 +328,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 61
+		size = 77
 	}
 	soldiers = {
 		culture = arab
@@ -338,12 +338,17 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1496
+		size = 1480
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 328
+		size = 324
+	}
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 4
 	}
 }
 932 = {
@@ -375,12 +380,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1476
+		size = 1911
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 324
+		size = 420
 	}
 	soldiers = {
 		culture = arab
@@ -395,12 +400,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 27347
+		size = 26912
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 6003
+		size = 5907
 	}
 	aristocrats = {
 		culture = arab
@@ -432,7 +437,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1900
+		size = 2290
 	}
 	soldiers = {
 		culture = arab
@@ -442,7 +447,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 34975
+		size = 34585
 	}
 }
 934 = {
@@ -459,12 +464,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1200
+		size = 1446
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22075
+		size = 21829
 	}
 	soldiers = {
 		culture = arab

@@ -42,12 +42,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 11388
+		size = 12158
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2500
+		size = 2669
 	}
 	soldiers = {
 		culture = persian
@@ -62,12 +62,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 56035
+		size = 55265
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 12300
+		size = 12131
 	}
 }
 901 = {
@@ -84,7 +84,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 4690
+		size = 5670
 	}
 	soldiers = {
 		culture = persian
@@ -94,7 +94,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 88742
+		size = 87762
 	}
 }
 902 = {
@@ -141,12 +141,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 20409
+		size = 21159
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 4480
+		size = 4645
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -161,12 +161,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 47241
+		size = 46491
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 10369
+		size = 10204
 	}
 }
 903 = {
@@ -193,12 +193,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1173
+		size = 1416
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 257
+		size = 310
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -213,12 +213,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 21616
+		size = 21373
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 4745
+		size = 4692
 	}
 }
 904 = {
@@ -245,12 +245,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 1586
+		size = 1909
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 348
+		size = 419
 	}
 	soldiers = {
 		culture = persian
@@ -265,12 +265,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 29244
+		size = 28921
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6419
+		size = 6348
 	}
 }
 905 = {
@@ -297,12 +297,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1765
+		size = 2106
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 387
+		size = 462
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -317,12 +317,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 30339
+		size = 29998
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 6659
+		size = 6584
 	}
 }
 906 = {
@@ -349,12 +349,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1351
+		size = 1630
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 296
+		size = 357
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -369,12 +369,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 24887
+		size = 24608
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 5463
+		size = 5402
 	}
 }
 907 = {
@@ -396,7 +396,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 618
+		size = 775
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -406,6 +406,6 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 14137
+		size = 13980
 	}
 }

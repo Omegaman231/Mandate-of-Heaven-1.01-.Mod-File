@@ -1,0 +1,61 @@
+# Karnata-Malwa and Tamilakam start on good terms (fires once at game start)
+country_event = {
+	id = 950301
+	title = "EVTNAME950301"
+	desc = "EVTDESC950301"
+	picture = "Revolution"
+	fire_only_once = yes
+	trigger = {
+		tag = KAR
+		exists = TAM
+		NOT = { has_global_flag = kar_tam_relations_set }
+	}
+	mean_time_to_happen = { days = 1 }
+	option = {
+		name = "EVTOPTA950301"
+		set_global_flag = kar_tam_relations_set
+		relation = { who = TAM value = 80 }
+		treasury = 100000
+		CHU = { country_event = { id = 950310 days = 9 } }
+		MIN = { country_event = { id = 950311 days = 29 } }
+		TAM = { country_event = { id = 950312 days = 19 } }
+	}
+}
+
+# Announcement: the imperial contenders (sent to Chu about 10 days into the game)
+country_event = {
+	id = 950310
+	title = "EVTNAME950310"
+	desc = "EVTDESC950310"
+	picture = "Revolution"
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA950310"
+	}
+}
+
+# Announcement: the race for Australia (sent to Nanyue about 30 days into the game)
+country_event = {
+	id = 950311
+	title = "EVTNAME950311"
+	desc = "EVTDESC950311"
+	picture = "Expansion"
+	major = yes
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA950311"
+	}
+}
+
+# Reminder to Tamilakam about the balance of power in India (about 20 days into the game)
+country_event = {
+	id = 950312
+	title = "EVTNAME950312"
+	desc = "EVTDESC950312"
+	picture = "Revolution"
+	is_triggered_only = yes
+	option = {
+		name = "EVTOPTA950312"
+	}
+}

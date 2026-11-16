@@ -25,7 +25,7 @@ political_decisions = {
 	}
 	kar_impress_bengal = {
 		potential = {
-			tag = KAR
+			OR = { tag = KAR tag = DEC }
 			exists = BEN
 		}
 		allow = {
@@ -49,7 +49,7 @@ political_decisions = {
 	}
 	kar_impress_punjab = {
 		potential = {
-			tag = KAR
+			OR = { tag = KAR tag = DEC }
 			exists = PEN
 		}
 		allow = {

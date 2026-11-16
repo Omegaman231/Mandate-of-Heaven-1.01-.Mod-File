@@ -12,12 +12,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 7722
+		size = 9211
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 858
+		size = 1023
 	}
 	bureaucrats = {
 		culture = shona
@@ -32,12 +32,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 130698
+		size = 129209
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 14522
+		size = 14357
 	}
 	aristocrats = {
 		culture = shona
@@ -69,12 +69,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 207
+		size = 250
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 23
+		size = 28
 	}
 	soldiers = {
 		culture = shona
@@ -84,12 +84,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 3838
+		size = 3795
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 426
+		size = 421
 	}
 }
 2089 = {
@@ -106,12 +106,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 2260
+		size = 3292
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 251
+		size = 366
 	}
 	soldiers = {
 		culture = shona
@@ -126,12 +126,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 98017
+		size = 96985
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 10890
+		size = 10775
 	}
 	aristocrats = {
 		culture = shona
@@ -153,12 +153,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 1360
+		size = 2543
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 151
+		size = 282
 	}
 	soldiers = {
 		culture = shona
@@ -173,12 +173,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 114181
+		size = 112998
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 12686
+		size = 12555
 	}
 }
 2091 = {
@@ -195,12 +195,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 675
+		size = 1586
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 75
+		size = 176
 	}
 	soldiers = {
 		culture = shona
@@ -215,12 +215,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 88373
+		size = 87462
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 9819
+		size = 9718
 	}
 }
 2092 = {
@@ -405,12 +405,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 665
+		size = 1313
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 73
+		size = 145
 	}
 	soldiers = {
 		culture = shona
@@ -425,12 +425,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 62601
+		size = 61953
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 6955
+		size = 6883
 	}
 	aristocrats = {
 		culture = shona
@@ -452,12 +452,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 643
+		size = 911
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 71
+		size = 101
 	}
 	soldiers = {
 		culture = shona
@@ -472,12 +472,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 25421
+		size = 25153
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 2824
+		size = 2794
 	}
 	aristocrats = {
 		culture = shona
@@ -514,12 +514,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 696
+		size = 1355
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 77
+		size = 150
 	}
 	soldiers = {
 		culture = shona
@@ -534,12 +534,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 60549
+		size = 59890
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 6727
+		size = 6654
 	}
 }
 2099 = {
@@ -561,12 +561,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 696
+		size = 840
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 77
+		size = 93
 	}
 	soldiers = {
 		culture = shona
@@ -581,12 +581,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 12849
+		size = 12705
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 1427
+		size = 1411
 	}
 }
 2100 = {
@@ -603,7 +603,7 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 1394
+		size = 2219
 	}
 	soldiers = {
 		culture = shona
@@ -613,7 +613,7 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 78606
+		size = 77781
 	}
 }
 2101 = {

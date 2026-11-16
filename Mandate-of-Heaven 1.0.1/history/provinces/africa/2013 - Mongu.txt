@@ -2,4 +2,4 @@ owner = ZIM
 controller = ZIM
 add_core = ZIM
 trade_goods = cattle
-life_rating = 15
+life_rating = 35

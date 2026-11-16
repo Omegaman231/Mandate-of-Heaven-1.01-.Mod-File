@@ -22,7 +22,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 10005
+		size = 11748
 	}
 	soldiers = {
 		culture = japanese
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 154266
+		size = 152523
 	}
 }
 1639 = {
@@ -49,7 +49,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 6303
+		size = 7563
 	}
 	soldiers = {
 		culture = japanese
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 114859
+		size = 113599
 	}
 }
 1640 = {
@@ -76,7 +76,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 6403
+		size = 7683
 	}
 	soldiers = {
 		culture = japanese
@@ -86,7 +86,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 116636
+		size = 115356
 	}
 }
 1641 = {
@@ -103,7 +103,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 6852
+		size = 8223
 	}
 	soldiers = {
 		culture = japanese
@@ -113,7 +113,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 124869
+		size = 123498
 	}
 }
 1642 = {
@@ -135,7 +135,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 2498
+		size = 3101
 	}
 	soldiers = {
 		culture = japanese
@@ -145,7 +145,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 55718
+		size = 55115
 	}
 }
 1643 = {
@@ -157,7 +157,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 2496
+		size = 3098
 	}
 	soldiers = {
 		culture = japanese
@@ -167,7 +167,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 55623
+		size = 55021
 	}
 	aristocrats = {
 		culture = japanese
@@ -184,7 +184,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 3801
+		size = 4702
 	}
 	soldiers = {
 		culture = japanese
@@ -194,7 +194,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 83273
+		size = 82372
 	}
 	aristocrats = {
 		culture = japanese
@@ -226,7 +226,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 12458
+		size = 14982
 	}
 	soldiers = {
 		culture = japanese
@@ -236,7 +236,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 228158
+		size = 225634
 	}
 }
 1646 = {
@@ -253,7 +253,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 4801
+		size = 5761
 	}
 	soldiers = {
 		culture = japanese
@@ -263,7 +263,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 87482
+		size = 86522
 	}
 }
 1647 = {
@@ -280,7 +280,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 1997
+		size = 2397
 	}
 	soldiers = {
 		culture = japanese
@@ -290,7 +290,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 36480
+		size = 36080
 	}
 }
 1648 = {
@@ -307,7 +307,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 4400
+		size = 5280
 	}
 	soldiers = {
 		culture = japanese
@@ -317,7 +317,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 80178
+		size = 79298
 	}
 }
 1649 = {
@@ -344,7 +344,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 150150
+		size = 154085
 	}
 	soldiers = {
 		culture = japanese
@@ -354,7 +354,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 218549
+		size = 214614
 	}
 }
 1650 = {
@@ -371,7 +371,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 9853
+		size = 11824
 	}
 	soldiers = {
 		culture = japanese
@@ -381,7 +381,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 179477
+		size = 177506
 	}
 }
 1651 = {
@@ -398,7 +398,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 12507
+		size = 13937
 	}
 	soldiers = {
 		culture = japanese
@@ -408,7 +408,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 125021
+		size = 123591
 	}
 }
 1652 = {
@@ -425,7 +425,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 14462
+		size = 17359
 	}
 	soldiers = {
 		culture = japanese
@@ -435,7 +435,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 263510
+		size = 260613
 	}
 }
 1653 = {
@@ -452,7 +452,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 7353
+		size = 8823
 	}
 	soldiers = {
 		culture = japanese
@@ -462,7 +462,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 133855
+		size = 132385
 	}
 }
 1655 = {
@@ -479,7 +479,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 50050
+		size = 54615
 	}
 	soldiers = {
 		culture = japanese
@@ -489,7 +489,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 391689
+		size = 387124
 	}
 }
 1656 = {
@@ -506,7 +506,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 13311
+		size = 15972
 	}
 	soldiers = {
 		culture = japanese
@@ -516,7 +516,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 242337
+		size = 239676
 	}
 }
 1657 = {
@@ -548,12 +548,12 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 24024
+		size = 28710
 	}
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 380487
+		size = 375801
 	}
 	craftsmen = {
 		culture = japanese
@@ -575,7 +575,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 14912
+		size = 17893
 	}
 	soldiers = {
 		culture = japanese
@@ -585,7 +585,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 271515
+		size = 268534
 	}
 }
 1659 = {
@@ -602,7 +602,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 14010
+		size = 16811
 	}
 	soldiers = {
 		culture = japanese
@@ -612,7 +612,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 255074
+		size = 252273
 	}
 }
 1660 = {
@@ -639,7 +639,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 9804
+		size = 11890
 	}
 	soldiers = {
 		culture = japanese
@@ -649,7 +649,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 187123
+		size = 185037
 	}
 }
 1661 = {
@@ -666,7 +666,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 12659
+		size = 15190
 	}
 	soldiers = {
 		culture = japanese
@@ -676,7 +676,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 230526
+		size = 227995
 	}
 }
 1662 = {
@@ -693,7 +693,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 8252
+		size = 9903
 	}
 	soldiers = {
 		culture = japanese
@@ -703,7 +703,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 150347
+		size = 148696
 	}
 }
 1663 = {
@@ -720,7 +720,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 4750
+		size = 5700
 	}
 	soldiers = {
 		culture = japanese
@@ -730,7 +730,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 86581
+		size = 85631
 	}
 }
 1664 = {
@@ -747,7 +747,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 9554
+		size = 11475
 	}
 	soldiers = {
 		culture = japanese
@@ -757,7 +757,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 174492
+		size = 172571
 	}
 }
 1665 = {
@@ -774,7 +774,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 2999
+		size = 3599
 	}
 	soldiers = {
 		culture = japanese
@@ -784,7 +784,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 54100
+		size = 53500
 	}
 }
 1666 = {
@@ -801,7 +801,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 5402
+		size = 6483
 	}
 	soldiers = {
 		culture = japanese
@@ -811,7 +811,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 98219
+		size = 97138
 	}
 }
 1667 = {
@@ -838,7 +838,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 8706
+		size = 10465
 	}
 	soldiers = {
 		culture = japanese
@@ -848,7 +848,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 159191
+		size = 157432
 	}
 }
 1668 = {
@@ -875,7 +875,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 7855
+		size = 9471
 	}
 	soldiers = {
 		culture = japanese
@@ -885,7 +885,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 144678
+		size = 143062
 	}
 }
 1669 = {
@@ -902,7 +902,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 7353
+		size = 8823
 	}
 	soldiers = {
 		culture = japanese
@@ -912,7 +912,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 133931
+		size = 132461
 	}
 }
 1670 = {
@@ -929,7 +929,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 3950
+		size = 4740
 	}
 	soldiers = {
 		culture = japanese
@@ -939,7 +939,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 71991
+		size = 71201
 	}
 }
 1671 = {
@@ -956,7 +956,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 4900
+		size = 5890
 	}
 	soldiers = {
 		culture = japanese
@@ -966,7 +966,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 90287
+		size = 89297
 	}
 }
 1672 = {
@@ -983,7 +983,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 4651
+		size = 5583
 	}
 	soldiers = {
 		culture = japanese
@@ -993,7 +993,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 84806
+		size = 83874
 	}
 }
 1673 = {
@@ -1010,7 +1010,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 6402
+		size = 7683
 	}
 	soldiers = {
 		culture = japanese
@@ -1020,7 +1020,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 116587
+		size = 115306
 	}
 }
 1674 = {
@@ -1037,7 +1037,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 5149
+		size = 6179
 	}
 	soldiers = {
 		culture = japanese
@@ -1047,7 +1047,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 93864
+		size = 92834
 	}
 }
 1675 = {
@@ -1074,7 +1074,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 24024
+		size = 27773
 	}
 	soldiers = {
 		culture = japanese
@@ -1084,7 +1084,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 332909
+		size = 329160
 	}
 }
 1676 = {
@@ -1101,7 +1101,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 5453
+		size = 6543
 	}
 	soldiers = {
 		culture = japanese
@@ -1111,7 +1111,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 99319
+		size = 98229
 	}
 }
 1677 = {
@@ -1128,7 +1128,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 16212
+		size = 19454
 	}
 	soldiers = {
 		culture = japanese
@@ -1138,7 +1138,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 295166
+		size = 291924
 	}
 }
 1678 = {
@@ -1165,7 +1165,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 2398
+		size = 2881
 	}
 	soldiers = {
 		culture = japanese
@@ -1175,7 +1175,7 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 43873
+		size = 43390
 	}
 }
 1679 = {
@@ -1192,7 +1192,7 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 1100
+		size = 1302
 	}
 	soldiers = {
 		culture = japanese
@@ -1202,6 +1202,6 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 18242
+		size = 18040
 	}
 }

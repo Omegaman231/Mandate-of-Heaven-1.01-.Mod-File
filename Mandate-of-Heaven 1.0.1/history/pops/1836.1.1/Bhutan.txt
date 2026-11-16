@@ -32,12 +32,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 1394
+		size = 1674
 	}
 	artisans = {
 		culture = bengali
 		religion = placeholder
-		size = 306
+		size = 367
 	}
 	soldiers = {
 		culture = tibetan
@@ -52,11 +52,11 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 24784
+		size = 24504
 	}
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 5440
+		size = 5379
 	}
 }

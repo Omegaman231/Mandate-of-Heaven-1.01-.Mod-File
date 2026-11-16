@@ -790,12 +790,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 3261
+		size = 4611
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 2172
+		size = 3072
 	}
 	soldiers = {
 		culture = aboriginal
@@ -810,12 +810,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 125829
+		size = 124479
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 83886
+		size = 82986
 	}
 	aristocrats = {
 		culture = aboriginal
@@ -852,12 +852,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 1686
+		size = 2036
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 187
+		size = 226
 	}
 	soldiers = {
 		culture = aboriginal
@@ -872,12 +872,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 30375
+		size = 30025
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 3375
+		size = 3336
 	}
 }
 2499 = {
@@ -904,12 +904,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 1125
+		size = 1356
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 125
+		size = 151
 	}
 	soldiers = {
 		culture = aboriginal
@@ -924,12 +924,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 19686
+		size = 19455
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 2187
+		size = 2161
 	}
 }
 2500 = {
@@ -951,12 +951,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 561
+		size = 680
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 62
+		size = 75
 	}
 	soldiers = {
 		culture = aboriginal
@@ -971,12 +971,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 10125
+		size = 10006
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 1125
+		size = 1112
 	}
 }
 2501 = {
@@ -1003,12 +1003,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 1125
+		size = 1356
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 125
+		size = 151
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1023,12 +1023,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 19686
+		size = 19455
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 2187
+		size = 2161
 	}
 }
 2502 = {
@@ -1040,12 +1040,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 279
+		size = 338
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 31
+		size = 38
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1060,12 +1060,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 5061
+		size = 5002
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 562
+		size = 555
 	}
 }
 2503 = {
@@ -1082,12 +1082,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 393
+		size = 476
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 43
+		size = 52
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1102,12 +1102,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 7086
+		size = 7003
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 787
+		size = 778
 	}
 }
 2504 = {
@@ -1129,12 +1129,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 561
+		size = 1580
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 62
+		size = 175
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1149,12 +1149,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 100125
+		size = 99106
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 11125
+		size = 11012
 	}
 }
 2505 = {
@@ -1181,12 +1181,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 2811
+		size = 3397
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 1872
+		size = 2263
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1201,12 +1201,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 50625
+		size = 50039
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 33750
+		size = 33359
 	}
 }
 2506 = {
@@ -1233,12 +1233,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 1125
+		size = 1356
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 125
+		size = 151
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1253,12 +1253,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 19686
+		size = 19455
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 2187
+		size = 2161
 	}
 }
 2507 = {
@@ -1314,12 +1314,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 279
+		size = 336
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 31
+		size = 37
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1334,12 +1334,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 5061
+		size = 5004
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 562
+		size = 556
 	}
 }
 2602 = {
@@ -1351,12 +1351,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 279
+		size = 337
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 31
+		size = 37
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1371,19 +1371,19 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 5061
+		size = 5003
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 562
+		size = 556
 	}
 }
 2603 = {
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 168
+		size = 203
 	}
 	soldiers = {
 		culture = aboriginal
@@ -1398,12 +1398,17 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 3093
+		size = 3058
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 343
+		size = 339
+	}
+	artisans = {
+		culture = yue
+		religion = placeholder
+		size = 4
 	}
 }
 2604 = {

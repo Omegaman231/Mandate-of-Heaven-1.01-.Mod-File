@@ -2,244 +2,244 @@
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 3852
+		size = 4237
 	}
 	bureaucrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 688
+		size = 757
 	}
 	officers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 747
+		size = 822
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 71212
+		size = 80488
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 13715
+		size = 15087
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2930
+		size = 3223
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 102780
+		size = 110903
 	}
 }
 1746 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2185
+		size = 2404
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6353
+		size = 7621
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1120
+		size = 1232
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 4025
+		size = 4428
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 43901
+		size = 47658
 	}
 }
 1747 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1724
+		size = 1896
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5491
+		size = 6487
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1005
+		size = 1106
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2415
+		size = 2656
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 29985
+		size = 32537
 	}
 }
 1748 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2760
+		size = 3036
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8726
+		size = 9923
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1504
+		size = 1654
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2060
+		size = 2266
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 14374
+		size = 15487
 	}
 }
 1749 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1437
+		size = 1581
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 4340
+		size = 4990
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 804
+		size = 884
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1374
+		size = 1511
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 11672
+		size = 12623
 	}
 }
 1750 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2242
+		size = 2466
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5461
+		size = 6461
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 977
+		size = 1075
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2415
+		size = 2656
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 30153
+		size = 32714
 	}
 }
 1751 = {
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2055
+		size = 2260
 	}
 	aristocrats = {
 		culture = greco_roman
 		religion = placeholder
-		size = 2212
+		size = 2433
 	}
 	bureaucrats = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 130
+		size = 143
 	}
 	bureaucrats = {
 		culture = greco_roman
 		religion = placeholder
-		size = 140
+		size = 154
 	}
 	officers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 149
+		size = 164
 	}
 	officers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 160
+		size = 176
 	}
 	clergymen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1201
+		size = 1321
 	}
 	clergymen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1294
+		size = 1423
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 12661
+		size = 14731
 	}
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 13634
+		size = 15862
 	}
 	soldiers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5114
+		size = 5625
 	}
 	soldiers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 5507
+		size = 6058
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 51745
+		size = 56116
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 55724
+		size = 60431
 	}
 }
 1752 = {
@@ -256,7 +256,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1724
+		size = 2072
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -266,7 +266,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 29554
+		size = 29206
 	}
 }
 1753 = {
@@ -283,7 +283,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 574
+		size = 693
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -293,7 +293,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10522
+		size = 10403
 	}
 }
 1754 = {
@@ -310,7 +310,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 460
+		size = 555
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -320,7 +320,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8394
+		size = 8299
 	}
 }
 1755 = {
@@ -342,7 +342,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1035
+		size = 1248
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -352,7 +352,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 18791
+		size = 18578
 	}
 }
 1756 = {
@@ -369,7 +369,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 460
+		size = 555
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -379,7 +379,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8280
+		size = 8185
 	}
 }
 1757 = {
@@ -396,7 +396,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 344
+		size = 415
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -406,7 +406,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6210
+		size = 6139
 	}
 }
 1758 = {
@@ -423,12 +423,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 188
+		size = 226
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 40
+		size = 48
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -438,12 +438,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 3394
+		size = 3356
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 744
+		size = 736
 	}
 }
 1759 = {
@@ -460,7 +460,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 344
+		size = 415
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -470,7 +470,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6210
+		size = 6139
 	}
 }
 1760 = {
@@ -487,7 +487,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 574
+		size = 693
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -497,7 +497,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10522
+		size = 10403
 	}
 }
 1761 = {
@@ -514,12 +514,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 376
+		size = 453
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 82
+		size = 99
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -529,12 +529,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6882
+		size = 6805
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 1510
+		size = 1493
 	}
 }
 1762 = {
@@ -561,7 +561,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2817
+		size = 3382
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -571,7 +571,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 49651
+		size = 49086
 	}
 }
 1763 = {
@@ -588,7 +588,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1092
+		size = 1317
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -598,7 +598,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 19981
+		size = 19756
 	}
 }
 1764 = {
@@ -615,7 +615,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1494
+		size = 1790
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -625,7 +625,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 25328
+		size = 25032
 	}
 }
 1765 = {
@@ -642,7 +642,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2760
+		size = 3313
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -652,7 +652,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 48673
+		size = 48120
 	}
 }
 1766 = {
@@ -679,7 +679,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 689
+		size = 1789
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -689,7 +689,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 104453
+		size = 103353
 	}
 }
 1767 = {
@@ -706,7 +706,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 977
+		size = 1777
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -716,7 +716,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 75411
+		size = 74611
 	}
 }
 1768 = {
@@ -743,12 +743,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 895
+		size = 1719
 	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
-		size = 196
+		size = 377
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -763,12 +763,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 77749
+		size = 76925
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 17067
+		size = 16886
 	}
 }
 1769 = {
@@ -785,7 +785,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 747
+		size = 1501
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -795,7 +795,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 71127
+		size = 70373
 	}
 }
 1770 = {
@@ -812,7 +812,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 344
+		size = 487
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -822,7 +822,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6210
+		size = 6067
 	}
 	artisans = {
 		culture = gujarati
@@ -844,12 +844,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 470
+		size = 566
 	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
-		size = 102
+		size = 123
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -859,12 +859,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8580
+		size = 8484
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 1882
+		size = 1861
 	}
 }
 1772 = {
@@ -881,7 +881,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 344
+		size = 552
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -891,7 +891,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6210
+		size = 6002
 	}
 	artisans = {
 		culture = gujarati
@@ -913,7 +913,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1380
+		size = 2263
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -923,7 +923,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 82655
+		size = 81772
 	}
 }
 3274 = {
@@ -960,12 +960,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 565
+		size = 1467
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 124
+		size = 322
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -980,11 +980,11 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 85652
+		size = 84750
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 18801
+		size = 18603
 	}
 }

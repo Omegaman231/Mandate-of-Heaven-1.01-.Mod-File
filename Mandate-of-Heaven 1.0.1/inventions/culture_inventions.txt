@@ -1371,6 +1371,11 @@ mission_to_civilize = {
 				invention = mission_to_civilize
 			}
 		}
+		modifier = {
+			factor = -200
+			tag = ROM
+			NOT = { year = 1852 }
+		}
 	}
 	effect = {
 		colonial_prestige = 0.1

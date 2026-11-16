@@ -29,4 +29,38 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+	man_invade_persia = {
+		potential = {
+			tag = MAN
+			exists = PER
+			NOT = { has_country_flag = invade_persia }
+		}
+		allow = {
+			war = no
+			TUR = { all_core = { owned_by = THIS } }
+		}
+		effect = {
+			set_country_flag = invade_persia
+			casus_belli = { target = PER type = acquire_state_medium months = 60 }
+		}
+		ai_will_do = { factor = 1 }
+	}
+	man_form_ilkhanate = {
+		potential = {
+			tag = MAN
+			has_country_flag = turkic_union
+			NOT = { has_country_flag = formed_ilkhanate }
+		}
+		allow = {
+			AFG_1214 = { owned_by = THIS } # Western Afghanistan
+			PER_1148 = { owned_by = THIS } # Khorasan
+			PER_1121 = { owned_by = THIS } # Irakajemi
+			PER_1112 = { owned_by = THIS } # Tabriz
+		}
+		effect = {
+			set_country_flag = formed_ilkhanate
+			add_accepted_culture = persian
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

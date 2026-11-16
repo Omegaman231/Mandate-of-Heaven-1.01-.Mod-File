@@ -59,3 +59,19 @@ army = {
 		home = 1251
 	}
 }
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
+}
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
+}

@@ -76,37 +76,72 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 380
+		size = 213
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 190
+		size = 106
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 920
+		size = 515
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2975
+		size = 1666
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 14990
+		size = 8394
 	}
 	bureaucrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 750
+		size = 420
 	}
 	officers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 120
+		size = 67
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 167
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 405
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 1309
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 6596
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 330
+	}
+	officers = {
+		culture = sogdian
+		religion = placeholder
+		size = 53
 	}
 }
 981 = {
@@ -678,27 +713,52 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 800
+		size = 648
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 440
+		size = 356
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2200
+		size = 1782
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 440
+		size = 356
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 40120
+		size = 32497
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 152
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 418
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 84
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 7623
 	}
 }
 1003 = {
@@ -850,42 +910,82 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 640
+		size = 576
 	}
 	bureaucrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 4000
+		size = 3600
 	}
 	officers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 540
+		size = 486
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 624
+		size = 562
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 33416
+		size = 30074
 	}
 	craftsmen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 800
+		size = 720
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2800
+		size = 2520
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 22320
+		size = 20088
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 64
+	}
+	bureaucrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 400
+	}
+	officers = {
+		culture = tungusic
+		religion = placeholder
+		size = 54
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 62
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 3342
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 80
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 280
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 2232
 	}
 }
 1009 = {
@@ -1010,27 +1110,52 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 920
+		size = 754
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 540
+		size = 443
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2700
+		size = 2214
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 540
+		size = 443
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 49700
+		size = 40754
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 166
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 97
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 486
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 97
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 8946
 	}
 }
 1014 = {
@@ -1150,141 +1275,196 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1200
+		size = 1020
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 740
+		size = 629
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 3100
+		size = 2635
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 760
+		size = 646
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 69560
+		size = 59126
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 180
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 111
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 465
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 114
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 10434
 	}
 }
 1019 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1400
+		size = 1190
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1530
+		size = 1300
 	}
 	bureaucrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1400
+		size = 1190
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 7420
+		size = 6307
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2460
+		size = 2091
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 140050
+		size = 119042
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 210
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 230
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 210
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 1113
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 369
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 21008
 	}
 }
 1020 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1574
+		size = 1286
 	}
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 345
+		size = 633
 	}
 	bureaucrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2091
+		size = 1708
 	}
 	bureaucrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 459
+		size = 842
 	}
 	officers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 344
+		size = 281
 	}
 	officers = {
 		culture = tungusic
 		religion = placeholder
-		size = 75
+		size = 138
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 885
+		size = 723
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 194
+		size = 356
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 3526
+		size = 2881
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 774
+		size = 1419
 	}
 	craftsmen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1640
+		size = 1340
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 360
+		size = 660
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 877
+		size = 717
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 192
+		size = 352
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 78310
+		size = 63984
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 17190
+		size = 31516
 	}
 }
 1021 = {
@@ -1343,131 +1523,156 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 720
+		size = 526
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 530
+		size = 387
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2700
+		size = 1971
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 540
+		size = 394
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 49510
+		size = 36142
+	}
+	aristocrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 194
+	}
+	clergymen = {
+		culture = tungusic
+		religion = placeholder
+		size = 143
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 729
+	}
+	soldiers = {
+		culture = tungusic
+		religion = placeholder
+		size = 146
+	}
+	farmers = {
+		culture = tungusic
+		religion = placeholder
+		size = 13368
 	}
 }
 1023 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 311
+		size = 265
 	}
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 68
+		size = 114
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 254
+		size = 217
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 55
+		size = 92
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1279
+		size = 1092
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 280
+		size = 467
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 254
+		size = 217
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 55
+		size = 92
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 23484
+		size = 20046
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 5155
+		size = 8593
 	}
 }
 1024 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 295
+		size = 227
 	}
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 64
+		size = 132
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 246
+		size = 189
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 54
+		size = 111
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1246
+		size = 957
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 273
+		size = 562
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 246
+		size = 189
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 54
+		size = 111
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 22894
+		size = 17588
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 5025
+		size = 10331
 	}
 }
 1025 = {
@@ -1892,52 +2097,52 @@
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 295
+		size = 885
 	}
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 64
+		size = 192
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 172
+		size = 516
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 37
+		size = 111
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 852
+		size = 2556
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 187
+		size = 561
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 393
+		size = 1179
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 86
+		size = 258
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 15375
+		size = 46125
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 3375
+		size = 10125
 	}
 }
 1035 = {
@@ -2122,131 +2327,131 @@
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1640
+		size = 400
 	}
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 360
+		size = 1600
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 877
+		size = 214
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 192
+		size = 855
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 4395
+		size = 1072
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 964
+		size = 4287
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1377
+		size = 336
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 302
+		size = 1343
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 87715
+		size = 21394
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 19254
+		size = 85575
 	}
 }
 1040 = {
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 60
+		size = 180
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 50
+		size = 150
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 180
+		size = 540
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 460
+		size = 1380
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 2890
+		size = 8670
 	}
 }
 1041 = {
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 106
+		size = 318
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 23
+		size = 69
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 508
+		size = 1524
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 111
+		size = 333
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 114
+		size = 342
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 25
+		size = 75
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 9216
+		size = 27648
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2023
+		size = 6069
 	}
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 221
+		size = 663
 	}
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 48
+		size = 144
 	}
 }
 1042 = {
@@ -2325,200 +2530,260 @@
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 172
+		size = 516
 	}
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 37
+		size = 111
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 131
+		size = 393
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 28
+		size = 84
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 656
+		size = 1968
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 144
+		size = 432
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 131
+		size = 393
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 28
+		size = 84
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 12357
+		size = 37071
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 2712
+		size = 8136
 	}
 }
 1044 = {
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 114
+		size = 342
 	}
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 25
+		size = 75
 	}
 	clergymen = {
 		culture = sogdian
 		religion = placeholder
-		size = 98
+		size = 294
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 21
+		size = 63
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 508
+		size = 1524
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 111
+		size = 333
 	}
 	soldiers = {
 		culture = sogdian
 		religion = placeholder
-		size = 360
+		size = 1080
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 79
+		size = 237
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 9118
+		size = 27354
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 2001
+		size = 6003
 	}
 }
 1045 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 80
+		size = 156
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 80
+		size = 156
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 420
+		size = 819
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 480
+		size = 936
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 15110
+		size = 29465
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 84
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 84
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 441
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 504
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 15865
 	}
 }
 1046 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 123
+		size = 179
 	}
 	aristocrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 27
+		size = 271
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 65
+		size = 95
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 377
+		size = 550
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 82
+		size = 827
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 82
+		size = 120
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 6896
+		size = 10055
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 1513
+		size = 15172
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 100
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 126
 	}
 }
 1047 = {
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 300
+		size = 405
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 190
+		size = 256
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1600
+		size = 2160
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 1660
+		size = 2241
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 13490
+		size = 18212
+	}
+	aristocrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 495
+	}
+	clergymen = {
+		culture = sogdian
+		religion = placeholder
+		size = 314
+	}
+	artisans = {
+		culture = sogdian
+		religion = placeholder
+		size = 2640
+	}
+	soldiers = {
+		culture = sogdian
+		religion = placeholder
+		size = 2739
+	}
+	farmers = {
+		culture = sogdian
+		religion = placeholder
+		size = 22258
 	}
 }
 1048 = {
@@ -2708,7 +2973,7 @@
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 2000
+		size = 2411
 	}
 	soldiers = {
 		culture = sogdian
@@ -2728,7 +2993,7 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 36065
+		size = 35654
 	}
 }
 1053 = {
@@ -3275,12 +3540,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 26777
+		size = 27923
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 5878
+		size = 6162
 	}
 	soldiers = {
 		culture = mongolic
@@ -3295,12 +3560,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 69869
+		size = 68723
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 17312
+		size = 17028
 	}
 }
 1064 = {
@@ -3438,12 +3703,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 3822
+		size = 4602
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 839
+		size = 1014
 	}
 	soldiers = {
 		culture = mongolic
@@ -3458,12 +3723,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 69395
+		size = 68615
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 15534
+		size = 15359
 	}
 }
 1068 = {
@@ -3480,12 +3745,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 1185
+		size = 2070
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 260
+		size = 454
 	}
 	soldiers = {
 		culture = mongolic
@@ -3500,12 +3765,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 85721
+		size = 84836
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 18816
+		size = 18622
 	}
 	aristocrats = {
 		culture = mongolic
@@ -3654,12 +3919,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 5539
+		size = 6652
 	}
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 1216
+		size = 1460
 	}
 	soldiers = {
 		culture = tungusic
@@ -3674,12 +3939,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 101256
+		size = 100143
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 22227
+		size = 21983
 	}
 }
 1076 = {
@@ -3696,12 +3961,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 1964
+		size = 2355
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 35357
+		size = 34966
 	}
 	soldiers = {
 		culture = tungusic
@@ -3753,12 +4018,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 7447
+		size = 8128
 	}
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 1634
+		size = 1783
 	}
 	soldiers = {
 		culture = tungusic
@@ -3773,12 +4038,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 54462
+		size = 53781
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 11955
+		size = 11806
 	}
 }
 1078 = {
@@ -3825,12 +4090,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 4142
+		size = 4974
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 909
+		size = 1092
 	}
 	soldiers = {
 		culture = mongolic
@@ -3845,12 +4110,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 75728
+		size = 74896
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 16623
+		size = 16440
 	}
 }
 1079 = {
@@ -3877,12 +4142,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 3068
+		size = 3681
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 673
+		size = 807
 	}
 	soldiers = {
 		culture = mongolic
@@ -3897,24 +4162,29 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 56411
+		size = 55798
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 12382
+		size = 12248
 	}
 }
 1080 = {
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 75844
+		size = 75075
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
 		size = 1091
+	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 769
 	}
 }
 1081 = {
@@ -3936,7 +4206,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 2069
+		size = 2502
 	}
 	soldiers = {
 		culture = tungusic
@@ -3946,7 +4216,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 39594
+		size = 39161
 	}
 }
 1082 = {
@@ -3963,7 +4233,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 11872
+		size = 14259
 	}
 	soldiers = {
 		culture = tungusic
@@ -3973,7 +4243,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 216612
+		size = 214225
 	}
 }
 1083 = {
@@ -3990,7 +4260,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 11880
+		size = 14269
 	}
 	soldiers = {
 		culture = tungusic
@@ -4000,7 +4270,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 217052
+		size = 214663
 	}
 }
 1084 = {
@@ -4017,7 +4287,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 4668
+		size = 5606
 	}
 	soldiers = {
 		culture = tungusic
@@ -4027,7 +4297,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 85060
+		size = 84122
 	}
 }
 1085 = {
@@ -4049,7 +4319,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 13616
+		size = 16295
 	}
 	soldiers = {
 		culture = tungusic
@@ -4059,7 +4329,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 226292
+		size = 223613
 	}
 }
 1086 = {
@@ -4076,7 +4346,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 50
+		size = 60
 	}
 	soldiers = {
 		culture = tungusic
@@ -4086,19 +4356,19 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 900
+		size = 890
 	}
 }
 1087 = {
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 50
+		size = 100
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 4950
+		size = 4900
 	}
 	soldiers = {
 		culture = tungusic
@@ -4115,7 +4385,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 50
+		size = 103
 	}
 	soldiers = {
 		culture = tungusic
@@ -4125,7 +4395,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1940
+		size = 1887
 	}
 	bureaucrats = {
 		culture = tungusic
@@ -4137,12 +4407,12 @@
 	artisans = {
 		culture = japanese
 		religion = placeholder
-		size = 50
+		size = 60
 	}
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 925
+		size = 915
 	}
 	soldiers = {
 		culture = japanese
@@ -4287,7 +4557,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 8976
+		size = 10780
 	}
 	soldiers = {
 		culture = tungusic
@@ -4297,7 +4567,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 163516
+		size = 161712
 	}
 }
 2618 = {
@@ -4396,12 +4666,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 168
+		size = 821
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 60536
+		size = 59883
 	}
 	soldiers = {
 		culture = tungusic
@@ -4464,12 +4734,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 1552
+		size = 1923
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 34062
+		size = 33691
 	}
 	soldiers = {
 		culture = tungusic
@@ -4626,12 +4896,12 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 1426
+		size = 1772
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 32797
+		size = 32451
 	}
 	soldiers = {
 		culture = tungusic
@@ -4757,7 +5027,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 3486
+		size = 4183
 	}
 	soldiers = {
 		culture = tungusic
@@ -4767,7 +5037,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 62478
+		size = 61781
 	}
 	bureaucrats = {
 		culture = tungusic
@@ -4841,29 +5111,39 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 37692
+		size = 37311
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 8245
+		size = 8162
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
 		size = 472
 	}
+	artisans = {
+		culture = tungusic
+		religion = placeholder
+		size = 381
+	}
+	artisans = {
+		culture = mongolic
+		religion = placeholder
+		size = 83
+	}
 }
 2677 = {
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 1960
+		size = 2435
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 45083
+		size = 44608
 	}
 	soldiers = {
 		culture = tungusic
@@ -5204,7 +5484,7 @@
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 4702
+		size = 5646
 	}
 	soldiers = {
 		culture = tungusic
@@ -5214,7 +5494,7 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 86544
+		size = 85600
 	}
 }
 2698 = {
@@ -5226,7 +5506,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 7705
+		size = 9246
 	}
 	soldiers = {
 		culture = mongolic
@@ -5236,7 +5516,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 141184
+		size = 139643
 	}
 }
 2699 = {

@@ -3,3 +3,8 @@ controller = QIN
 add_core = QIN
 trade_goods = tea
 life_rating = 32
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

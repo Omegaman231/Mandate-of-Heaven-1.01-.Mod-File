@@ -677,6 +677,16 @@ TUR_hms_government;Turkmenia;;;;;;;;;;;;;x
 TUR_democracy;Turkmenia;;;;;;;;;;;;;x
 TUR_theocracy;Turkmenia;;;;;;;;;;;;;x
 TUR_merchant_republic;Turkmenia;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_presidential_dictatorship_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_bourgeois_dictatorship_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_fascist_dictatorship_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_absolute_monarchy_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_hms_government_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_democracy_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_theocracy_ADJ;Turkmen;;;;;;;;;;;;;x
+TUR_merchant_republic_ADJ;Turkmen;;;;;;;;;;;;;x
 PER_proletarian_dictatorship;Eranshahr;;;;;;;;;;;;;x
 PER_presidential_dictatorship;Eranshahr;;;;;;;;;;;;;x
 PER_bourgeois_dictatorship;Eranshahr;;;;;;;;;;;;;x
@@ -1218,3 +1228,50 @@ tamil_melaindan;Tamil-Melaindan;;;;;;;;;;;;;x
 rantaunesian;Rantaunesian;;;;;;;;;;;;;x
 zanjyue;Zanjyue;;;;;;;;;;;;;x
 PROV2172;Tenochtitlan;Tenochtitlan;Tenochtitlan;;;;;;;;;;;x
+mon_invade_persia_title;Invade Persia;;;;;;;;;;;;;x
+mon_invade_persia_desc;With the Turkmen lands united under our banner, the road to Persia lies open.;;;;;;;;;;;;;x
+man_invade_persia_title;Invade Persia;;;;;;;;;;;;;x
+man_invade_persia_desc;With the Turkmen lands united under our banner, the road to Persia lies open.;;;;;;;;;;;;;x
+germanicus_avenged_title;Subdue Germania;;;;;;;;;;;;;x
+germanicus_avenged_desc;We have avenged the defeat of Teutoburg and established our permanent presence over the Germans. They will learn to prosper and assimilate under Roman rule.;;;;;;;;;;;;;x
+germanicus_avenged_2_title;Subdue Germania;;;;;;;;;;;;;x
+germanicus_avenged_2_desc;We have avenged the defeat of Teutoburg and established our permanent presence over the Germans. They will learn to prosper and assimilate under Roman rule.;;;;;;;;;;;;;x
+rom_germanicus_avenged_title;Germanicus Avenged;;;;;;;;;;;;;x
+rom_germanicus_avenged_desc;No longer will the true defenders of Rome be held back. The Rhine legions will secure the Elbe and defend its banks for all time.;;;;;;;;;;;;;x
+rom_germanicus_avenged_2_title;Germanicus Avenged;;;;;;;;;;;;;x
+rom_germanicus_avenged_2_desc;No longer will the true defenders of Rome be held back. The Rhine legions will secure the Elbe and defend its banks for all time.;;;;;;;;;;;;;x
+pal_germanicus_avenged_title;Germanicus Avenged;;;;;;;;;;;;;x
+pal_germanicus_avenged_desc;No longer will the true defenders of Rome be held back. The Rhine legions will secure the Elbe and defend its banks for all time.;;;;;;;;;;;;;x
+pal_germanicus_avenged_2_title;Germanicus Avenged;;;;;;;;;;;;;x
+pal_germanicus_avenged_2_desc;No longer will the true defenders of Rome be held back. The Rhine legions will secure the Elbe and defend its banks for all time.;;;;;;;;;;;;;x
+mon_form_ilkhanate_title;Form the Ilkhanate;;;;;;;;;;;;;x
+mon_form_ilkhanate_desc;As in the days of Hulagu, the lands of Persia answer to the heirs of the steppe. Persian scholars and officials now serve our court.;;;;;;;;;;;;;x
+man_form_ilkhanate_title;Form the Ilkhanate;;;;;;;;;;;;;x
+man_form_ilkhanate_desc;As in the days of Hulagu, the lands of Persia answer to the heirs of the steppe. Persian scholars and officials now serve our court.;;;;;;;;;;;;;x
+rom_proclaim_claudius_title;Proclaim Claudius as Emperor;;;;;;;;;;;;;x
+rom_proclaim_claudius_desc;The Augustus is a prisoner of the Persians. The legions call on Claudius to take the purple and avenge Valerian.;;;;;;;;;;;;;x
+EVTNAME950010;Valerian's Remains Recovered;;;;;;;;;;;;;x
+EVTDESC950010;Persia has been humbled and the remains of Emperor Valerian have been returned to Rome.;;;;;;;;;;;;;x
+EVTOPTA950010;He is avenged.;;;;;;;;;;;;;x
+EVTNAME950011;Valerian Dies in Captivity;;;;;;;;;;;;;x
+EVTDESC950011;Word has reached Rome that Emperor Valerian has died a prisoner of the Persians.;;;;;;;;;;;;;x
+EVTOPTA950011;A bitter shame.;;;;;;;;;;;;;x
+EVTNAME950301;Friends in the South;;;;;;;;;;;;;x
+EVTDESC950301;The Delhi Sultanate is weaker than it looks. With friends among the Tamil courts and gold in our treasury, Karnata has been given an opportunity to expose that weakness.;;;;;;;;;;;;;x
+EVTOPTA950301;Good.;;;;;;;;;;;;;x
+take_puppet;Steal Puppet;;;;;;;;;;;;;x
+take_puppet_short;$THIRD$ is brought under our control;;;;;;;;;;;;;x
+take_puppet_desc;Steal a puppet from its overlord;;;;;;;;;;;;;x
+take_puppet_setup;Steal $THIRD$ from $RECIPIENT$;;;;;;;;;;;;;x
+EVTNAME95522;A Change of Overlord;;;;;;;;;;;;;x
+EVTDESC95522;$FROMCOUNTRY$ is now our new overlord.;;;;;;;;;;;;;x
+EVTOPTA95522;Damn.;;;;;;;;;;;;;x
+EVTNAME950310;The Contest for the Throne;;;;;;;;;;;;;x
+EVTDESC950310;The Mandate of Heaven is unclaimed. Qin, Chu, Zhao, Nanyue, the Mongols, the Manchu, Korea and Japan can each rise to become Emperor.;;;;;;;;;;;;;x
+EVTOPTA950310;Let the contest begin.;;;;;;;;;;;;;x
+EVTNAME950311;The Race for Australia;;;;;;;;;;;;;x
+EVTDESC950311;Tamilakam, Nanyue, Japan and Nusantara are locked in a four-way struggle for the southern continent. The race can be won as early as 1870.;;;;;;;;;;;;;x
+EVTOPTA950311;The south will be ours.;;;;;;;;;;;;;x
+EVTNAME950312;Please Don't Meta Partition;;;;;;;;;;;;;x
+EVTDESC950312;It would be wise to deny Delhi or Karnata the ability to dominate India. Intervene when either one gains an overwhelming advantage, or work with Persia and Siam to overcome a unified northern India.;;;;;;;;;;;;;x
+EVTOPTA950312;We will keep the balance.;;;;;;;;;;;;;x

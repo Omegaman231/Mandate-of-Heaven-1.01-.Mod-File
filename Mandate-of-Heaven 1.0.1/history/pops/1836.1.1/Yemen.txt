@@ -86,12 +86,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1147
+		size = 1379
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 127
+		size = 153
 	}
 	soldiers = {
 		culture = arab
@@ -106,12 +106,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 20958
+		size = 20726
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 2328
+		size = 2302
 	}
 }
 1177 = {
@@ -180,12 +180,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 3914
+		size = 4307
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 434
+		size = 478
 	}
 	soldiers = {
 		culture = arab
@@ -200,12 +200,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 31083
+		size = 30690
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 3453
+		size = 3409
 	}
 }
 1179 = {
@@ -232,12 +232,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 810
+		size = 970
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 90
+		size = 108
 	}
 	soldiers = {
 		culture = arab
@@ -252,12 +252,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 13567
+		size = 13407
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 1507
+		size = 1489
 	}
 }
 1180 = {
@@ -279,12 +279,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 877
+		size = 1052
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 97
+		size = 116
 	}
 	soldiers = {
 		culture = arab
@@ -299,12 +299,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 13533
+		size = 13358
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 1503
+		size = 1484
 	}
 }
 1412 = {
@@ -331,12 +331,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 675
+		size = 887
 	}
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 75
+		size = 99
 	}
 	soldiers = {
 		culture = arab
@@ -351,12 +351,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 10967
+		size = 10755
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 1218
+		size = 1194
 	}
 	artisans = {
 		culture = gujarati

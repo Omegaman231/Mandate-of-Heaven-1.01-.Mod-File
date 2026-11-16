@@ -72,4 +72,133 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+	rom_germanicus_avenged = {
+		potential = {
+			tag = ROM
+			has_country_flag = reclaimed_gaul
+			NOT = { has_country_flag = germanicus_avenged }
+			NOT = { has_global_flag = germania_life_rating_granted }
+		}
+		allow = {
+			NET_385 = { owned_by = THIS } # Friesland
+			HAN_536 = { owned_by = THIS } # Lower Saxony
+			SAX_558 = { owned_by = THIS } # Sachsen
+			PRU_581 = { owned_by = THIS } # Westfalen
+			HES_2560 = { owned_by = THIS } # Hesse-Nassau
+			BAV_595 = { owned_by = THIS } # Franken
+			AUS_625 = { owned_by = THIS } # Bohemia
+		}
+		effect = {
+			set_country_flag = germanicus_avenged
+			set_global_flag = germania_life_rating_granted
+			NET_385 = { # Friesland
+				add_core = THIS
+				life_rating = 5
+			}
+			HAN_536 = { # Lower Saxony
+				add_core = THIS
+				life_rating = 5
+			}
+			SAX_558 = { # Sachsen
+				add_core = THIS
+				life_rating = 5
+			}
+			PRU_581 = { # Westfalen
+				add_core = THIS
+				life_rating = 5
+			}
+			HES_2560 = { # Hesse-Nassau
+				add_core = THIS
+				life_rating = 5
+			}
+			BAV_595 = { # Franken
+				add_core = THIS
+				life_rating = 5
+			}
+			AUS_625 = { # Bohemia
+				add_core = THIS
+				life_rating = 5
+			}
+			BAV_599 = { # Bayern
+				add_core = THIS
+				life_rating = 5
+			}
+			AUS_619 = { # Osterreich
+				add_core = THIS
+				life_rating = 5
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	rom_germanicus_avenged_2 = {
+		potential = {
+			tag = ROM
+			has_country_flag = reclaimed_gaul
+			NOT = { has_country_flag = germanicus_avenged }
+			has_global_flag = germania_life_rating_granted
+		}
+		allow = {
+			NET_385 = { owned_by = THIS } # Friesland
+			HAN_536 = { owned_by = THIS } # Lower Saxony
+			SAX_558 = { owned_by = THIS } # Sachsen
+			PRU_581 = { owned_by = THIS } # Westfalen
+			HES_2560 = { owned_by = THIS } # Hesse-Nassau
+			BAV_595 = { owned_by = THIS } # Franken
+			AUS_625 = { owned_by = THIS } # Bohemia
+		}
+		effect = {
+			set_country_flag = germanicus_avenged
+			NET_385 = { # Friesland
+				add_core = THIS
+			}
+			HAN_536 = { # Lower Saxony
+				add_core = THIS
+			}
+			SAX_558 = { # Sachsen
+				add_core = THIS
+			}
+			PRU_581 = { # Westfalen
+				add_core = THIS
+			}
+			HES_2560 = { # Hesse-Nassau
+				add_core = THIS
+			}
+			BAV_595 = { # Franken
+				add_core = THIS
+			}
+			AUS_625 = { # Bohemia
+				add_core = THIS
+			}
+			BAV_599 = { # Bayern
+				add_core = THIS
+			}
+			AUS_619 = { # Osterreich
+				add_core = THIS
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
+	rom_proclaim_claudius = {
+		potential = {
+			tag = ROM
+			NOT = { year = 1843 }
+			NOT = { has_country_flag = valerian_captured }
+			OR = {
+				PAL = { any_owned_province = { is_core = ROM } }
+				PER = { any_owned_province = { is_core = ROM } }
+			}
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = valerian_captured
+			926 = { add_core = ROM } # Ctesiphon
+			define_general = {
+				name = "Claudius Gothicus"
+				personality = defence_4.2
+				background = attack_4.3
+			}
+		}
+		ai_will_do = { factor = 1 }
+	}
 }

@@ -2627,6 +2627,7 @@ mongol_tactics = {
 		base = 0
 	}
 	effect = {
+		colonial_points = 300
 		irregular = {
 			attack = 1
 			maximum_speed = 1

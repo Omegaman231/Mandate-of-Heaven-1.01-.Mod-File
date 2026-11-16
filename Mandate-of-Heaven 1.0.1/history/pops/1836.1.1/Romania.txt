@@ -527,27 +527,27 @@
 	aristocrats = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 375
+		size = 750
 	}
 	clergymen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 212
+		size = 424
 	}
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1075
+		size = 2150
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 900
+		size = 1800
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 20612
+		size = 41224
 	}
 }
 668 = {
@@ -732,52 +732,52 @@
 	aristocrats = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 820
+		size = 1640
 	}
 	aristocrats = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 180
+		size = 360
 	}
 	clergymen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 430
+		size = 860
 	}
 	clergymen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 94
+		size = 188
 	}
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2255
+		size = 4510
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 495
+		size = 990
 	}
 	soldiers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2460
+		size = 4920
 	}
 	soldiers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 540
+		size = 1080
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 40364
+		size = 80728
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 8860
+		size = 17720
 	}
 }
 673 = {

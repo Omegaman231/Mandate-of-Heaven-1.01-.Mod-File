@@ -22,22 +22,22 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 3813
+		size = 4801
 	}
 	artisans = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 837
+		size = 1054
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 92414
+		size = 91426
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 20286
+		size = 20069
 	}
 	soldiers = {
 		culture = burman
@@ -64,12 +64,12 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 54755
+		size = 54182
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 12019
+		size = 11893
 	}
 	clergymen = {
 		culture = burman
@@ -84,12 +84,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 1271
+		size = 1844
 	}
 	artisans = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 279
+		size = 405
 	}
 	soldiers = {
 		culture = burman
@@ -116,12 +116,12 @@
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 148657
+		size = 147061
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 32632
+		size = 32282
 	}
 	clergymen = {
 		culture = austroasiatic
@@ -136,12 +136,12 @@
 	artisans = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 5945
+		size = 7541
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 1305
+		size = 1655
 	}
 	soldiers = {
 		culture = austroasiatic
@@ -198,12 +198,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 3157
+		size = 3768
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 693
+		size = 827
 	}
 	soldiers = {
 		culture = burman
@@ -218,12 +218,12 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 55903
+		size = 55292
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 12271
+		size = 12137
 	}
 }
 1334 = {
@@ -250,12 +250,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 2460
+		size = 2952
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 540
+		size = 648
 	}
 	soldiers = {
 		culture = burman
@@ -270,12 +270,12 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 42332
+		size = 41840
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 9292
+		size = 9184
 	}
 }
 1335 = {
@@ -322,12 +322,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 4715
+		size = 5725
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 1035
+		size = 1183
 	}
 	soldiers = {
 		culture = burman
@@ -342,12 +342,12 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 86182
+		size = 85172
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 12612
+		size = 12464
 	}
 }
 1336 = {
@@ -364,7 +364,7 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 1500
+		size = 1801
 	}
 	soldiers = {
 		culture = burman
@@ -374,7 +374,7 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 26875
+		size = 26574
 	}
 }
 1337 = {
@@ -473,12 +473,12 @@
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 4387
+		size = 5242
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 963
+		size = 1151
 	}
 	soldiers = {
 		culture = siamese
@@ -493,116 +493,116 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 77941
+		size = 77086
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 17109
+		size = 16921
 	}
 }
 1339 = {
 	aristocrats = {
 		culture = burman
 		religion = placeholder
-		size = 383
+		size = 766
 	}
 	aristocrats = {
 		culture = tibetan
 		religion = placeholder
-		size = 83
+		size = 166
 	}
 	clergymen = {
 		culture = burman
 		religion = placeholder
-		size = 551
+		size = 1102
 	}
 	clergymen = {
-		culture = tibetan
-		religion = placeholder
-		size = 121
-	}
-	artisans = {
-		culture = burman
-		religion = placeholder
-		size = 2481
-	}
-	artisans = {
-		culture = tibetan
-		religion = placeholder
-		size = 545
-	}
-	soldiers = {
-		culture = burman
-		religion = placeholder
-		size = 1103
-	}
-	soldiers = {
 		culture = tibetan
 		religion = placeholder
 		size = 242
 	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 5288
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1162
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 2206
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 484
+	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 11776
+		size = 23226
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 2585
+		size = 5098
 	}
 }
 3348 = {
 	aristocrats = {
 		culture = burman
 		religion = placeholder
-		size = 382
+		size = 764
 	}
 	aristocrats = {
 		culture = tibetan
 		religion = placeholder
-		size = 84
+		size = 168
 	}
 	clergymen = {
 		culture = burman
 		religion = placeholder
-		size = 552
+		size = 1104
 	}
 	clergymen = {
-		culture = tibetan
-		religion = placeholder
-		size = 121
-	}
-	artisans = {
-		culture = burman
-		religion = placeholder
-		size = 2481
-	}
-	artisans = {
-		culture = tibetan
-		religion = placeholder
-		size = 544
-	}
-	soldiers = {
-		culture = burman
-		religion = placeholder
-		size = 1102
-	}
-	soldiers = {
 		culture = tibetan
 		religion = placeholder
 		size = 242
 	}
+	artisans = {
+		culture = burman
+		religion = placeholder
+		size = 5288
+	}
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 1160
+	}
+	soldiers = {
+		culture = burman
+		religion = placeholder
+		size = 2204
+	}
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 484
+	}
 	labourers = {
 		culture = burman
 		religion = placeholder
-		size = 11776
+		size = 23226
 	}
 	labourers = {
 		culture = tibetan
 		religion = placeholder
-		size = 2584
+		size = 5096
 	}
 }
 1340 = {
@@ -629,12 +629,12 @@
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 2788
+		size = 3346
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 612
+		size = 734
 	}
 	soldiers = {
 		culture = siamese
@@ -649,12 +649,12 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 51311
+		size = 50753
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 11263
+		size = 11141
 	}
 }
 1341 = {
@@ -681,12 +681,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 2050
+		size = 2493
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 450
+		size = 547
 	}
 	soldiers = {
 		culture = tibetan
@@ -701,12 +701,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 40877
+		size = 40434
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 8973
+		size = 8876
 	}
 }
 1342 = {
@@ -733,12 +733,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 3731
+		size = 4477
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 819
+		size = 983
 	}
 	soldiers = {
 		culture = burman
@@ -753,12 +753,12 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 65436
+		size = 64690
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 14364
+		size = 14200
 	}
 	bureaucrats = {
 		culture = burman
@@ -790,12 +790,12 @@
 	artisans = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 3259
+		size = 3606
 	}
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 715
+		size = 791
 	}
 	soldiers = {
 		culture = austroasiatic
@@ -810,12 +810,12 @@
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 29540
+		size = 29193
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 6484
+		size = 6408
 	}
 	bureaucrats = {
 		culture = austroasiatic
@@ -852,12 +852,12 @@
 	artisans = {
 		culture = siamese
 		religion = placeholder
-		size = 3567
+		size = 4249
 	}
 	artisans = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 783
+		size = 933
 	}
 	soldiers = {
 		culture = siamese
@@ -872,12 +872,12 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 62422
+		size = 61740
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 13702
+		size = 13552
 	}
 }
 1345 = {
@@ -909,12 +909,12 @@
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 7380
+		size = 7741
 	}
 	artisans = {
 		culture = bengali
 		religion = placeholder
-		size = 1620
+		size = 1699
 	}
 	soldiers = {
 		culture = burman
@@ -929,11 +929,11 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 27552
+		size = 27191
 	}
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 6048
+		size = 5969
 	}
 }

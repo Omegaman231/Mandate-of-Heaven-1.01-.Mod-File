@@ -1921,6 +1921,61 @@ assimilation_chance = {
 		}	
 	}
 	
+#Gallia / Gallic Empire Germanicus Avenged bonus assimilation (+50% of base, scaled down for non-core pops like the other bonuses)
+	group = {
+		modifier = {
+			factor = 5
+			has_pop_culture = germano_slavic
+			country = {
+				has_country_flag = germanicus_avenged
+			}
+		}
+		modifier = {
+			factor = -4.95
+			has_pop_culture = germano_slavic
+			has_culture_core = no
+			country = {
+				has_country_flag = germanicus_avenged
+			}
+		}
+	}
+	
+#Rome Felicior Augusto bonus assimilation of Eastern Roman and Romano-Celtic pops (+50% of base, scaled down for non-core pops)
+	group = {
+		modifier = {
+			factor = 5
+			has_pop_culture = eastern_roman
+			country = {
+				has_country_flag = felicior_augusto
+			}
+		}
+		modifier = {
+			factor = -4.95
+			has_pop_culture = eastern_roman
+			has_culture_core = no
+			country = {
+				has_country_flag = felicior_augusto
+			}
+		}
+	}
+	group = {
+		modifier = {
+			factor = 5
+			has_pop_culture = romano_celtic
+			country = {
+				has_country_flag = felicior_augusto
+			}
+		}
+		modifier = {
+			factor = -4.95
+			has_pop_culture = romano_celtic
+			has_culture_core = no
+			country = {
+				has_country_flag = felicior_augusto
+			}
+		}
+	}
+	
 #Crimean Assimilation from Subjugation Decision
 	group = {
 		modifier = {

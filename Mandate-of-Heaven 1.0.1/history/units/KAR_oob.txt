@@ -28,7 +28,7 @@ army = {
 	}
 	regiment = {
 		name = "6. Karnatan Regiment"
-		type = hussar
+		type = artillery
 		home = 1275
 	}
 	regiment = {
@@ -82,7 +82,7 @@ army = {
 	}
 	regiment = {
 		name = "16. Karnatan Regiment"
-		type = hussar
+		type = artillery
 		home = 1298
 	}
 	regiment = {
@@ -136,7 +136,7 @@ army = {
 	}
 	regiment = {
 		name = "26. Karnatan Regiment"
-		type = hussar
+		type = artillery
 		home = 1284
 	}
 	regiment = {
@@ -190,7 +190,7 @@ army = {
 	}
 	regiment = {
 		name = "36. Karnatan Regiment"
-		type = hussar
+		type = artillery
 		home = 1275
 	}
 	regiment = {
@@ -244,7 +244,7 @@ army = {
 	}
 	regiment = {
 		name = "46. Karnatan Regiment"
-		type = hussar
+		type = artillery
 		home = 1277
 	}
 	regiment = {
@@ -267,4 +267,157 @@ army = {
 		type = artillery
 		home = 1277
 	}
+}
+army = {
+	name = "Karnatan Army 6"
+	location = 1278
+	regiment = {
+		name = "51. Karnatan Regiment"
+		type = hussar
+		home = 1287
+	}
+	regiment = {
+		name = "52. Karnatan Regiment"
+		type = hussar
+		home = 1287
+	}
+	regiment = {
+		name = "53. Karnatan Regiment"
+		type = hussar
+		home = 1287
+	}
+	regiment = {
+		name = "54. Karnatan Regiment"
+		type = hussar
+		home = 1277
+	}
+	regiment = {
+		name = "55. Karnatan Regiment"
+		type = hussar
+		home = 1277
+	}
+	regiment = {
+		name = "56. Karnatan Regiment"
+		type = artillery
+		home = 1278
+	}
+	regiment = {
+		name = "57. Karnatan Regiment"
+		type = artillery
+		home = 1278
+	}
+	regiment = {
+		name = "58. Karnatan Regiment"
+		type = artillery
+		home = 1286
+	}
+	regiment = {
+		name = "59. Karnatan Regiment"
+		type = artillery
+		home = 1286
+	}
+	regiment = {
+		name = "60. Karnatan Regiment"
+		type = artillery
+		home = 1284
+	}
+}
+army = {
+	name = "Karnatan Army 7"
+	location = 1283
+	regiment = {
+		name = "61. Karnatan Regiment"
+		type = hussar
+		home = 1306
+	}
+	regiment = {
+		name = "62. Karnatan Regiment"
+		type = hussar
+		home = 1306
+	}
+	regiment = {
+		name = "63. Karnatan Regiment"
+		type = hussar
+		home = 1298
+	}
+	regiment = {
+		name = "64. Karnatan Regiment"
+		type = hussar
+		home = 1298
+	}
+	regiment = {
+		name = "65. Karnatan Regiment"
+		type = hussar
+		home = 1283
+	}
+	regiment = {
+		name = "66. Karnatan Regiment"
+		type = artillery
+		home = 1283
+	}
+	regiment = {
+		name = "67. Karnatan Regiment"
+		type = artillery
+		home = 1284
+	}
+	regiment = {
+		name = "68. Karnatan Regiment"
+		type = artillery
+		home = 1285
+	}
+	regiment = {
+		name = "69. Karnatan Regiment"
+		type = artillery
+		home = 1275
+	}
+	regiment = {
+		name = "70. Karnatan Regiment"
+		type = artillery
+		home = 1275
+	}
+}
+army = {
+	name = "Karnatan Army 8"
+	location = 1298
+	regiment = {
+		name = "71. Karnatan Regiment"
+		type = artillery
+		home = 1279
+	}
+	regiment = {
+		name = "72. Karnatan Regiment"
+		type = artillery
+		home = 1285
+	}
+	regiment = {
+		name = "73. Karnatan Regiment"
+		type = artillery
+		home = 1299
+	}
+	regiment = {
+		name = "74. Karnatan Regiment"
+		type = artillery
+		home = 1300
+	}
+	regiment = {
+		name = "75. Karnatan Regiment"
+		type = artillery
+		home = 1300
+	}
+}
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
+}
+leader = {
+	name = "Base General"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.100
+	background = attack_1.100
+	prestige = 0
 }

@@ -659,3 +659,43 @@ navy = {
 		type = clipper_transport
 	}
 }
+leader = {
+	name = "Corrupt Legate"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_minus_1.1
+	prestige = 0
+}
+leader = {
+	name = "Traitorous Praetorian"
+	date = 1836.1.1
+	type = land
+	personality = defence_minus_1.100
+	background = attack_minus_1.100
+	prestige = 0
+}
+leader = {
+	name = "Traitorous Praetorian"
+	date = 1836.1.1
+	type = land
+	personality = defence_minus_1.100
+	background = attack_minus_1.100
+	prestige = 0
+}
+leader = {
+	name = "Traitorous Praetorian"
+	date = 1836.1.1
+	type = land
+	personality = defence_minus_1.100
+	background = attack_minus_1.100
+	prestige = 0
+}
+leader = {
+	name = "Augustus Gallienus"
+	date = 1836.1.1
+	type = land
+	personality = defence_2.51
+	background = attack_2.51
+	prestige = 0
+}
