@@ -5,7 +5,7 @@ political_decisions = {
 			NOT = { has_country_flag = northern_union }
 		}
 		allow = {
-			controls = 2678
+			owns = 2678
 		}
 		effect = {
 			set_country_flag = northern_union
