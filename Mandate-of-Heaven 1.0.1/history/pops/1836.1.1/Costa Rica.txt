@@ -84,7 +84,12 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 5700
+		size = 5683
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 17
 	}
 }
 2203 = {
@@ -133,7 +138,7 @@
 	bureaucrats = {
 		culture = maya
 		religion = placeholder
-		size = 175
+		size = 285
 	}
 	officers = {
 		culture = maya
@@ -158,7 +163,7 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 36600
+		size = 36490
 	}
 }
 3317 = {
@@ -185,7 +190,12 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 29400
+		size = 29312
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 88
 	}
 }
 3318 = {
@@ -212,6 +222,11 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 36650
+		size = 36540
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 110
 	}
 }

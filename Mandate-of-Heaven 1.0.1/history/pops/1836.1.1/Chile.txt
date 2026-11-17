@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 40
+		size = 89
 	}
 	officers = {
 		culture = quechua
@@ -27,12 +27,12 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 31225
+		size = 30973
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 900
+		size = 1103
 	}
 }
 2307 = {
@@ -54,12 +54,17 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 68026
+		size = 67476
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 3000
+		size = 3443
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 107
 	}
 }
 2308 = {
@@ -71,7 +76,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 50
+		size = 103
 	}
 	clergymen = {
 		culture = quechua
@@ -86,12 +91,12 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 33600
+		size = 33328
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 360
+		size = 579
 	}
 }
 2309 = {
@@ -113,19 +118,24 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 453
+		size = 719
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 40800
+		size = 40470
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 64
 	}
 }
 2322 = {
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 30600
+		size = 30353
 	}
 	artisans = {
 		culture = quechua
@@ -135,7 +145,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 700
+		size = 899
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 48
 	}
 }
 2323 = {
@@ -147,7 +162,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 100
+		size = 131
 	}
 	officers = {
 		culture = quechua
@@ -167,12 +182,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 775
+		size = 904
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 19745
+		size = 19585
 	}
 }
 2324 = {
@@ -323,12 +338,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 2200
+		size = 2430
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 35400
+		size = 35114
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 56
 	}
 }
 2327 = {
@@ -583,7 +603,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 100
+		size = 162
 	}
 	clergymen = {
 		culture = quechua
@@ -598,12 +618,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1200
+		size = 1458
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 39600
+		size = 39280
 	}
 }
 3330 = {
@@ -620,7 +640,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 450
+		size = 494
 	}
 	artisans = {
 		culture = quechua
@@ -630,12 +650,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 300
+		size = 482
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 27975
+		size = 27749
 	}
 }
 3331 = {
@@ -657,12 +677,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1000
+		size = 1117
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 17972
+		size = 17827
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 28
 	}
 }
 3332 = {
@@ -679,12 +704,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 166
+		size = 256
 	}
 	soldiers = {
 		culture = amazonian
 		religion = placeholder
-		size = 37
+		size = 57
 	}
 	artisans = {
 		culture = quechua
@@ -699,12 +724,22 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 13858
+		size = 13746
 	}
 	farmers = {
 		culture = amazonian
 		religion = placeholder
-		size = 3042
+		size = 3017
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 22
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 5
 	}
 }
 3333 = {

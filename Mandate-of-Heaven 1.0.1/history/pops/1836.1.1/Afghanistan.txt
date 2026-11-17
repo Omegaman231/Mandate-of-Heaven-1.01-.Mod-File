@@ -12,12 +12,12 @@
 	bureaucrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 676
+		size = 1390
 	}
 	bureaucrats = {
 		culture = persian
 		religion = placeholder
-		size = 148
+		size = 305
 	}
 	officers = {
 		culture = sogdian
@@ -62,12 +62,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 218498
+		size = 217784
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 47963
+		size = 47806
 	}
 }
 1210 = {
@@ -114,12 +114,22 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 60136
+		size = 59939
 	}
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 13200
+		size = 13157
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 197
+	}
+	bureaucrats = {
+		culture = punjabi
+		religion = placeholder
+		size = 43
 	}
 }
 1211 = {
@@ -166,12 +176,22 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 98286
+		size = 97965
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 21574
+		size = 21503
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 321
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 71
 	}
 }
 1212 = {
@@ -376,12 +396,22 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 47547
+		size = 47392
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 10437
+		size = 10403
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 155
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 34
 	}
 }
 1217 = {

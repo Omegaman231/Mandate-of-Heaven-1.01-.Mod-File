@@ -3384,12 +3384,22 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 33497
+		size = 33388
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 7353
+		size = 7329
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 109
+	}
+	bureaucrats = {
+		culture = tungusic
+		religion = placeholder
+		size = 24
 	}
 }
 1061 = {

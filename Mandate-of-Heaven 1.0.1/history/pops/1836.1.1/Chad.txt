@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 40
+		size = 307
 	}
 	officers = {
 		culture = kanuri
@@ -27,12 +27,12 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 800
+		size = 1598
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 73100
+		size = 72035
 	}
 }
 1819 = {
@@ -54,12 +54,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 125
+		size = 245
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 10950
+		size = 10790
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 40
 	}
 }
 1820 = {
@@ -81,12 +86,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 100
+		size = 189
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 8175
+		size = 8056
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 30
 	}
 }
 1821 = {
@@ -103,7 +113,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 41
+		size = 131
 	}
 	officers = {
 		culture = kanuri
@@ -133,22 +143,27 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1107
+		size = 1376
 	}
 	soldiers = {
 		culture = nubian
 		religion = placeholder
-		size = 243
+		size = 302
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 24600
+		size = 24241
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 5400
+		size = 5321
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 20
 	}
 }
 1822 = {
@@ -185,22 +200,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 328
+		size = 677
 	}
 	soldiers = {
 		culture = nubian
 		religion = placeholder
-		size = 72
+		size = 149
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 31939
+		size = 31473
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 7011
+		size = 6908
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 117
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 26
 	}
 }
 1823 = {
@@ -237,22 +262,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 902
+		size = 1274
 	}
 	soldiers = {
 		culture = nubian
 		religion = placeholder
-		size = 198
+		size = 280
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 34030
+		size = 33534
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 7470
+		size = 7361
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 124
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 27
 	}
 }
 1824 = {
@@ -274,17 +309,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 2000
+		size = 3879
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 172000
+		size = 169493
 	}
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 100
+		size = 728
 	}
 	officers = {
 		culture = kanuri
@@ -326,22 +361,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 164
+		size = 311
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 36
+		size = 68
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 13427
+		size = 13231
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 2947
+		size = 2904
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 49
+	}
+	bureaucrats = {
+		culture = berber
+		religion = placeholder
+		size = 11
 	}
 }
 1826 = {
@@ -378,21 +423,31 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 123
+		size = 237
 	}
 	soldiers = {
 		culture = nubian
 		religion = placeholder
-		size = 27
+		size = 52
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 10455
+		size = 10303
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 2295
+		size = 2262
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 38
+	}
+	bureaucrats = {
+		culture = nubian
+		religion = placeholder
+		size = 8
 	}
 }

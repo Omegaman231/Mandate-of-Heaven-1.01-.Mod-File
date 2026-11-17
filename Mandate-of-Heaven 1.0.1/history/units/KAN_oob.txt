@@ -32,3 +32,17 @@ army = {
 		home = 1948
 	}
 }
+army = {
+	name = "Kanembu Army 2"
+	location = 1824
+	regiment = {
+		name = "7. Kanembu Regiment"
+		type = artillery
+		home = 1824
+	}
+	regiment = {
+		name = "8. Kanembu Regiment"
+		type = artillery
+		home = 1824
+	}
+}

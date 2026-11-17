@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = maya
 		religion = placeholder
-		size = 175
+		size = 273
 	}
 	officers = {
 		culture = maya
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 32775
+		size = 32677
 	}
 }
 2187 = {
@@ -59,7 +59,12 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 76440
+		size = 76210
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 230
 	}
 }
 2188 = {
@@ -86,7 +91,12 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 41380
+		size = 41256
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 124
 	}
 }
 2189 = {
@@ -108,11 +118,16 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 26600
+		size = 26520
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
 		size = 1367
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 80
 	}
 }

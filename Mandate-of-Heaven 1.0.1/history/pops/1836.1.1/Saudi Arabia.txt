@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = arab
 		religion = placeholder
-		size = 150
+		size = 372
 	}
 	officers = {
 		culture = arab
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 48937
+		size = 48715
 	}
 }
 1152 = {
@@ -59,7 +59,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 32474
+		size = 32327
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 147
 	}
 }
 1153 = {
@@ -86,7 +91,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 25050
+		size = 24936
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 114
 	}
 }
 1154 = {
@@ -118,17 +128,27 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2244
+		size = 2234
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 492
+		size = 490
 	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
 		size = 8100
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 10
+	}
+	bureaucrats = {
+		culture = persian
+		religion = placeholder
+		size = 2
 	}
 }
 1155 = {
@@ -155,7 +175,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 17775
+		size = 17694
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 81
 	}
 }
 1156 = {
@@ -187,12 +212,22 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 4809
+		size = 4787
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1055
+		size = 1050
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 22
+	}
+	bureaucrats = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 5
 	}
 }
 1157 = {
@@ -204,7 +239,7 @@
 	bureaucrats = {
 		culture = arab
 		religion = placeholder
-		size = 37
+		size = 191
 	}
 	officers = {
 		culture = arab
@@ -229,7 +264,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 33937
+		size = 33783
 	}
 }
 1158 = {
@@ -256,7 +291,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 5512
+		size = 5487
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 25
 	}
 }
 1159 = {
@@ -283,7 +323,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 8287
+		size = 8249
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 38
 	}
 }
 1160 = {
@@ -310,7 +355,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 4125
+		size = 4106
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 19
 	}
 }
 1161 = {
@@ -337,7 +387,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 8287
+		size = 8249
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 38
 	}
 }
 1163 = {
@@ -428,6 +483,11 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 5775
+		size = 5749
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 26
 	}
 }

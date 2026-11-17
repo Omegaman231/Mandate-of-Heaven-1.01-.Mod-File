@@ -17,12 +17,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 386
+		size = 590
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 24875
+		size = 24583
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 88
 	}
 }
 1893 = {
@@ -44,12 +49,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 671
+		size = 1024
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 43050
+		size = 42544
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 153
 	}
 }
 1894 = {
@@ -98,12 +108,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 214
+		size = 326
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 13625
+		size = 13465
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 48
 	}
 }
 1896 = {
@@ -125,12 +140,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 428
+		size = 652
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 27325
+		size = 27004
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 97
 	}
 }
 1897 = {
@@ -152,12 +172,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 328
+		size = 501
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 21150
+		size = 20902
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 75
 	}
 }
 1898 = {
@@ -169,7 +194,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 470
+		size = 680
 	}
 	officers = {
 		culture = soninke
@@ -189,12 +214,12 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1405
+		size = 1892
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 59375
+		size = 58678
 	}
 }
 1899 = {
@@ -216,12 +241,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1675
+		size = 2070
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 48125
+		size = 47559
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 171
 	}
 }
 1900 = {
@@ -243,11 +273,16 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1425
+		size = 1961
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 65325
+		size = 64557
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 232
 	}
 }

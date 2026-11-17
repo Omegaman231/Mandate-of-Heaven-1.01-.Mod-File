@@ -22,7 +22,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 49007
+		size = 48847
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 160
 	}
 }
 1190 = {
@@ -49,7 +54,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 12303
+		size = 12263
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 40
 	}
 }
 1203 = {
@@ -76,6 +86,11 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 22393
+		size = 22320
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 73
 	}
 }

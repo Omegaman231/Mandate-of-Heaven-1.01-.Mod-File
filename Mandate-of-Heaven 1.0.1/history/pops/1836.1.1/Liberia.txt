@@ -12,17 +12,22 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1625
+		size = 2087
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 56390
+		size = 55728
 	}
 	aristocrats = {
 		culture = soninke
 		religion = placeholder
 		size = 1100
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 200
 	}
 }
 1888 = {
@@ -66,17 +71,22 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 442
+		size = 673
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 28220
+		size = 27889
 	}
 	aristocrats = {
 		culture = soninke
 		religion = placeholder
 		size = 575
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 100
 	}
 }
 1890 = {
@@ -93,17 +103,22 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 471
+		size = 717
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 30020
+		size = 29668
 	}
 	aristocrats = {
 		culture = soninke
 		religion = placeholder
 		size = 625
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 106
 	}
 }
 1891 = {
@@ -120,16 +135,21 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 601
+		size = 919
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 38725
+		size = 38270
 	}
 	aristocrats = {
 		culture = soninke
 		religion = placeholder
 		size = 375
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 137
 	}
 }

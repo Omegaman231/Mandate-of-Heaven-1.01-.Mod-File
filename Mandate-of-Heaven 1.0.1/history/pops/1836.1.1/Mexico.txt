@@ -22,7 +22,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 17657
+		size = 17609
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 48
 	}
 }
 131 = {
@@ -49,7 +54,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 5600
+		size = 5585
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 15
 	}
 }
 158 = {
@@ -76,7 +86,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 22400
+		size = 22339
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 61
 	}
 }
 2137 = {
@@ -88,7 +103,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 21
+		size = 40
 	}
 	clergymen = {
 		culture = pueblo
@@ -108,7 +123,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 6816
+		size = 6797
 	}
 }
 2138 = {
@@ -147,7 +162,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2869
+		size = 2861
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 8
 	}
 }
 2140 = {
@@ -164,7 +184,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3360
+		size = 3351
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 9
 	}
 }
 2141 = {
@@ -191,7 +216,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 8767
+		size = 8743
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 24
 	}
 }
 2142 = {
@@ -218,7 +248,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 6907
+		size = 6888
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 19
 	}
 }
 2144 = {
@@ -255,12 +290,22 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1894
+		size = 1889
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 415
+		size = 414
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 1
 	}
 }
 2145 = {
@@ -277,7 +322,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 35
+		size = 46
 	}
 	clergymen = {
 		culture = pueblo
@@ -292,12 +337,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3931
+		size = 3920
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 863
+		size = 861
 	}
 	artisans = {
 		culture = pueblo
@@ -314,6 +359,11 @@
 		religion = placeholder
 		size = 425
 	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 2
+	}
 }
 2146 = {
 	aristocrats = {
@@ -324,7 +374,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 26
+		size = 39
 	}
 	clergymen = {
 		culture = pueblo
@@ -344,7 +394,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4900
+		size = 4887
 	}
 }
 2147 = {
@@ -371,7 +421,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3867
+		size = 3856
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 11
 	}
 }
 2148 = {
@@ -435,7 +490,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 10500
+		size = 10471
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 29
 	}
 }
 2150 = {
@@ -462,7 +522,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 35000
+		size = 34955
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 45
 	}
 }
 2151 = {
@@ -474,7 +539,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 96
+		size = 130
 	}
 	clergymen = {
 		culture = nahua
@@ -489,7 +554,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 26320
+		size = 26286
 	}
 	soldiers = {
 		culture = nahua
@@ -521,7 +586,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1819
+		size = 1814
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
 	}
 }
 2153 = {
@@ -548,7 +618,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 50400
+		size = 50335
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 65
 	}
 }
 2154 = {
@@ -585,12 +660,22 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 13776
+		size = 13758
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3024
+		size = 3020
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 18
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 4
 	}
 }
 2155 = {
@@ -622,12 +707,22 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 16072
+		size = 16051
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3528
+		size = 3523
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 21
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
 	}
 }
 2156 = {
@@ -639,7 +734,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 140
+		size = 181
 	}
 	clergymen = {
 		culture = nahua
@@ -659,7 +754,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 31640
+		size = 31599
 	}
 }
 2157 = {
@@ -691,12 +786,22 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 53956
+		size = 53887
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 11844
+		size = 11829
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 69
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 15
 	}
 }
 2158 = {
@@ -708,7 +813,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 452
+		size = 522
 	}
 	officers = {
 		culture = nahua
@@ -733,7 +838,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 54600
+		size = 54530
 	}
 }
 2159 = {
@@ -760,7 +865,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 29120
+		size = 29083
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 37
 	}
 }
 2160 = {
@@ -782,12 +892,17 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 35476
+		size = 35431
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
 		size = 3224
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 45
 	}
 }
 2161 = {
@@ -809,7 +924,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 75320
+		size = 75223
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 97
 	}
 }
 2162 = {
@@ -821,7 +941,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 244
+		size = 311
 	}
 	clergymen = {
 		culture = nahua
@@ -841,7 +961,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 52360
+		size = 52293
 	}
 }
 2163 = {
@@ -868,7 +988,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 30520
+		size = 30481
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 39
 	}
 }
 2164 = {
@@ -895,17 +1020,27 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 40980
+		size = 40927
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 8996
+		size = 8984
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
 		size = 4008
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 53
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 12
 	}
 }
 2165 = {
@@ -932,12 +1067,22 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 16640
+		size = 16590
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 3650
+		size = 3639
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 50
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 11
 	}
 }
 2166 = {
@@ -949,7 +1094,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 348
+		size = 436
 	}
 	officers = {
 		culture = nahua
@@ -969,7 +1114,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 68880
+		size = 68792
 	}
 	soldiers = {
 		culture = nahua
@@ -986,7 +1131,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 804
+		size = 854
 	}
 	officers = {
 		culture = nahua
@@ -1011,7 +1156,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 38920
+		size = 38870
 	}
 }
 2168 = {
@@ -1033,7 +1178,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 50400
+		size = 50335
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 65
 	}
 }
 2169 = {
@@ -1060,7 +1210,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 42280
+		size = 42226
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 54
 	}
 }
 2170 = {
@@ -1072,7 +1227,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 452
+		size = 523
 	}
 	clergymen = {
 		culture = nahua
@@ -1087,7 +1242,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 55020
+		size = 54949
 	}
 	soldiers = {
 		culture = nahua
@@ -1119,7 +1274,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 37240
+		size = 37192
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 48
 	}
 }
 2172 = {
@@ -1131,7 +1291,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 1320
+		size = 1463
 	}
 	officers = {
 		culture = nahua
@@ -1156,7 +1316,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 111488
+		size = 111345
 	}
 }
 2173 = {
@@ -1183,7 +1343,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 58800
+		size = 58725
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 75
 	}
 }
 2174 = {
@@ -1210,7 +1375,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 86940
+		size = 86829
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 111
 	}
 }
 2175 = {
@@ -1227,7 +1397,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 840
+		size = 924
 	}
 	artisans = {
 		culture = nahua
@@ -1237,7 +1407,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 65528
+		size = 65444
 	}
 	soldiers = {
 		culture = nahua
@@ -1254,7 +1424,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 1052
+		size = 1148
 	}
 	clergymen = {
 		culture = nahua
@@ -1274,7 +1444,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 74600
+		size = 74504
 	}
 }
 2177 = {
@@ -1286,7 +1456,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 244
+		size = 316
 	}
 	officers = {
 		culture = nahua
@@ -1311,7 +1481,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 56000
+		size = 55928
 	}
 }
 2178 = {
@@ -1343,17 +1513,27 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 23188
+		size = 23158
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 5088
+		size = 5081
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
 		size = 2410
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 30
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 7
 	}
 }
 2179 = {
@@ -1365,7 +1545,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 172
+		size = 230
 	}
 	clergymen = {
 		culture = nahua
@@ -1380,7 +1560,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 45080
+		size = 45022
 	}
 	soldiers = {
 		culture = nahua
@@ -1412,7 +1592,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 38640
+		size = 38590
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 50
 	}
 }
 2181 = {
@@ -1449,12 +1634,22 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 33860
+		size = 33758
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 7430
+		size = 7408
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 102
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 22
 	}
 }
 2182 = {
@@ -1481,12 +1676,22 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 17220
+		size = 17168
 	}
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 3780
+		size = 3769
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 52
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 11
 	}
 }
 2183 = {
@@ -1498,7 +1703,7 @@
 	bureaucrats = {
 		culture = maya
 		religion = placeholder
-		size = 700
+		size = 931
 	}
 	artisans = {
 		culture = maya
@@ -1508,7 +1713,7 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 77000
+		size = 76769
 	}
 	clergymen = {
 		culture = maya
@@ -1530,7 +1735,7 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 56000
+		size = 55832
 	}
 	clergymen = {
 		culture = maya
@@ -1546,6 +1751,11 @@
 		culture = maya
 		religion = placeholder
 		size = 2369
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 168
 	}
 }
 2185 = {
@@ -1572,7 +1782,12 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 30100
+		size = 30010
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 90
 	}
 }
 3301 = {
@@ -1599,14 +1814,19 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2485
+		size = 2478
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 7
 	}
 }
 3302 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 616
+		size = 614
 	}
 	artisans = {
 		culture = pueblo
@@ -1617,6 +1837,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 57
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
 	}
 }
 3303 = {
@@ -1638,7 +1863,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 38360
+		size = 38311
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 49
 	}
 }
 3304 = {
@@ -1665,7 +1895,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 35560
+		size = 35514
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 46
 	}
 }
 3305 = {
@@ -1692,7 +1927,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 40320
+		size = 40268
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 52
 	}
 }
 3306 = {
@@ -1709,7 +1949,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 94080
+		size = 93959
 	}
 	soldiers = {
 		culture = nahua
@@ -1721,6 +1961,11 @@
 		religion = placeholder
 		size = 476
 	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 121
+	}
 }
 3307 = {
 	aristocrats = {
@@ -1731,7 +1976,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 560
+		size = 656
 	}
 	clergymen = {
 		culture = nahua
@@ -1751,7 +1996,7 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 75180
+		size = 75084
 	}
 }
 3308 = {
@@ -1773,7 +2018,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 30800
+		size = 30761
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 39
 	}
 }
 3309 = {
@@ -1800,7 +2050,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 28000
+		size = 27964
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 36
 	}
 }
 3310 = {
@@ -1827,7 +2082,12 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 26320
+		size = 26286
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 34
 	}
 }
 3311 = {
@@ -1849,12 +2109,17 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 27720
+		size = 27684
 	}
 	soldiers = {
 		culture = nahua
 		religion = placeholder
 		size = 2408
+	}
+	bureaucrats = {
+		culture = nahua
+		religion = placeholder
+		size = 36
 	}
 }
 3312 = {
@@ -1866,7 +2131,7 @@
 	bureaucrats = {
 		culture = nahua
 		religion = placeholder
-		size = 200
+		size = 237
 	}
 	officers = {
 		culture = nahua
@@ -1901,24 +2166,34 @@
 	farmers = {
 		culture = nahua
 		religion = placeholder
-		size = 29156
+		size = 29119
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 6400
+		size = 6392
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 8
 	}
 }
 3313 = {
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 23100
+		size = 23031
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
 		size = 891
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 69
 	}
 }
 3314 = {
@@ -1940,6 +2215,11 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 30800
+		size = 30707
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 93
 	}
 }

@@ -17,12 +17,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 28
+		size = 43
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 1800
+		size = 1779
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 6
 	}
 }
 1784 = {
@@ -44,12 +49,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 87
+		size = 132
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 5500
+		size = 5436
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 19
 	}
 }
 1785 = {
@@ -71,12 +81,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 392
+		size = 594
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 24575
+		size = 24286
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 87
 	}
 }
 1786 = {
@@ -98,12 +113,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1300
+		size = 1702
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 49000
+		size = 48424
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 174
 	}
 }
 1787 = {
@@ -125,12 +145,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 314
+		size = 480
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 20250
+		size = 20012
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 72
 	}
 }
 1788 = {
@@ -152,12 +177,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1100
+		size = 1393
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 35750
+		size = 35330
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 127
 	}
 }
 1789 = {
@@ -169,7 +199,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 75
+		size = 355
 	}
 	officers = {
 		culture = soninke
@@ -189,12 +219,12 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1700
+		size = 2348
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 79000
+		size = 78072
 	}
 }
 1790 = {
@@ -216,12 +246,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1325
+		size = 1727
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 49000
+		size = 48424
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 174
 	}
 }
 1791 = {
@@ -243,12 +278,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 499
+		size = 763
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 32225
+		size = 31847
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 114
 	}
 }
 1792 = {
@@ -270,12 +310,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1100
+		size = 1549
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 54750
+		size = 54107
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 194
 	}
 }
 1793 = {
@@ -297,12 +342,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 371
+		size = 567
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 23925
+		size = 23644
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 85
 	}
 }
 2573 = {
@@ -314,7 +364,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 50
+		size = 163
 	}
 	officers = {
 		culture = soninke
@@ -334,11 +384,11 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1400
+		size = 1662
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 32000
+		size = 31625
 	}
 }

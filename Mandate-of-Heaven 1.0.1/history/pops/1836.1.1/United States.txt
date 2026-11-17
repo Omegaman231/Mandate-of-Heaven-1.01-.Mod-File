@@ -490,12 +490,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1280
+		size = 1277
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 280
+		size = 279
 	}
 	artisans = {
 		culture = pueblo
@@ -511,6 +511,16 @@
 		culture = pueblo
 		religion = placeholder
 		size = 146
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 3
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 1
 	}
 }
 90 = {
@@ -532,12 +542,17 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 7047
+		size = 7028
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 714
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 19
 	}
 }
 91 = {
@@ -600,7 +615,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 723
+		size = 721
 	}
 	farmers = {
 		culture = algonquian
@@ -617,6 +632,11 @@
 		religion = placeholder
 		size = 81
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
+	}
 }
 95 = {
 	aristocrats = {
@@ -632,12 +652,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1313
+		size = 1309
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 288
+		size = 287
 	}
 	artisans = {
 		culture = pueblo
@@ -654,12 +674,22 @@
 		religion = placeholder
 		size = 149
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 4
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 1
+	}
 }
 96 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1491
+		size = 1487
 	}
 	artisans = {
 		culture = pueblo
@@ -671,36 +701,51 @@
 		religion = placeholder
 		size = 128
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 4
+	}
 }
 97 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1690
+		size = 1685
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 122
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
+	}
 }
 98 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1715
+		size = 1710
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 124
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
+	}
 }
 99 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2730
+		size = 2723
 	}
 	soldiers = {
 		culture = pueblo
@@ -712,12 +757,17 @@
 		religion = placeholder
 		size = 280
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 7
+	}
 }
 100 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2002
+		size = 1997
 	}
 	aristocrats = {
 		culture = pueblo
@@ -727,7 +777,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 42
+		size = 47
 	}
 	artisans = {
 		culture = pueblo
@@ -759,7 +809,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2170
+		size = 2164
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 6
 	}
 }
 102 = {
@@ -781,12 +836,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3150
+		size = 3141
 	}
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 42
+		size = 51
 	}
 }
 103 = {
@@ -813,7 +868,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4830
+		size = 4817
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 13
 	}
 }
 104 = {
@@ -840,7 +900,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1959
+		size = 1954
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 5
 	}
 }
 105 = {
@@ -867,7 +932,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 3220
+		size = 3211
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 9
 	}
 }
 106 = {
@@ -879,7 +949,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 516
+		size = 515
 	}
 	farmers = {
 		culture = mississippian
@@ -891,12 +961,17 @@
 		religion = placeholder
 		size = 48
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 1
+	}
 }
 107 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1092
+		size = 1089
 	}
 	artisans = {
 		culture = pueblo
@@ -908,17 +983,22 @@
 		religion = placeholder
 		size = 100
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 3
+	}
 }
 108 = {
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 21
+		size = 25
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1438
+		size = 1434
 	}
 	soldiers = {
 		culture = pueblo
@@ -935,7 +1015,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 258
+		size = 257
 	}
 	farmers = {
 		culture = mississippian
@@ -947,6 +1027,11 @@
 		religion = placeholder
 		size = 23
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 1
+	}
 }
 110 = {
 	artisans = {
@@ -957,19 +1042,24 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 630
+		size = 628
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 48
 	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
+	}
 }
 111 = {
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1050
+		size = 1047
 	}
 	artisans = {
 		culture = pueblo
@@ -980,6 +1070,11 @@
 		culture = pueblo
 		religion = placeholder
 		size = 100
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 3
 	}
 }
 112 = {
@@ -1134,12 +1229,17 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 629
+		size = 627
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 34
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
 	}
 }
 122 = {
@@ -1151,12 +1251,17 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1603
+		size = 1599
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 85
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 4
 	}
 }
 123 = {
@@ -1168,12 +1273,17 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1252
+		size = 1249
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 93
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 3
 	}
 }
 124 = {
@@ -1185,12 +1295,17 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 1252
+		size = 1249
 	}
 	soldiers = {
 		culture = pueblo
 		religion = placeholder
 		size = 93
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 3
 	}
 }
 125 = {
@@ -1207,7 +1322,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 22
+		size = 35
 	}
 	clergymen = {
 		culture = pueblo
@@ -1217,7 +1332,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4815
+		size = 4802
 	}
 	soldiers = {
 		culture = pueblo
@@ -1249,12 +1364,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 5787
+		size = 5772
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 353
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 15
 	}
 }
 127 = {
@@ -1266,7 +1386,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 516
+		size = 515
 	}
 	farmers = {
 		culture = pueblo
@@ -1277,6 +1397,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 34
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 1
 	}
 }
 128 = {
@@ -1298,12 +1423,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3991
+		size = 3980
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 876
+		size = 874
 	}
 	soldiers = {
 		culture = mississippian
@@ -1315,6 +1440,16 @@
 		religion = placeholder
 		size = 47
 	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 11
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
+	}
 }
 129 = {
 	soldiers = {
@@ -1325,7 +1460,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4304
+		size = 4292
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 12
 	}
 }
 130 = {
@@ -1342,12 +1482,22 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3530
+		size = 3521
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 774
+		size = 772
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 9
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
 	}
 }
 132 = {
@@ -1384,12 +1534,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2634
+		size = 2627
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 578
+		size = 576
 	}
 	soldiers = {
 		culture = mississippian
@@ -1401,6 +1551,16 @@
 		religion = placeholder
 		size = 44
 	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 2
+	}
 }
 133 = {
 	soldiers = {
@@ -1411,7 +1571,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4304
+		size = 4292
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 12
 	}
 }
 134 = {
@@ -1423,7 +1588,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4304
+		size = 4292
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 12
 	}
 }
 135 = {
@@ -1435,7 +1605,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4304
+		size = 4292
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 12
 	}
 }
 136 = {
@@ -1462,7 +1637,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2800
+		size = 2792
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 8
 	}
 }
 137 = {
@@ -1474,7 +1654,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 43
+		size = 105
 	}
 	clergymen = {
 		culture = pueblo
@@ -1494,7 +1674,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 22714
+		size = 22652
 	}
 }
 138 = {
@@ -1521,7 +1701,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 14874
+		size = 14833
+	}
+	bureaucrats = {
+		culture = pueblo
+		religion = placeholder
+		size = 41
 	}
 }
 139 = {
@@ -1543,7 +1728,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 350
+		size = 383
 	}
 	craftsmen = {
 		culture = mississippian
@@ -1573,7 +1758,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 12279
+		size = 12246
 	}
 }
 140 = {
@@ -1595,12 +1780,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9337
+		size = 9312
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 531
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
 	}
 }
 141 = {
@@ -1622,12 +1812,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 12330
+		size = 12297
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 696
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 33
 	}
 }
 142 = {
@@ -1649,12 +1844,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6012
+		size = 5996
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 350
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 16
 	}
 }
 143 = {
@@ -1666,7 +1866,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 122
+		size = 146
 	}
 	clergymen = {
 		culture = mississippian
@@ -1686,7 +1886,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8911
+		size = 8887
 	}
 }
 144 = {
@@ -1708,12 +1908,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6012
+		size = 5996
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 350
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 16
 	}
 }
 145 = {
@@ -1735,12 +1940,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9785
+		size = 9759
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 538
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 26
 	}
 }
 146 = {
@@ -1762,12 +1972,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9785
+		size = 9759
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 539
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 26
 	}
 }
 147 = {
@@ -1789,12 +2004,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6012
+		size = 5996
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 350
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 16
 	}
 }
 148 = {
@@ -1816,12 +2036,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 14297
+		size = 14259
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 834
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 38
 	}
 }
 149 = {
@@ -1843,12 +2068,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6460
+		size = 6443
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 357
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 17
 	}
 }
 150 = {
@@ -1870,12 +2100,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8122
+		size = 8100
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 447
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 22
 	}
 }
 151 = {
@@ -1897,12 +2132,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8122
+		size = 8100
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 447
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 22
 	}
 }
 152 = {
@@ -1924,24 +2164,34 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8122
+		size = 8100
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 447
 	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 22
+	}
 }
 153 = {
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 315
+		size = 314
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 16
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 1
 	}
 }
 154 = {
@@ -1965,7 +2215,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 516
+		size = 515
 	}
 	farmers = {
 		culture = algonquian
@@ -1977,6 +2227,11 @@
 		religion = placeholder
 		size = 34
 	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 1
+	}
 }
 156 = {
 	artisans = {
@@ -1987,12 +2242,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 630
+		size = 628
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 35
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 2
 	}
 }
 157 = {
@@ -2026,12 +2286,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2217
+		size = 2211
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 124
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 6
 	}
 }
 160 = {
@@ -2048,17 +2313,27 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1000
+		size = 997
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 219
+		size = 218
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 68
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 3
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 1
 	}
 }
 161 = {
@@ -2075,12 +2350,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2218
+		size = 2212
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 124
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 6
 	}
 }
 162 = {
@@ -2097,12 +2377,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 887
+		size = 885
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 51
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 2
 	}
 }
 163 = {
@@ -2124,12 +2409,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6806
+		size = 6788
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 407
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 18
 	}
 }
 164 = {
@@ -2146,12 +2436,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3880
+		size = 3870
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 215
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 10
 	}
 }
 165 = {
@@ -2168,12 +2463,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1885
+		size = 1880
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 106
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 5
 	}
 }
 166 = {
@@ -2190,12 +2490,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4212
+		size = 4201
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 233
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 11
 	}
 }
 167 = {
@@ -2217,12 +2522,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4286
+		size = 4275
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 262
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 11
 	}
 }
 168 = {
@@ -2239,12 +2549,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3215
+		size = 3206
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 178
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 9
 	}
 }
 169 = {
@@ -2261,12 +2576,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1552
+		size = 1548
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 88
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 4
 	}
 }
 170 = {
@@ -2283,12 +2603,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2217
+		size = 2211
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 124
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 6
 	}
 }
 171 = {
@@ -2305,12 +2630,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2550
+		size = 2543
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 142
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
 	}
 }
 172 = {
@@ -2327,12 +2657,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2550
+		size = 2543
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 142
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
 	}
 }
 173 = {
@@ -2359,12 +2694,12 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 112
+		size = 123
 	}
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 24
+		size = 26
 	}
 	clergymen = {
 		culture = mississippian
@@ -2389,12 +2724,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4007
+		size = 3996
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 879
+		size = 877
 	}
 	soldiers = {
 		culture = mississippian
@@ -2421,12 +2756,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4877
+		size = 4864
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 269
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 13
 	}
 }
 175 = {
@@ -2448,17 +2788,27 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2637
+		size = 2630
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 579
+		size = 577
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 178
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 2
 	}
 }
 176 = {
@@ -2475,12 +2825,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3215
+		size = 3206
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 178
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 9
 	}
 }
 177 = {
@@ -2497,17 +2852,27 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1545
+		size = 1541
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 339
+		size = 338
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 104
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 4
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1
 	}
 }
 178 = {
@@ -2529,17 +2894,27 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 3726
+		size = 3721
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 818
+		size = 817
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 168
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 5
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 1
 	}
 }
 179 = {
@@ -2561,17 +2936,27 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2636
+		size = 2629
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 578
+		size = 576
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 178
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 2
 	}
 }
 180 = {
@@ -2603,12 +2988,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 3515
+		size = 3506
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 771
+		size = 769
 	}
 	soldiers = {
 		culture = mississippian
@@ -2619,6 +3004,16 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 47
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 9
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 2
 	}
 }
 181 = {
@@ -2635,12 +3030,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2550
+		size = 2543
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 142
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 7
 	}
 }
 182 = {
@@ -2657,12 +3057,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2882
+		size = 2874
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 160
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 8
 	}
 }
 183 = {
@@ -2679,12 +3084,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2217
+		size = 2211
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 124
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 6
 	}
 }
 184 = {
@@ -2706,12 +3116,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6720
+		size = 6702
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 367
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 18
 	}
 }
 185 = {
@@ -2728,12 +3143,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6373
+		size = 6356
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 431
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 17
 	}
 }
 186 = {
@@ -2750,12 +3170,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6373
+		size = 6356
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 339
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 17
 	}
 }
 187 = {
@@ -2772,7 +3197,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 122
+		size = 151
 	}
 	clergymen = {
 		culture = mississippian
@@ -2787,7 +3212,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 10902
+		size = 10873
 	}
 	soldiers = {
 		culture = mississippian
@@ -2814,12 +3239,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 7674
+		size = 7654
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 441
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 20
 	}
 }
 189 = {
@@ -2841,12 +3271,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8987
+		size = 8963
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 513
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 24
 	}
 }
 190 = {
@@ -2873,7 +3308,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9423
+		size = 9398
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
 	}
 }
 191 = {
@@ -2900,7 +3340,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15610
+		size = 15568
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 42
 	}
 }
 192 = {
@@ -2922,12 +3367,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9066
+		size = 9042
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 517
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 24
 	}
 }
 193 = {
@@ -2949,12 +3399,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9337
+		size = 9312
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 531
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
 	}
 }
 194 = {
@@ -2976,12 +3431,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15969
+		size = 15926
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 893
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 43
 	}
 }
 195 = {
@@ -3003,12 +3463,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15944
+		size = 15902
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 892
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 42
 	}
 }
 196 = {
@@ -3030,12 +3495,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 12662
+		size = 12628
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 713
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 34
 	}
 }
 197 = {
@@ -3062,12 +3532,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15520
+		size = 15479
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 895
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 41
 	}
 }
 198 = {
@@ -3104,12 +3579,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6293
+		size = 6276
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 1381
+		size = 1377
 	}
 	soldiers = {
 		culture = mississippian
@@ -3120,6 +3595,16 @@
 		culture = algonquian
 		religion = placeholder
 		size = 79
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 17
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 4
 	}
 }
 199 = {
@@ -3166,12 +3651,22 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 8882
+		size = 8858
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 1949
+		size = 1944
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 24
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 5
 	}
 }
 200 = {
@@ -3220,7 +3715,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 122
+		size = 168
 	}
 	clergymen = {
 		culture = mississippian
@@ -3235,7 +3730,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 17202
+		size = 17156
 	}
 	soldiers = {
 		culture = mississippian
@@ -3262,12 +3757,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15524
+		size = 15483
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 860
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 41
 	}
 }
 204 = {
@@ -3284,7 +3784,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 163
+		size = 203
 	}
 	clergymen = {
 		culture = mississippian
@@ -3299,7 +3799,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15043
+		size = 15003
 	}
 	soldiers = {
 		culture = mississippian
@@ -3321,7 +3821,7 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 163
+		size = 232
 	}
 	clergymen = {
 		culture = mississippian
@@ -3336,7 +3836,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 26068
+		size = 25999
 	}
 	soldiers = {
 		culture = mississippian
@@ -3368,12 +3868,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 19378
+		size = 19326
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 1078
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 52
 	}
 }
 207 = {
@@ -3415,12 +3920,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 9818
+		size = 9805
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2155
+		size = 2152
 	}
 	soldiers = {
 		culture = iroquoian
@@ -3431,6 +3936,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 85
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 13
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 3
 	}
 }
 208 = {
@@ -3472,12 +3987,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9073
+		size = 9049
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1991
+		size = 1986
 	}
 	soldiers = {
 		culture = mississippian
@@ -3488,6 +4003,16 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 110
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 24
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 5
 	}
 }
 209 = {
@@ -3514,12 +4039,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 25343
+		size = 25276
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 1423
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 67
 	}
 }
 210 = {
@@ -3546,12 +4076,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 21140
+		size = 21084
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 2020
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 56
 	}
 }
 211 = {
@@ -3593,12 +4128,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 13163
+		size = 13145
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2889
+		size = 2885
 	}
 	soldiers = {
 		culture = iroquoian
@@ -3609,6 +4144,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 107
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 4
 	}
 }
 212 = {
@@ -3640,12 +4185,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 18368
+		size = 18343
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4032
+		size = 4027
 	}
 	soldiers = {
 		culture = iroquoian
@@ -3656,6 +4201,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 149
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 25
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 5
 	}
 }
 213 = {
@@ -3677,12 +4232,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 21174
+		size = 21145
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 782
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 29
 	}
 }
 214 = {
@@ -3709,12 +4269,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 6078
+		size = 6070
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 236
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8
 	}
 }
 215 = {
@@ -3746,12 +4311,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11551
+		size = 11535
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2535
+		size = 2532
 	}
 	soldiers = {
 		culture = iroquoian
@@ -3762,6 +4327,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 110
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 16
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 3
 	}
 }
 216 = {
@@ -3788,12 +4363,12 @@
 	bureaucrats = {
 		culture = mississippian
 		religion = placeholder
-		size = 133
+		size = 171
 	}
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 29
+		size = 37
 	}
 	clergymen = {
 		culture = mississippian
@@ -3813,12 +4388,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 14301
+		size = 14263
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 3139
+		size = 3131
 	}
 	soldiers = {
 		culture = mississippian
@@ -3855,12 +4430,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 7840
+		size = 7819
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1721
+		size = 1716
 	}
 	soldiers = {
 		culture = mississippian
@@ -3871,6 +4446,16 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 96
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 21
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 5
 	}
 }
 218 = {
@@ -3887,12 +4472,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4714
+		size = 4701
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 360
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 13
 	}
 }
 219 = {
@@ -3914,12 +4504,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 16212
+		size = 16190
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 602
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22
 	}
 }
 220 = {
@@ -3941,7 +4536,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 446
+		size = 468
 	}
 	clergymen = {
 		culture = iroquoian
@@ -3966,7 +4561,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 16205
+		size = 16183
 	}
 	soldiers = {
 		culture = iroquoian
@@ -3993,7 +4588,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 43
+		size = 57
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4018,12 +4613,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 10403
+		size = 10389
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2283
+		size = 2280
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4034,6 +4629,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 151
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 3
 	}
 }
 222 = {
@@ -4055,12 +4655,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 7951
+		size = 7940
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 298
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11
 	}
 }
 223 = {
@@ -4082,7 +4687,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 34
+		size = 57
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4102,7 +4707,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 17211
+		size = 17188
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4124,7 +4729,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 122
+		size = 130
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4144,7 +4749,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 6020
+		size = 6012
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4171,12 +4776,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11277
+		size = 11262
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 419
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 15
 	}
 }
 226 = {
@@ -4198,12 +4808,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12886
+		size = 12868
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 480
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
 	}
 }
 227 = {
@@ -4230,12 +4845,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 7840
+		size = 7829
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 1721
+		size = 1719
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4246,6 +4861,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 64
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 2
 	}
 }
 228 = {
@@ -4262,12 +4887,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 4877
+		size = 4870
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 181
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 7
 	}
 }
 229 = {
@@ -4284,7 +4914,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 87
+		size = 117
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4294,7 +4924,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 22174
+		size = 22144
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4316,7 +4946,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 170
+		size = 186
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4331,7 +4961,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11576
+		size = 11560
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4358,12 +4988,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 14550
+		size = 14530
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 541
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 20
 	}
 }
 232 = {
@@ -4380,7 +5015,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 87
+		size = 132
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4390,7 +5025,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 32674
+		size = 32629
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4417,7 +5052,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 350
+		size = 406
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4442,7 +5077,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 40795
+		size = 40739
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4469,12 +5104,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 9614
+		size = 9601
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 358
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 13
 	}
 }
 235 = {
@@ -4496,12 +5136,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12939
+		size = 12921
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 480
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
 	}
 }
 236 = {
@@ -4523,12 +5168,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 7436
+		size = 7426
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 297
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 10
 	}
 }
 237 = {
@@ -4545,12 +5195,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 5875
+		size = 5867
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 217
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 8
 	}
 }
 238 = {
@@ -4572,7 +5227,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 17386
+		size = 17362
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 24
 	}
 }
 239 = {
@@ -4589,7 +5249,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 37
+		size = 61
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4599,7 +5259,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 17361
+		size = 17337
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4621,12 +5281,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 13094
+		size = 13076
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 483
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
 	}
 }
 241 = {
@@ -4648,12 +5313,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 24254
+		size = 24221
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 910
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 33
 	}
 }
 242 = {
@@ -4675,12 +5345,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 22592
+		size = 22561
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 849
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 31
 	}
 }
 243 = {
@@ -4702,7 +5377,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 568
+		size = 594
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4722,7 +5397,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 19206
+		size = 19180
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4749,12 +5424,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 9292
+		size = 9279
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 362
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 13
 	}
 }
 245 = {
@@ -4776,12 +5456,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 15942
+		size = 15920
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 605
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 22
 	}
 }
 246 = {
@@ -4798,7 +5483,7 @@
 	bureaucrats = {
 		culture = iroquoian
 		religion = placeholder
-		size = 43
+		size = 59
 	}
 	clergymen = {
 		culture = iroquoian
@@ -4808,7 +5493,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11567
+		size = 11551
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4830,12 +5515,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 14756
+		size = 14736
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 544
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 20
 	}
 }
 248 = {
@@ -4857,12 +5547,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12864
+		size = 12846
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 475
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 18
 	}
 }
 249 = {
@@ -4889,12 +5584,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 8913
+		size = 8901
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 1956
+		size = 1953
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4905,6 +5600,16 @@
 		culture = algonquian
 		religion = placeholder
 		size = 71
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 12
+	}
+	bureaucrats = {
+		culture = algonquian
+		religion = placeholder
+		size = 3
 	}
 }
 250 = {
@@ -5172,12 +5877,12 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 150
+		size = 167
 	}
 	bureaucrats = {
 		culture = algonquian
 		religion = placeholder
-		size = 33
+		size = 39
 	}
 	aristocrats = {
 		culture = pueblo
@@ -5197,12 +5902,12 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 6308
+		size = 6291
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 2077
+		size = 2071
 	}
 	soldiers = {
 		culture = pueblo
@@ -5574,7 +6279,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 22
+		size = 33
 	}
 	aristocrats = {
 		culture = pueblo
@@ -5599,7 +6304,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 4200
+		size = 4189
 	}
 }
 1388 = {
@@ -5613,7 +6318,7 @@
 	bureaucrats = {
 		culture = pueblo
 		religion = placeholder
-		size = 42
+		size = 50
 	}
 	clergymen = {
 		culture = pueblo
@@ -5628,7 +6333,7 @@
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 2983
+		size = 2975
 	}
 	soldiers = {
 		culture = pueblo
@@ -5660,12 +6365,17 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 16135
+		size = 16092
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 897
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 43
 	}
 }
 2556 = {
@@ -5692,7 +6402,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9423
+		size = 9398
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 25
 	}
 }
 2593 = {
@@ -5752,12 +6467,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 8202
+		size = 8191
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 302
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 11
 	}
 }
 3299 = {
@@ -5779,12 +6499,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 14548
+		size = 14528
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 539
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 20
 	}
 }
 3300 = {
@@ -5821,16 +6546,26 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 6579
+		size = 6561
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1444
+		size = 1440
 	}
 	soldiers = {
 		culture = mississippian
 		religion = placeholder
 		size = 458
+	}
+	bureaucrats = {
+		culture = mississippian
+		religion = placeholder
+		size = 18
+	}
+	bureaucrats = {
+		culture = iroquoian
+		religion = placeholder
+		size = 4
 	}
 }

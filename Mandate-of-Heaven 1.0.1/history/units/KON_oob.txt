@@ -32,3 +32,27 @@ army = {
 		home = 1985
 	}
 }
+army = {
+	name = "Kongolese Army 2"
+	location = 1983
+	regiment = {
+		name = "7. Kongolese Regiment"
+		type = artillery
+		home = 1983
+	}
+	regiment = {
+		name = "8. Kongolese Regiment"
+		type = artillery
+		home = 1983
+	}
+	regiment = {
+		name = "9. Kongolese Regiment"
+		type = artillery
+		home = 1987
+	}
+	regiment = {
+		name = "10. Kongolese Regiment"
+		type = artillery
+		home = 1987
+	}
+}

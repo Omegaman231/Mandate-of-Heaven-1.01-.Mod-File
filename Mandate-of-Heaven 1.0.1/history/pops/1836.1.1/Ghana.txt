@@ -88,7 +88,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 75
+		size = 329
 	}
 	officers = {
 		culture = soninke
@@ -108,12 +108,12 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1115
+		size = 1702
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 71650
+		size = 70809
 	}
 }
 1911 = {
@@ -135,12 +135,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 528
+		size = 807
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 34025
+		size = 33625
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 121
 	}
 }
 1912 = {
@@ -162,12 +167,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 571
+		size = 872
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 36725
+		size = 36294
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 130
 	}
 }
 1913 = {
@@ -189,12 +199,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 214
+		size = 327
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 13725
+		size = 13563
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 49
 	}
 }
 1915 = {
@@ -216,12 +231,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 428
+		size = 654
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 27575
+		size = 27251
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 98
 	}
 }
 1916 = {
@@ -243,11 +263,16 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 128
+		size = 196
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 8325
+		size = 8227
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 30
 	}
 }

@@ -17,12 +17,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 125
+		size = 358
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 10900
+		size = 10623
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 44
 	}
 }
 1974 = {
@@ -44,12 +49,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 75
+		size = 231
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 7300
+		size = 7115
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 29
 	}
 }
 1975 = {
@@ -71,12 +81,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 75
+		size = 211
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 6375
+		size = 6213
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 26
 	}
 }
 1976 = {
@@ -98,11 +113,16 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 175
+		size = 526
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 16425
+		size = 16008
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 66
 	}
 }

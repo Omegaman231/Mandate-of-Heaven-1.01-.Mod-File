@@ -12,7 +12,7 @@
 	bureaucrats = {
 		culture = kongolese
 		religion = placeholder
-		size = 50
+		size = 188
 	}
 	artisans = {
 		culture = kongolese
@@ -22,12 +22,12 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 502
+		size = 1236
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 34350
+		size = 33478
 	}
 }
 2000 = {
@@ -49,12 +49,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 300
+		size = 868
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 26600
+		size = 25925
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 107
 	}
 }
 2001 = {
@@ -76,12 +81,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 500
+		size = 1388
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 41550
+		size = 40496
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 166
 	}
 }
 2002 = {
@@ -103,12 +113,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 300
+		size = 897
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 27950
+		size = 27241
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 112
 	}
 }
 2003 = {
@@ -130,12 +145,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 300
+		size = 868
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 26600
+		size = 25925
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 107
 	}
 }
 2004 = {
@@ -172,22 +192,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 246
+		size = 720
 	}
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 54
+		size = 158
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 22181
+		size = 21618
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 4869
+		size = 4746
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 89
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 19
 	}
 }
 2005 = {
@@ -209,12 +239,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 600
+		size = 1618
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 47650
+		size = 46441
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 191
 	}
 }
 2006 = {
@@ -251,22 +286,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 328
+		size = 927
 	}
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 72
+		size = 204
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 28044
+		size = 27333
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 6156
+		size = 5999
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 112
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 25
 	}
 }
 2007 = {
@@ -303,22 +348,32 @@
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 457
+		size = 779
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 100
+		size = 171
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 15088
+		size = 14706
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 3312
+		size = 3228
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 60
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 13
 	}
 }
 2008 = {
@@ -350,17 +405,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 86
+		size = 232
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 6830
+		size = 6657
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 1499
+		size = 1461
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 27
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 6
+	}
+	soldiers = {
+		culture = shona
+		religion = placeholder
+		size = 32
 	}
 }
 2009 = {
@@ -382,12 +452,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 160
+		size = 376
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 10125
+		size = 9868
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 41
 	}
 }
 2010 = {
@@ -409,12 +484,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 300
+		size = 848
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 25650
+		size = 24999
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 103
 	}
 }
 2011 = {
@@ -451,21 +531,31 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 164
+		size = 471
 	}
 	soldiers = {
 		culture = shona
 		religion = placeholder
-		size = 36
+		size = 103
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 14370
+		size = 14005
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 3154
+		size = 3074
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 58
+	}
+	bureaucrats = {
+		culture = shona
+		religion = placeholder
+		size = 13
 	}
 }

@@ -42,3 +42,17 @@ army = {
 		home = 1884
 	}
 }
+army = {
+	name = "Wagadu Army 2"
+	location = 1801
+	regiment = {
+		name = "9. Wagadu Regiment"
+		type = artillery
+		home = 1799
+	}
+	regiment = {
+		name = "10. Wagadu Regiment"
+		type = artillery
+		home = 1799
+	}
+}

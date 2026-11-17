@@ -503,22 +503,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 779
+		size = 1545
 	}
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 171
+		size = 339
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 70151
+		size = 69129
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 15399
+		size = 15175
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 256
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 56
 	}
 }
 1937 = {
@@ -540,12 +550,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 450
+		size = 912
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 42250
+		size = 41634
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 154
 	}
 }
 1938 = {
@@ -567,12 +582,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 200
+		size = 305
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 12825
+		size = 12675
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 45
 	}
 }
 1939 = {
@@ -584,7 +604,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 50
+		size = 226
 	}
 	officers = {
 		culture = kanuri
@@ -604,12 +624,12 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1475
+		size = 2001
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 48200
+		size = 47498
 	}
 }
 1940 = {
@@ -631,12 +651,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 175
+		size = 346
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 15625
+		size = 15397
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 57
 	}
 }
 1941 = {
@@ -673,22 +698,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 143
+		size = 275
 	}
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 31
+		size = 60
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 12074
+		size = 11898
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 2650
+		size = 2611
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 44
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 10
 	}
 }
 1942 = {
@@ -710,12 +745,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1300
+		size = 1670
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 33875
+		size = 33381
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 124
 	}
 }
 1943 = {
@@ -737,12 +777,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 150
+		size = 280
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 11900
+		size = 11727
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 43
 	}
 }
 1944 = {
@@ -764,12 +809,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 125
+		size = 245
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 11025
+		size = 10865
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 40
 	}
 }
 1945 = {
@@ -791,12 +841,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 2150
+		size = 4273
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 194375
+		size = 191542
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 710
 	}
 }
 1946 = {
@@ -833,22 +888,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1271
+		size = 1780
 	}
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 279
+		size = 391
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 46617
+		size = 45938
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 10233
+		size = 10084
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 170
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 37
 	}
 }
 1947 = {
@@ -870,12 +935,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1775
+		size = 3409
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 149625
+		size = 147445
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 546
 	}
 }
 1948 = {
@@ -892,12 +962,12 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 225
+		size = 791
 	}
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 49
+		size = 180
 	}
 	officers = {
 		culture = kanuri
@@ -932,22 +1002,22 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 10824
+		size = 12516
 	}
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 400
+		size = 793
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 154877
+		size = 152619
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 35973
+		size = 35449
 	}
 }
 1949 = {
@@ -969,12 +1039,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1075
+		size = 2112
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 94975
+		size = 93591
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 347
 	}
 }
 1950 = {
@@ -996,12 +1071,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1350
+		size = 1693
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 31400
+		size = 30942
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 115
 	}
 }
 1951 = {
@@ -1013,7 +1093,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 800
+		size = 1570
 	}
 	officers = {
 		culture = kanuri
@@ -1033,12 +1113,12 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 11400
+		size = 13705
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 211000
+		size = 207925
 	}
 }
 1952 = {
@@ -1060,12 +1140,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 2000
+		size = 3924
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 176100
+		size = 173533
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 643
 	}
 }
 1953 = {
@@ -1087,11 +1172,16 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 2100
+		size = 4147
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 187400
+		size = 184669
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 684
 	}
 }

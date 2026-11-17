@@ -17,11 +17,16 @@
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 20300
+		size = 20239
 	}
 	aristocrats = {
 		culture = maya
 		religion = placeholder
 		size = 210
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 61
 	}
 }

@@ -17,17 +17,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 2730
+		size = 3256
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 64150
+		size = 63397
 	}
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 450
+		size = 677
 	}
 }
 1809 = {
@@ -49,12 +49,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1350
+		size = 1596
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 30000
+		size = 29648
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 106
 	}
 }
 1810 = {
@@ -91,22 +96,32 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1107
+		size = 1531
 	}
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 243
+		size = 336
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 51742
+		size = 51135
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 11358
+		size = 11225
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 183
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 40
 	}
 }
 1811 = {
@@ -143,22 +158,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1074
+		size = 1640
 	}
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 235
+		size = 359
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 51824
+		size = 51069
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 11376
+		size = 11210
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 189
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 42
 	}
 }
 1812 = {
@@ -195,22 +220,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1025
+		size = 1363
 	}
 	soldiers = {
 		culture = berber
 		religion = placeholder
-		size = 225
+		size = 299
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 30955
+		size = 30504
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 6795
+		size = 6696
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 113
+	}
+	bureaucrats = {
+		culture = berber
+		religion = placeholder
+		size = 25
 	}
 }
 1813 = {
@@ -237,17 +272,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 41
+		size = 73
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 2972
+		size = 2929
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 652
+		size = 643
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 11
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 2
+	}
+	soldiers = {
+		culture = soninke
+		religion = placeholder
+		size = 7
 	}
 }
 1814 = {
@@ -306,7 +356,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 600
+		size = 976
 	}
 	clergymen = {
 		culture = kanuri
@@ -321,12 +371,12 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 3550
+		size = 4674
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 102900
+		size = 101400
 	}
 }
 1816 = {
@@ -348,12 +398,17 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 1060
+		size = 2023
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 88200
+		size = 86915
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 322
 	}
 }
 1817 = {
@@ -390,16 +445,31 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 82
+		size = 155
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 6703
+		size = 6606
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 1471
+		size = 1450
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 24
+	}
+	bureaucrats = {
+		culture = berber
+		religion = placeholder
+		size = 5
+	}
+	soldiers = {
+		culture = berber
+		religion = placeholder
+		size = 16
 	}
 }

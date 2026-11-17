@@ -27,3 +27,17 @@ army = {
 		home = 2074
 	}
 }
+army = {
+	name = "Zimbabwean Army 2"
+	location = 2068
+	regiment = {
+		name = "6. Zimbabwean Regiment"
+		type = artillery
+		home = 2049
+	}
+	regiment = {
+		name = "7. Zimbabwean Regiment"
+		type = artillery
+		home = 2051
+	}
+}

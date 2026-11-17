@@ -12,12 +12,12 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 184
+		size = 276
 	}
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 40
+		size = 60
 	}
 	officers = {
 		culture = muisca
@@ -52,17 +52,22 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 35875
+		size = 35193
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 7875
+		size = 7725
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 581
+		size = 1171
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 130
 	}
 }
 2248 = {
@@ -99,22 +104,32 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 260
+		size = 621
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 57
+		size = 136
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 21918
+		size = 21501
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 4811
+		size = 4720
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 56
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 12
 	}
 }
 2249 = {
@@ -136,12 +151,17 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 317
+		size = 768
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 27400
+		size = 26879
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 70
 	}
 }
 2250 = {
@@ -163,12 +183,17 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 14400
+		size = 14126
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 181
+		size = 418
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 37
 	}
 }
 2251 = {
@@ -190,12 +215,17 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 43650
+		size = 42820
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 514
+		size = 1232
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 112
 	}
 }
 2252 = {
@@ -207,7 +237,7 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 150
+		size = 210
 	}
 	officers = {
 		culture = muisca
@@ -227,12 +257,12 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 23325
+		size = 22881
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 291
+		size = 675
 	}
 }
 2253 = {
@@ -269,22 +299,32 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 469
+		size = 1148
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 101
+		size = 250
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 41246
+		size = 40461
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 9054
+		size = 8882
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 106
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 23
 	}
 }
 2254 = {
@@ -306,12 +346,17 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 5128
+		size = 6133
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 61100
+		size = 59938
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 157
 	}
 }
 2255 = {
@@ -333,12 +378,17 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 383
+		size = 851
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 28410
+		size = 27869
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 73
 	}
 }
 2256 = {
@@ -355,7 +405,7 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 82
+		size = 172
 	}
 	officers = {
 		culture = muisca
@@ -385,17 +435,27 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 35219
+		size = 34549
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 7731
+		size = 7584
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 545
+		size = 1125
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 20
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 127
 	}
 }
 2257 = {
@@ -427,22 +487,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 410
+		size = 524
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 90
+		size = 115
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 17490
+		size = 17349
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 3839
+		size = 3808
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 27
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 6
 	}
 }
 2258 = {
@@ -474,22 +544,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 471
+		size = 557
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 103
+		size = 122
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 13284
+		size = 13177
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 2916
+		size = 2892
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 21
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 5
 	}
 }
 2259 = {
@@ -511,12 +591,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 575
+		size = 791
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 33200
+		size = 32932
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 52
 	}
 }
 2260 = {
@@ -553,17 +638,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 82
+		size = 96
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 2193
+		size = 2176
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 481
+		size = 477
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 3
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 1
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 3
 	}
 }
 2261 = {
@@ -590,17 +690,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 46
+		size = 70
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 3751
+		size = 3721
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 823
+		size = 817
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 6
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 1
+	}
+	soldiers = {
+		culture = muisca
+		religion = placeholder
+		size = 5
 	}
 }
 2262 = {
@@ -617,7 +732,7 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 20
+		size = 32
 	}
 	officers = {
 		culture = muisca
@@ -647,22 +762,27 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 102
+		size = 180
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 22
+		size = 39
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 4756
+		size = 4666
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 1044
+		size = 1024
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 3
 	}
 }
 2263 = {
@@ -684,12 +804,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 28
+		size = 46
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 2700
+		size = 2678
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 4
 	}
 }
 3319 = {
@@ -701,7 +826,7 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 25
+		size = 72
 	}
 	officers = {
 		culture = muisca
@@ -721,12 +846,12 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 209
+		size = 510
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 18320
+		size = 17972
 	}
 }
 3320 = {
@@ -748,12 +873,17 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 500
+		size = 951
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 27400
+		size = 26879
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 70
 	}
 }
 3321 = {
@@ -775,12 +905,17 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 132
+		size = 315
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 11100
+		size = 10889
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 28
 	}
 }
 3322 = {
@@ -802,12 +937,12 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 38965
+		size = 38224
 	}
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 125
+		size = 225
 	}
 	officers = {
 		culture = muisca
@@ -817,7 +952,7 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 533
+		size = 1174
 	}
 }
 3323 = {
@@ -973,22 +1108,32 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 348
+		size = 469
 	}
 	soldiers = {
 		culture = maya
 		religion = placeholder
-		size = 76
+		size = 103
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 7339
+		size = 7199
 	}
 	farmers = {
 		culture = maya
 		religion = placeholder
-		size = 1611
+		size = 1580
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 19
+	}
+	bureaucrats = {
+		culture = maya
+		religion = placeholder
+		size = 4
 	}
 }
 3326 = {
@@ -1000,7 +1145,7 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 46300
+		size = 45419
 	}
 	aristocrats = {
 		culture = muisca
@@ -1010,7 +1155,7 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 200
+		size = 319
 	}
 	officers = {
 		culture = muisca
@@ -1025,14 +1170,14 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 624
+		size = 1386
 	}
 }
 3327 = {
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 25
+		size = 37
 	}
 	officers = {
 		culture = muisca
@@ -1052,19 +1197,19 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 60
+		size = 139
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 4800
+		size = 4709
 	}
 }
 3328 = {
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 20
+		size = 33
 	}
 	officers = {
 		culture = muisca
@@ -1089,16 +1234,26 @@
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 72
+		size = 156
 	}
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 5084
+		size = 4987
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 1116
+		size = 1095
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 3
+	}
+	soldiers = {
+		culture = quechua
+		religion = placeholder
+		size = 18
 	}
 }

@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 100
+		size = 454
 	}
 	officers = {
 		culture = soninke
@@ -27,12 +27,12 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1572
+		size = 2391
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 99825
+		size = 98652
 	}
 }
 1902 = {
@@ -54,12 +54,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 1186
+		size = 1806
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 75575
+		size = 74687
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 268
 	}
 }
 1903 = {
@@ -81,12 +86,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 971
+		size = 1481
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 62250
+		size = 61519
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 221
 	}
 }
 1904 = {
@@ -108,12 +118,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 614
+		size = 937
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 39450
+		size = 38987
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 140
 	}
 }
 1905 = {
@@ -125,7 +140,7 @@
 	bureaucrats = {
 		culture = soninke
 		religion = placeholder
-		size = 25
+		size = 140
 	}
 	officers = {
 		culture = soninke
@@ -145,12 +160,12 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 509
+		size = 776
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 32575
+		size = 32193
 	}
 }
 1906 = {
@@ -172,11 +187,16 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 644
+		size = 981
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 41125
+		size = 40642
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 146
 	}
 }

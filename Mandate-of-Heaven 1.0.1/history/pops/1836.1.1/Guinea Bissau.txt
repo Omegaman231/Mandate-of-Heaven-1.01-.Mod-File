@@ -12,12 +12,17 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 115
+		size = 176
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 7500
+		size = 7412
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 27
 	}
 }
 1878 = {
@@ -39,11 +44,16 @@
 	soldiers = {
 		culture = soninke
 		religion = placeholder
-		size = 273
+		size = 416
 	}
 	farmers = {
 		culture = soninke
 		religion = placeholder
-		size = 17400
+		size = 17195
+	}
+	bureaucrats = {
+		culture = soninke
+		religion = placeholder
+		size = 62
 	}
 }

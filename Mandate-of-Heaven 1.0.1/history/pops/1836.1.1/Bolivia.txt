@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 1600
+		size = 1724
 	}
 	officers = {
 		culture = quechua
@@ -32,12 +32,12 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 7050
+		size = 7565
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 79072
+		size = 78433
 	}
 }
 2311 = {
@@ -59,12 +59,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1000
+		size = 1146
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 22460
+		size = 22279
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 35
 	}
 }
 2312 = {
@@ -86,12 +91,17 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 51370
+		size = 50955
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1200
+		size = 1534
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 81
 	}
 }
 2313 = {
@@ -103,7 +113,7 @@
 	bureaucrats = {
 		culture = quechua
 		religion = placeholder
-		size = 175
+		size = 207
 	}
 	officers = {
 		culture = quechua
@@ -113,7 +123,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1200
+		size = 1332
 	}
 	clergymen = {
 		culture = quechua
@@ -128,7 +138,7 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 20225
+		size = 20061
 	}
 }
 2314 = {
@@ -140,7 +150,7 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 520
+		size = 807
 	}
 	clergymen = {
 		culture = quechua
@@ -155,7 +165,12 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 44075
+		size = 43719
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 69
 	}
 }
 2315 = {
@@ -177,12 +192,17 @@
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 12255
+		size = 12156
 	}
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 128
+		size = 208
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 19
 	}
 }
 2316 = {
@@ -204,12 +224,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 1075
+		size = 1289
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 32825
+		size = 32559
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 52
 	}
 }
 2317 = {
@@ -273,17 +298,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 28
+		size = 42
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 2214
+		size = 2197
 	}
 	farmers = {
 		culture = amazonian
 		religion = placeholder
-		size = 486
+		size = 482
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 3
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 1
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 3
 	}
 }
 2319 = {
@@ -305,12 +345,17 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 100
+		size = 142
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 6400
+		size = 6348
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 10
 	}
 }
 2320 = {
@@ -337,17 +382,32 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 28
+		size = 42
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 2214
+		size = 2197
 	}
 	farmers = {
 		culture = amazonian
 		religion = placeholder
-		size = 486
+		size = 482
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 3
+	}
+	bureaucrats = {
+		culture = amazonian
+		religion = placeholder
+		size = 1
+	}
+	soldiers = {
+		culture = amazonian
+		religion = placeholder
+		size = 3
 	}
 }
 2321 = {
@@ -369,11 +429,16 @@
 	soldiers = {
 		culture = quechua
 		religion = placeholder
-		size = 275
+		size = 312
 	}
 	farmers = {
 		culture = quechua
 		religion = placeholder
-		size = 5675
+		size = 5629
+	}
+	bureaucrats = {
+		culture = quechua
+		religion = placeholder
+		size = 9
 	}
 }

@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 128
+		size = 270
 	}
 	officers = {
 		culture = sogdian
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 43294
+		size = 43152
 	}
 }
 1192 = {
@@ -59,7 +59,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 37975
+		size = 37851
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 124
 	}
 }
 1196 = {
@@ -86,7 +91,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 48075
+		size = 47918
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 157
 	}
 }
 1198 = {
@@ -98,7 +108,7 @@
 	bureaucrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 540
+		size = 1163
 	}
 	officers = {
 		culture = sogdian
@@ -123,7 +133,7 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 190577
+		size = 189954
 	}
 }
 1199 = {
@@ -150,7 +160,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 122237
+		size = 121837
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 400
 	}
 }
 1200 = {
@@ -177,7 +192,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 65816
+		size = 65601
+	}
+	bureaucrats = {
+		culture = sogdian
+		religion = placeholder
+		size = 215
 	}
 }
 1202 = {
@@ -189,7 +209,7 @@
 	bureaucrats = {
 		culture = sogdian
 		religion = placeholder
-		size = 205
+		size = 419
 	}
 	officers = {
 		culture = sogdian
@@ -214,6 +234,6 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 65455
+		size = 65241
 	}
 }

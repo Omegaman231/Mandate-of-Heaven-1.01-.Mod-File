@@ -2,12 +2,12 @@
 	bureaucrats = {
 		culture = muisca
 		religion = placeholder
-		size = 25
+		size = 32
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 55
+		size = 101
 	}
 	artisans = {
 		culture = muisca
@@ -22,7 +22,7 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 2800
+		size = 2747
 	}
 }
 2235 = {
@@ -39,12 +39,17 @@
 	farmers = {
 		culture = muisca
 		religion = placeholder
-		size = 1340
+		size = 1315
 	}
 	soldiers = {
 		culture = muisca
 		religion = placeholder
-		size = 16
+		size = 38
+	}
+	bureaucrats = {
+		culture = muisca
+		religion = placeholder
+		size = 3
 	}
 }
 2236 = {

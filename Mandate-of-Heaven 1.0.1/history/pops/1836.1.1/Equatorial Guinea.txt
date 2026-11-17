@@ -34,11 +34,16 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 350
+		size = 1023
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 31500
+		size = 30701
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 126
 	}
 }

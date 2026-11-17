@@ -7,7 +7,7 @@
 	bureaucrats = {
 		culture = arab
 		religion = placeholder
-		size = 22
+		size = 65
 	}
 	officers = {
 		culture = arab
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 9525
+		size = 9482
 	}
 }
 1175 = {
@@ -59,7 +59,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 6975
+		size = 6943
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 32
 	}
 }
 1176 = {

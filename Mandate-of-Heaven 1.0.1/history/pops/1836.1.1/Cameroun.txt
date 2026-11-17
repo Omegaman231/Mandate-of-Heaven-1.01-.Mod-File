@@ -12,7 +12,7 @@
 	bureaucrats = {
 		culture = kongolese
 		religion = placeholder
-		size = 41
+		size = 288
 	}
 	officers = {
 		culture = kongolese
@@ -47,22 +47,27 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 676
+		size = 1994
 	}
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 148
+		size = 437
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 61684
+		size = 60119
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 13540
+		size = 13197
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 54
 	}
 }
 1957 = {
@@ -99,22 +104,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 451
+		size = 1354
 	}
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 99
+		size = 297
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 42291
+		size = 41219
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 9283
+		size = 9048
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 169
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 37
 	}
 }
 1958 = {
@@ -136,12 +151,17 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 450
+		size = 1316
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 40525
+		size = 39497
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 162
 	}
 }
 1959 = {
@@ -178,22 +198,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 717
+		size = 2103
 	}
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 157
+		size = 461
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 64903
+		size = 63257
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 14247
+		size = 13886
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 260
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 57
 	}
 }
 1960 = {
@@ -230,22 +260,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 574
+		size = 1142
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 126
+		size = 251
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 52029
+		size = 51271
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 11421
+		size = 11254
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 190
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 42
 	}
 }
 1961 = {
@@ -282,22 +322,32 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 779
+		size = 1545
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 171
+		size = 339
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 70171
+		size = 69149
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 15403
+		size = 15179
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 256
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 56
 	}
 }
 1962 = {
@@ -334,22 +384,32 @@
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 656
+		size = 1841
 	}
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 144
+		size = 404
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 55452
+		size = 54045
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 12172
+		size = 11863
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 222
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 49
 	}
 }
 1963 = {
@@ -366,7 +426,7 @@
 	bureaucrats = {
 		culture = kanuri
 		religion = placeholder
-		size = 20
+		size = 130
 	}
 	officers = {
 		culture = kanuri
@@ -396,22 +456,27 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 348
+		size = 676
 	}
 	soldiers = {
 		culture = kongolese
 		religion = placeholder
-		size = 76
+		size = 148
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 30073
+		size = 29635
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 6601
+		size = 6505
+	}
+	bureaucrats = {
+		culture = kongolese
+		religion = placeholder
+		size = 24
 	}
 }
 1964 = {
@@ -433,11 +498,16 @@
 	soldiers = {
 		culture = kanuri
 		religion = placeholder
-		size = 300
+		size = 571
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 24850
+		size = 24488
+	}
+	bureaucrats = {
+		culture = kanuri
+		religion = placeholder
+		size = 91
 	}
 }

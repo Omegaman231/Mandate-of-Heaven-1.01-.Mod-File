@@ -2634,22 +2634,18 @@ mongol_tactics = {
 		}
 		cavalry = {
 			attack = 1
-			support = 0.25
 			maximum_speed = 1
 		}
 		hussar = {
 			attack = 1
-			support = 0.25
 			maximum_speed = 1
 		}
 		dragoon = {
 			attack = 1
-			support = 0.25
 			maximum_speed = 1
 		}
 		cuirassier = {
 			attack = 1
-			support = 0.25
 			maximum_speed = 1
 		}
 		artillery = {

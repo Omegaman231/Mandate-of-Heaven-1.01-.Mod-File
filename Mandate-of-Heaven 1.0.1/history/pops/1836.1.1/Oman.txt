@@ -172,6 +172,11 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 6787
+		size = 6756
+	}
+	bureaucrats = {
+		culture = arab
+		religion = placeholder
+		size = 31
 	}
 }
