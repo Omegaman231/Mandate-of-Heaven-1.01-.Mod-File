@@ -2638,15 +2638,12 @@ mongol_tactics = {
 		}
 		hussar = {
 			attack = 1
-			maximum_speed = 1
 		}
 		dragoon = {
 			attack = 1
-			maximum_speed = 1
 		}
 		cuirassier = {
 			attack = 1
-			maximum_speed = 1
 		}
 		artillery = {
 			maximum_speed = 1

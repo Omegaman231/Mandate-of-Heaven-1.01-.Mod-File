@@ -2230,7 +2230,7 @@ indian_sepoys = {
 
 	# Country scope
 	demands_enforced_trigger = {
-		HND = {
+		HIN = {
 			all_core = {
 				OR = {
 					controlled_by = REB
@@ -2242,7 +2242,7 @@ indian_sepoys = {
 	}
 	
 	demands_enforced_effect = {
-		release_vassal = HND
+		release_vassal = HIN
 	}
 }
 

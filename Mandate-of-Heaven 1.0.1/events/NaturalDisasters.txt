@@ -194,36 +194,32 @@ country_event = {
 				consciousness = 3
 			}
 		}
-		XBI = {
-			1561 = {
-				any_pop = {
-					#reduce_pop = 0.90
-					militancy = 3
-					consciousness = 3
-				}
-			}
-			2062 = {
-				any_pop = {
-					#reduce_pop = 0.90
-					militancy = 3
-					consciousness = 3
-				}
-			}
-			1559 = {
-				any_pop = {
-					#reduce_pop = 0.90
-					militancy = 3
-					consciousness = 3
-				}
+		1561 = {
+			any_pop = {
+				#reduce_pop = 0.90
+				militancy = 3
+				consciousness = 3
 			}
 		}
-		MGL = {
-			1552 = {
-				any_pop = {
-					#reduce_pop = 0.90
-					militancy = 3
-					consciousness = 3
-				}
+		2062 = {
+			any_pop = {
+				#reduce_pop = 0.90
+				militancy = 3
+				consciousness = 3
+			}
+		}
+		1559 = {
+			any_pop = {
+				#reduce_pop = 0.90
+				militancy = 3
+				consciousness = 3
+			}
+		}
+		1552 = {
+			any_pop = {
+				#reduce_pop = 0.90
+				militancy = 3
+				consciousness = 3
 			}
 		}
 	}

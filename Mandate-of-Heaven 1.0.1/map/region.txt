@@ -861,7 +861,7 @@ CHI_1498 = { 1498 } #Macao
 
 CHI_1532 = { 1532 1535 1534 3282 1488 } #Inner Mongolia
 
-CHI_1553 = { 1002 1533 1553 1554 1552 1555  1479 1480 } #Outer Manchuria
+CHI_1553 = { 1002 1533 1553 1554 1552 1555 } #Outer Manchuria
 
 CHI_1563 = { 1565 1567 1571 } #Shandong
 
@@ -1479,7 +1479,7 @@ RUS_2648 = { 2648 2669 2647 1071 2668 2642 2643 2619 2665 2621 2664 2640 2620 26
 
 #China Treaty Ports
 
-CHI_1481 = { 1481 } #Port Arthur
+CHI_1481 = { 1481 1479 1480 } #Liaoning
 
 CHI_1569 = { 1569 } #Weihaiwei
 

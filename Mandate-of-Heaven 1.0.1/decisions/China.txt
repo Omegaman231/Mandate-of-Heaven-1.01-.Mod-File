@@ -74,7 +74,7 @@ political_decisions = {
 			CHI_1473 = { add_core = CHI }
 			CHI_1472 = { add_core = CHI }
 			CHI_1476 = { add_core = CHI }
-			CHI_1481 = { add_core = CHI }
+			1481 = { add_core = CHI }
 			CHI_1487 = { add_core = CHI }
 			CHI_1490 = { add_core = CHI }
 			CHI_1499 = { add_core = CHI }

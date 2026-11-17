@@ -569,52 +569,77 @@
 	aristocrats = {
 		culture = tungusic
 		religion = placeholder
-		size = 1958
+		size = 1170
 	}
 	aristocrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 429
+		size = 1145
+	}
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 72
 	}
 	clergymen = {
 		culture = tungusic
 		religion = placeholder
-		size = 1008
+		size = 602
 	}
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 221
+		size = 590
+	}
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 37
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 6058
+		size = 3620
 	}
 	artisans = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 1330
+		size = 3546
+	}
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 222
 	}
 	soldiers = {
 		culture = tungusic
 		religion = placeholder
-		size = 1023
+		size = 612
 	}
 	soldiers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 224
+		size = 598
+	}
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 37
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 90936
+		size = 54340
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 19961
+		size = 53230
+	}
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 3327
 	}
 }
 1481 = {
@@ -6051,57 +6076,62 @@
 	aristocrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 7872
+		size = 6438
 	}
 	aristocrats = {
-		culture = tungusic
+		culture = mongolic
 		religion = placeholder
-		size = 1728
+		size = 3162
 	}
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 3972
+		size = 3249
 	}
 	clergymen = {
-		culture = tungusic
+		culture = mongolic
 		religion = placeholder
-		size = 872
+		size = 1595
 	}
 	artisans = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 23656
+		size = 19348
 	}
 	artisans = {
-		culture = tungusic
+		culture = mongolic
 		religion = placeholder
-		size = 5333
+		size = 9641
 	}
 	soldiers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 12948
+		size = 10590
 	}
 	soldiers = {
-		culture = tungusic
+		culture = mongolic
 		religion = placeholder
-		size = 866
+		size = 3224
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 304785
+		size = 249280
 	}
 	farmers = {
-		culture = tungusic
+		culture = mongolic
 		religion = placeholder
-		size = 77869
+		size = 133374
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 51595
+		size = 42199
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 9396
 	}
 }
 1614 = {
@@ -6212,52 +6242,52 @@
 	aristocrats = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 5430
+		size = 4437
 	}
 	aristocrats = {
 		culture = mongolic
 		religion = placeholder
-		size = 1192
+		size = 2185
 	}
 	clergymen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 2724
+		size = 2226
 	}
 	clergymen = {
 		culture = mongolic
 		religion = placeholder
-		size = 598
+		size = 1096
 	}
 	artisans = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 16321
+		size = 13335
 	}
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 3604
+		size = 6590
 	}
 	soldiers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 11724
+		size = 9579
 	}
 	soldiers = {
 		culture = mongolic
 		religion = placeholder
-		size = 598
+		size = 2743
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 236121
+		size = 192928
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 53784
+		size = 96977
 	}
 }
 1617 = {
