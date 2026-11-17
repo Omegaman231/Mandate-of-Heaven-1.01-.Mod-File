@@ -1,5 +1,6 @@
-owner = NUS
-controller = NUS
+owner = TAM
+controller = TAM
+add_core = TAM
 add_core = NUS
 trade_goods = timber
 life_rating = 38

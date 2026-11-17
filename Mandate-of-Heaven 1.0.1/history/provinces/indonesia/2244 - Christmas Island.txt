@@ -1,2 +1,5 @@
+owner = TAM
+controller = TAM
 trade_goods = sulphur
 life_rating = 25
+colonial = 2

@@ -17,6 +17,8 @@ political_decisions = {
 				all_core = { add_core = THIS }
 				annex_to = THIS
 			}
+			ENG_1297 = { add_core = DEC }
+			GOA_1303 = { add_core = DEC }
 			change_tag = DEC
 			prestige = 25
 			add_accepted_culture = hindustani

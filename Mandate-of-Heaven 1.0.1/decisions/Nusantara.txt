@@ -57,12 +57,12 @@ political_decisions = {
 			NOT = { has_country_flag = nus_exert_will }
 		}
 		allow = {
-			owns = 1384
+			SGP_1384 = { owned_by = THIS }
 			SPA_1455 = { owned_by = THIS }
 		}
 		effect = {
 			set_country_flag = nus_exert_will
-			1320 = { add_core = THIS }
+			WSI_1320 = { add_core = THIS }
 			ENG_1321 = { add_core = THIS }
 			CHI_1501 = { add_core = THIS }
 			CHI_2562 = { add_core = THIS }
