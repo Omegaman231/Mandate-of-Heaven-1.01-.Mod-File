@@ -39,6 +39,12 @@ upper_house = {
 
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+post_napoleonic_thought = 1
+the_command_principle = 1
+private_banks = 1
+freedom_of_trade = 1
+basic_chemistry = 1
+water_wheel_power = 1
 
 consciousness = 1
 nonstate_consciousness = 1
