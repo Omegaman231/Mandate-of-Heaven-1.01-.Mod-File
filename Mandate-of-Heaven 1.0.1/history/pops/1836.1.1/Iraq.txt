@@ -153,12 +153,22 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 96921
+		size = 76421
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 21274
+		size = 16774
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 20500
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 4500
 	}
 }
 927 = {

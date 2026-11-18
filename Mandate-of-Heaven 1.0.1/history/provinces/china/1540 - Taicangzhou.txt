@@ -14,3 +14,8 @@ state_building = {
 	building = steamer_shipyard
 	upgrade = yes
 }
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

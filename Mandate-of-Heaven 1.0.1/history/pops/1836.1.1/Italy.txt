@@ -1585,7 +1585,7 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 64557
+		size = 9557
 	}
 	soldiers = {
 		culture = greco_roman
@@ -1596,6 +1596,11 @@
 		culture = greco_roman
 		religion = placeholder
 		size = 254075
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 55000
 	}
 }
 750 = {
@@ -1727,11 +1732,6 @@
 	}
 }
 754 = {
-	craftsmen = {
-		culture = greco_roman
-		religion = placeholder
-		size = 54446
-	}
 	aristocrats = {
 		culture = greco_roman
 		religion = placeholder
@@ -1755,7 +1755,7 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 85038
+		size = 139484
 	}
 	soldiers = {
 		culture = greco_roman

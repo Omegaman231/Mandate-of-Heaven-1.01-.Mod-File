@@ -3,3 +3,8 @@ controller = ROM
 add_core = ROM
 trade_goods = coal
 life_rating = 38
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}

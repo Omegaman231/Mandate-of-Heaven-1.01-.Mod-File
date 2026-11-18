@@ -5,3 +5,23 @@ trade_goods = fruit
 life_rating = 40
 naval_base = 2
 fort = 1
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = luxury_furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

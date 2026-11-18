@@ -354,7 +354,12 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 214614
+		size = 174614
+	}
+	craftsmen = {
+		culture = japanese
+		religion = placeholder
+		size = 40000
 	}
 }
 1650 = {
@@ -553,12 +558,12 @@
 	farmers = {
 		culture = japanese
 		religion = placeholder
-		size = 375801
+		size = 335801
 	}
 	craftsmen = {
 		culture = japanese
 		religion = placeholder
-		size = 7130
+		size = 47130
 	}
 }
 1658 = {

@@ -833,12 +833,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 102368
+		size = 61368
 	}
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 22471
+		size = 13471
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 41000
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 9000
 	}
 }
 1237 = {
@@ -4764,7 +4774,12 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 326097
+		size = 256097
+	}
+	craftsmen = {
+		culture = tamil
+		religion = placeholder
+		size = 70000
 	}
 }
 1310 = {
