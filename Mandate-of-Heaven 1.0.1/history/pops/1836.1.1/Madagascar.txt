@@ -12,7 +12,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 13229
+		size = 17463
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -22,7 +22,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 185417
+		size = 181183
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -44,7 +44,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 4844
+		size = 6720
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -54,7 +54,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 83630
+		size = 81754
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -76,7 +76,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 4063
+		size = 5697
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -86,7 +86,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 73023
+		size = 71389
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -108,7 +108,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 3059
+		size = 4400
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -118,7 +118,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 60160
+		size = 58819
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -140,7 +140,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2220
+		size = 3195
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -150,7 +150,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 43578
+		size = 42603
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -172,7 +172,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2202
+		size = 3103
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -182,7 +182,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 40192
+		size = 39291
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -204,7 +204,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 3255
+		size = 4644
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -214,7 +214,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 62212
+		size = 60823
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -236,7 +236,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2995
+		size = 4288
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -246,7 +246,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 57965
+		size = 56672
 	}
 	bureaucrats = {
 		culture = rantaunesian

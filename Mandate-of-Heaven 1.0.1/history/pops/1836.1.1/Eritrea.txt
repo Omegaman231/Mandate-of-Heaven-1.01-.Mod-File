@@ -17,7 +17,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1150
+		size = 1609
 	}
 	soldiers = {
 		culture = arab
@@ -27,7 +27,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 20843
+		size = 20384
 	}
 }
 1849 = {
@@ -44,7 +44,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 402
+		size = 563
 	}
 	soldiers = {
 		culture = arab
@@ -54,7 +54,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 7245
+		size = 7084
 	}
 }
 1850 = {
@@ -76,12 +76,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 329
+		size = 461
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 72
+		size = 101
 	}
 	soldiers = {
 		culture = arab
@@ -91,12 +91,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 6011
+		size = 5879
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 1319
+		size = 1290
 	}
 }
 1851 = {
@@ -123,12 +123,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 518
+		size = 725
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 113
+		size = 159
 	}
 	soldiers = {
 		culture = arab
@@ -143,11 +143,11 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 9406
+		size = 9199
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 2064
+		size = 2018
 	}
 }

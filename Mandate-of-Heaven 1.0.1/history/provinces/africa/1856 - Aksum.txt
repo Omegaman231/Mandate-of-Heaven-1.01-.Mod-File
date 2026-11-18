@@ -3,3 +3,8 @@ controller = AKU
 add_core = AKU
 trade_goods = cattle
 life_rating = 35
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}

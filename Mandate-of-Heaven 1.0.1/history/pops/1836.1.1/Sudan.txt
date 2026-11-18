@@ -37,12 +37,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 2757
+		size = 4215
 	}
 	artisans = {
 		culture = marathi
 		religion = placeholder
-		size = 605
+		size = 970
 	}
 	soldiers = {
 		culture = nubian
@@ -57,12 +57,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 63421
+		size = 61963
 	}
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 15897
+		size = 15532
 	}
 }
 1828 = {
@@ -89,12 +89,12 @@
 	artisans = {
 		culture = kannada
 		religion = placeholder
-		size = 1084
+		size = 1727
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 237
+		size = 378
 	}
 	soldiers = {
 		culture = kannada
@@ -109,12 +109,12 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 29468
+		size = 28825
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 6468
+		size = 6327
 	}
 }
 1829 = {
@@ -141,12 +141,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 2639
+		size = 3828
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 579
+		size = 840
 	}
 	soldiers = {
 		culture = arab
@@ -161,12 +161,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 52876
+		size = 51687
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 11607
+		size = 11346
 	}
 }
 1830 = {
@@ -193,12 +193,12 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 1885
+		size = 2642
 	}
 	artisans = {
 		culture = kannada
 		religion = placeholder
-		size = 413
+		size = 579
 	}
 	soldiers = {
 		culture = ethiopian
@@ -213,12 +213,12 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 33805
+		size = 33048
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 7420
+		size = 7254
 	}
 }
 1831 = {
@@ -245,12 +245,12 @@
 	artisans = {
 		culture = kannada
 		religion = placeholder
-		size = 1296
+		size = 1917
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 284
+		size = 420
 	}
 	soldiers = {
 		culture = kannada
@@ -265,12 +265,12 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 27110
+		size = 26489
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 5951
+		size = 5815
 	}
 }
 1832 = {
@@ -287,7 +287,7 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 1896
+		size = 2633
 	}
 	soldiers = {
 		culture = ethiopian
@@ -297,7 +297,7 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 33435
+		size = 32698
 	}
 }
 1833 = {
@@ -324,7 +324,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 747
+		size = 1111
 	}
 	soldiers = {
 		culture = arab
@@ -334,7 +334,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 15812
+		size = 15448
 	}
 }
 1834 = {
@@ -351,7 +351,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1660
+		size = 2229
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -361,7 +361,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 24726
+		size = 24157
 	}
 }
 1835 = {
@@ -393,12 +393,12 @@
 	artisans = {
 		culture = gujarati
 		religion = placeholder
-		size = 847
+		size = 1264
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 186
+		size = 277
 	}
 	soldiers = {
 		culture = gujarati
@@ -413,12 +413,12 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 18176
+		size = 17759
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 3989
+		size = 3898
 	}
 }
 1836 = {
@@ -445,12 +445,12 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1225
+		size = 1741
 	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
-		size = 269
+		size = 382
 	}
 	soldiers = {
 		culture = arab
@@ -465,12 +465,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22277
+		size = 21761
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 4890
+		size = 4777
 	}
 }
 1837 = {
@@ -497,12 +497,12 @@
 	artisans = {
 		culture = marathi
 		religion = placeholder
-		size = 470
+		size = 668
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 103
+		size = 147
 	}
 	soldiers = {
 		culture = marathi
@@ -517,12 +517,22 @@
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 8557
+		size = 4259
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 1878
+		size = 934
+	}
+	craftsmen = {
+		culture = marathi
+		religion = placeholder
+		size = 4100
+	}
+	craftsmen = {
+		culture = nubian
+		religion = placeholder
+		size = 900
 	}
 }
 1838 = {
@@ -564,12 +574,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 1037
+		size = 1746
 	}
 	artisans = {
 		culture = kannada
 		religion = placeholder
-		size = 227
+		size = 428
 	}
 	soldiers = {
 		culture = nubian
@@ -584,12 +594,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 31242
+		size = 30533
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 8833
+		size = 8632
 	}
 }
 1839 = {
@@ -616,12 +626,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 1037
+		size = 1854
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 227
+		size = 406
 	}
 	soldiers = {
 		culture = nubian
@@ -636,12 +646,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 36635
+		size = 35818
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 8041
+		size = 7862
 	}
 }
 1840 = {
@@ -668,12 +678,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 1437
+		size = 2332
 	}
 	artisans = {
 		culture = kannada
 		religion = placeholder
-		size = 315
+		size = 511
 	}
 	soldiers = {
 		culture = nubian
@@ -688,12 +698,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 39675
+		size = 38780
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 8709
+		size = 8513
 	}
 }
 1841 = {
@@ -730,12 +740,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 1066
+		size = 1653
 	}
 	artisans = {
 		culture = kanuri
 		religion = placeholder
-		size = 234
+		size = 363
 	}
 	soldiers = {
 		culture = nubian
@@ -750,12 +760,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 25645
+		size = 25058
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 5629
+		size = 5500
 	}
 }
 1842 = {
@@ -782,12 +792,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 697
+		size = 1129
 	}
 	artisans = {
 		culture = kanuri
 		religion = placeholder
-		size = 153
+		size = 248
 	}
 	soldiers = {
 		culture = nubian
@@ -802,12 +812,12 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 19106
+		size = 18674
 	}
 	farmers = {
 		culture = kanuri
 		religion = placeholder
-		size = 4194
+		size = 4099
 	}
 }
 1843 = {
@@ -834,12 +844,12 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 902
+		size = 1477
 	}
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 198
+		size = 324
 	}
 	soldiers = {
 		culture = ethiopian
@@ -854,12 +864,12 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 26957
+		size = 26382
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 5917
+		size = 5791
 	}
 }
 1844 = {
@@ -886,12 +896,12 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 2972
+		size = 4386
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 652
+		size = 962
 	}
 	soldiers = {
 		culture = ethiopian
@@ -906,12 +916,12 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 64985
+		size = 63571
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 14265
+		size = 13955
 	}
 }
 1845 = {
@@ -938,12 +948,12 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 902
+		size = 1473
 	}
 	artisans = {
 		culture = kongolese
 		religion = placeholder
-		size = 198
+		size = 323
 	}
 	soldiers = {
 		culture = ethiopian
@@ -958,12 +968,12 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 26609
+		size = 26038
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 5841
+		size = 5716
 	}
 }
 1846 = {
@@ -1000,17 +1010,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2150
+		size = 3079
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 471
+		size = 675
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 798
+		size = 1142
 	}
 	soldiers = {
 		culture = swahili
@@ -1030,17 +1040,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 42170
+		size = 41241
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 9257
+		size = 9053
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 15651
+		size = 15307
 	}
 }
 1847 = {
@@ -1067,12 +1077,12 @@
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 1435
+		size = 2010
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 315
+		size = 441
 	}
 	soldiers = {
 		culture = ethiopian
@@ -1087,12 +1097,12 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 26137
+		size = 25562
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 5737
+		size = 5611
 	}
 }
 2564 = {
@@ -1109,12 +1119,12 @@
 	artisans = {
 		culture = nubian
 		religion = placeholder
-		size = 94
+		size = 133
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 20
+		size = 29
 	}
 	soldiers = {
 		culture = nubian
@@ -1124,11 +1134,11 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 1697
+		size = 1658
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 372
+		size = 363
 	}
 }

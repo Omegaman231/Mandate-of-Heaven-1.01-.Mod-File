@@ -22,7 +22,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 9615
+		size = 11254
 	}
 	soldiers = {
 		culture = mongolic
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 60171
+		size = 58532
 	}
 }
 1466 = {
@@ -49,7 +49,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 5950
+		size = 7930
 	}
 	soldiers = {
 		culture = mongolic
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 89240
+		size = 87260
 	}
 }
 1467 = {
@@ -86,12 +86,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 4011
+		size = 5359
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 880
+		size = 1176
 	}
 	soldiers = {
 		culture = mongolic
@@ -106,12 +106,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 60765
+		size = 59417
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 13338
+		size = 13042
 	}
 }
 1468 = {
@@ -138,12 +138,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 5538
+		size = 7381
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 1215
+		size = 1620
 	}
 	soldiers = {
 		culture = mongolic
@@ -158,12 +158,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 83239
+		size = 81396
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 18272
+		size = 17867
 	}
 }
 1469 = {
@@ -190,12 +190,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 1966
+		size = 3790
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 431
+		size = 832
 	}
 	soldiers = {
 		culture = mongolic
@@ -210,12 +210,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 82304
+		size = 80480
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 18067
+		size = 17666
 	}
 }
 2207 = {
@@ -232,7 +232,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 1970
+		size = 2634
 	}
 	soldiers = {
 		culture = mongolic
@@ -242,7 +242,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 29994
+		size = 29330
 	}
 }
 2608 = {
@@ -259,7 +259,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 6229
+		size = 9040
 	}
 	soldiers = {
 		culture = mongolic
@@ -269,7 +269,7 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 123205
+		size = 120394
 	}
 }
 2678 = {
@@ -296,12 +296,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 3697
+		size = 5558
 	}
 	artisans = {
 		culture = tungusic
 		religion = placeholder
-		size = 811
+		size = 1220
 	}
 	soldiers = {
 		culture = mongolic
@@ -316,12 +316,22 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 82623
+		size = 52062
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 18137
+		size = 11428
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 28700
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 6300
 	}
 }
 2679 = {
@@ -338,7 +348,7 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 5809
+		size = 7786
 	}
 	soldiers = {
 		culture = mongolic
@@ -348,6 +358,6 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 86577
+		size = 84600
 	}
 }

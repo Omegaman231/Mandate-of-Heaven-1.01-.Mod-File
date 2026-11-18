@@ -29,15 +29,15 @@
 		religion = placeholder
 		size = 9256
 	}
-	farmers = {
-		culture = arab
-		religion = placeholder
-		size = 3934
-	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
 		size = 13800
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 3934
 	}
 }
 1169 = {
@@ -61,7 +61,7 @@
 		religion = placeholder
 		size = 2008
 	}
-	farmers = {
+	craftsmen = {
 		culture = arab
 		religion = placeholder
 		size = 3564
@@ -88,7 +88,7 @@
 		religion = placeholder
 		size = 3008
 	}
-	farmers = {
+	craftsmen = {
 		culture = arab
 		religion = placeholder
 		size = 5408
@@ -115,7 +115,7 @@
 		religion = placeholder
 		size = 2104
 	}
-	farmers = {
+	craftsmen = {
 		culture = arab
 		religion = placeholder
 		size = 3720
@@ -135,7 +135,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 452
+		size = 606
 	}
 	soldiers = {
 		culture = arab
@@ -145,7 +145,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 4448
+		size = 3920
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 374
 	}
 }
 1174 = {

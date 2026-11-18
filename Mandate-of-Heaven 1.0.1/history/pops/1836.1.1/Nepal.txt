@@ -42,12 +42,12 @@
 	artisans = {
 		culture = hindustani
 		religion = placeholder
-		size = 5676
+		size = 7887
 	}
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 1246
+		size = 1731
 	}
 	soldiers = {
 		culture = hindustani
@@ -62,12 +62,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 95245
+		size = 93034
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 20907
+		size = 20422
 	}
 }
 1327 = {
@@ -94,12 +94,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 5092
+		size = 6912
 	}
 	artisans = {
 		culture = hindustani
 		religion = placeholder
-		size = 1118
+		size = 1518
 	}
 	soldiers = {
 		culture = tibetan
@@ -114,11 +114,11 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 82135
+		size = 80315
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 18029
+		size = 17629
 	}
 }

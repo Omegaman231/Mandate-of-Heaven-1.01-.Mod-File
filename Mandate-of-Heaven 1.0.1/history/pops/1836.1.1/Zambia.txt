@@ -237,12 +237,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 2560
+		size = 3691
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 171
+		size = 247
 	}
 	soldiers = {
 		culture = shona
@@ -257,12 +257,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 51598
+		size = 50467
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 3447
+		size = 3371
 	}
 	bureaucrats = {
 		culture = tamil_melaindan
@@ -299,17 +299,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2448
+		size = 3493
 	}
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 132
+		size = 188
 	}
 	artisans = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 227
+		size = 324
 	}
 	soldiers = {
 		culture = swahili
@@ -324,17 +324,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 47630
+		size = 46585
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 2575
+		size = 2519
 	}
 	farmers = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 4413
+		size = 4316
 	}
 	bureaucrats = {
 		culture = tamil_melaindan
@@ -366,12 +366,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 2773
+		size = 3938
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 198
+		size = 281
 	}
 	soldiers = {
 		culture = shona
@@ -386,12 +386,12 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 53061
+		size = 51896
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 3789
+		size = 3706
 	}
 	bureaucrats = {
 		culture = tamil_melaindan

@@ -7,7 +7,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 771
+		size = 1089
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -17,7 +17,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 13879
+		size = 13561
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -34,7 +34,7 @@
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 9918
+		size = 10399
 	}
 	soldiers = {
 		culture = rantaunesian
@@ -44,7 +44,7 @@
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 4832
+		size = 4351
 	}
 	artisans = {
 		culture = gujarati

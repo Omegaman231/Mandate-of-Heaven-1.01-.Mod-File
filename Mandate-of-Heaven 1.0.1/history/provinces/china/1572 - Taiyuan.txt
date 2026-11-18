@@ -4,12 +4,12 @@ add_core = ZHA
 trade_goods = coal
 life_rating = 32
 state_building = {
-	level = 1
+	level = 2
 	building = steel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 3
 	building = artillery_factory
 	upgrade = yes
 }

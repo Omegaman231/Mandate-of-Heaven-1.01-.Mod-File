@@ -12,7 +12,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 181
+		size = 242
 	}
 	soldiers = {
 		culture = arab
@@ -22,7 +22,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2694
+		size = 2633
 	}
 }
 1162 = {
@@ -44,7 +44,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 453
+		size = 608
 	}
 	soldiers = {
 		culture = arab
@@ -54,7 +54,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 6897
+		size = 6742
 	}
 }
 1165 = {
@@ -71,7 +71,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 180
+		size = 241
 	}
 	soldiers = {
 		culture = arab
@@ -81,7 +81,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2707
+		size = 2646
 	}
 }
 1167 = {
@@ -103,7 +103,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 448
+		size = 593
 	}
 	soldiers = {
 		culture = arab
@@ -113,7 +113,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 6152
+		size = 6007
 	}
 }
 1168 = {
@@ -130,7 +130,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 586
+		size = 857
 	}
 	soldiers = {
 		culture = arab
@@ -140,6 +140,6 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 12238
+		size = 11967
 	}
 }

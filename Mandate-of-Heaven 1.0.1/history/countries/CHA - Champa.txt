@@ -1,4 +1,4 @@
-capital = 1379
+capital = 1380
 primary_culture = austronesian
 culture = rantaunesian
 culture = austroasiatic

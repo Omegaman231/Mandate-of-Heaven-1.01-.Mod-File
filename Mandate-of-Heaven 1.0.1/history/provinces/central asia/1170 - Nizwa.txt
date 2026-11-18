@@ -3,3 +3,8 @@ controller = MAZ
 add_core = MAZ
 trade_goods = opium
 life_rating = 35
+state_building = {
+	level = 3
+	building = artillery_factory
+	upgrade = yes
+}

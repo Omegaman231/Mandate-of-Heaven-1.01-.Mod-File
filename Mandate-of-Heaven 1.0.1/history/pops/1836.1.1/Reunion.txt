@@ -17,7 +17,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 1462
+		size = 1988
 	}
 	soldiers = {
 		culture = arab
@@ -27,6 +27,6 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22965
+		size = 22439
 	}
 }

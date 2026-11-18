@@ -17,7 +17,7 @@
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 7520
+		size = 9560
 	}
 	soldiers = {
 		culture = tamil
@@ -27,7 +27,7 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 69538
+		size = 67498
 	}
 	labourers = {
 		culture = tamil
@@ -49,7 +49,7 @@
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 6728
+		size = 8184
 	}
 	soldiers = {
 		culture = tamil
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 42013
+		size = 40557
 	}
 	labourers = {
 		culture = tamil
@@ -81,7 +81,7 @@
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 4763
+		size = 6289
 	}
 	soldiers = {
 		culture = tamil
@@ -91,7 +91,7 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 68487
+		size = 66961
 	}
 }
 1324 = {
@@ -108,7 +108,7 @@
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 3276
+		size = 4328
 	}
 	soldiers = {
 		culture = tamil
@@ -118,7 +118,7 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 19606
+		size = 18554
 	}
 	labourers = {
 		culture = tamil
@@ -140,7 +140,7 @@
 	artisans = {
 		culture = tamil
 		religion = placeholder
-		size = 4089
+		size = 4988
 	}
 	soldiers = {
 		culture = tamil
@@ -150,6 +150,6 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 38308
+		size = 37409
 	}
 }

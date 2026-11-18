@@ -12,11 +12,11 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1767
+		size = 1806
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 100
+		size = 61
 	}
 }

@@ -5,22 +5,22 @@ trade_goods = tea
 life_rating = 32
 fort = 1
 state_building = {
-	level = 1
+	level = 2
 	building = steel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 5
 	building = artillery_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 2
 	building = explosives_factory
 	upgrade = yes
 }

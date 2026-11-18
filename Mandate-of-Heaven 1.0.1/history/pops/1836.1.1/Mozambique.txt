@@ -145,17 +145,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2542
+		size = 3077
 	}
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 558
+		size = 675
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2810
+		size = 3402
 	}
 	soldiers = {
 		culture = swahili
@@ -175,17 +175,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 22336
+		size = 21801
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 4903
+		size = 4786
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 24691
+		size = 24099
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -227,17 +227,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 943
+		size = 1349
 	}
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 207
+		size = 296
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 963
+		size = 1378
 	}
 	soldiers = {
 		culture = swahili
@@ -257,17 +257,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 18030
+		size = 17624
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 3957
+		size = 3868
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 18420
+		size = 18005
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -299,12 +299,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 1640
+		size = 2327
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 360
+		size = 511
 	}
 	soldiers = {
 		culture = shona
@@ -324,22 +324,22 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 30914
+		size = 30227
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 6786
+		size = 6635
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 623
+		size = 884
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 11737
+		size = 11476
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -376,12 +376,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 1066
+		size = 1503
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 234
+		size = 330
 	}
 	soldiers = {
 		culture = shona
@@ -401,22 +401,22 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 19544
+		size = 19107
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 4290
+		size = 4194
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 639
+		size = 901
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 11714
+		size = 11452
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -453,12 +453,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 2132
+		size = 2743
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 468
+		size = 602
 	}
 	soldiers = {
 		culture = shona
@@ -478,22 +478,22 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 26445
+		size = 25834
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 5805
+		size = 5671
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 922
+		size = 1187
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 11436
+		size = 11171
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -530,12 +530,12 @@
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 1435
+		size = 2008
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 315
+		size = 441
 	}
 	soldiers = {
 		culture = shona
@@ -555,22 +555,22 @@
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 25645
+		size = 25072
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 5629
+		size = 5503
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 656
+		size = 917
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 11713
+		size = 11452
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -617,17 +617,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1735
+		size = 2071
 	}
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 380
+		size = 454
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2018
+		size = 2408
 	}
 	soldiers = {
 		culture = swahili
@@ -647,17 +647,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 13843
+		size = 13507
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 3038
+		size = 2964
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 16101
+		size = 15711
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -694,12 +694,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1518
+		size = 2079
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 4439
+		size = 4875
 	}
 	soldiers = {
 		culture = swahili
@@ -714,12 +714,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 17756
+		size = 14382
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 13800
+		size = 11177
 	}
 	artisans = {
 		culture = gujarati
@@ -730,6 +730,16 @@
 		culture = rantaunesian
 		religion = placeholder
 		size = 584
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 2813
+	}
+	craftsmen = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 2187
 	}
 }
 2061 = {
@@ -756,12 +766,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 4025
+		size = 4634
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2965
+		size = 3414
 	}
 	soldiers = {
 		culture = swahili
@@ -776,12 +786,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 24518
+		size = 23909
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 18063
+		size = 17614
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -813,12 +823,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 4094
+		size = 5084
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2337
+		size = 2903
 	}
 	soldiers = {
 		culture = swahili
@@ -833,12 +843,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 42320
+		size = 41330
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 24168
+		size = 23602
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -870,12 +880,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1978
+		size = 2957
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1127
+		size = 1684
 	}
 	soldiers = {
 		culture = swahili
@@ -890,12 +900,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 44666
+		size = 43687
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 25447
+		size = 24890
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -927,12 +937,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1288
+		size = 1803
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1054
+		size = 1475
 	}
 	soldiers = {
 		culture = swahili
@@ -947,12 +957,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 22724
+		size = 22209
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 18602
+		size = 18181
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -984,12 +994,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 1932
+		size = 2985
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1064
+		size = 1644
 	}
 	soldiers = {
 		culture = swahili
@@ -1004,12 +1014,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 48392
+		size = 47339
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 26650
+		size = 26070
 	}
 	bureaucrats = {
 		culture = rantaunesian

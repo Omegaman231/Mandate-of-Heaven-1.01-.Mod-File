@@ -269,12 +269,12 @@
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 2195
+		size = 2872
 	}
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 481
+		size = 630
 	}
 	soldiers = {
 		culture = sogdian
@@ -289,12 +289,12 @@
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 30476
+		size = 29799
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 6690
+		size = 6541
 	}
 }
 1188 = {
@@ -321,12 +321,12 @@
 	artisans = {
 		culture = mongolic
 		religion = placeholder
-		size = 2732
+		size = 3641
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 600
+		size = 800
 	}
 	soldiers = {
 		culture = mongolic
@@ -341,12 +341,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 41081
+		size = 40172
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 9017
+		size = 8817
 	}
 }
 1193 = {

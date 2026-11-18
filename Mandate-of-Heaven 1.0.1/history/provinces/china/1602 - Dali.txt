@@ -3,3 +3,8 @@ controller = DIA
 add_core = DIA
 trade_goods = timber
 life_rating = 32
+state_building = {
+	level = 3
+	building = artillery_factory
+	upgrade = yes
+}

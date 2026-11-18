@@ -22,12 +22,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2392
+		size = 3365
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 1372
+		size = 1930
 	}
 	soldiers = {
 		culture = swahili
@@ -42,12 +42,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 43562
+		size = 42589
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 24978
+		size = 24420
 	}
 	bureaucrats = {
 		culture = rantaunesian
@@ -89,17 +89,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 3131
+		size = 4524
 	}
 	artisans = {
 		culture = shona
 		religion = placeholder
-		size = 298
+		size = 431
 	}
 	artisans = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 504
+		size = 728
 	}
 	soldiers = {
 		culture = swahili
@@ -119,17 +119,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 63382
+		size = 61989
 	}
 	farmers = {
 		culture = shona
 		religion = placeholder
-		size = 6031
+		size = 5898
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 10198
+		size = 9974
 	}
 	bureaucrats = {
 		culture = tamil_melaindan

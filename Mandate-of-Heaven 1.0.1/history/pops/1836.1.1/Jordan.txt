@@ -17,12 +17,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 620
+		size = 852
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 135
+		size = 186
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -32,12 +32,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10186
+		size = 9954
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2235
+		size = 2184
 	}
 }
 909 = {
@@ -54,7 +54,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 639
+		size = 872
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -64,7 +64,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10169
+		size = 9936
 	}
 }
 910 = {
@@ -81,12 +81,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 344
+		size = 481
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 75
+		size = 105
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -96,12 +96,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 6044
+		size = 5907
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1327
+		size = 1297
 	}
 }
 911 = {
@@ -118,7 +118,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1035
+		size = 1437
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -128,7 +128,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 17753
+		size = 17351
 	}
 }
 922 = {
@@ -140,12 +140,12 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 564
+		size = 797
 	}
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 124
+		size = 175
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -155,12 +155,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10470
+		size = 10237
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2298
+		size = 2247
 	}
 	aristocrats = {
 		culture = eastern_roman

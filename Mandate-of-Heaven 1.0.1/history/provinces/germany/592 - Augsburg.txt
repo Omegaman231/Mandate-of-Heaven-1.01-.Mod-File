@@ -4,3 +4,8 @@ add_core = GER
 trade_goods = cattle
 life_rating = 38
 fort = 1
+state_building = {
+	level = 3
+	building = artillery_factory
+	upgrade = yes
+}

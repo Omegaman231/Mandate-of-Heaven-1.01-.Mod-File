@@ -12,7 +12,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1464
+		size = 1961
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -22,7 +22,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 21909
+		size = 21412
 	}
 }
 913 = {
@@ -49,7 +49,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 3189
+		size = 4121
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 40081
+		size = 39149
 	}
 }
 914 = {
@@ -76,7 +76,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2072
+		size = 2784
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -86,7 +86,7 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 31390
+		size = 30678
 	}
 }
 915 = {
@@ -103,7 +103,7 @@
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 1820
+		size = 2465
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -113,6 +113,6 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 28477
+		size = 27832
 	}
 }

@@ -419,7 +419,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 2073
+		size = 2770
 	}
 	soldiers = {
 		culture = arab
@@ -429,7 +429,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 29951
+		size = 29254
 	}
 }
 1164 = {
@@ -446,7 +446,7 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 2161
+		size = 2884
 	}
 	soldiers = {
 		culture = arab
@@ -456,7 +456,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 31213
+		size = 30490
 	}
 }
 2586 = {

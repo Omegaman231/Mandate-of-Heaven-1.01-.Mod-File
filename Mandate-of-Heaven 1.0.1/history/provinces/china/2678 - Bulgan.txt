@@ -3,3 +3,18 @@ controller = MON
 add_core = MON
 trade_goods = timber
 life_rating = 35
+state_building = {
+	level = 3
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = explosives_factory
+	upgrade = yes
+}

@@ -17,7 +17,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1250
+		size = 3694
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -27,7 +27,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 119137
+		size = 116693
 	}
 	officers = {
 		culture = romano_celtic

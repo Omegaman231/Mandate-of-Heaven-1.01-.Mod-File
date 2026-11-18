@@ -42,12 +42,12 @@
 	artisans = {
 		culture = austronesian
 		religion = placeholder
-		size = 3924
+		size = 5239
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 2616
+		size = 3492
 	}
 	soldiers = {
 		culture = austronesian
@@ -62,12 +62,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 58891
+		size = 57576
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 39261
+		size = 38385
 	}
 }
 2562 = {
@@ -94,12 +94,12 @@
 	artisans = {
 		culture = austronesian
 		religion = placeholder
-		size = 4129
+		size = 5511
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 2753
+		size = 3674
 	}
 	soldiers = {
 		culture = austronesian
@@ -114,11 +114,11 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 62349
+		size = 60967
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 41566
+		size = 40645
 	}
 }

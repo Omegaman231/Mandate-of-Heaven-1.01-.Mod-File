@@ -4,3 +4,8 @@ add_core = ZEN
 trade_goods = cattle
 life_rating = 40
 naval_base = 2
+state_building = {
+	level = 2
+	building = canned_food_factory
+	upgrade = yes
+}

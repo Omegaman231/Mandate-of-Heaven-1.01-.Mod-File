@@ -22,7 +22,7 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 11707
+		size = 12821
 	}
 	soldiers = {
 		culture = tibetan
@@ -32,7 +32,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 31953
+		size = 13839
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 17000
 	}
 }
 1588 = {
@@ -59,12 +64,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 7675
+		size = 10233
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 1685
+		size = 2247
 	}
 	soldiers = {
 		culture = tibetan
@@ -79,12 +84,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 115407
+		size = 112849
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 25333
+		size = 24771
 	}
 }
 1589 = {
@@ -111,12 +116,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 4075
+		size = 5420
 	}
 	artisans = {
 		culture = hindustani
 		religion = placeholder
-		size = 895
+		size = 1190
 	}
 	soldiers = {
 		culture = tibetan
@@ -131,12 +136,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 60418
+		size = 59073
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 13262
+		size = 12967
 	}
 }
 1590 = {
@@ -163,12 +168,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 8462
+		size = 11283
 	}
 	artisans = {
 		culture = burman
 		religion = placeholder
-		size = 1858
+		size = 2477
 	}
 	soldiers = {
 		culture = tibetan
@@ -183,12 +188,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 126961
+		size = 124140
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 27869
+		size = 27250
 	}
 }
 1591 = {
@@ -215,12 +220,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 935
+		size = 1247
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 205
+		size = 273
 	}
 	soldiers = {
 		culture = tibetan
@@ -235,12 +240,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 14030
+		size = 13718
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 3080
+		size = 3012
 	}
 }
 1592 = {
@@ -267,12 +272,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 3739
+		size = 4985
 	}
 	artisans = {
 		culture = hindustani
 		religion = placeholder
-		size = 821
+		size = 1095
 	}
 	soldiers = {
 		culture = tibetan
@@ -287,12 +292,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 56100
+		size = 54854
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 12314
+		size = 12040
 	}
 }
 1593 = {
@@ -319,12 +324,12 @@
 	artisans = {
 		culture = tibetan
 		religion = placeholder
-		size = 10264
+		size = 13654
 	}
 	artisans = {
 		culture = bengali
 		religion = placeholder
-		size = 2276
+		size = 3066
 	}
 	soldiers = {
 		culture = tibetan
@@ -339,11 +344,11 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 145310
+		size = 141920
 	}
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 33850
+		size = 33060
 	}
 }

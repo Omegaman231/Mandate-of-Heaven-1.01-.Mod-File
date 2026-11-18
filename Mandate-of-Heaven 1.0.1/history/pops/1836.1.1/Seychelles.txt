@@ -12,11 +12,11 @@
 	artisans = {
 		culture = arab
 		religion = placeholder
-		size = 75
+		size = 102
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1175
+		size = 1148
 	}
 }

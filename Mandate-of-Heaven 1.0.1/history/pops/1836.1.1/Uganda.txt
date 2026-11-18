@@ -42,17 +42,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 3243
+		size = 4597
 	}
 	artisans = {
 		culture = kongolese
 		religion = placeholder
-		size = 712
+		size = 1054
 	}
 	artisans = {
 		culture = zanjyue
 		religion = placeholder
-		size = 1760
+		size = 2582
 	}
 	soldiers = {
 		culture = swahili
@@ -72,17 +72,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 60065
+		size = 58711
 	}
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 15160
+		size = 14818
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 36502
+		size = 35680
 	}
 	bureaucrats = {
 		culture = zanjyue
@@ -114,12 +114,12 @@
 	artisans = {
 		culture = kongolese
 		religion = placeholder
-		size = 1947
+		size = 2834
 	}
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 427
+		size = 622
 	}
 	soldiers = {
 		culture = kongolese
@@ -139,22 +139,22 @@
 	farmers = {
 		culture = kongolese
 		religion = placeholder
-		size = 39811
+		size = 38924
 	}
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 8739
+		size = 8544
 	}
 	artisans = {
 		culture = zanjyue
 		religion = placeholder
-		size = 576
+		size = 839
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 11790
+		size = 11527
 	}
 	bureaucrats = {
 		culture = zanjyue
@@ -186,12 +186,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2047
+		size = 2952
 	}
 	artisans = {
 		culture = zanjyue
 		religion = placeholder
-		size = 1220
+		size = 1760
 	}
 	soldiers = {
 		culture = swahili
@@ -206,12 +206,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 40342
+		size = 39437
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 24047
+		size = 23507
 	}
 	bureaucrats = {
 		culture = zanjyue
@@ -253,17 +253,17 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 848
+		size = 1948
 	}
 	artisans = {
 		culture = ethiopian
 		religion = placeholder
-		size = 186
+		size = 469
 	}
 	artisans = {
 		culture = zanjyue
 		religion = placeholder
-		size = 487
+		size = 1203
 	}
 	soldiers = {
 		culture = swahili
@@ -283,17 +283,17 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 51748
+		size = 50648
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 13334
+		size = 13051
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 33688
+		size = 32972
 	}
 	bureaucrats = {
 		culture = zanjyue
@@ -325,12 +325,12 @@
 	artisans = {
 		culture = swahili
 		religion = placeholder
-		size = 2277
+		size = 3331
 	}
 	artisans = {
 		culture = zanjyue
 		religion = placeholder
-		size = 1263
+		size = 1847
 	}
 	soldiers = {
 		culture = swahili
@@ -345,12 +345,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 47150
+		size = 46096
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 26159
+		size = 25575
 	}
 	bureaucrats = {
 		culture = zanjyue

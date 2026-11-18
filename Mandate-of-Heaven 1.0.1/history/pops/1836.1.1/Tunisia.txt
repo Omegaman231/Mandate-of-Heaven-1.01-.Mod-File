@@ -22,7 +22,7 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 24948
+		size = 26860
 	}
 	soldiers = {
 		culture = greco_roman
@@ -32,7 +32,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 62946
+		size = 61034
 	}
 }
 1726 = {
@@ -69,17 +69,17 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1890
+		size = 2622
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 405
+		size = 562
 	}
 	artisans = {
 		culture = berber
 		religion = placeholder
-		size = 405
+		size = 562
 	}
 	soldiers = {
 		culture = greco_roman
@@ -99,17 +99,17 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 32780
+		size = 32048
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 7024
+		size = 6867
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 7024
+		size = 6867
 	}
 }
 1727 = {
@@ -146,17 +146,17 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 631
+		size = 915
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 136
+		size = 197
 	}
 	artisans = {
 		culture = berber
 		religion = placeholder
-		size = 136
+		size = 197
 	}
 	soldiers = {
 		culture = greco_roman
@@ -176,17 +176,17 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 12656
+		size = 12372
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 2712
+		size = 2651
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 2712
+		size = 2651
 	}
 }
 1728 = {
@@ -223,17 +223,17 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1261
+		size = 1838
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 270
+		size = 394
 	}
 	artisans = {
 		culture = berber
 		religion = placeholder
-		size = 270
+		size = 394
 	}
 	soldiers = {
 		culture = greco_roman
@@ -253,17 +253,17 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 26412
+		size = 25835
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5660
+		size = 5536
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 5660
+		size = 5536
 	}
 }
 1729 = {
@@ -300,17 +300,17 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 480
+		size = 724
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 41
+		size = 62
 	}
 	artisans = {
 		culture = berber
 		religion = placeholder
-		size = 164
+		size = 247
 	}
 	soldiers = {
 		culture = greco_roman
@@ -330,17 +330,17 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 11277
+		size = 11033
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 967
+		size = 946
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 3867
+		size = 3784
 	}
 }
 1730 = {
@@ -377,17 +377,17 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1397
+		size = 1902
 	}
 	artisans = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 300
+		size = 408
 	}
 	artisans = {
 		culture = berber
 		religion = placeholder
-		size = 300
+		size = 409
 	}
 	soldiers = {
 		culture = greco_roman
@@ -407,16 +407,16 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 22669
+		size = 22164
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 4858
+		size = 4750
 	}
 	farmers = {
 		culture = berber
 		religion = placeholder
-		size = 4858
+		size = 4749
 	}
 }

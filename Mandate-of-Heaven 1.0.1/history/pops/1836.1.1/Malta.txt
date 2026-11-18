@@ -12,7 +12,7 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 7412
+		size = 7965
 	}
 	aristocrats = {
 		culture = greco_roman
@@ -27,6 +27,6 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 18621
+		size = 18068
 	}
 }

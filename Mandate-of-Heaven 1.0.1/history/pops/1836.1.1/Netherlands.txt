@@ -12,7 +12,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 45484
+		size = 47507
 	}
 	aristocrats = {
 		culture = romano_celtic
@@ -37,7 +37,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 51325
+		size = 49302
 	}
 }
 376 = {
@@ -54,7 +54,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 57126
+		size = 59674
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -64,7 +64,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 67732
+		size = 65184
 	}
 }
 377 = {
@@ -81,7 +81,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 10401
+		size = 11061
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -91,7 +91,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 21261
+		size = 20601
 	}
 }
 378 = {
@@ -108,7 +108,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1602
+		size = 2327
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -118,14 +118,14 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 33291
+		size = 32566
 	}
 }
 379 = {
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2197
+		size = 4189
 	}
 	aristocrats = {
 		culture = romano_celtic
@@ -155,7 +155,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 94956
+		size = 92964
 	}
 }
 380 = {
@@ -172,7 +172,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 3250
+		size = 3944
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -182,7 +182,7 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 30098
+		size = 29404
 	}
 }
 381 = {
@@ -199,7 +199,7 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 6934
+		size = 7648
 	}
 	clerks = {
 		culture = romano_celtic
@@ -214,7 +214,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 27265
+		size = 26551
 	}
 }
 382 = {
@@ -518,12 +518,12 @@
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2384
+		size = 2761
 	}
 	artisans = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 522
+		size = 605
 	}
 	aristocrats = {
 		culture = romano_celtic
@@ -568,11 +568,11 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 15549
+		size = 15172
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 3413
+		size = 3330
 	}
 }

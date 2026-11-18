@@ -4,17 +4,17 @@ add_core = TAM
 trade_goods = grain
 life_rating = 32
 state_building = {
-	level = 1
+	level = 2
 	building = steel_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 5
 	building = artillery_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 2
 	building = canned_food_factory
 	upgrade = yes
 }

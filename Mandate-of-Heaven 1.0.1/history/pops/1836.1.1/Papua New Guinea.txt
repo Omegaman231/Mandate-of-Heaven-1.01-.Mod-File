@@ -49,12 +49,12 @@
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 6519
+		size = 9132
 	}
 	artisans = {
 		culture = polynesian
 		religion = placeholder
-		size = 1431
+		size = 2004
 	}
 	soldiers = {
 		culture = aboriginal
@@ -69,12 +69,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 118941
+		size = 116328
 	}
 	farmers = {
 		culture = polynesian
 		religion = placeholder
-		size = 26109
+		size = 25536
 	}
 }
 2529 = {
@@ -111,17 +111,17 @@
 	artisans = {
 		culture = polynesian
 		religion = placeholder
-		size = 3211
+		size = 4286
 	}
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 703
+		size = 939
 	}
 	artisans = {
 		culture = yue
 		religion = placeholder
-		size = 435
+		size = 581
 	}
 	soldiers = {
 		culture = polynesian
@@ -141,17 +141,17 @@
 	farmers = {
 		culture = polynesian
 		religion = placeholder
-		size = 48170
+		size = 47095
 	}
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 10574
+		size = 10338
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 6527
+		size = 6381
 	}
 }
 2530 = {
@@ -178,12 +178,12 @@
 	artisans = {
 		culture = polynesian
 		religion = placeholder
-		size = 9750
+		size = 13013
 	}
 	artisans = {
 		culture = aboriginal
 		religion = placeholder
-		size = 2140
+		size = 2856
 	}
 	soldiers = {
 		culture = polynesian
@@ -198,12 +198,12 @@
 	farmers = {
 		culture = polynesian
 		religion = placeholder
-		size = 146151
+		size = 142888
 	}
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 32081
+		size = 31365
 	}
 }
 2531 = {
@@ -220,7 +220,7 @@
 	artisans = {
 		culture = polynesian
 		religion = placeholder
-		size = 13514
+		size = 18042
 	}
 	soldiers = {
 		culture = polynesian
@@ -230,7 +230,7 @@
 	farmers = {
 		culture = polynesian
 		religion = placeholder
-		size = 202861
+		size = 198333
 	}
 }
 2537 = {

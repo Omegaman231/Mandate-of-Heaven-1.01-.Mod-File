@@ -2,13 +2,23 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 40
+		size = 39
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 1
 	}
 }
 2406 = {
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 120
+		size = 118
+	}
+	artisans = {
+		culture = austronesian
+		religion = placeholder
+		size = 2
 	}
 }

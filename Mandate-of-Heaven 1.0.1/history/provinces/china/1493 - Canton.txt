@@ -4,27 +4,27 @@ add_core = MIN
 trade_goods = silk
 life_rating = 32
 state_building = {
-	level = 2
+	level = 3
 	building = ammunition_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 3
 	building = canned_food_factory
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 3
 	building = lumber_mill
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 3
 	building = clipper_shipyard
 	upgrade = yes
 }
 state_building = {
-	level = 2
+	level = 3
 	building = artillery_factory
 	upgrade = yes
 }

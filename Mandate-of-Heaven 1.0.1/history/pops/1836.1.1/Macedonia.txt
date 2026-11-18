@@ -22,12 +22,12 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 4182
+		size = 5660
 	}
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 918
+		size = 1242
 	}
 	soldiers = {
 		culture = greco_roman
@@ -42,12 +42,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 65221
+		size = 63743
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 14316
+		size = 13992
 	}
 }
 807 = {
@@ -64,22 +64,22 @@
 	artisans = {
 		culture = greco_roman
 		religion = placeholder
-		size = 2334
+		size = 3284
 	}
 	artisans = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 512
+		size = 720
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 41889
+		size = 40939
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 9195
+		size = 8987
 	}
 	aristocrats = {
 		culture = greco_roman

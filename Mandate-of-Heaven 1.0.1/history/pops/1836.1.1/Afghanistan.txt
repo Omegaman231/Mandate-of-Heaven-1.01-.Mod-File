@@ -218,12 +218,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 3986
+		size = 5316
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 875
+		size = 1167
 	}
 	soldiers = {
 		culture = persian
@@ -238,12 +238,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 56375
+		size = 55045
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 12375
+		size = 12083
 	}
 }
 1213 = {
@@ -270,12 +270,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 5029
+		size = 6723
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 1104
+		size = 1476
 	}
 	soldiers = {
 		culture = persian
@@ -290,12 +290,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 74100
+		size = 72406
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 16265
+		size = 15893
 	}
 }
 1214 = {
@@ -312,7 +312,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 6929
+		size = 9187
 	}
 	soldiers = {
 		culture = persian
@@ -322,7 +322,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 94633
+		size = 92375
 	}
 }
 1215 = {
@@ -339,7 +339,7 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 5501
+		size = 7353
 	}
 	soldiers = {
 		culture = persian
@@ -349,7 +349,7 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 81886
+		size = 80034
 	}
 }
 1216 = {
@@ -438,12 +438,12 @@
 	artisans = {
 		culture = persian
 		religion = placeholder
-		size = 3997
+		size = 5349
 	}
 	artisans = {
 		culture = sogdian
 		religion = placeholder
-		size = 877
+		size = 1174
 	}
 	soldiers = {
 		culture = persian
@@ -458,11 +458,11 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 59839
+		size = 58487
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 13135
+		size = 12838
 	}
 }
