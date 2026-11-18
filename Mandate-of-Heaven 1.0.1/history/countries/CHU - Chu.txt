@@ -7,7 +7,7 @@ nationalvalue = nv_productivity
 literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 27
+prestige = 47
 
 slavery = no_slavery
 upper_house_composition = appointed

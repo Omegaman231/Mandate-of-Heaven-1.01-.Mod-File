@@ -10,7 +10,7 @@ literacy = 0.01
 non_state_culture_literacy = 0.01
 civilized = yes
 schools = naval_tech_school
-prestige = 7
+prestige = 47
 
 slavery = no_slavery
 upper_house_composition = appointed

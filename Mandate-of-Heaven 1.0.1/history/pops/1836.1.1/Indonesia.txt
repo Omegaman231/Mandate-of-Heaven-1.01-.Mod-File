@@ -22,7 +22,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 53338
+		size = 53247
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 91
 	}
 }
 1399 = {
@@ -49,12 +54,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 221301
+		size = 220893
 	}
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 620
+		size = 1028
 	}
 	craftsmen = {
 		culture = austronesian
@@ -86,7 +91,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 42553
+		size = 42481
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
 	}
 }
 1401 = {
@@ -98,7 +108,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 150
+		size = 268
 	}
 	clergymen = {
 		culture = austronesian
@@ -118,7 +128,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 67362
+		size = 67244
 	}
 	labourers = {
 		culture = austronesian
@@ -182,12 +192,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 111955
+		size = 111748
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 9536
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 207
 	}
 }
 1404 = {
@@ -214,12 +229,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 28754
+		size = 28701
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 2439
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 53
 	}
 }
 1405 = {
@@ -231,7 +251,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 250
+		size = 347
 	}
 	officers = {
 		culture = austronesian
@@ -256,7 +276,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 54315
+		size = 54218
 	}
 }
 1406 = {
@@ -283,7 +303,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 69219
+		size = 69097
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 122
 	}
 }
 1407 = {
@@ -310,7 +335,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 67939
+		size = 67821
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 118
 	}
 }
 1408 = {
@@ -337,7 +367,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 107563
+		size = 107381
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 182
 	}
 }
 1409 = {
@@ -364,7 +399,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 234182
+		size = 233784
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 398
 	}
 }
 1410 = {
@@ -391,12 +431,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 48916
+		size = 48825
 	}
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 420
+		size = 511
 	}
 	craftsmen = {
 		culture = austronesian
@@ -440,7 +480,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 2000
+		size = 2841
 	}
 	clergymen = {
 		culture = austronesian
@@ -465,7 +505,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 46162
+		size = 45321
 	}
 	craftsmen = {
 		culture = austronesian
@@ -497,12 +537,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 82165
+		size = 82024
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 468
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 141
 	}
 }
 1415 = {
@@ -529,12 +574,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 204910
+		size = 204560
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 1163
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 350
 	}
 }
 1416 = {
@@ -561,12 +611,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 129117
+		size = 128898
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 727
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 219
 	}
 }
 1417 = {
@@ -593,7 +648,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 239407
+		size = 238986
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 421
 	}
 }
 1418 = {
@@ -620,7 +680,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 234684
+		size = 234272
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 412
 	}
 }
 1419 = {
@@ -647,7 +712,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 80135
+		size = 79999
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 136
 	}
 }
 1420 = {
@@ -674,7 +744,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 157760
+		size = 157493
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 267
 	}
 }
 1421 = {
@@ -701,7 +776,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 108876
+		size = 108689
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 187
 	}
 }
 1422 = {
@@ -728,7 +808,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 42451
+		size = 42379
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
 	}
 }
 1423 = {
@@ -755,12 +840,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 81393
+		size = 81255
 	}
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 100
+		size = 238
 	}
 }
 1424 = {
@@ -787,7 +872,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 28284
+		size = 28236
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 48
 	}
 }
 1425 = {
@@ -814,12 +904,17 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 36468
+		size = 36396
 	}
 	labourers = {
 		culture = austronesian
 		religion = placeholder
 		size = 6132
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
 	}
 }
 1426 = {
@@ -846,12 +941,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 65965
+		size = 65853
 	}
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 70
+		size = 182
 	}
 }
 1427 = {
@@ -878,7 +973,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 66894
+		size = 66779
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 115
 	}
 }
 1428 = {
@@ -905,7 +1005,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 30124
+		size = 30073
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 51
 	}
 }
 1429 = {
@@ -932,7 +1037,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 53289
+		size = 53198
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 91
 	}
 }
 1430 = {
@@ -944,7 +1054,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 300
+		size = 469
 	}
 	clergymen = {
 		culture = austronesian
@@ -964,7 +1074,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 98671
+		size = 98502
 	}
 }
 1431 = {
@@ -991,7 +1101,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 62188
+		size = 62082
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 106
 	}
 }
 1432 = {
@@ -1018,7 +1133,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 56918
+		size = 56821
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 97
 	}
 }
 1433 = {
@@ -1045,7 +1165,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 113686
+		size = 113493
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 193
 	}
 }
 1434 = {
@@ -1072,7 +1197,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 44491
+		size = 44416
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 75
 	}
 }
 1435 = {
@@ -1099,7 +1229,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 44491
+		size = 44416
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 75
 	}
 }
 1436 = {
@@ -1126,7 +1261,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 42651
+		size = 42579
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
 	}
 }
 1437 = {
@@ -1153,7 +1293,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 42651
+		size = 42579
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
 	}
 }
 1438 = {
@@ -1175,7 +1320,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 137991
+		size = 137751
 	}
 	aristocrats = {
 		culture = austronesian
@@ -1185,7 +1330,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 125
+		size = 365
 	}
 	officers = {
 		culture = austronesian
@@ -1217,7 +1362,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 78195
+		size = 78062
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 133
 	}
 }
 1440 = {
@@ -1244,7 +1394,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 108619
+		size = 108435
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 184
 	}
 }
 1441 = {
@@ -1271,7 +1426,12 @@
 	farmers = {
 		culture = aboriginal
 		religion = placeholder
-		size = 269163
+		size = 268709
+	}
+	bureaucrats = {
+		culture = aboriginal
+		religion = placeholder
+		size = 454
 	}
 }
 1442 = {
@@ -1298,7 +1458,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 87674
+		size = 87523
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 151
 	}
 }
 1443 = {
@@ -1806,7 +1971,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 15694
+		size = 15667
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 27
 	}
 }
 3254 = {
@@ -1833,11 +2003,16 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 82164
+		size = 82023
 	}
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
 		size = 469
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 141
 	}
 }

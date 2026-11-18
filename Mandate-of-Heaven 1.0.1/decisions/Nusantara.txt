@@ -51,6 +51,21 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 1 }
 	}
+	nus_claim_philippines = {
+		potential = {
+			tag = NUS
+			NOT = { has_country_flag = nus_claim_philippines }
+			SPA_1455 = { owned_by = THIS }
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			set_country_flag = nus_claim_philippines
+			SPA_1455 = { add_core = THIS }
+		}
+		ai_will_do = { factor = 1 }
+	}
 	nus_exert_will = {
 		potential = {
 			tag = NUS
@@ -73,10 +88,10 @@ political_decisions = {
 		potential = {
 			tag = NUS
 			NOT = { has_country_flag = nus_sea_lords }
-		}
-		allow = {
 			has_country_flag = nus_exert_will
 			has_country_flag = australia_is_ours
+		}
+		allow = {
 			year = 1870
 			CHI_2562 = { owned_by = THIS }
 			ENG_1321 = { owned_by = THIS }
@@ -87,7 +102,6 @@ political_decisions = {
 			MAD_2122 = { add_core = THIS }
 			MAD_2119 = { add_core = THIS }
 			FRA_2123 = { add_core = THIS }
-			1481 = { add_core = THIS }
 			CHI_1538 = { add_core = THIS }
 			CHI_1496 = { add_core = THIS }
 			1303 = { add_core = THIS }

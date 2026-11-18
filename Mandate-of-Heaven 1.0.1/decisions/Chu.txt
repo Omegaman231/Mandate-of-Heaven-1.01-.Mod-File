@@ -1,26 +1,2 @@
 political_decisions = {
-	chu_a_long_voyage = {
-		potential = {
-			tag = CHU
-			NOT = { has_country_flag = chu_long_voyage }
-			658 = { empty = yes }
-			84 = { empty = yes }
-		}
-		allow = {
-			OR = {
-				fire_control_systems = 1
-				naval_plans = 1
-				naval_decision_making = 1
-				raider_group_doctrine = 1
-			}
-			658 = { empty = yes }
-			84 = { empty = yes }
-		}
-		effect = {
-			set_country_flag = chu_long_voyage
-			658 = { secede_province = CHU }
-			84 = { secede_province = CHU }
-		}
-		ai_will_do = { factor = 1 }
-	}
 }

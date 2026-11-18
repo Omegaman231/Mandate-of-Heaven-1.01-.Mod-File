@@ -176,7 +176,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 1480
+		size = 1428
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 52
 	}
 }
 1389 = {
@@ -223,12 +228,22 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 41034
+		size = 40962
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 9007
+		size = 8991
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 72
+	}
+	bureaucrats = {
+		culture = siamese
+		religion = placeholder
+		size = 16
 	}
 }
 1390 = {
@@ -255,7 +270,12 @@
 	labourers = {
 		culture = austronesian
 		religion = placeholder
-		size = 28534
+		size = 28486
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 48
 	}
 }
 1391 = {
@@ -282,7 +302,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 73307
+		size = 73180
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 127
 	}
 }
 1393 = {
@@ -294,7 +319,7 @@
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 200
+		size = 236
 	}
 	officers = {
 		culture = austronesian
@@ -319,7 +344,7 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 20977
+		size = 20941
 	}
 }
 1394 = {
@@ -346,7 +371,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 36516
+		size = 36449
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 67
 	}
 }
 1395 = {
@@ -373,7 +403,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 39071
+		size = 39005
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 66
 	}
 }
 1396 = {
@@ -400,7 +435,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 48209
+		size = 48039
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 170
 	}
 }
 1397 = {
@@ -427,7 +467,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 35691
+		size = 35571
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 120
 	}
 }
 2575 = {
@@ -459,6 +504,11 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 2661
+		size = 2564
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 97
 	}
 }

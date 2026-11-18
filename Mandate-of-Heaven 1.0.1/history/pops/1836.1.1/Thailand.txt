@@ -269,12 +269,12 @@
 	bureaucrats = {
 		culture = siamese
 		religion = placeholder
-		size = 164
+		size = 241
 	}
 	bureaucrats = {
 		culture = austronesian
 		religion = placeholder
-		size = 36
+		size = 53
 	}
 	officers = {
 		culture = siamese
@@ -319,12 +319,12 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 42082
+		size = 42005
 	}
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 9237
+		size = 9220
 	}
 }
 1353 = {
@@ -433,12 +433,22 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 68620
+		size = 68499
 	}
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 15063
+		size = 15036
+	}
+	bureaucrats = {
+		culture = siamese
+		religion = placeholder
+		size = 121
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 27
 	}
 }
 1355 = {
@@ -698,12 +708,22 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 47111
+		size = 47029
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 10341
+		size = 10323
+	}
+	bureaucrats = {
+		culture = austronesian
+		religion = placeholder
+		size = 82
+	}
+	bureaucrats = {
+		culture = siamese
+		religion = placeholder
+		size = 18
 	}
 }
 2572 = {
