@@ -32,12 +32,12 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 13839
+		size = 29608
 	}
 	craftsmen = {
 		culture = tibetan
 		religion = placeholder
-		size = 17000
+		size = 1231
 	}
 }
 1588 = {
@@ -84,12 +84,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 112849
+		size = 110024
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 24771
+		size = 24151
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 2825
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 620
 	}
 }
 1589 = {
@@ -136,12 +146,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 59073
+		size = 57589
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 12967
+		size = 12641
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1484
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 326
 	}
 }
 1590 = {
@@ -188,12 +208,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 124140
+		size = 121026
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 27250
+		size = 26566
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 3114
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 684
 	}
 }
 1591 = {
@@ -240,12 +270,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 13718
+		size = 13374
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 3012
+		size = 2937
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 344
+	}
+	craftsmen = {
+		culture = sogdian
+		religion = placeholder
+		size = 75
 	}
 }
 1592 = {
@@ -292,12 +332,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 54854
+		size = 53478
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 12040
+		size = 11738
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1376
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 302
 	}
 }
 1593 = {
@@ -344,11 +394,21 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 141920
+		size = 138174
 	}
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 33060
+		size = 32187
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 3746
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 873
 	}
 }

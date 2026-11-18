@@ -1534,12 +1534,12 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2627
+		size = 2186
 	}
 	farmers = {
 		culture = pueblo
 		religion = placeholder
-		size = 576
+		size = 479
 	}
 	soldiers = {
 		culture = mississippian
@@ -1560,6 +1560,16 @@
 		culture = pueblo
 		religion = placeholder
 		size = 2
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 441
+	}
+	craftsmen = {
+		culture = pueblo
+		religion = placeholder
+		size = 97
 	}
 }
 133 = {
@@ -1733,7 +1743,7 @@
 	craftsmen = {
 		culture = mississippian
 		religion = placeholder
-		size = 14700
+		size = 5037
 	}
 	clergymen = {
 		culture = mississippian
@@ -1758,7 +1768,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 12246
+		size = 21909
 	}
 }
 140 = {
@@ -1780,7 +1790,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9312
+		size = 7867
 	}
 	soldiers = {
 		culture = mississippian
@@ -1791,6 +1801,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 25
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 1445
 	}
 }
 141 = {
@@ -1812,7 +1827,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 12297
+		size = 10406
 	}
 	soldiers = {
 		culture = mississippian
@@ -1823,6 +1838,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 33
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 1891
 	}
 }
 142 = {
@@ -3367,7 +3387,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 9042
+		size = 7636
 	}
 	soldiers = {
 		culture = mississippian
@@ -3378,6 +3398,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 24
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 1406
 	}
 }
 193 = {
@@ -3431,7 +3456,7 @@
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15926
+		size = 13497
 	}
 	soldiers = {
 		culture = mississippian
@@ -3442,6 +3467,11 @@
 		culture = mississippian
 		religion = placeholder
 		size = 43
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 2429
 	}
 }
 195 = {
@@ -3527,12 +3557,12 @@
 	craftsmen = {
 		culture = mississippian
 		religion = placeholder
-		size = 484
+		size = 2438
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 15479
+		size = 13525
 	}
 	soldiers = {
 		culture = mississippian
@@ -4185,12 +4215,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 18343
+		size = 17957
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 4027
+		size = 3942
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4212,6 +4242,16 @@
 		religion = placeholder
 		size = 5
 	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 386
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 85
+	}
 }
 213 = {
 	aristocrats = {
@@ -4232,7 +4272,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 21145
+		size = 20702
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4243,6 +4283,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 29
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 443
 	}
 }
 214 = {
@@ -4311,12 +4356,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11535
+		size = 11288
 	}
 	farmers = {
 		culture = mississippian
 		religion = placeholder
-		size = 2532
+		size = 2478
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4337,6 +4382,16 @@
 		culture = mississippian
 		religion = placeholder
 		size = 3
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 247
+	}
+	craftsmen = {
+		culture = mississippian
+		religion = placeholder
+		size = 54
 	}
 }
 216 = {
@@ -4504,7 +4559,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 16190
+		size = 15846
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4515,6 +4570,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 22
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 344
 	}
 }
 220 = {
@@ -4556,12 +4616,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1749
+		size = 534
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 16183
+		size = 17398
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4655,7 +4715,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 7940
+		size = 6940
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4666,6 +4726,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 11
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1000
 	}
 }
 223 = {
@@ -4702,12 +4767,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1749
+		size = 520
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 17188
+		size = 18417
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4744,12 +4809,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 7000
+		size = 1779
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 6012
+		size = 11233
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4776,7 +4841,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11262
+		size = 9855
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4787,6 +4852,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 15
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1407
 	}
 }
 226 = {
@@ -4808,7 +4878,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12868
+		size = 12591
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4819,6 +4889,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 18
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 277
 	}
 }
 227 = {
@@ -4924,12 +4999,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 22144
+		size = 21346
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 1531
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 798
 	}
 }
 230 = {
@@ -4961,12 +5041,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 11560
+		size = 11261
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 1088
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 299
 	}
 }
 231 = {
@@ -4988,7 +5073,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 14530
+		size = 14221
 	}
 	soldiers = {
 		culture = iroquoian
@@ -4999,6 +5084,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 20
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 309
 	}
 }
 232 = {
@@ -5025,12 +5115,17 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 32629
+		size = 31530
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 1531
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1099
 	}
 }
 233 = {
@@ -5072,12 +5167,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 3500
+		size = 1603
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 40739
+		size = 42636
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5104,7 +5199,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 9601
+		size = 8398
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5115,6 +5210,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 13
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1203
 	}
 }
 235 = {
@@ -5136,7 +5236,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12921
+		size = 11310
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5147,6 +5247,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 18
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 1611
 	}
 }
 236 = {
@@ -5313,7 +5418,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 24221
+		size = 23508
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5324,6 +5429,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 33
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 713
 	}
 }
 242 = {
@@ -5345,7 +5455,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 22561
+		size = 21896
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5356,6 +5466,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 31
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 665
 	}
 }
 243 = {
@@ -5392,12 +5507,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 3500
+		size = 937
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 19180
+		size = 21743
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5424,7 +5539,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 9279
+		size = 8996
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5435,6 +5550,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 13
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 283
 	}
 }
 245 = {
@@ -5456,7 +5576,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 15920
+		size = 15446
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5467,6 +5587,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 22
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 474
 	}
 }
 246 = {
@@ -5515,7 +5640,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 14736
+		size = 14308
 	}
 	soldiers = {
 		culture = iroquoian
@@ -5526,6 +5651,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 20
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 428
 	}
 }
 248 = {

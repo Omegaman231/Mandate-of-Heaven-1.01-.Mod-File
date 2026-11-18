@@ -32,12 +32,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 81593
+		size = 99696
 	}
 	craftsmen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 25000
+		size = 6897
 	}
 }
 1746 = {
@@ -64,7 +64,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 46391
+		size = 44364
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 2027
 	}
 }
 1747 = {
@@ -91,7 +96,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 31643
+		size = 30214
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1429
 	}
 }
 1748 = {
@@ -118,7 +128,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 14840
+		size = 13805
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1035
 	}
 }
 1749 = {
@@ -145,7 +160,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 12191
+		size = 11501
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 690
 	}
 }
 1750 = {
@@ -172,7 +192,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 31807
+		size = 30356
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1451
 	}
 }
 1751 = {
@@ -239,12 +264,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 54509
+		size = 51938
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 58700
+		size = 55931
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 2571
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 2769
 	}
 }
 1752 = {
@@ -271,7 +306,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 28510
+		size = 27397
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1113
 	}
 }
 1753 = {
@@ -298,7 +338,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10166
+		size = 9787
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 379
 	}
 }
 1754 = {
@@ -325,7 +370,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 8110
+		size = 7808
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 302
 	}
 }
 1755 = {
@@ -475,7 +525,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5997
+		size = 5770
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 227
 	}
 }
 1760 = {
@@ -603,7 +658,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 19306
+		size = 18586
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 720
 	}
 }
 1764 = {
@@ -630,7 +690,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 24440
+		size = 23484
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 956
 	}
 }
 1765 = {
@@ -657,7 +722,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 47014
+		size = 45244
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1770
 	}
 }
 1766 = {
@@ -896,12 +966,17 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5587
+		size = 4923
 	}
 	artisans = {
 		culture = gujarati
 		religion = placeholder
 		size = 13100
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 664
 	}
 }
 2559 = {

@@ -32,12 +32,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 166198
+		size = 212189
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 78710
+		size = 32719
 	}
 }
 1620 = {
@@ -64,12 +64,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 230554
+		size = 213436
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 13825
+		size = 30943
 	}
 }
 1621 = {
@@ -106,12 +106,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 89432
+		size = 82635
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 5489
+		size = 12286
 	}
 }
 1622 = {
@@ -158,22 +158,22 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 89978
+		size = 83329
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 19751
+		size = 18291
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 5369
+		size = 12018
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 1179
+		size = 2639
 	}
 }
 1623 = {
@@ -220,22 +220,22 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 64946
+		size = 60145
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 14256
+		size = 13202
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 3878
+		size = 8679
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 851
+		size = 1905
 	}
 }
 1624 = {
@@ -272,12 +272,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 249771
+		size = 308420
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 123710
+		size = 65061
 	}
 }
 1625 = {
@@ -304,12 +304,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 85209
+		size = 82440
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 5091
+		size = 7860
 	}
 }
 1626 = {
@@ -336,12 +336,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 79203
+		size = 76630
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 4729
+		size = 7302
 	}
 }
 1627 = {
@@ -368,12 +368,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 101251
+		size = 99689
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 8000
+		size = 9562
 	}
 }
 1628 = {
@@ -400,12 +400,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 169432
+		size = 149645
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 10187
+		size = 29974
 	}
 }
 1629 = {
@@ -442,12 +442,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 113812
+		size = 110026
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 6957
+		size = 10743
 	}
 }
 1630 = {
@@ -474,12 +474,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 79203
+		size = 70017
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 4729
+		size = 13915
 	}
 }
 1631 = {
@@ -506,12 +506,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 85242
+		size = 75351
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 5093
+		size = 14984
 	}
 }
 1632 = {
@@ -548,12 +548,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 194272
+		size = 213110
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 39355
+		size = 20517
 	}
 }
 1633 = {
@@ -580,12 +580,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 127543
+		size = 123599
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 7647
+		size = 11591
 	}
 }
 1634 = {
@@ -612,12 +612,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 193918
+		size = 187914
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 11642
+		size = 17646
 	}
 }
 1635 = {
@@ -654,12 +654,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 191695
+		size = 185620
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 11780
+		size = 17855
 	}
 }
 1636 = {
@@ -686,12 +686,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 169432
+		size = 149647
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 10187
+		size = 29972
 	}
 }
 1637 = {
@@ -718,12 +718,12 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 91282
+		size = 88467
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 5457
+		size = 8272
 	}
 }
 3285 = {
@@ -770,21 +770,21 @@
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 89978
+		size = 83326
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 19751
+		size = 18291
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 5369
+		size = 12021
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 1179
+		size = 2639
 	}
 }

@@ -62,22 +62,22 @@
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 91096
+		size = 111124
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 21444
+		size = 26159
 	}
 	craftsmen = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 28331
+		size = 8303
 	}
 	craftsmen = {
 		culture = siamese
 		religion = placeholder
-		size = 6669
+		size = 1954
 	}
 }
 1370 = {
@@ -89,7 +89,7 @@
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 228820
+		size = 215569
 	}
 	clergymen = {
 		culture = austroasiatic
@@ -105,6 +105,11 @@
 		culture = austroasiatic
 		religion = placeholder
 		size = 10325
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 13251
 	}
 }
 1371 = {
@@ -151,12 +156,22 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 50367
+		size = 47451
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 11056
+		size = 10416
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 2916
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 640
 	}
 }
 1372 = {
@@ -203,12 +218,22 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 54012
+		size = 50881
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 11856
+		size = 11169
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 3131
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 687
 	}
 }
 1373 = {
@@ -255,12 +280,22 @@
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 57274
+		size = 53897
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 12572
+		size = 11831
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 3377
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 741
 	}
 }
 1374 = {
@@ -535,12 +570,22 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 29089
+		size = 26451
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 6385
+		size = 5806
+	}
+	craftsmen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2638
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 579
 	}
 }
 1379 = {
@@ -567,7 +612,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 26350
+		size = 23936
+	}
+	craftsmen = {
+		culture = austronesian
+		religion = placeholder
+		size = 2414
 	}
 }
 1380 = {
@@ -584,12 +634,12 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 187774
+		size = 196352
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 42877
+		size = 44836
 	}
 	bureaucrats = {
 		culture = austronesian
@@ -644,12 +694,12 @@
 	craftsmen = {
 		culture = austronesian
 		religion = placeholder
-		size = 28494
+		size = 19916
 	}
 	craftsmen = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 6506
+		size = 4547
 	}
 }
 1381 = {
@@ -696,12 +746,22 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 44194
+		size = 40171
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 9700
+		size = 8817
+	}
+	craftsmen = {
+		culture = austronesian
+		religion = placeholder
+		size = 4023
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 883
 	}
 }
 1382 = {

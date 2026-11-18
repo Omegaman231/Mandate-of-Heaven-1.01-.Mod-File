@@ -52,12 +52,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 41180
+		size = 42731
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 21878
+		size = 22702
 	}
 	artisans = {
 		culture = gujarati
@@ -72,12 +72,12 @@
 	craftsmen = {
 		culture = swahili
 		religion = placeholder
-		size = 3265
+		size = 1714
 	}
 	craftsmen = {
 		culture = zanjyue
 		religion = placeholder
-		size = 1735
+		size = 911
 	}
 }
 1869 = {
@@ -119,17 +119,27 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 18841
+		size = 18205
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 17304
+		size = 16719
 	}
 	bureaucrats = {
 		culture = zanjyue
 		religion = placeholder
 		size = 375
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 636
+	}
+	craftsmen = {
+		culture = zanjyue
+		religion = placeholder
+		size = 585
 	}
 }
 1870 = {
@@ -191,22 +201,37 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 14347
+		size = 13867
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 3149
+		size = 3044
 	}
 	farmers = {
 		culture = zanjyue
 		religion = placeholder
-		size = 16987
+		size = 16418
 	}
 	bureaucrats = {
 		culture = zanjyue
 		religion = placeholder
 		size = 375
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 480
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 105
+	}
+	craftsmen = {
+		culture = zanjyue
+		religion = placeholder
+		size = 569
 	}
 }
 1871 = {

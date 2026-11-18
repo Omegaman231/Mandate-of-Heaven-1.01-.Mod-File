@@ -365,12 +365,17 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 28751
+		size = 24934
 	}
 	aristocrats = {
 		culture = romano_celtic
 		religion = placeholder
 		size = 562
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 3817
 	}
 }
 780 = {
@@ -568,11 +573,16 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 17029
+		size = 14812
 	}
 	aristocrats = {
 		culture = romano_celtic
 		religion = placeholder
 		size = 31
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2217
 	}
 }

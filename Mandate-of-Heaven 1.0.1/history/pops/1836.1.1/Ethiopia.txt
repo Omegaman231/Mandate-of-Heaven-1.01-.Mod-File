@@ -62,12 +62,22 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 81826
+		size = 80766
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 17962
+		size = 17729
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 1060
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 233
 	}
 }
 1853 = {
@@ -114,12 +124,22 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 85859
+		size = 84760
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 18847
+		size = 18606
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1099
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 241
 	}
 }
 1854 = {
@@ -166,12 +186,22 @@
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 85119
+		size = 84031
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 18684
+		size = 18445
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 1088
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 239
 	}
 }
 1855 = {
@@ -235,7 +265,7 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 25570
+		size = 30037
 	}
 	artisans = {
 		culture = gujarati
@@ -245,7 +275,7 @@
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 5000
+		size = 533
 	}
 }
 1857 = {
@@ -292,12 +322,22 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22987
+		size = 22686
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 5045
+		size = 4979
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 301
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 66
 	}
 }
 1858 = {
@@ -344,12 +384,22 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 8843
+		size = 8728
 	}
 	farmers = {
 		culture = ethiopian
 		religion = placeholder
-		size = 1941
+		size = 1916
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 115
+	}
+	craftsmen = {
+		culture = ethiopian
+		religion = placeholder
+		size = 25
 	}
 }
 1859 = {

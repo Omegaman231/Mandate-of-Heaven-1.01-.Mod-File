@@ -27,6 +27,11 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 18068
+		size = 14798
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 3270
 	}
 }

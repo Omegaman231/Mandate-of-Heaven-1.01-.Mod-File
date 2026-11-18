@@ -32,12 +32,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 43420
+		size = 44106
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1020
+		size = 334
 	}
 }
 819 = {
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 22007
+		size = 22006
 	}
 	aristocrats = {
 		culture = greco_roman
@@ -69,7 +69,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 127
+		size = 128
 	}
 }
 820 = {
@@ -91,7 +91,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 26811
+		size = 26825
 	}
 	aristocrats = {
 		culture = greco_roman
@@ -101,7 +101,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 170
+		size = 156
 	}
 }
 821 = {
@@ -123,7 +123,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 24767
+		size = 24749
 	}
 	aristocrats = {
 		culture = greco_roman
@@ -133,7 +133,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 127
+		size = 145
 	}
 }
 822 = {
@@ -160,12 +160,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 18888
+		size = 18947
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 170
+		size = 111
 	}
 }
 823 = {
@@ -212,22 +212,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 24498
+		size = 24455
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 5377
+		size = 5368
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 104
+		size = 147
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 22
+		size = 31
 	}
 }
 824 = {
@@ -402,7 +402,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 11005
+		size = 11012
 	}
 	farmers = {
 		culture = romano_celtic
@@ -412,7 +412,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 87
+		size = 80
 	}
 }
 830 = {
@@ -459,22 +459,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 10902
+		size = 10960
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 2393
+		size = 2405
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 121
+		size = 63
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 26
+		size = 14
 	}
 }
 831 = {

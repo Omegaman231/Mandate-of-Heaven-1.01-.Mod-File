@@ -32,12 +32,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 9954
+		size = 9021
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2184
+		size = 1979
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 933
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 205
 	}
 }
 909 = {
@@ -64,7 +74,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 9936
+		size = 9001
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 935
 	}
 }
 910 = {
@@ -96,12 +111,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 5907
+		size = 5358
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1297
+		size = 1177
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 549
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 120
 	}
 }
 911 = {
@@ -128,7 +153,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 17351
+		size = 15738
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1613
 	}
 }
 922 = {
@@ -155,16 +185,26 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 10237
+		size = 9304
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2247
+		size = 2042
 	}
 	aristocrats = {
 		culture = eastern_roman
 		religion = placeholder
 		size = 52
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 933
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 205
 	}
 }

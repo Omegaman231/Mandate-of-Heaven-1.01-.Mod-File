@@ -22,7 +22,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 2633
+		size = 2306
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 327
 	}
 }
 1162 = {

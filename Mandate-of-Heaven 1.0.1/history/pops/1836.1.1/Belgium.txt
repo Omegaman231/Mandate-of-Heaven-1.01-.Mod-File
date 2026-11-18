@@ -42,7 +42,7 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 73789
+		size = 81946
 	}
 	labourers = {
 		culture = romano_celtic
@@ -52,7 +52,7 @@
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 18000
+		size = 9843
 	}
 }
 388 = {
@@ -148,7 +148,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 48494
+		size = 43887
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 4607
 	}
 }
 391 = {
@@ -175,7 +180,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 50990
+		size = 47440
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 3550
 	}
 }
 392 = {

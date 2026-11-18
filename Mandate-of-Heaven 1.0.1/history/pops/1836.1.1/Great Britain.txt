@@ -1107,7 +1107,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 36055
+		size = 33654
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2401
 	}
 }
 292 = {
@@ -1139,7 +1144,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 79278
+		size = 74176
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 5102
 	}
 }
 293 = {
@@ -1171,7 +1181,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 30554
+		size = 28474
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2080
 	}
 }
 294 = {
@@ -1208,7 +1223,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 35081
+		size = 32782
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2299
 	}
 }
 295 = {
@@ -1235,7 +1255,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 37815
+		size = 35438
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2377
 	}
 }
 296 = {
@@ -1420,12 +1445,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 33242
+		size = 56024
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 35000
+		size = 12218
 	}
 }
 301 = {
@@ -1462,7 +1487,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 44955
+		size = 42011
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2944
 	}
 }
 302 = {
@@ -1494,7 +1524,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 44443
+		size = 41384
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 3059
 	}
 }
 303 = {
@@ -1526,7 +1561,12 @@
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 38438
+		size = 35918
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2520
 	}
 }
 304 = {

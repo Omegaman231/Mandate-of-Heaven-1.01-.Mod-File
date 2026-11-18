@@ -714,12 +714,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 14382
+		size = 16781
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 11177
+		size = 13043
 	}
 	artisans = {
 		culture = gujarati
@@ -734,12 +734,12 @@
 	craftsmen = {
 		culture = swahili
 		religion = placeholder
-		size = 2813
+		size = 414
 	}
 	craftsmen = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 2187
+		size = 321
 	}
 }
 2061 = {
@@ -786,17 +786,27 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 23909
+		size = 23460
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 17614
+		size = 17283
 	}
 	bureaucrats = {
 		culture = rantaunesian
 		religion = placeholder
 		size = 583
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 449
+	}
+	craftsmen = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 331
 	}
 }
 2063 = {
@@ -843,17 +853,27 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 41330
+		size = 40600
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 23602
+		size = 23185
 	}
 	bureaucrats = {
 		culture = rantaunesian
 		religion = placeholder
 		size = 583
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 730
+	}
+	craftsmen = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 417
 	}
 }
 2064 = {
@@ -900,17 +920,27 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 43687
+		size = 42966
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 24890
+		size = 24479
 	}
 	bureaucrats = {
 		culture = rantaunesian
 		religion = placeholder
 		size = 583
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 721
+	}
+	craftsmen = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 411
 	}
 }
 2065 = {
@@ -1014,16 +1044,26 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 47339
+		size = 46561
 	}
 	farmers = {
 		culture = rantaunesian
 		religion = placeholder
-		size = 26070
+		size = 25642
 	}
 	bureaucrats = {
 		culture = rantaunesian
 		religion = placeholder
 		size = 583
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 778
+	}
+	craftsmen = {
+		culture = rantaunesian
+		religion = placeholder
+		size = 428
 	}
 }

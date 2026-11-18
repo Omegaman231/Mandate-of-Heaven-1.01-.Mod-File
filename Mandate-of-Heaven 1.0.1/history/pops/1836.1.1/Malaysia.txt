@@ -37,7 +37,7 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 670
+		size = 3041
 	}
 	farmers = {
 		culture = yue
@@ -52,7 +52,7 @@
 	craftsmen = {
 		culture = tamil
 		religion = placeholder
-		size = 5000
+		size = 2629
 	}
 	clerks = {
 		culture = tamil
@@ -129,12 +129,22 @@
 	farmers = {
 		culture = austronesian
 		religion = placeholder
-		size = 39092
+		size = 37972
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 4344
+		size = 4220
+	}
+	craftsmen = {
+		culture = austronesian
+		religion = placeholder
+		size = 1120
+	}
+	craftsmen = {
+		culture = tamil
+		religion = placeholder
+		size = 124
 	}
 }
 1387 = {

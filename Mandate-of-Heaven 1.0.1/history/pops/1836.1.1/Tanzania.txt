@@ -156,12 +156,12 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 59254
+		size = 60653
 	}
 	farmers = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 17748
+		size = 18167
 	}
 	artisans = {
 		culture = gujarati
@@ -176,12 +176,12 @@
 	craftsmen = {
 		culture = swahili
 		religion = placeholder
-		size = 3848
+		size = 2449
 	}
 	craftsmen = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 1152
+		size = 733
 	}
 }
 2039 = {
@@ -218,17 +218,27 @@
 	farmers = {
 		culture = swahili
 		religion = placeholder
-		size = 48635
+		size = 46958
 	}
 	farmers = {
 		culture = tamil_melaindan
 		religion = placeholder
-		size = 4088
+		size = 3947
 	}
 	bureaucrats = {
 		culture = tamil_melaindan
 		religion = placeholder
 		size = 429
+	}
+	craftsmen = {
+		culture = swahili
+		religion = placeholder
+		size = 1677
+	}
+	craftsmen = {
+		culture = tamil_melaindan
+		religion = placeholder
+		size = 141
 	}
 }
 2040 = {

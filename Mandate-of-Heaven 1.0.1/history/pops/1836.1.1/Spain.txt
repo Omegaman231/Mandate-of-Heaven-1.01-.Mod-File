@@ -946,12 +946,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 46238
+		size = 53231
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 10148
+		size = 11683
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -966,12 +966,12 @@
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 28700
+		size = 21707
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 6300
+		size = 4765
 	}
 }
 502 = {
@@ -998,12 +998,17 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 18017
+		size = 9489
 	}
 	labourers = {
 		culture = romano_celtic
 		religion = placeholder
 		size = 8931
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 8528
 	}
 }
 503 = {

@@ -1431,12 +1431,12 @@
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 1975
+		size = 1471
 	}
 	craftsmen = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 104
+		size = 77
 	}
 	soldiers = {
 		culture = romano_celtic
@@ -1451,12 +1451,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 17147
+		size = 17651
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 903
+		size = 930
 	}
 }
 571 = {
@@ -1503,12 +1503,22 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 47637
+		size = 44142
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 2507
+		size = 2323
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 3495
+	}
+	craftsmen = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 184
 	}
 }
 572 = {
@@ -1550,7 +1560,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 19726
+		size = 17890
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1836
 	}
 }
 573 = {
@@ -1602,12 +1617,22 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 24055
+		size = 21971
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 5280
+		size = 4822
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 2084
+	}
+	craftsmen = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 458
 	}
 }
 574 = {
@@ -1659,12 +1684,22 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 19064
+		size = 17490
 	}
 	farmers = {
 		culture = germano_slavic
 		religion = placeholder
-		size = 4184
+		size = 3838
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 1574
+	}
+	craftsmen = {
+		culture = germano_slavic
+		religion = placeholder
+		size = 346
 	}
 }
 575 = {
@@ -1706,12 +1741,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 30275
+		size = 43019
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 17000
+		size = 4256
 	}
 }
 576 = {
@@ -1743,7 +1778,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 44448
+		size = 41150
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 3298
 	}
 }
 577 = {
@@ -2380,12 +2420,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 24958
+		size = 33035
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 17000
+		size = 8923
 	}
 }
 593 = {
@@ -2719,12 +2759,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 77664
+		size = 73728
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 18000
+		size = 21936
 	}
 }
 600 = {
@@ -2751,7 +2791,12 @@
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 20326
+		size = 16185
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 4141
 	}
 }
 601 = {

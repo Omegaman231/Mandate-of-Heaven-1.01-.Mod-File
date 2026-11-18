@@ -32,7 +32,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 58532
+		size = 54768
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 3764
 	}
 }
 1466 = {
@@ -59,7 +64,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 87260
+		size = 82711
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 4549
 	}
 }
 1467 = {
@@ -106,12 +116,22 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 59417
+		size = 56317
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 13042
+		size = 12362
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 3100
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 680
 	}
 }
 1468 = {
@@ -158,12 +178,22 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 81396
+		size = 77161
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 17867
+		size = 16937
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 4235
+	}
+	craftsmen = {
+		culture = sogdian
+		religion = placeholder
+		size = 930
 	}
 }
 1469 = {
@@ -242,7 +272,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 29330
+		size = 27804
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 1526
 	}
 }
 2608 = {
@@ -269,7 +304,12 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 120394
+		size = 113936
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 6458
 	}
 }
 2678 = {
@@ -316,22 +356,22 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 52062
+		size = 76485
 	}
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 11428
+		size = 16789
 	}
 	craftsmen = {
 		culture = mongolic
 		religion = placeholder
-		size = 28700
+		size = 4277
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 6300
+		size = 939
 	}
 }
 2679 = {
@@ -358,6 +398,11 @@
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 84600
+		size = 80058
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 4542
 	}
 }

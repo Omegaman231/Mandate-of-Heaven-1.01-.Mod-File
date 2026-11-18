@@ -334,7 +334,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 15448
+		size = 14433
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 1015
 	}
 }
 1834 = {
@@ -413,12 +418,22 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 17759
+		size = 16596
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 3898
+		size = 3643
+	}
+	craftsmen = {
+		culture = gujarati
+		religion = placeholder
+		size = 1163
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 255
 	}
 }
 1836 = {
@@ -465,12 +480,22 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 21761
+		size = 20321
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 4777
+		size = 4461
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 1440
+	}
+	craftsmen = {
+		culture = gujarati
+		religion = placeholder
+		size = 316
 	}
 }
 1837 = {
@@ -517,22 +542,22 @@
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 4259
+		size = 7805
 	}
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 934
+		size = 1712
 	}
 	craftsmen = {
 		culture = marathi
 		religion = placeholder
-		size = 4100
+		size = 554
 	}
 	craftsmen = {
 		culture = nubian
 		religion = placeholder
-		size = 900
+		size = 122
 	}
 }
 1838 = {
@@ -1134,11 +1159,21 @@
 	farmers = {
 		culture = nubian
 		religion = placeholder
-		size = 1658
+		size = 1547
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 363
+		size = 339
+	}
+	craftsmen = {
+		culture = nubian
+		religion = placeholder
+		size = 111
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 24
 	}
 }

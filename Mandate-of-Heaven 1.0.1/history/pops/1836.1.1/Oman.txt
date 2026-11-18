@@ -64,7 +64,12 @@
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 3564
+		size = 3035
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 529
 	}
 }
 1170 = {
@@ -91,7 +96,12 @@
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 5408
+		size = 4595
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 813
 	}
 }
 1171 = {
@@ -118,7 +128,12 @@
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 3720
+		size = 3169
+	}
+	farmers = {
+		culture = arab
+		religion = placeholder
+		size = 551
 	}
 }
 1172 = {
@@ -145,12 +160,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 3920
+		size = 2027
 	}
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 374
+		size = 2267
 	}
 }
 1174 = {

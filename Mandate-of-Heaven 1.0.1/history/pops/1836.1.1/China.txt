@@ -84,12 +84,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 185681
+		size = 322611
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 179720
+		size = 42790
 	}
 }
 1471 = {
@@ -116,7 +116,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 335772
+		size = 297826
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 37946
 	}
 }
 1472 = {
@@ -215,12 +220,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 283624
+		size = 251577
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 11817
+		size = 10482
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 32047
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 1335
 	}
 }
 1474 = {
@@ -267,12 +282,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 242677
+		size = 215254
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 53270
+		size = 47250
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 27423
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 6020
 	}
 }
 1475 = {
@@ -299,7 +324,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 284568
+		size = 252409
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 32159
 	}
 }
 1476 = {
@@ -398,12 +428,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 226209
+		size = 203595
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 49655
+		size = 44691
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 22614
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 4964
 	}
 }
 1478 = {
@@ -552,32 +592,32 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 125713
+		size = 121708
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 65316
+		size = 63235
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 103913
+		size = 100602
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 8603
+		size = 12608
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 4470
+		size = 6551
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 7111
+		size = 10422
 	}
 }
 1480 = {
@@ -644,32 +684,32 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 50116
+		size = 48712
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 49093
+		size = 47717
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 3068
+		size = 2982
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 3017
+		size = 4421
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 2955
+		size = 4331
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 185
+		size = 271
 	}
 }
 1481 = {
@@ -701,22 +741,22 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 30957
+		size = 30098
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 6793
+		size = 6605
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 1845
+		size = 2704
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 405
+		size = 593
 	}
 }
 1482 = {
@@ -783,22 +823,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 187491
+		size = 207545
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 42811
+		size = 47390
 	}
 	craftsmen = {
 		culture = yue
 		religion = placeholder
-		size = 28494
+		size = 8440
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6506
+		size = 1927
 	}
 }
 1483 = {
@@ -877,7 +917,12 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 177909
+		size = 171354
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 6555
 	}
 }
 1486 = {
@@ -924,12 +969,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 319278
+		size = 307244
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 71994
+		size = 69281
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 12034
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 2713
 	}
 }
 1487 = {
@@ -956,7 +1011,12 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 90374
+		size = 87043
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 3331
 	}
 }
 1488 = {
@@ -1075,12 +1135,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 143338
+		size = 139755
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 31464
+		size = 30678
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 3583
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 786
 	}
 }
 1490 = {
@@ -1127,22 +1197,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 182067
+		size = 191544
 	}
 	farmers = {
 		culture = sogdian
 		religion = placeholder
-		size = 41838
+		size = 44016
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 14636
+		size = 5159
 	}
 	craftsmen = {
 		culture = sogdian
 		religion = placeholder
-		size = 3364
+		size = 1186
 	}
 }
 1491 = {
@@ -1169,7 +1239,12 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 66908
+		size = 65219
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 1689
 	}
 }
 1492 = {
@@ -1196,7 +1271,12 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 212103
+		size = 206506
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 5597
 	}
 }
 1493 = {
@@ -1233,12 +1313,12 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 192901
+		size = 249500
 	}
 	craftsmen = {
 		culture = yue
 		religion = placeholder
-		size = 76377
+		size = 19778
 	}
 	clerks = {
 		culture = yue
@@ -1290,12 +1370,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 196750
+		size = 184705
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 43189
+		size = 40545
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 12045
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 2644
 	}
 }
 1495 = {
@@ -1342,12 +1432,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 208166
+		size = 195332
 	}
 	farmers = {
 		culture = austroasiatic
 		religion = placeholder
-		size = 45695
+		size = 42878
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 12834
+	}
+	craftsmen = {
+		culture = austroasiatic
+		religion = placeholder
+		size = 2817
 	}
 }
 1496 = {
@@ -1416,12 +1516,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 121212
+		size = 113762
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 26607
+		size = 24972
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 7450
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 1635
 	}
 }
 1498 = {
@@ -1542,12 +1652,22 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 130958
+		size = 122881
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 28747
+		size = 26974
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 8077
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 1773
 	}
 }
 1501 = {
@@ -1574,7 +1694,12 @@
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 118692
+		size = 111368
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 7324
 	}
 }
 1502 = {
@@ -1929,12 +2054,22 @@
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 101685
+		size = 98211
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 22320
+		size = 21558
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 3474
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 762
 	}
 }
 1507 = {
@@ -2489,12 +2624,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 178478
+		size = 165770
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 39177
+		size = 36387
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 12708
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 2790
 	}
 }
 1517 = {
@@ -2541,12 +2686,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 223445
+		size = 208213
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 49048
+		size = 45704
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 15232
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 3344
 	}
 }
 1518 = {
@@ -2593,12 +2748,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 179336
+		size = 167115
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 39366
+		size = 36683
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 12221
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 2683
 	}
 }
 1519 = {
@@ -2625,7 +2790,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 219724
+		size = 204748
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 14976
 	}
 }
 1520 = {
@@ -2652,7 +2822,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 215728
+		size = 201040
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 14688
 	}
 }
 1521 = {
@@ -2679,7 +2854,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 214266
+		size = 199668
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 14598
 	}
 }
 1522 = {
@@ -2706,7 +2886,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 219501
+		size = 204543
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 14958
 	}
 }
 1523 = {
@@ -2753,12 +2938,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 205167
+		size = 191189
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 45036
+		size = 41968
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 13978
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 3068
 	}
 }
 1524 = {
@@ -2825,12 +3020,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 257952
+		size = 229906
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 10749
+		size = 9581
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 28046
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 1168
 	}
 }
 1525 = {
@@ -2857,12 +3062,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 82282
+		size = 104953
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 35000
+		size = 12329
 	}
 }
 1526 = {
@@ -2929,17 +3134,32 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 191843
+		size = 171506
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 20344
+		size = 18187
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 42111
+		size = 37647
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 20337
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 2157
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 4464
 	}
 }
 1527 = {
@@ -3018,7 +3238,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 78678
+		size = 70336
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 8342
 	}
 }
 1529 = {
@@ -3065,12 +3290,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 163901
+		size = 146525
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 35977
+		size = 32162
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 17376
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 3815
 	}
 }
 1530 = {
@@ -3241,12 +3476,22 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 78959
+		size = 77060
 	}
 	farmers = {
 		culture = mongolic
 		religion = placeholder
-		size = 17332
+		size = 16915
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 1899
+	}
+	craftsmen = {
+		culture = mongolic
+		religion = placeholder
+		size = 417
 	}
 }
 1534 = {
@@ -3404,7 +3649,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 395181
+		size = 367623
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 27558
 	}
 }
 1538 = {
@@ -3458,7 +3708,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 327889
+		size = 305533
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 22356
 	}
 }
 1540 = {
@@ -3485,12 +3740,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 332913
+		size = 353260
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 31944
+		size = 11597
 	}
 }
 1541 = {
@@ -3537,12 +3792,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 298754
+		size = 289259
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 65580
+		size = 63496
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 9495
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 2084
 	}
 }
 1542 = {
@@ -3673,7 +3938,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 208575
+		size = 194355
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 14220
 	}
 }
 1545 = {
@@ -3740,12 +4010,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 166512
+		size = 158569
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 14479
+		size = 13788
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 7943
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 691
 	}
 }
 1546 = {
@@ -3792,12 +4072,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 164108
+		size = 156641
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 31259
+		size = 29837
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 7467
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 1422
 	}
 }
 1547 = {
@@ -3844,22 +4134,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 295021
+		size = 330057
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 73754
+		size = 82513
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 51110
+		size = 16074
 	}
 	craftsmen = {
 		culture = yue
 		religion = placeholder
-		size = 12778
+		size = 4019
 	}
 }
 1548 = {
@@ -3906,12 +4196,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 75554
+		size = 72117
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 50371
+		size = 48080
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 3437
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 2291
 	}
 }
 1549 = {
@@ -3938,7 +4238,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 259185
+		size = 247396
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 11789
 	}
 }
 1550 = {
@@ -4037,12 +4342,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 177069
+		size = 169014
 	}
 	farmers = {
 		culture = yue
 		religion = placeholder
-		size = 15397
+		size = 14697
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 8055
+	}
+	craftsmen = {
+		culture = yue
+		religion = placeholder
+		size = 700
 	}
 }
 1552 = {
@@ -4079,7 +4394,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 474682
+		size = 461900
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 12782
 	}
 }
 1553 = {
@@ -4106,7 +4426,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 273732
+		size = 266342
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 7390
 	}
 }
 1554 = {
@@ -4133,7 +4458,12 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 225557
+		size = 219577
+	}
+	craftsmen = {
+		culture = tungusic
+		religion = placeholder
+		size = 5980
 	}
 }
 1555 = {
@@ -4180,22 +4510,22 @@
 	farmers = {
 		culture = tungusic
 		religion = placeholder
-		size = 171346
+		size = 194330
 	}
 	farmers = {
 		culture = korean
 		religion = placeholder
-		size = 40880
+		size = 46364
 	}
 	craftsmen = {
 		culture = tungusic
 		religion = placeholder
-		size = 28258
+		size = 5274
 	}
 	craftsmen = {
 		culture = korean
 		religion = placeholder
-		size = 6742
+		size = 1258
 	}
 }
 1556 = {
@@ -4428,22 +4758,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 134728
+		size = 153213
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 31150
+		size = 35423
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 28428
+		size = 9943
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6572
+		size = 2299
 	}
 }
 1561 = {
@@ -4470,7 +4800,12 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 71817
+		size = 67644
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 4173
 	}
 }
 1562 = {
@@ -4517,12 +4852,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 180041
+		size = 169150
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 41428
+		size = 38922
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 10891
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 2506
 	}
 }
 1563 = {
@@ -4559,7 +4904,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 376315
+		size = 364327
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 11988
 	}
 }
 1564 = {
@@ -4586,7 +4936,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 244547
+		size = 237280
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 7267
 	}
 }
 1565 = {
@@ -4689,7 +5044,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 243409
+		size = 236174
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 7235
 	}
 }
 1569 = {
@@ -4743,7 +5103,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 243939
+		size = 228507
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 15432
 	}
 }
 1571 = {
@@ -4837,22 +5202,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 218361
+		size = 232130
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 39957
+		size = 42477
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 19442
+		size = 5673
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 3558
+		size = 1038
 	}
 }
 1573 = {
@@ -4879,7 +5244,12 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 225198
+		size = 220144
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 5054
 	}
 }
 1574 = {
@@ -4926,12 +5296,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 202849
+		size = 198296
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 44527
+		size = 43527
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 4553
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 1000
 	}
 }
 1575 = {
@@ -4978,12 +5358,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 183580
+		size = 179460
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 40297
+		size = 39393
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 4120
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 904
 	}
 }
 1576 = {
@@ -5030,12 +5420,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 24052
+		size = 23512
 	}
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 5278
+		size = 5160
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 540
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 118
 	}
 }
 1577 = {
@@ -5154,22 +5554,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 105676
+		size = 110545
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 23198
+		size = 24267
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 6560
+		size = 1691
 	}
 	craftsmen = {
 		culture = tibetan
 		religion = placeholder
-		size = 1440
+		size = 371
 	}
 }
 1579 = {
@@ -5216,7 +5616,7 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 230499
+		size = 240819
 	}
 	farmers = {
 		culture = tibetan
@@ -5226,12 +5626,17 @@
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 16872
+		size = 6552
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 10000
+		size = 3884
+	}
+	farmers = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 6116
 	}
 }
 1580 = {
@@ -5278,12 +5683,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 211882
+		size = 209014
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 48419
+		size = 47764
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 2868
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 655
 	}
 }
 1581 = {
@@ -5357,12 +5772,22 @@
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 151091
+		size = 149013
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 24477
+		size = 24140
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 2078
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 337
 	}
 }
 1583 = {
@@ -5389,7 +5814,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 293265
+		size = 283366
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 9899
 	}
 }
 1584 = {
@@ -5436,12 +5866,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 154706
+		size = 149399
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 35866
+		size = 34636
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 5307
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1230
 	}
 }
 1585 = {
@@ -5612,12 +6052,22 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 153688
+		size = 148160
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 35643
+		size = 34361
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 5528
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 1282
 	}
 }
 1602 = {
@@ -5664,22 +6114,22 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 51859
+		size = 63547
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 11384
+		size = 13950
 	}
 	craftsmen = {
 		culture = burman
 		religion = placeholder
-		size = 13940
+		size = 2252
 	}
 	craftsmen = {
 		culture = tibetan
 		religion = placeholder
-		size = 3060
+		size = 494
 	}
 }
 1603 = {
@@ -5726,12 +6176,22 @@
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 76887
+		size = 74256
 	}
 	farmers = {
 		culture = siamese
 		religion = placeholder
-		size = 16877
+		size = 16300
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 2631
+	}
+	craftsmen = {
+		culture = siamese
+		religion = placeholder
+		size = 577
 	}
 }
 1604 = {
@@ -6159,22 +6619,22 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 153185
+		size = 219155
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 34851
+		size = 49860
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 84064
+		size = 18094
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 19126
+		size = 4117
 	}
 }
 1613 = {
@@ -6273,12 +6733,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 206097
+		size = 227819
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 35080
+		size = 38777
 	}
 	aristocrats = {
 		culture = south_chinese
@@ -6303,22 +6763,22 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 10160
+		size = 11231
 	}
 	craftsmen = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 28700
+		size = 6978
 	}
 	craftsmen = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 4885
+		size = 1188
 	}
 	craftsmen = {
 		culture = south_chinese
 		religion = placeholder
-		size = 1415
+		size = 344
 	}
 }
 1615 = {
@@ -6345,7 +6805,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 287739
+		size = 268968
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 18771
 	}
 }
 1616 = {
@@ -6424,7 +6889,12 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 384628
+		size = 359729
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 24899
 	}
 }
 1618 = {
@@ -6471,12 +6941,22 @@
 	farmers = {
 		culture = ne_chinese
 		religion = placeholder
-		size = 274649
+		size = 256811
 	}
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 62197
+		size = 58158
+	}
+	craftsmen = {
+		culture = ne_chinese
+		religion = placeholder
+		size = 17838
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 4039
 	}
 }
 2062 = {
@@ -6523,12 +7003,22 @@
 	farmers = {
 		culture = nw_chinese
 		religion = placeholder
-		size = 73179
+		size = 68925
 	}
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 16063
+		size = 15129
+	}
+	craftsmen = {
+		culture = nw_chinese
+		religion = placeholder
+		size = 4254
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 934
 	}
 }
 2221 = {
@@ -6565,7 +7055,12 @@
 	farmers = {
 		culture = south_chinese
 		religion = placeholder
-		size = 210367
+		size = 194408
+	}
+	craftsmen = {
+		culture = south_chinese
+		religion = placeholder
+		size = 15959
 	}
 }
 3249 = {

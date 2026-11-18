@@ -440,12 +440,12 @@
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 246529
+		size = 267422
 	}
 	craftsmen = {
 		culture = punjabi
 		religion = placeholder
-		size = 37834
+		size = 16941
 	}
 }
 1228 = {
@@ -472,7 +472,12 @@
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 96305
+		size = 90886
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 5419
 	}
 }
 1229 = {
@@ -526,7 +531,12 @@
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 53209
+		size = 50300
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 2909
 	}
 }
 1231 = {
@@ -573,12 +583,22 @@
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 47991
+		size = 45360
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 10535
+		size = 9957
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 2631
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 578
 	}
 }
 1232 = {
@@ -605,7 +625,12 @@
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 169796
+		size = 160440
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 9356
 	}
 }
 1233 = {
@@ -833,22 +858,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 45025
+		size = 96603
 	}
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 9883
+		size = 21205
 	}
 	craftsmen = {
 		culture = hindustani
 		religion = placeholder
-		size = 54940
+		size = 3362
 	}
 	craftsmen = {
 		culture = punjabi
 		religion = placeholder
-		size = 12060
+		size = 738
 	}
 }
 1237 = {
@@ -999,12 +1024,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 124169
+		size = 120255
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 27257
+		size = 26398
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 3914
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 859
 	}
 }
 1240 = {
@@ -1031,12 +1066,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 388036
+		size = 379868
 	}
 	craftsmen = {
 		culture = hindustani
 		religion = placeholder
-		size = 4462
+		size = 12630
 	}
 }
 1241 = {
@@ -1063,7 +1098,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 348361
+		size = 337123
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 11238
 	}
 }
 1242 = {
@@ -1130,12 +1170,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 192790
+		size = 186018
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 44223
+		size = 42669
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 6772
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1554
 	}
 }
 1243 = {
@@ -1162,7 +1212,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 279763
+		size = 270674
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 9089
 	}
 }
 1244 = {
@@ -1209,12 +1264,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 163098
+		size = 157982
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 35802
+		size = 34679
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 5116
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1123
 	}
 }
 1245 = {
@@ -1241,7 +1306,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 236913
+		size = 229325
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 7588
 	}
 }
 1246 = {
@@ -1288,12 +1358,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 194586
+		size = 188453
 	}
 	farmers = {
 		culture = tibetan
 		religion = placeholder
-		size = 42713
+		size = 41367
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 6133
+	}
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1346
 	}
 }
 1247 = {
@@ -1568,12 +1648,12 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 351832
+		size = 350817
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 77232
+		size = 77009
 	}
 	officers = {
 		culture = bengali
@@ -1584,6 +1664,16 @@
 		culture = hindustani
 		religion = placeholder
 		size = 30
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 1015
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 223
 	}
 }
 1252 = {
@@ -1682,22 +1772,22 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 323042
+		size = 341129
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 70911
+		size = 74881
 	}
 	craftsmen = {
 		culture = bengali
 		religion = placeholder
-		size = 28700
+		size = 10613
 	}
 	craftsmen = {
 		culture = hindustani
 		religion = placeholder
-		size = 6300
+		size = 2330
 	}
 }
 1254 = {
@@ -1744,12 +1834,22 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 409563
+		size = 397048
 	}
 	farmers = {
 		culture = burman
 		religion = placeholder
-		size = 91814
+		size = 89009
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 12515
+	}
+	craftsmen = {
+		culture = burman
+		religion = placeholder
+		size = 2805
 	}
 }
 1255 = {
@@ -1776,7 +1876,12 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 223711
+		size = 216974
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 6737
 	}
 }
 1256 = {
@@ -1803,7 +1908,12 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 229374
+		size = 228771
+	}
+	craftsmen = {
+		culture = bengali
+		religion = placeholder
+		size = 603
 	}
 }
 1257 = {
@@ -1850,7 +1960,7 @@
 	farmers = {
 		culture = bengali
 		religion = placeholder
-		size = 452011
+		size = 453852
 	}
 	farmers = {
 		culture = burman
@@ -1860,7 +1970,7 @@
 	craftsmen = {
 		culture = bengali
 		religion = placeholder
-		size = 3337
+		size = 1496
 	}
 }
 1258 = {
@@ -2239,7 +2349,12 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 36275
+		size = 33742
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2533
 	}
 }
 1265 = {
@@ -2373,12 +2488,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 215094
+		size = 201470
 	}
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 47216
+		size = 44225
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 13624
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 2991
 	}
 }
 1267 = {
@@ -2589,22 +2714,22 @@
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 211587
+		size = 227387
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 46665
+		size = 50013
 	}
 	craftsmen = {
 		culture = hindustani
 		religion = placeholder
-		size = 29844
+		size = 14044
 	}
 	craftsmen = {
 		culture = gujarati
 		religion = placeholder
-		size = 6324
+		size = 2976
 	}
 }
 1270 = {
@@ -3312,7 +3437,7 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 326954
+		size = 320343
 	}
 	bureaucrats = {
 		culture = kannada
@@ -3327,7 +3452,7 @@
 	craftsmen = {
 		culture = kannada
 		religion = placeholder
-		size = 4340
+		size = 10951
 	}
 }
 1284 = {
@@ -3374,12 +3499,22 @@
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 227261
+		size = 221017
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 49887
+		size = 48516
+	}
+	craftsmen = {
+		culture = marathi
+		religion = placeholder
+		size = 6244
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 1371
 	}
 }
 1285 = {
@@ -3426,12 +3561,22 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 191889
+		size = 186607
 	}
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 42122
+		size = 40962
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 5282
+	}
+	craftsmen = {
+		culture = marathi
+		religion = placeholder
+		size = 1160
 	}
 }
 1286 = {
@@ -3478,22 +3623,22 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 114661
+		size = 139422
 	}
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 25169
+		size = 30604
 	}
 	craftsmen = {
 		culture = kannada
 		religion = placeholder
-		size = 28700
+		size = 3939
 	}
 	craftsmen = {
 		culture = marathi
 		religion = placeholder
-		size = 6300
+		size = 865
 	}
 }
 1287 = {
@@ -3520,7 +3665,12 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 338786
+		size = 329258
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 9528
 	}
 }
 1288 = {
@@ -3753,22 +3903,22 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 136261
+		size = 158955
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 29911
+		size = 34892
 	}
 	craftsmen = {
 		culture = gujarati
 		religion = placeholder
-		size = 28700
+		size = 6006
 	}
 	craftsmen = {
 		culture = hindustani
 		religion = placeholder
-		size = 6300
+		size = 1319
 	}
 }
 1292 = {
@@ -3825,17 +3975,22 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 370167
+		size = 358850
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 81524
+		size = 79032
 	}
 	craftsmen = {
 		culture = gujarati
 		religion = placeholder
-		size = 1262
+		size = 12579
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2492
 	}
 }
 1293 = {
@@ -3887,12 +4042,22 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 51257
+		size = 49435
 	}
 	farmers = {
 		culture = punjabi
 		religion = placeholder
-		size = 11251
+		size = 10851
+	}
+	craftsmen = {
+		culture = gujarati
+		religion = placeholder
+		size = 1822
+	}
+	craftsmen = {
+		culture = punjabi
+		religion = placeholder
+		size = 400
 	}
 }
 1294 = {
@@ -4011,12 +4176,22 @@
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 282067
+		size = 272519
 	}
 	farmers = {
 		culture = hindustani
 		religion = placeholder
-		size = 61917
+		size = 59821
+	}
+	craftsmen = {
+		culture = gujarati
+		religion = placeholder
+		size = 9548
+	}
+	craftsmen = {
+		culture = hindustani
+		religion = placeholder
+		size = 2096
 	}
 }
 1296 = {
@@ -4175,17 +4350,17 @@
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 375686
+		size = 385470
 	}
 	farmers = {
 		culture = gujarati
 		religion = placeholder
-		size = 82467
+		size = 84615
 	}
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 50906
+		size = 52232
 	}
 	officers = {
 		culture = marathi
@@ -4205,17 +4380,17 @@
 	craftsmen = {
 		culture = marathi
 		religion = placeholder
-		size = 22140
+		size = 12356
 	}
 	craftsmen = {
 		culture = gujarati
 		religion = placeholder
-		size = 4860
+		size = 2712
 	}
 	craftsmen = {
 		culture = tamil
 		religion = placeholder
-		size = 3000
+		size = 1674
 	}
 }
 1298 = {
@@ -4393,12 +4568,22 @@
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 159985
+		size = 155494
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 35119
+		size = 34133
+	}
+	craftsmen = {
+		culture = marathi
+		religion = placeholder
+		size = 4491
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 986
 	}
 }
 1302 = {
@@ -4445,17 +4630,27 @@
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 224330
+		size = 217950
 	}
 	farmers = {
 		culture = marathi
 		religion = placeholder
-		size = 49243
+		size = 47842
 	}
 	soldiers = {
 		culture = tamil
 		religion = placeholder
 		size = 1200
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 6380
+	}
+	craftsmen = {
+		culture = marathi
+		religion = placeholder
+		size = 1401
 	}
 }
 1303 = {
@@ -4599,17 +4794,22 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 794315
+		size = 764772
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 177835
+		size = 171221
 	}
 	craftsmen = {
 		culture = tamil
 		religion = placeholder
-		size = 7379
+		size = 36922
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 6614
 	}
 }
 1305 = {
@@ -4834,12 +5034,12 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 231840
+		size = 304991
 	}
 	craftsmen = {
 		culture = tamil
 		religion = placeholder
-		size = 87000
+		size = 13849
 	}
 }
 1310 = {
@@ -4866,7 +5066,12 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 381508
+		size = 364917
+	}
+	craftsmen = {
+		culture = tamil
+		religion = placeholder
+		size = 16591
 	}
 }
 1311 = {
@@ -4913,12 +5118,22 @@
 	farmers = {
 		culture = tamil
 		religion = placeholder
-		size = 384755
+		size = 368025
 	}
 	farmers = {
 		culture = kannada
 		religion = placeholder
-		size = 84459
+		size = 80786
+	}
+	craftsmen = {
+		culture = tamil
+		religion = placeholder
+		size = 16730
+	}
+	craftsmen = {
+		culture = kannada
+		religion = placeholder
+		size = 3673
 	}
 }
 1312 = {

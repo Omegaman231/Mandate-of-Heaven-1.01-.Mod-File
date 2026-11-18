@@ -62,22 +62,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 15701
+		size = 12072
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 3446
+		size = 2649
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 365
+		size = 3994
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 80
+		size = 877
 	}
 }
 858 = {
@@ -124,22 +124,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 19457
+		size = 17222
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 4270
+		size = 3780
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 156
+		size = 2391
 	}
 	craftsmen = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 34
+		size = 524
 	}
 }
 859 = {
@@ -166,12 +166,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 19106
+		size = 16961
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 190
+		size = 2335
 	}
 }
 860 = {
@@ -203,7 +203,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 54794
+		size = 40746
 	}
 	soldiers = {
 		culture = greco_roman
@@ -213,7 +213,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 199826
+		size = 213874
 	}
 	clerks = {
 		culture = greco_roman
@@ -245,12 +245,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 36122
+		size = 31370
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 508
+		size = 5260
 	}
 }
 862 = {
@@ -297,12 +297,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 58563
+		size = 58278
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 12855
+		size = 12792
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 285
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 63
 	}
 }
 863 = {
@@ -369,12 +379,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 69084
+		size = 68713
 	}
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 15165
+		size = 15084
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 371
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 81
 	}
 }
 864 = {
@@ -401,7 +421,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 48845
+		size = 48607
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 238
 	}
 }
 865 = {
@@ -428,7 +453,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 32656
+		size = 32501
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 155
 	}
 }
 866 = {
@@ -599,12 +629,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 21209
+		size = 20839
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 18887
+		size = 18557
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 370
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 330
 	}
 }
 869 = {
@@ -641,7 +681,7 @@
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1983
+		size = 391
 	}
 	soldiers = {
 		culture = greco_roman
@@ -651,7 +691,7 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 43962
+		size = 45554
 	}
 }
 870 = {
@@ -678,7 +718,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 49944
+		size = 49659
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 285
 	}
 }
 871 = {
@@ -732,7 +777,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 23683
+		size = 23569
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 114
 	}
 }
 873 = {
@@ -799,12 +849,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 66631
+		size = 65569
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 59341
+		size = 58395
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 1062
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 946
 	}
 }
 874 = {
@@ -965,12 +1025,12 @@
 	craftsmen = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 3644
+		size = 788
 	}
 	craftsmen = {
 		culture = greco_roman
 		religion = placeholder
-		size = 1873
+		size = 405
 	}
 	soldiers = {
 		culture = eastern_roman
@@ -985,12 +1045,12 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 45358
+		size = 48214
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 23326
+		size = 24794
 	}
 }
 877 = {
@@ -2006,12 +2066,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 46618
+		size = 45865
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 23974
+		size = 23587
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 753
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 387
 	}
 }
 895 = {
@@ -2058,12 +2128,22 @@
 	farmers = {
 		culture = eastern_roman
 		religion = placeholder
-		size = 15870
+		size = 15618
 	}
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 14135
+		size = 13911
+	}
+	craftsmen = {
+		culture = eastern_roman
+		religion = placeholder
+		size = 252
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 224
 	}
 }
 896 = {

@@ -32,7 +32,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 48805
+		size = 42578
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 6227
 	}
 }
 924 = {
@@ -59,7 +64,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 22545
+		size = 19761
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 2784
 	}
 }
 925 = {
@@ -86,7 +96,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 35154
+		size = 30799
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 4355
 	}
 }
 926 = {
@@ -153,22 +168,22 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 44151
+		size = 74239
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 9691
+		size = 16296
 	}
 	craftsmen = {
 		culture = persian
 		religion = placeholder
-		size = 49200
+		size = 19112
 	}
 	craftsmen = {
 		culture = arab
 		religion = placeholder
-		size = 10800
+		size = 4195
 	}
 }
 927 = {
@@ -195,7 +210,12 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 20298
+		size = 17794
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 2504
 	}
 }
 928 = {
@@ -242,12 +262,22 @@
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 15176
+		size = 13297
 	}
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 3331
+		size = 2918
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 1879
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 413
 	}
 }
 929 = {
@@ -274,7 +304,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 22057
+		size = 19317
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 2740
 	}
 }
 930 = {
@@ -311,17 +346,27 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 18228
+		size = 15968
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 4001
+		size = 3505
 	}
 	soldiers = {
 		culture = arab
 		religion = placeholder
 		size = 696
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 2260
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 496
 	}
 }
 931 = {
@@ -348,17 +393,27 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 1447
+		size = 1271
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 317
+		size = 279
 	}
 	artisans = {
 		culture = persian
 		religion = placeholder
 		size = 11
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 176
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 38
 	}
 }
 932 = {
@@ -410,12 +465,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 26041
+		size = 21378
 	}
 	farmers = {
 		culture = persian
 		religion = placeholder
-		size = 5716
+		size = 4692
 	}
 	aristocrats = {
 		culture = arab
@@ -431,6 +486,16 @@
 		culture = gujarati
 		religion = placeholder
 		size = 14800
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 4663
+	}
+	craftsmen = {
+		culture = persian
+		religion = placeholder
+		size = 1024
 	}
 }
 933 = {
@@ -457,7 +522,12 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 33805
+		size = 29628
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 4177
 	}
 }
 934 = {
@@ -479,11 +549,16 @@
 	farmers = {
 		culture = arab
 		religion = placeholder
-		size = 21338
+		size = 18708
 	}
 	soldiers = {
 		culture = arab
 		religion = placeholder
 		size = 666
+	}
+	craftsmen = {
+		culture = arab
+		religion = placeholder
+		size = 2630
 	}
 }

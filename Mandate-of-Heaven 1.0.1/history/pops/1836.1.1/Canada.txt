@@ -1015,7 +1015,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 22020
+		size = 21588
 	}
 	soldiers = {
 		culture = iroquoian
@@ -1027,39 +1027,64 @@
 		religion = placeholder
 		size = 30
 	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 432
+	}
 }
 59 = {
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 180
+		size = 177
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 39
+		size = 38
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 8
 	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 3
+	}
+	craftsmen = {
+		culture = algonquian
+		religion = placeholder
+		size = 1
+	}
 }
 60 = {
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 149
+		size = 145
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 32
+		size = 31
 	}
 	soldiers = {
 		culture = iroquoian
 		religion = placeholder
 		size = 6
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 4
+	}
+	craftsmen = {
+		culture = algonquian
+		religion = placeholder
+		size = 1
 	}
 }
 61 = {
@@ -1096,12 +1121,12 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 3499
+		size = 3403
 	}
 	farmers = {
 		culture = algonquian
 		religion = placeholder
-		size = 768
+		size = 747
 	}
 	bureaucrats = {
 		culture = iroquoian
@@ -1112,6 +1137,16 @@
 		culture = algonquian
 		religion = placeholder
 		size = 1
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 96
+	}
+	craftsmen = {
+		culture = algonquian
+		religion = placeholder
+		size = 21
 	}
 }
 62 = {
@@ -1207,7 +1242,7 @@
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 12059
+		size = 11812
 	}
 	soldiers = {
 		culture = iroquoian
@@ -1218,6 +1253,11 @@
 		culture = iroquoian
 		religion = placeholder
 		size = 16
+	}
+	craftsmen = {
+		culture = iroquoian
+		religion = placeholder
+		size = 247
 	}
 }
 65 = {
@@ -1259,12 +1299,12 @@
 	craftsmen = {
 		culture = iroquoian
 		religion = placeholder
-		size = 1399
+		size = 594
 	}
 	farmers = {
 		culture = iroquoian
 		religion = placeholder
-		size = 19926
+		size = 20731
 	}
 	soldiers = {
 		culture = iroquoian

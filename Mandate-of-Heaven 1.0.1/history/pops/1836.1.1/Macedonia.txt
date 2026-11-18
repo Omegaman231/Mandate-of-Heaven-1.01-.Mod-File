@@ -42,12 +42,22 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 63743
+		size = 63361
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 13992
+		size = 13908
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 382
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 84
 	}
 }
 807 = {
@@ -74,12 +84,12 @@
 	farmers = {
 		culture = greco_roman
 		religion = placeholder
-		size = 40939
+		size = 40694
 	}
 	farmers = {
 		culture = romano_celtic
 		religion = placeholder
-		size = 8987
+		size = 8933
 	}
 	aristocrats = {
 		culture = greco_roman
@@ -120,5 +130,15 @@
 		culture = romano_celtic
 		religion = placeholder
 		size = 336
+	}
+	craftsmen = {
+		culture = greco_roman
+		religion = placeholder
+		size = 245
+	}
+	craftsmen = {
+		culture = romano_celtic
+		religion = placeholder
+		size = 54
 	}
 }
