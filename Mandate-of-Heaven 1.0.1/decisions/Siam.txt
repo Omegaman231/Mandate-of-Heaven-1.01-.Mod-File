@@ -7,8 +7,24 @@ political_decisions = {
 		allow = {
 			war = no
 			THA = { all_core = { owned_by = THIS } }
-			DIA = { all_core = { owned_by = THIS } }
-			VIE = { all_core = { owned_by = THIS } }
+			DIA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						province_id = 1585
+						province_id = 1505
+						province_id = 1507
+					}
+				}
+			}
+			VIE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						province_id = 1502
+					}
+				}
+			}
 			CHA = { all_core = { owned_by = THIS } }
 		}
 		effect = {
@@ -18,11 +34,10 @@ political_decisions = {
 			CHA = { all_core = { add_core = KHM } }
 			BUR_1339 = { add_core = KHM }
 			ENG_1258 = { add_core = KHM }
-			1332 = { add_core = KHM }
-			1505 = { add_core = KHM }
-			1507 = { add_core = KHM }
-			1499 = { add_core = KHM }
-			1346 = { add_core = KHM }
+			1345 = { add_core = KHM }
+			ENG_1384 = { add_core = KHM }
+			CHI_1601 = { add_core = KHM }
+			CHI_3249 = { add_core = KHM }
 			prestige = 25
 			change_tag = KHM
 			add_accepted_culture = burman
